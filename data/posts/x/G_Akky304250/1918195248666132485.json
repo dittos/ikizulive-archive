@@ -1,0 +1,111 @@
+{
+  "id": "1918195248666132485",
+  "username": "G_Akky304250",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1918195248666132485",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NjE1MTQ5OTg3MDEyNjA4",
+          "rest_id": "1906615149987012608",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": false,
+          "legacy": {
+            "following": false,
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Mon Mar 31 07:50:56 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 7477,
+            "friends_count": 3,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 382,
+            "location": "",
+            "media_count": 0,
+            "name": "Akira",
+            "normal_followers_count": 7477,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1914960623827619840/TMBINPHA_normal.png",
+            "profile_interstitial_type": "",
+            "screen_name": "G_Akky304250",
+            "statuses_count": 18,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "tipjar_settings": {}
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1918195248666132485"
+      ],
+      "editable_until_msecs": "1746171960000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "142016",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 103,
+      "bookmarked": false,
+      "created_at": "Fri May 02 06:46:00 +0000 2025",
+      "conversation_id_str": "1918195248666132485",
+      "display_text_range": [
+        0,
+        68
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              61,
+              68
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 1193,
+      "favorited": false,
+      "full_text": "いきづらい部発足２日目🚵\nいきづらい部の名前の由来は\nここL高の校内サーバーに放置されてたメンバー０人の部活のチャンネル\n#いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 28,
+      "reply_count": 5,
+      "retweet_count": 482,
+      "retweeted": false,
+      "user_id_str": "1906615149987012608",
+      "id_str": "1918195248666132485"
+    }
+  },
+  "created_at": "2025-05-02T06:46:00Z"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "1902257229366952099",
+  "username": "polka_lion",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1902257229366952099",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxODg0MTE2MDM5Nzk1MTk1OTA0",
+          "rest_id": "1884116039795195904",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": false,
+          "legacy": {
+            "following": false,
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Tue Jan 28 05:48:09 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 7356,
+            "friends_count": 3,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 401,
+            "location": "",
+            "media_count": 0,
+            "name": "Polka",
+            "normal_followers_count": 7356,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1914963231644450816/fDBT1RwK_normal.png",
+            "profile_interstitial_type": "",
+            "screen_name": "polka_lion",
+            "statuses_count": 46,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "tipjar_settings": {}
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1902257229366952099"
+      ],
+      "editable_until_msecs": "1742372040000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "8355",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 1,
+      "bookmarked": false,
+      "created_at": "Wed Mar 19 07:14:00 +0000 2025",
+      "conversation_id_str": "1902257229366952099",
+      "display_text_range": [
+        0,
+        80
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 86,
+      "favorited": false,
+      "full_text": "おばあちゃんに言われて学校に相談にいった\n\n先生が今からでも入れる学校はあるって！\n\nどうしようどうしよう！！　\n\nホントに！？\n\n嬉しすぎるよ☀☀✨✨✨！！！",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 5,
+      "reply_count": 0,
+      "retweet_count": 23,
+      "retweeted": false,
+      "user_id_str": "1884116039795195904",
+      "id_str": "1902257229366952099"
+    }
+  },
+  "created_at": "2025-03-19T07:14:00Z"
+}

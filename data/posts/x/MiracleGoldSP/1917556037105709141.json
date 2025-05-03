@@ -1,0 +1,103 @@
+{
+  "id": "1917556037105709141",
+  "username": "MiracleGoldSP",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1917556037105709141",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NTc4MDI5MzQzOTE2MDMy",
+          "rest_id": "1906578029343916032",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": false,
+          "legacy": {
+            "following": false,
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Mon Mar 31 05:23:27 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 3710,
+            "friends_count": 1,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 306,
+            "location": "",
+            "media_count": 0,
+            "name": "Miracle",
+            "normal_followers_count": 3710,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1914961747808813056/FPOzH4X4_normal.png",
+            "profile_interstitial_type": "",
+            "screen_name": "MiracleGoldSP",
+            "statuses_count": 11,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "tipjar_settings": {}
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1917556037105709141"
+      ],
+      "editable_until_msecs": "1746019560000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "6404",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Wed Apr 30 12:26:00 +0000 2025",
+      "conversation_id_str": "1917556037105709141",
+      "display_text_range": [
+        0,
+        66
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 48,
+      "favorited": false,
+      "full_text": "ゴールデンウィークはずっとお菓子焼いて過ごすかと思ったけど🍰🧁\n明日はノリちゃんと遊ぶよ～🎂✨🎵\nたまには息抜きも必要だもんね🍨🥧🫖",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 12,
+      "retweeted": false,
+      "user_id_str": "1906578029343916032",
+      "id_str": "1917556037105709141"
+    }
+  },
+  "created_at": "2025-04-30T12:26:00Z"
+}

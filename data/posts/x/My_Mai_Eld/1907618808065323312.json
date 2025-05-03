@@ -1,0 +1,103 @@
+{
+  "id": "1907618808065323312",
+  "username": "My_Mai_Eld",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1907618808065323312",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NjE1OTcyNDAxOTA5NzYw",
+          "rest_id": "1906615972401909760",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": false,
+          "legacy": {
+            "following": false,
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Mon Mar 31 07:54:14 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 7151,
+            "friends_count": 3,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 404,
+            "location": "",
+            "media_count": 0,
+            "name": "ｍai",
+            "normal_followers_count": 7151,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1914960380092395520/dkrKR0xD_normal.png",
+            "profile_interstitial_type": "",
+            "screen_name": "My_Mai_Eld",
+            "statuses_count": 24,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "tipjar_settings": {}
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1907618808065323312"
+      ],
+      "editable_until_msecs": "1743650340000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "8650",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 3,
+      "bookmarked": false,
+      "created_at": "Thu Apr 03 02:19:00 +0000 2025",
+      "conversation_id_str": "1907618808065323312",
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 88,
+      "favorited": false,
+      "full_text": "趣味と言うか私の本業のプログラミング💻にめいっぱい時間を使いたくて、ネット高校に入ることにしたのはいいけど\n親に通学コース指定されたのは誤算だったな😮‍💨\nやっぱり去年、昼夜逆転で学校けっこう休んだのが響いたかな\n\nあの頃の私、時間選好率高いとか5歳児レベルだった…\n不覚💦",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 7,
+      "reply_count": 0,
+      "retweet_count": 28,
+      "retweeted": false,
+      "user_id_str": "1906615972401909760",
+      "id_str": "1907618808065323312"
+    }
+  },
+  "created_at": "2025-04-03T02:19:00Z"
+}

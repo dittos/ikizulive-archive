@@ -1,0 +1,111 @@
+{
+  "id": "1917785046163022203",
+  "username": "My_Mai_Eld",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1917785046163022203",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NjE1OTcyNDAxOTA5NzYw",
+          "rest_id": "1906615972401909760",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": false,
+          "legacy": {
+            "following": false,
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Mon Mar 31 07:54:14 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 7151,
+            "friends_count": 3,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 404,
+            "location": "",
+            "media_count": 0,
+            "name": "ｍai",
+            "normal_followers_count": 7151,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1914960380092395520/dkrKR0xD_normal.png",
+            "profile_interstitial_type": "",
+            "screen_name": "My_Mai_Eld",
+            "statuses_count": 24,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "tipjar_settings": {}
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1917785046163022203"
+      ],
+      "editable_until_msecs": "1746074160000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "15289",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 3,
+      "bookmarked": false,
+      "created_at": "Thu May 01 03:36:00 +0000 2025",
+      "conversation_id_str": "1917785046163022203",
+      "display_text_range": [
+        0,
+        120
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              113,
+              120
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 101,
+      "favorited": false,
+      "full_text": "たしかに教室はガラガラでオンラインの生徒数も少ないから信憑性がゼロではないけど\nどっちかっていうとそれに乗じた学校大好き少女のポルカが\nこの際制服とか学食とか今のL高にはないものが欲しい！　\nとか無茶を言い出したのが理由です\n#いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 26,
+      "retweeted": false,
+      "user_id_str": "1906615972401909760",
+      "id_str": "1917785046163022203"
+    }
+  },
+  "created_at": "2025-05-01T03:36:00Z"
+}

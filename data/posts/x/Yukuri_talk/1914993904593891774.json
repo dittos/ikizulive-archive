@@ -1,0 +1,103 @@
+{
+  "id": "1914993904593891774",
+  "username": "Yukuri_talk",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1914993904593891774",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NTc4NzM4MTU2MDY0NzY4",
+          "rest_id": "1906578738156064768",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": false,
+          "legacy": {
+            "following": false,
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Mon Mar 31 05:26:14 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 3543,
+            "friends_count": 0,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 287,
+            "location": "",
+            "media_count": 0,
+            "name": "Yukuri",
+            "normal_followers_count": 3543,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1914961972686462976/IIY8fYRa_normal.png",
+            "profile_interstitial_type": "",
+            "screen_name": "Yukuri_talk",
+            "statuses_count": 6,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "tipjar_settings": {}
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1914993904593891774"
+      ],
+      "editable_until_msecs": "1745408700000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "8960",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Wed Apr 23 10:45:00 +0000 2025",
+      "conversation_id_str": "1914993904593891774",
+      "display_text_range": [
+        0,
+        68
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 59,
+      "favorited": false,
+      "full_text": "こうして輝く憧れの星にただ照らされているだけの今でも\nなんだか幸せな気持ちは消えないから\n私はこのままでもーーいいような気がします🌟✨✨",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 23,
+      "retweeted": false,
+      "user_id_str": "1906578738156064768",
+      "id_str": "1914993904593891774"
+    }
+  },
+  "created_at": "2025-04-23T10:45:00Z"
+}
