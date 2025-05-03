@@ -12,6 +12,7 @@ from playwright.sync_api import sync_playwright, Response
 from pydantic import BaseModel
 import requests
 from cryptography.fernet import Fernet
+import logging
 
 
 class Attachment(BaseModel):
@@ -109,14 +110,14 @@ class TwitterDownloader:
         page = self._page
         if pagination_state is None:
             url = f"https://twitter.com/{username}/with_replies"
-            print(f"downloading from {url}")
+            logging.info(f"downloading from {url}")
             with page.expect_response(is_graphql_tweets_response) as response:
                 page.goto(url)
             response = response.value
             headers = response.request.headers
         else:
             url, headers = pagination_state
-            print("downloading from api")
+            logging.info("downloading from api")
             response = page.request.get(url, headers=headers, fail_on_status_code=True)
 
         api_url = response.url
@@ -205,7 +206,7 @@ class DownloadTask:
         while pages is None or page_count < pages:
             result = self.twitter_downloader.get_posts(username=username, pagination_state=pagination_state)
             if not result.tweets:
-                print("no more tweets")
+                logging.info("no more tweets")
                 break
 
             page_count += 1
@@ -214,7 +215,7 @@ class DownloadTask:
             found_saved = False
             for tweet in result.tweets:
                 if self.tweet_repo.get(tweet.username, tweet.id):
-                    print(f"saved tweet found: {tweet.id}")
+                    logging.info(f"saved tweet found: {tweet.id}")
                     found_saved = True
                 else:
                     tweets.append(tweet)
@@ -231,11 +232,11 @@ class DownloadTask:
                 download_path = self.data_dir / "posts" / "x" / tweet.username / attachment.make_local_filename()
                 download_path.parent.mkdir(parents=True, exist_ok=True)
                 if download_path.exists():
-                    print(f"already exists: {download_path.name}")
+                    logging.info(f"already exists: {download_path.name}")
                 else:
                     r = requests.get(attachment.url)
                     # if not r.ok:
-                    #     print(f"error: {r.status_code, download_path.name}")
+                    #     logging.info(f"error: {r.status_code, download_path.name}")
                     #     continue
                     r.raise_for_status()
                     download_path.write_bytes(r.content)
@@ -244,6 +245,8 @@ class DownloadTask:
 
 
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO)
+
     from dotenv import load_dotenv
     load_dotenv()
 
@@ -274,5 +277,5 @@ if __name__ == "__main__":
         with downloader.open():
             for account in accounts:
                 username = account["x"]
-                print(f"downloading {username}")
+                logging.info(f"downloading {username}")
                 task.handle(username=username)
