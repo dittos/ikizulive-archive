@@ -1,0 +1,13 @@
+[project]
+name = "ikizulive"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cryptography>=44.0.3",
+    "playwright>=1.52.0",
+    "pydantic>=2.11.4",
+    "pydantic-settings>=2.9.1",
+    "requests>=2.32.3",
+]
