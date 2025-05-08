@@ -1,0 +1,111 @@
+{
+  "id": "1920458663782707425",
+  "username": "hanabistarmine",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1920458663782707425",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NTc1MTA1NzgzOTQzMTY5",
+          "rest_id": "1906575105783943169",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": false,
+          "legacy": {
+            "following": false,
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Mon Mar 31 05:11:49 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 12086,
+            "friends_count": 3,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 611,
+            "location": "",
+            "media_count": 0,
+            "name": "🎆",
+            "normal_followers_count": 12086,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1914960858452733952/0vpyUpcP_normal.png",
+            "profile_interstitial_type": "",
+            "screen_name": "hanabistarmine",
+            "statuses_count": 22,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "tipjar_settings": {}
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1920458663782707425"
+      ],
+      "editable_until_msecs": "1746711600000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "4974",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 4,
+      "bookmarked": false,
+      "created_at": "Thu May 08 12:40:00 +0000 2025",
+      "conversation_id_str": "1920458663782707425",
+      "display_text_range": [
+        0,
+        113
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              106,
+              113
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 214,
+      "favorited": false,
+      "full_text": "しかもGWが終わったら、これからが本番の浅草、三社祭が待っているの～🎴\nそこのキミ！\n少しでも興味を持ったらお祭り覗いてみてね～\n浴衣の着付けレッスンは花火にお任せ👘✨\nメンズだったら紺のちぢみがおすすめです💘\n#いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 2,
+      "reply_count": 0,
+      "retweet_count": 51,
+      "retweeted": false,
+      "user_id_str": "1906575105783943169",
+      "id_str": "1920458663782707425"
+    }
+  },
+  "created_at": "2025-05-08T12:40:00Z"
+}

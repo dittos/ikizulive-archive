@@ -1,0 +1,111 @@
+{
+  "id": "1920458411193610539",
+  "username": "hanabistarmine",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1920458411193610539",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NTc1MTA1NzgzOTQzMTY5",
+          "rest_id": "1906575105783943169",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": false,
+          "legacy": {
+            "following": false,
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Mon Mar 31 05:11:49 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 12086,
+            "friends_count": 3,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 611,
+            "location": "",
+            "media_count": 0,
+            "name": "🎆",
+            "normal_followers_count": 12086,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1914960858452733952/0vpyUpcP_normal.png",
+            "profile_interstitial_type": "",
+            "screen_name": "hanabistarmine",
+            "statuses_count": 22,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "tipjar_settings": {}
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1920458411193610539"
+      ],
+      "editable_until_msecs": "1746711540000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "4806",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 2,
+      "bookmarked": false,
+      "created_at": "Thu May 08 12:39:00 +0000 2025",
+      "conversation_id_str": "1920458411193610539",
+      "display_text_range": [
+        0,
+        72
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              65,
+              72
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 183,
+      "favorited": false,
+      "full_text": "でもその分売り上げも相当で🎉\nうーんやっぱりいっぱい働いていっぱい稼いで、へとへとになって食べる抹茶ヘブンパフェは最高ね！！🍵🍡\n#いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40,
+      "retweeted": false,
+      "user_id_str": "1906575105783943169",
+      "id_str": "1920458411193610539"
+    }
+  },
+  "created_at": "2025-05-08T12:39:00Z"
+}
