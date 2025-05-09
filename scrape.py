@@ -258,17 +258,7 @@ if __name__ == "__main__":
     tweet_repo = TweetRepository(data_dir=data_dir)
     task = DownloadTask(data_dir=data_dir, tweet_repo=tweet_repo, twitter_downloader=downloader)
 
-    accounts = [
-        {"x": "ikizulive_staff"},
-        {"x": "polka_lion"},
-        {"x": "hanabistarmine"},
-        {"x": "G_Akky304250"},
-        {"x": "My_Mai_Eld"},
-        {"x": "Noricco_U"},
-        {"x": "MiracleGoldSP"},
-        {"x": "Rollie_twinkle"},
-        {"x": "Yukuri_talk"},
-    ]
+    accounts = json.loads((data_dir / "accounts.json").read_text())
 
     with storage_state_encryption(
             storage_state_path=downloader.storage_state_path,

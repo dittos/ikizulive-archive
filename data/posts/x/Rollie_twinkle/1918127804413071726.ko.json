@@ -1,0 +1,36 @@
+{
+  "id": "1918127804413071726",
+  "translated_text": "데\n오늘은 로라 혼자 하루 늦은 외로운 혼밥 입학💖\n\n이라니...\n\n이제부터 다닐 곳은 온라인 고등학교니까🏫🌈\n그런 걱정은 NoNo🏝️\n\nNo need라구~!\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "데\n오늘은 로라 혼자 하루 늦은 외로운 혼밥 입학💖\n\n이라니...\n\n이제부터 다닐 곳은 온라인 고등학교니까🏫🌈\n그런 걱정은 NoNo🏝️\n\nNo need라구~!\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799168,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 62,
+      "prompt_tokens": 115,
+      "total_tokens": 177,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

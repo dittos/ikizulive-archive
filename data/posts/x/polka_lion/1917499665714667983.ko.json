@@ -1,0 +1,36 @@
+{
+  "id": "1917499665714667983",
+  "translated_text": "어제 멤버 4명이서 나카미세 주변 아사쿠사 관광과\n소라마치에서 \"작전 회의\"를 했어요⛩🍟\n\n저희가 스쿨 아이돌이 되기 위한 비밀 계획!\n\n비밀이라 내용은 비밀이에요🌻✨\n하지만 발표는 내일이니 기대해주세요~!!\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "어제 멤버 4명이서 나카미세 주변 아사쿠사 관광과\n소라마치에서 \"작전 회의\"를 했어요⛩🍟\n\n저희가 스쿨 아이돌이 되기 위한 비밀 계획!\n\n비밀이라 내용은 비밀이에요🌻✨\n하지만 발표는 내일이니 기대해주세요~!!\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799072,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 89,
+      "prompt_tokens": 124,
+      "total_tokens": 213,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

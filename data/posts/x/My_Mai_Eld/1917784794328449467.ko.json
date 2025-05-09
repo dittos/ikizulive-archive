@@ -1,0 +1,36 @@
+{
+  "id": "1917784794328449467",
+  "translated_text": "솔직히 말해서, 폴카가 \"저러다 곧 자금난으로 망하는 거 아냐?\" 같은 글을 진지하게 받아들인 것 같긴 하지만.\n#숨막혀부",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "솔직히 말해서, 폴카가 \"저러다 곧 자금난으로 망하는 거 아냐?\" 같은 글을 진지하게 받아들인 것 같긴 하지만.\n#숨막혀부",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799133,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 49,
+      "prompt_tokens": 105,
+      "total_tokens": 154,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

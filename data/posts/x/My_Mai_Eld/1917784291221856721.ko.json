@@ -1,0 +1,36 @@
+{
+  "id": "1917784291221856721",
+  "translated_text": "저희는 넷 고등학교인 Love 학원 고등학교, 통칭 L고의 신입생 4명으로,\n이제부터 '스쿨 아이돌'이라는 활동을 시작하기로 했습니다.\n목표는 인지도 향상을 통한 집객과 가능하다면 자금 모금💰\n#살기힘든부\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "저희는 넷 고등학교인 Love 학원 고등학교, 통칭 L고의 신입생 4명으로,\n이제부터 '스쿨 아이돌'이라는 활동을 시작하기로 했습니다.\n목표는 인지도 향상을 통한 집객과 가능하다면 자금 모금💰\n#살기힘든부\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799123,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 79,
+      "prompt_tokens": 119,
+      "total_tokens": 198,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

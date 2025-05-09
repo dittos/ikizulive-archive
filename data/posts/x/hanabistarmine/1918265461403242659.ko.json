@@ -1,0 +1,36 @@
+{
+  "id": "1918265461403242659",
+  "translated_text": "더 멋진 고등학교 생활이 될 줄 알았는데 🏫\n어쩐지 이렇게 친구들이 생기다니 기쁘네\n다들 기모노도 예쁘다고 말해주고 👘✨\n\n현대의 야마토 나데시코, 기모노 아이돌 열심히 해나가겠어요-!!\n#숨막히는부",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "더 멋진 고등학교 생활이 될 줄 알았는데 🏫\n어쩐지 이렇게 친구들이 생기다니 기쁘네\n다들 기모노도 예쁘다고 말해주고 👘✨\n\n현대의 야마토 나데시코, 기모노 아이돌 열심히 해나가겠어요-!!\n#숨막히는부",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799074,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 84,
+      "prompt_tokens": 123,
+      "total_tokens": 207,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

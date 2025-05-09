@@ -1,0 +1,36 @@
+{
+  "id": "1900531357174128835",
+  "translated_text": "어떡해\n\n고등학교 떨어졌어\n\n어떡해 어떡해 어떡해\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "어떡해\n\n고등학교 떨어졌어\n\n어떡해 어떡해 어떡해\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799058,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 22,
+      "prompt_tokens": 80,
+      "total_tokens": 102,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

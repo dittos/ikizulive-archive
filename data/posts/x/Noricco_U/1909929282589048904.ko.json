@@ -1,0 +1,36 @@
+{
+  "id": "1909929282589048904",
+  "translated_text": "행사 끝나고 반별 홈룸이 있었는데, 담임 선생님이 버튜버처럼 되어 있어서 그것도 엄청났어🎤✨\n동경하는 성우를 목표로 하기 위해 선택한 온라인 고등학교였는데, 왠지 벌써 선생님이 살짝 성우 같아서 멋있고 가슴이 두근거렸을지도🥰\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "행사 끝나고 반별 홈룸이 있었는데, 담임 선생님이 버튜버처럼 되어 있어서 그것도 엄청났어🎤✨\n동경하는 성우를 목표로 하기 위해 선택한 온라인 고등학교였는데, 왠지 벌써 선생님이 살짝 성우 같아서 멋있고 가슴이 두근거렸을지도🥰\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799152,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 93,
+      "prompt_tokens": 133,
+      "total_tokens": 226,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

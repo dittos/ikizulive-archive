@@ -1,0 +1,36 @@
+{
+  "id": "1910606746076258785",
+  "translated_text": "오늘도 마이쨩에게 여러 가지 컴퓨터 사용법을 배웠어!\n\n정말 마이마이 너무 착해서 대천사!!👻✨\n\n그래서 원격 담화실이라는 것의 존재를 알게 됐어🍵\n\n점심시간에 다른 교사 아이와 과자 먹으면서 이야기하기도 하고…\n\n너무 대단해🌻\n\nL고, 일단 매일 폴카의 예상을 뛰어넘고 있습니다💪✨\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "오늘도 마이쨩에게 여러 가지 컴퓨터 사용법을 배웠어!\n\n정말 마이마이 너무 착해서 대천사!!👻✨\n\n그래서 원격 담화실이라는 것의 존재를 알게 됐어🍵\n\n점심시간에 다른 교사 아이와 과자 먹으면서 이야기하기도 하고…\n\n너무 대단해🌻\n\nL고, 일단 매일 폴카의 예상을 뛰어넘고 있습니다💪✨\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799065,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 112,
+      "prompt_tokens": 146,
+      "total_tokens": 258,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

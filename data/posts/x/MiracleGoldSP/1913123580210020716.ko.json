@@ -1,0 +1,36 @@
+{
+  "id": "1913123580210020716",
+  "translated_text": "다음번에 갈 때는 그 아이 몫까지 듬뿍 가져가야지🎂\n\n왠지 엄청 단 거 좋아할 것 같은 귀여운 얼굴😺이었어\n그 얼굴은 ーー 아마 슈크림 좋아할 거야😼🎉\n게다가 엄청 많이 먹여주고 싶어지는 얼굴!!🐻💛\n\n오늘 밤도 힘내서 스위츠 잔뜩 구워 가야지💪\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "다음번에 갈 때는 그 아이 몫까지 듬뿍 가져가야지🎂\n\n왠지 엄청 단 거 좋아할 것 같은 귀여운 얼굴😺이었어\n그 얼굴은 ーー 아마 슈크림 좋아할 거야😼🎉\n게다가 엄청 많이 먹여주고 싶어지는 얼굴!!🐻💛\n\n오늘 밤도 힘내서 스위츠 잔뜩 구워 가야지💪\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799153,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 104,
+      "prompt_tokens": 132,
+      "total_tokens": 236,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

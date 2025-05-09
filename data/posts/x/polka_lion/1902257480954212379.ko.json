@@ -1,0 +1,36 @@
+{
+  "id": "1902257480954212379",
+  "translated_text": "아아\n\n만약 이게 사실이라면!\n\n하느님, 아무리 수학을 못해도 ⛩⛩⛩\n\n이제부터 조금 더 도망치지 않고 열심히 노력하겠다고 약속할게요 🙏🙏🙏✨✨!!\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "아아\n\n만약 이게 사실이라면!\n\n하느님, 아무리 수학을 못해도 ⛩⛩⛩\n\n이제부터 조금 더 도망치지 않고 열심히 노력하겠다고 약속할게요 🙏🙏🙏✨✨!!\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799037,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 62,
+      "prompt_tokens": 108,
+      "total_tokens": 170,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

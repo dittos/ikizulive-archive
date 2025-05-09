@@ -1,0 +1,36 @@
+{
+  "id": "1914654669445493007",
+  "translated_text": "폴카 이야기를 들으니 최근에 들었던 이야기가 생각났어.\n지금 살고 있는 유시마의 이모 댁 근처에 🚵\n확실히 예전에 폐교될 뻔했던 것을\n학생들의 활동으로 다시 일으켜 세운 학교가 있다고 했어.\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "폴카 이야기를 들으니 최근에 들었던 이야기가 생각났어.\n지금 살고 있는 유시마의 이모 댁 근처에 🚵\n확실히 예전에 폐교될 뻔했던 것을\n학생들의 활동으로 다시 일으켜 세운 학교가 있다고 했어.\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799105,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 78,
+      "prompt_tokens": 113,
+      "total_tokens": 191,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

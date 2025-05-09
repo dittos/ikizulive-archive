@@ -1,0 +1,36 @@
+{
+  "id": "1917783788341584244",
+  "translated_text": "교실도, 운동장도, 교복도, 정기권도, 학식도!\n\n아무것도 없지만🙃\n\n그래도, 나의 고등학교 생활은 여기에 있어!\n\n텅 빈 공간\n\n꽤나 폴카는 좋아해💛\n\n왜냐면, 역시 춤추고 싶어지니까✨\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "교실도, 운동장도, 교복도, 정기권도, 학식도!\n\n아무것도 없지만🙃\n\n그래도, 나의 고등학교 생활은 여기에 있어!\n\n텅 빈 공간\n\n꽤나 폴카는 좋아해💛\n\n왜냐면, 역시 춤추고 싶어지니까✨\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799073,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 79,
+      "prompt_tokens": 122,
+      "total_tokens": 201,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

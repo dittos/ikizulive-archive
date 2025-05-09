@@ -1,0 +1,36 @@
+{
+  "id": "1905535077972328455",
+  "translated_text": "움직이기 편한 옷을 좋아해서 스커트도 바지도 짧은 게 좋아💛\n\n집에 가는 길에 귀여운 야옹이🐱를 봐서 잠깐 같이 춤췄어♪\nPolka는 고양이가 하는 말을 알아들을 수 있어!\n\n그런 느낌이 들어, 옛날부터",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "움직이기 편한 옷을 좋아해서 스커트도 바지도 짧은 게 좋아💛\n\n집에 가는 길에 귀여운 야옹이🐱를 봐서 잠깐 같이 춤췄어♪\nPolka는 고양이가 하는 말을 알아들을 수 있어!\n\n그런 느낌이 들어, 옛날부터",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799067,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 81,
+      "prompt_tokens": 120,
+      "total_tokens": 201,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

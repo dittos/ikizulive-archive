@@ -1,0 +1,36 @@
+{
+  "id": "1917785297582186883",
+  "translated_text": "아무리 그래도 학생 식당은 없지 않나 싶긴 한데\n뭐\n꿈이 큰 건 좋은 일이라고 생각해서 말리진 않았습니다\n#살기힘든부\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "아무리 그래도 학생 식당은 없지 않나 싶긴 한데\n뭐\n꿈이 큰 건 좋은 일이라고 생각해서 말리진 않았습니다\n#살기힘든부\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799128,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 45,
+      "prompt_tokens": 98,
+      "total_tokens": 143,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

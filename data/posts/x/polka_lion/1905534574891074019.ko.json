@@ -1,0 +1,36 @@
+{
+  "id": "1905534574891074019",
+  "translated_text": "제복이 없다는 건,\n매일 사복으로 학교에 다닌다는 거니까👕\n\n역시\n\n매일 트레이닝복은 좀 그렇지?💦\n\n그렇지?\n\n그래서 오늘은 새 옷을 사러 갔다 왔어⛩\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "제복이 없다는 건,\n매일 사복으로 학교에 다닌다는 거니까👕\n\n역시\n\n매일 트레이닝복은 좀 그렇지?💦\n\n그렇지?\n\n그래서 오늘은 새 옷을 사러 갔다 왔어⛩\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799034,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 66,
+      "prompt_tokens": 110,
+      "total_tokens": 176,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

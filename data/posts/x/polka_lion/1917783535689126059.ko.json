@@ -1,0 +1,36 @@
+{
+  "id": "1917783535689126059",
+  "translated_text": "여러분, 처음 뵙겠습니다!\n\n저는 타카하시 폴카⛩✨\n새내기 고등학교 1학년!\n\n이번 봄에\n인터넷 고등학교인 Love 학원 고등학교에 입학했어요~🌻✨\n\n라고는 하지만!\n사실은!\n\n솔직히 말해서, 여기 아무것도 없어~!\n\n왠지 모르게 춤추고 싶어지네~🎵\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "여러분, 처음 뵙겠습니다!\n\n저는 타카하시 폴카⛩✨\n새내기 고등학교 1학년!\n\n이번 봄에\n인터넷 고등학교인 Love 학원 고등학교에 입학했어요~🌻✨\n\n라고는 하지만!\n사실은!\n\n솔직히 말해서, 여기 아무것도 없어~!\n\n왠지 모르게 춤추고 싶어지네~🎵\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799052,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 105,
+      "prompt_tokens": 129,
+      "total_tokens": 234,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1917556288914936094",
+  "translated_text": "노리노리, 요즘 뭔가 기운이 없어 보이네 😔\n또 성우 오디션에서 떨어졌나…\n노릿코는 엄청 귀여운데 🍭🍬\n분명 조만간 기회가 올 거라고 말해주고 싶지만…\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "노리노리, 요즘 뭔가 기운이 없어 보이네 😔\n또 성우 오디션에서 떨어졌나…\n노릿코는 엄청 귀여운데 🍭🍬\n분명 조만간 기회가 올 거라고 말해주고 싶지만…\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799155,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 68,
+      "prompt_tokens": 112,
+      "total_tokens": 180,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

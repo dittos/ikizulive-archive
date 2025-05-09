@@ -1,0 +1,36 @@
+{
+  "id": "1908077329307353367",
+  "translated_text": "오늘로 도쿄에 온 지 딱 2주.\n이쪽 생활에도 겨우 익숙해졌어...\n\n...졌나?\n\n아침 일찍 조깅하기 전에 스트레칭하고 있으면\n본가인 누마즈 쪽이 역시 더 따뜻했던 것 같아.\n강변 도로는 밝고 넓지만, 바다 냄새가 안 나는 게 왠지 신기해🌊\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "오늘로 도쿄에 온 지 딱 2주.\n이쪽 생활에도 겨우 익숙해졌어...\n\n...졌나?\n\n아침 일찍 조깅하기 전에 스트레칭하고 있으면\n본가인 누마즈 쪽이 역시 더 따뜻했던 것 같아.\n강변 도로는 밝고 넓지만, 바다 냄새가 안 나는 게 왠지 신기해🌊\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799103,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 103,
+      "prompt_tokens": 132,
+      "total_tokens": 235,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

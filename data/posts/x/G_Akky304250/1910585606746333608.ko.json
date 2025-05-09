@@ -1,0 +1,36 @@
+{
+  "id": "1910585606746333608",
+  "translated_text": "급식을 안 먹어도 되니까\n고단백 식단을 꾸준히 섭취하고 웨이트 트레이닝의 질을 향상했더니\n체지방률이 조금 떨어졌다🏅👍\n옆구리가 가벼운 느낌이 들어\n역시 몸이 가벼운 편이 벽을 더 오르기 쉬워지겠지🏔\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "급식을 안 먹어도 되니까\n고단백 식단을 꾸준히 섭취하고 웨이트 트레이닝의 질을 향상했더니\n체지방률이 조금 떨어졌다🏅👍\n옆구리가 가벼운 느낌이 들어\n역시 몸이 가벼운 편이 벽을 더 오르기 쉬워지겠지🏔\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799099,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 89,
+      "prompt_tokens": 130,
+      "total_tokens": 219,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

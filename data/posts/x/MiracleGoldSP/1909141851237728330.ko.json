@@ -1,0 +1,36 @@
+{
+  "id": "1909141851237728330",
+  "translated_text": "이제 모레 입학식에 가져갈 🍬다크 초콜릿 브라우니🧁를 만들어야지!!\n맛을 기억하게 해서, 열심히 손님을 모아야지🎵\n먹어보고 싶은 사람은 L고 호쿠리쿠 새틀라이트에 입학하면 만날 수 있어💛✨\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "이제 모레 입학식에 가져갈 🍬다크 초콜릿 브라우니🧁를 만들어야지!!\n맛을 기억하게 해서, 열심히 손님을 모아야지🎵\n먹어보고 싶은 사람은 L고 호쿠리쿠 새틀라이트에 입학하면 만날 수 있어💛✨\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799160,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 78,
+      "prompt_tokens": 127,
+      "total_tokens": 205,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

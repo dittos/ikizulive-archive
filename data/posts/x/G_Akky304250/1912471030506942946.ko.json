@@ -1,0 +1,36 @@
+{
+  "id": "1912471030506942946",
+  "translated_text": "클라이밍 월을 오르는 중에\n집중하고 있으면 갑자기 찾아오는 붕 뜨는 듯 몸이 가벼워지는 특별한 순간처럼\n\n이런 거\n뭐라고 해야 할까...\n\n역시\n잘 모르겠어🏔\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "클라이밍 월을 오르는 중에\n집중하고 있으면 갑자기 찾아오는 붕 뜨는 듯 몸이 가벼워지는 특별한 순간처럼\n\n이런 거\n뭐라고 해야 할까...\n\n역시\n잘 모르겠어🏔\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799117,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 67,
+      "prompt_tokens": 113,
+      "total_tokens": 180,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

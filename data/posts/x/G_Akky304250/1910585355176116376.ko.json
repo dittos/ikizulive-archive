@@ -1,0 +1,36 @@
+{
+  "id": "1910585355176116376",
+  "translated_text": "인터넷 고등학교에 입학한 지 3일째🚵\n음, 매일 수업은 소화하고 있고 순조롭다\n\n기본적으로 강의는 오전에 몰아넣고 오후에는 훈련에 할애할 수 있다는 게\n굉장히 신선하게 느껴진다⛰✨\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "인터넷 고등학교에 입학한 지 3일째🚵\n음, 매일 수업은 소화하고 있고 순조롭다\n\n기본적으로 강의는 오전에 몰아넣고 오후에는 훈련에 할애할 수 있다는 게\n굉장히 신선하게 느껴진다⛰✨\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799116,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 75,
+      "prompt_tokens": 118,
+      "total_tokens": 193,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1911655657494770160",
+  "translated_text": "학교 시작한 지 1주일도 안 됐는데\n저렇게 거리낌 없이 서로 주고받을 정도로 친해지는 게\n신기해. 🎖️\n\n나랑은 정반대인 것 같아.\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "학교 시작한 지 1주일도 안 됐는데\n저렇게 거리낌 없이 서로 주고받을 정도로 친해지는 게\n신기해. 🎖️\n\n나랑은 정반대인 것 같아.\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799111,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 56,
+      "prompt_tokens": 107,
+      "total_tokens": 163,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

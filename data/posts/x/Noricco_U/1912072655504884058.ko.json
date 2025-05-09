@@ -1,0 +1,36 @@
+{
+  "id": "1912072655504884058",
+  "translated_text": "오늘 처음으로 L고등학교 호쿠리쿠 새틀라이트에 다녀왔습니다🏫\n상상했던 것보다 작아서...\n학교라기보다는 학원 로비 같은 분위기?\n여기저기에 소파나 카페 테이블☕ 같은 공간도 있어서, 지내기는 꽤 괜찮을 것 같았습니다🐱✨\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "오늘 처음으로 L고등학교 호쿠리쿠 새틀라이트에 다녀왔습니다🏫\n상상했던 것보다 작아서...\n학교라기보다는 학원 로비 같은 분위기?\n여기저기에 소파나 카페 테이블☕ 같은 공간도 있어서, 지내기는 꽤 괜찮을 것 같았습니다🐱✨\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799149,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 85,
+      "prompt_tokens": 127,
+      "total_tokens": 212,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

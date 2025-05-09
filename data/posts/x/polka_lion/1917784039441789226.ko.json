@@ -1,0 +1,36 @@
+{
+  "id": "1917784039441789226",
+  "translated_text": "아무것도 없는 새하얀 공간과 시간을 발견하면\n\n발끝이 간질간질해져서 🎵\n\n저절로 스텝을 밟기 시작해\n\n이제부터, 이 텅 빈 넓은 공간을 채워갈 거야\n\n폴카의 청춘! ✨✨\n\n시작한다, 숨 막히는 부!!!\n모두 지켜봐 주시면 기쁠 거예요!!\n\n#숨막히는부\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "아무것도 없는 새하얀 공간과 시간을 발견하면\n\n발끝이 간질간질해져서 🎵\n\n저절로 스텝을 밟기 시작해\n\n이제부터, 이 텅 빈 넓은 공간을 채워갈 거야\n\n폴카의 청춘! ✨✨\n\n시작한다, 숨 막히는 부!!!\n모두 지켜봐 주시면 기쁠 거예요!!\n\n#숨막히는부\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799032,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 107,
+      "prompt_tokens": 141,
+      "total_tokens": 248,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

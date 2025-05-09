@@ -1,0 +1,36 @@
+{
+  "id": "1917785046163022203",
+  "translated_text": "확실히 교실은 텅 비어 있고 온라인 학생 수도 적으니까 신빙성이 아주 없는 건 아니지만, 굳이 따지자면 그걸 틈탄 학교 엄청 좋아하는 소녀 폴카가 이참에 교복이라든가 학식이라든가 지금 L고에는 없는 것들이 갖고 싶어! 라면서 억지를 부린 게 이유입니다.\n#숨막혀부\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "확실히 교실은 텅 비어 있고 온라인 학생 수도 적으니까 신빙성이 아주 없는 건 아니지만, 굳이 따지자면 그걸 틈탄 학교 엄청 좋아하는 소녀 폴카가 이참에 교복이라든가 학식이라든가 지금 L고에는 없는 것들이 갖고 싶어! 라면서 억지를 부린 게 이유입니다.\n#숨막혀부\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799134,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 106,
+      "prompt_tokens": 137,
+      "total_tokens": 243,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1911753553045066216",
+  "translated_text": "음, 그건 다음에 다시 기회가 있겠지. 🎆\n우선은 모두에게 기모노의 즐거움을 알게 하는 것이 중요해. 👘\n입구는 낮게, 정상은 높게!\n코마가타 가문의 모토입니다. 💘✨\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "음, 그건 다음에 다시 기회가 있겠지. 🎆\n우선은 모두에게 기모노의 즐거움을 알게 하는 것이 중요해. 👘\n입구는 낮게, 정상은 높게!\n코마가타 가문의 모토입니다. 💘✨\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799085,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 70,
+      "prompt_tokens": 113,
+      "total_tokens": 183,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

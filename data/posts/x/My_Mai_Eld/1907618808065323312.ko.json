@@ -1,0 +1,36 @@
+{
+  "id": "1907618808065323312",
+  "translated_text": "취미라고 해야 할지, 제 본업인 프로그래밍💻에 시간을 맘껏 쓰고 싶어서, 인터넷 고등학교에 들어가기로 한 건 좋았는데, 부모님이 통학 코스를 지정하신 건 오산이었네😮‍💨 역시 작년에 낮밤이 바뀌어서 학교를 꽤 많이 빠진 게 영향이 있었나.\n\n그때의 나는 시간 선호율이 높다거나 5살 수준이었어... 방심했어💦\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "취미라고 해야 할지, 제 본업인 프로그래밍💻에 시간을 맘껏 쓰고 싶어서, 인터넷 고등학교에 들어가기로 한 건 좋았는데, 부모님이 통학 코스를 지정하신 건 오산이었네😮‍💨 역시 작년에 낮밤이 바뀌어서 학교를 꽤 많이 빠진 게 영향이 있었나.\n\n그때의 나는 시간 선호율이 높다거나 5살 수준이었어... 방심했어💦\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799129,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 124,
+      "prompt_tokens": 150,
+      "total_tokens": 274,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

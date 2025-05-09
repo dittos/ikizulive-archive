@@ -1,0 +1,36 @@
+{
+  "id": "1914994156495065206",
+  "translated_text": "그런 약간 날개가 돋아난 듯한 새로운 기분으로\n1번 발 포지션부터 플리에🩰✨\n쭉 뻗으니 기분이 좋네요.\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "그런 약간 날개가 돋아난 듯한 새로운 기분으로\n1번 발 포지션부터 플리에🩰✨\n쭉 뻗으니 기분이 좋네요.\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799176,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 45,
+      "prompt_tokens": 98,
+      "total_tokens": 143,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

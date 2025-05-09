@@ -1,0 +1,36 @@
+{
+  "id": "1909929533924680033",
+  "translated_text": "헤헤🐱\n\n나 너무 허들이 낮은가...?\n어쨌든, 앞으로 양성소 레슨도 학교도 힘내서 열심히 해보려고 합니다! 💪\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "헤헤🐱\n\n나 너무 허들이 낮은가...?\n어쨌든, 앞으로 양성소 레슨도 학교도 힘내서 열심히 해보려고 합니다! 💪\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799141,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 45,
+      "prompt_tokens": 102,
+      "total_tokens": 147,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

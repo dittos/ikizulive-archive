@@ -1,0 +1,36 @@
+{
+  "id": "1914265102284644517",
+  "translated_text": "저, 생각해 봤는데\n의외로 기모노가 교복이랑 잘 어울릴 것 같아 👘✨\n속옷 부분 빼고는 매일 빠는 것도 아니고, 보기에 알아보기 쉽고, 포멀하고, 껴입어서 온도 조절하기도 쉽고!\n\n음, 이 컨셉으로 디스플레이 만들어볼까?\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "저, 생각해 봤는데\n의외로 기모노가 교복이랑 잘 어울릴 것 같아 👘✨\n속옷 부분 빼고는 매일 빠는 것도 아니고, 보기에 알아보기 쉽고, 포멀하고, 껴입어서 온도 조절하기도 쉽고!\n\n음, 이 컨셉으로 디스플레이 만들어볼까?\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799089,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 94,
+      "prompt_tokens": 128,
+      "total_tokens": 222,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

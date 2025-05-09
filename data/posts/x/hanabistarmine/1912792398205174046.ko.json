@@ -1,0 +1,36 @@
+{
+  "id": "1912792398205174046",
+  "translated_text": "오늘도 기모노 보급 활동의 일환으로 학교에도 기모노를 입고 등교~👘🎵\n가게와 다르게, 여기서는 저와 비슷한 또래의 젊은 친구들에게 어필하고 싶으니까\n기모노 어레인지로 프릴이 달린 속옷을 받쳐 입고 하이칼라 메이드풍으로☕✨\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "오늘도 기모노 보급 활동의 일환으로 학교에도 기모노를 입고 등교~👘🎵\n가게와 다르게, 여기서는 저와 비슷한 또래의 젊은 친구들에게 어필하고 싶으니까\n기모노 어레인지로 프릴이 달린 속옷을 받쳐 입고 하이칼라 메이드풍으로☕✨\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799091,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 90,
+      "prompt_tokens": 128,
+      "total_tokens": 218,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1911929210081247380",
+  "translated_text": "오랜만에 아침의 스미다 강을 달렸다!\n\n꽤 많은 사람들이 달리고 있어서 봄이 왔다는 느낌이 든다!\n\n이거 완전 춤이라도 춰야겠네🎵✨\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "오랜만에 아침의 스미다 강을 달렸다!\n\n꽤 많은 사람들이 달리고 있어서 봄이 왔다는 느낌이 든다!\n\n이거 완전 춤이라도 춰야겠네🎵✨\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799035,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 56,
+      "prompt_tokens": 101,
+      "total_tokens": 157,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

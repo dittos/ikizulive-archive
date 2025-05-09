@@ -1,0 +1,36 @@
+{
+  "id": "1911753049871163785",
+  "translated_text": "주말에는 본가 기모노 가게 일을 도우러, 인바운드 대상 일본 옷 이벤트 도우미로 일했어요 👘🎵\n여러 손님들의 웃는 얼굴을 보는 건 즐겁고 ✨ 영어 공부도 돼서 좋긴 한데ーー\n아무래도 투피스 유카타가 많아서, 살짝 불만족스러울지도…\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "주말에는 본가 기모노 가게 일을 도우러, 인바운드 대상 일본 옷 이벤트 도우미로 일했어요 👘🎵\n여러 손님들의 웃는 얼굴을 보는 건 즐겁고 ✨ 영어 공부도 돼서 좋긴 한데ーー\n아무래도 투피스 유카타가 많아서, 살짝 불만족스러울지도…\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799097,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 99,
+      "prompt_tokens": 134,
+      "total_tokens": 233,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

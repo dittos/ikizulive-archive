@@ -1,0 +1,36 @@
+{
+  "id": "1920739262070485505",
+  "translated_text": "끙끙 앓고 있었더니 기적 쨩이 마카롱 줬어\n반짝반짝 윤기 나는 예쁜 초록색 피스타치오 맛\n세련됐네…\n역시 도쿄 가보고 싶다 🚅🐱\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "끙끙 앓고 있었더니 기적 쨩이 마카롱 줬어\n반짝반짝 윤기 나는 예쁜 초록색 피스타치오 맛\n세련됐네…\n역시 도쿄 가보고 싶다 🚅🐱\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799148,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 63,
+      "prompt_tokens": 108,
+      "total_tokens": 171,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

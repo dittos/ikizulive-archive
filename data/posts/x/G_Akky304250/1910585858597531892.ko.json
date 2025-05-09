@@ -1,0 +1,36 @@
+{
+  "id": "1910585858597531892",
+  "translated_text": "높고 어려운 벽을 오른 끝에 있는 무언가가 늘 궁금한 나는\n\n분명 전생이 원숭이였을지도 모르겠다 🐒\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "높고 어려운 벽을 오른 끝에 있는 무언가가 늘 궁금한 나는\n\n분명 전생이 원숭이였을지도 모르겠다 🐒\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799105,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 43,
+      "prompt_tokens": 94,
+      "total_tokens": 137,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1912964029208797608",
+  "translated_text": "안녕하세요～🎵🎉\n나는 너를 사랑해🌈✨\n\n최근 로라는 헤어 케어에 푹 빠져있어🥰🎯\n\n긴 머리는 다들 관리하기 힘들 거라고 생각하지만🥑\n얼굴 인상은 헤어로 8할이 결정된다고 할 정도니까 역시 중요해!!🗝️✨\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "안녕하세요～🎵🎉\n나는 너를 사랑해🌈✨\n\n최근 로라는 헤어 케어에 푹 빠져있어🥰🎯\n\n긴 머리는 다들 관리하기 힘들 거라고 생각하지만🥑\n얼굴 인상은 헤어로 8할이 결정된다고 할 정도니까 역시 중요해!!🗝️✨\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799165,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 79,
+      "prompt_tokens": 128,
+      "total_tokens": 207,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

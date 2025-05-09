@@ -1,0 +1,36 @@
+{
+  "id": "1909584762953445445",
+  "translated_text": "어제 도쿄에서 돌아와서 내일부터 드디어 새로운 생활 시작!\n역시 레슨 후기는 최고였어✨✨🌟\n언젠가 저렇게 되고 싶다고 생각해서, 레슨 우선의 생활을 하기 위해 온라인 고등학교로 진학하기로 결정했는데…\n앞으로 내가 어디를 향해 달려갈지\n나조차도 모르는 게 조금은ーー즐겁고 나조차도 의외야🥰\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "어제 도쿄에서 돌아와서 내일부터 드디어 새로운 생활 시작!\n역시 레슨 후기는 최고였어✨✨🌟\n언젠가 저렇게 되고 싶다고 생각해서, 레슨 우선의 생활을 하기 위해 온라인 고등학교로 진학하기로 결정했는데…\n앞으로 내가 어디를 향해 달려갈지\n나조차도 모르는 게 조금은ーー즐겁고 나조차도 의외야🥰\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799182,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 112,
+      "prompt_tokens": 134,
+      "total_tokens": 246,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

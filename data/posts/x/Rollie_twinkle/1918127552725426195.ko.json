@@ -1,0 +1,36 @@
+{
+  "id": "1918127552725426195",
+  "translated_text": "일본에 다시 오신 것을 환영합니다～～🌈✨\n드디어 돌아왔다～！！\n\n역시 일본은 쌀이 맛있어～🎵　\n집에 돌아갈 때까지 참을 수 없어서 간사이 공항에서 먹은 해산물 덮밥 최고였어🥰🍚✨\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "일본에 다시 오신 것을 환영합니다～～🌈✨\n드디어 돌아왔다～！！\n\n역시 일본은 쌀이 맛있어～🎵　\n집에 돌아갈 때까지 참을 수 없어서 간사이 공항에서 먹은 해산물 덮밥 최고였어🥰🍚✨\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799167,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 72,
+      "prompt_tokens": 112,
+      "total_tokens": 184,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

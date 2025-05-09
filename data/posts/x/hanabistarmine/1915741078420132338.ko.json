@@ -1,0 +1,36 @@
+{
+  "id": "1915741078420132338",
+  "translated_text": "오늘은 왠지 시선이 느껴지는 하루였어\n근데 뭐 그런 건 늘 있는 일이고👘\n……라는 게 아니라, 특이한 걸 봐서 그런 시선이 아니라\n\n왠지, 아주 조금 열기가 느껴지는 듯한?\n계속 쳐다보는…🎆\n\n아마도\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "오늘은 왠지 시선이 느껴지는 하루였어\n근데 뭐 그런 건 늘 있는 일이고👘\n……라는 게 아니라, 특이한 걸 봐서 그런 시선이 아니라\n\n왠지, 아주 조금 열기가 느껴지는 듯한?\n계속 쳐다보는…🎆\n\n아마도\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799076,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 82,
+      "prompt_tokens": 119,
+      "total_tokens": 201,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

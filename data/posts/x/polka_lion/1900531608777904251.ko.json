@@ -1,0 +1,36 @@
+{
+  "id": "1900531608777904251",
+  "translated_text": "이거\n\n봄부터 갈 데 없다는 거야?\n\n거짓말이지...\n\n어떡해\n\n아\n\n이거, 꿈 아니지?\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "이거\n\n봄부터 갈 데 없다는 거야?\n\n거짓말이지...\n\n어떡해\n\n아\n\n이거, 꿈 아니지?\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799062,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 35,
+      "prompt_tokens": 97,
+      "total_tokens": 132,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

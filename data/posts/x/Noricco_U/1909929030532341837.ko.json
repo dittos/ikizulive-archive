@@ -1,0 +1,36 @@
+{
+  "id": "1909929030532341837",
+  "translated_text": "오늘은 고등학교 입학식이었어!\n입학식이라고는 해도 온라인으로 진행돼서 모니터 화면💻 너머로 교장 선생님이 인사하는 걸 쳐다보는 게 전부였어...\n좀 신기한 느낌😺✨\n그래도 중간에 박수 치거나 좋아요 보내는 사람들도 있어서 왠지 모르게 친근감이 느껴져서 기뻤어~👏👏👏\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "오늘은 고등학교 입학식이었어!\n입학식이라고는 해도 온라인으로 진행돼서 모니터 화면💻 너머로 교장 선생님이 인사하는 걸 쳐다보는 게 전부였어...\n좀 신기한 느낌😺✨\n그래도 중간에 박수 치거나 좋아요 보내는 사람들도 있어서 왠지 모르게 친근감이 느껴져서 기뻤어~👏👏👏\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799142,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 109,
+      "prompt_tokens": 138,
+      "total_tokens": 247,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1909811254606131458",
+  "translated_text": "뭔가 시선이 안 맞는 것 같고...\n\n나 여기 있어도 괜찮을까...\n\n뭔가 온라인 고등학교가 내가 상상했던 거랑 좀 다른 것 같아...💦💦\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "뭔가 시선이 안 맞는 것 같고...\n\n나 여기 있어도 괜찮을까...\n\n뭔가 온라인 고등학교가 내가 상상했던 거랑 좀 다른 것 같아...💦💦\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799059,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 51,
+      "prompt_tokens": 100,
+      "total_tokens": 151,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

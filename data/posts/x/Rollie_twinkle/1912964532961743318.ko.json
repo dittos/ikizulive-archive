@@ -1,0 +1,36 @@
+{
+  "id": "1912964532961743318",
+  "translated_text": "자, 그럼💖\n\n오늘 ローラ의 추천 아이템은 헤어 오일💄💎!\n특히 왁스 싫어하는 남자분들에게 윤기와 텍스처를 연출하기에 추천👔🥝✨\n좋은 냄새 나는 사람 좋아해요💐✨\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "자, 그럼💖\n\n오늘 ローラ의 추천 아이템은 헤어 오일💄💎!\n특히 왁스 싫어하는 남자분들에게 윤기와 텍스처를 연출하기에 추천👔🥝✨\n좋은 냄새 나는 사람 좋아해요💐✨\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799171,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 67,
+      "prompt_tokens": 112,
+      "total_tokens": 179,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

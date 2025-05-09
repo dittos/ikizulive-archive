@@ -1,0 +1,36 @@
+{
+  "id": "1911753301294780846",
+  "translated_text": "유카타는 입기도 쉽고, 누구나 입을 수 있어서 정말 편리한 건 알겠어🎆!\n\n그렇지만! 기모노를 너무나 사랑하는💘 나로서는 옷깃이나 옷자락 맞춤, 에리누키, 오하쇼리의 아름다움도 즐겨줬으면 좋겠어!! 라고 자꾸 생각해버려👘✨\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "유카타는 입기도 쉽고, 누구나 입을 수 있어서 정말 편리한 건 알겠어🎆!\n\n그렇지만! 기모노를 너무나 사랑하는💘 나로서는 옷깃이나 옷자락 맞춤, 에리누키, 오하쇼리의 아름다움도 즐겨줬으면 좋겠어!! 라고 자꾸 생각해버려👘✨\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799092,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 93,
+      "prompt_tokens": 123,
+      "total_tokens": 216,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

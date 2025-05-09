@@ -1,0 +1,36 @@
+{
+  "id": "1917786052451783066",
+  "translated_text": "음, 각자 잘하는 분야에서 뭔가 할 수 있으면 좋겠다는 느낌이랄까.\n나는 프로그래밍이 취미니까 아예 아바타로 활동해도 괜찮을지도…💻\n#살기힘든부\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "음, 각자 잘하는 분야에서 뭔가 할 수 있으면 좋겠다는 느낌이랄까.\n나는 프로그래밍이 취미니까 아예 아바타로 활동해도 괜찮을지도…💻\n#살기힘든부\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799119,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 61,
+      "prompt_tokens": 106,
+      "total_tokens": 167,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

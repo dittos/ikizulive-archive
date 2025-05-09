@@ -1,0 +1,36 @@
+{
+  "id": "1906681633169711221",
+  "translated_text": "수학을 못하는 걸 방치했던 것도 제대로 반성하고 이제부터라도 열심히 하기로 결심했고\n\n맞다, 아르헨티나에 있는 엄마 아빠한테 메시지 보내놔야겠다\n\n여러 일이 있었지만\n\n오늘도 polka는 씩씩하게 춤추고 있어요🌻✨♪\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "수학을 못하는 걸 방치했던 것도 제대로 반성하고 이제부터라도 열심히 하기로 결심했고\n\n맞다, 아르헨티나에 있는 엄마 아빠한테 메시지 보내놔야겠다\n\n여러 일이 있었지만\n\n오늘도 polka는 씩씩하게 춤추고 있어요🌻✨♪\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799039,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 87,
+      "prompt_tokens": 123,
+      "total_tokens": 210,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

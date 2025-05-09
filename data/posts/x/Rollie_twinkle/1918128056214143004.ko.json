@@ -1,0 +1,36 @@
+{
+  "id": "1918128056214143004",
+  "translated_text": "필요한 절차는 온라인으로 완료🎉✨\n입학식 영상은 기내에서 확인🤩💯\n부모님 사정으로 해외에 자주 갔던 나에게는 꽤나 획기적인 시스템이지!\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "필요한 절차는 온라인으로 완료🎉✨\n입학식 영상은 기내에서 확인🤩💯\n부모님 사정으로 해외에 자주 갔던 나에게는 꽤나 획기적인 시스템이지!\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799174,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 58,
+      "prompt_tokens": 106,
+      "total_tokens": 164,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

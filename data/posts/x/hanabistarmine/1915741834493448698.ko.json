@@ -1,0 +1,36 @@
+{
+  "id": "1915741834493448698",
+  "translated_text": "장사꾼은 역시 선행 투자 판단이 중요해💘\n저 아이에게 어울리는 무늬는 뭘까나👘\n풋풋한 느낌이니까 나팔꽃도 좋지만\n잠자리 같은 것도 어울릴 것 같아!\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "장사꾼은 역시 선행 투자 판단이 중요해💘\n저 아이에게 어울리는 무늬는 뭘까나👘\n풋풋한 느낌이니까 나팔꽃도 좋지만\n잠자리 같은 것도 어울릴 것 같아!\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799090,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 60,
+      "prompt_tokens": 108,
+      "total_tokens": 168,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

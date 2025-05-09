@@ -1,0 +1,36 @@
+{
+  "id": "1915302437633790162",
+  "translated_text": "잠깐만, 이거 뭐야, 무슨 일이야!?!?!?!?!\n불법 침입...\n그보다 왜 저 애가 가는 곳마다 문이 열려라 참깨처럼 열리는 거야!? 🚪💦\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "잠깐만, 이거 뭐야, 무슨 일이야!?!?!?!?!\n불법 침입...\n그보다 왜 저 애가 가는 곳마다 문이 열려라 참깨처럼 열리는 거야!? 🚪💦\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799135,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 55,
+      "prompt_tokens": 110,
+      "total_tokens": 165,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

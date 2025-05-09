@@ -1,0 +1,36 @@
+{
+  "id": "1918265209925349416",
+  "translated_text": "세계 진출을 생각하고 있다면 인터넷은 필수이고, 춤이나 노래 영상이 가장 유행할 확률이 높다는 마이 님의 설명에 감동받아 참여를 결정했습니다!\n앞으로 잘 부탁드립니다🦋\n#살기힘든부\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "세계 진출을 생각하고 있다면 인터넷은 필수이고, 춤이나 노래 영상이 가장 유행할 확률이 높다는 마이 님의 설명에 감동받아 참여를 결정했습니다!\n앞으로 잘 부탁드립니다🦋\n#살기힘든부\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799079,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 68,
+      "prompt_tokens": 121,
+      "total_tokens": 189,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

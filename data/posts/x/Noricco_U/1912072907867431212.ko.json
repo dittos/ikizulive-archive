@@ -1,0 +1,36 @@
+{
+  "id": "1912072907867431212",
+  "translated_text": "옆자리에 앉은 아이에게 말을 걸어볼까 생각했는데...\n역시 못 했어... 💦\n왜냐하면 왠지 엄청 똑 부러지고 똑똑해 보이고 귀여운데다가, 선생님하고도 벌써 친해진 것 같아서\n수수한 나 따위가 말을 걸면 안 될 것 같은 기분이 들어서... 😿\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "옆자리에 앉은 아이에게 말을 걸어볼까 생각했는데...\n역시 못 했어... 💦\n왜냐하면 왠지 엄청 똑 부러지고 똑똑해 보이고 귀여운데다가, 선생님하고도 벌써 친해진 것 같아서\n수수한 나 따위가 말을 걸면 안 될 것 같은 기분이 들어서... 😿\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799147,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 98,
+      "prompt_tokens": 131,
+      "total_tokens": 229,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

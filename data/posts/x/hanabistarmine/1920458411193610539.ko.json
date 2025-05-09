@@ -1,0 +1,36 @@
+{
+  "id": "1920458411193610539",
+  "translated_text": "하지만 그만큼 매출도 상당하고🎉\n음 역시 많이 일하고 많이 벌어서, 녹초가 된 몸으로 먹는 말차 헤븐 파르페는 최고야!! 🍵🍡\n#살기힘든부\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "하지만 그만큼 매출도 상당하고🎉\n음 역시 많이 일하고 많이 벌어서, 녹초가 된 몸으로 먹는 말차 헤븐 파르페는 최고야!! 🍵🍡\n#살기힘든부\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799078,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 60,
+      "prompt_tokens": 110,
+      "total_tokens": 170,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

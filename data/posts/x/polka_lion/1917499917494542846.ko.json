@@ -1,0 +1,36 @@
+{
+  "id": "1917499917494542846",
+  "translated_text": "무엇을 해야 할지\n어떻게 해야 할지\n\n모르는 것투성이인 시작이지만…\n\n그래도 의욕만큼은 넘쳐!! 💪💪✨\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "무엇을 해야 할지\n어떻게 해야 할지\n\n모르는 것투성이인 시작이지만…\n\n그래도 의욕만큼은 넘쳐!! 💪💪✨\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799036,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 45,
+      "prompt_tokens": 98,
+      "total_tokens": 143,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

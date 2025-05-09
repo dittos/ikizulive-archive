@@ -1,0 +1,36 @@
+{
+  "id": "1918264706667868257",
+  "translated_text": "어느 날 학교에서 돌아오는 길, 엄청난 기세로 달려오는 폴카에게 납치당해서\n정신없이 압도당해 버리고 🌀\n정신을 차려 보니 어쩐지 이미 동료 같은 분위기가 되어 있었다.\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "어느 날 학교에서 돌아오는 길, 엄청난 기세로 달려오는 폴카에게 납치당해서\n정신없이 압도당해 버리고 🌀\n정신을 차려 보니 어쩐지 이미 동료 같은 분위기가 되어 있었다.\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799094,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 71,
+      "prompt_tokens": 106,
+      "total_tokens": 177,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1906984629187297633",
+  "translated_text": "음, 아직 할 게 엄청 많아💛\n\n어떤 생활이 될지는 아직 전혀 상상도 안 가지만💦\n\n그래도 어쨌든 청춘🌻✨✨\n\n힘내자!\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "음, 아직 할 게 엄청 많아💛\n\n어떤 생활이 될지는 아직 전혀 상상도 안 가지만💦\n\n그래도 어쨌든 청춘🌻✨✨\n\n힘내자!\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799067,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 48,
+      "prompt_tokens": 103,
+      "total_tokens": 151,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

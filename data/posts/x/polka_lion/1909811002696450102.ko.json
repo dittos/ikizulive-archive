@@ -1,0 +1,36 @@
+{
+  "id": "1909811002696450102",
+  "translated_text": "교사는 작은 잡거 빌딩🏢 한 층에 있고, 오는 사람 수도 적어...\n\n집에서 온라인으로 참여하는 사람이 더 많은 것 같아?\n\n제복이 없어서 다 같이 모여 있어도 사복이라 약간 학원 같은 분위기💦\n\n라고 생각했는데 기모노 입은 사람이나 온통 검은색 코디에 징 박힌 마스크💀 쓴 사람도 있었어😯\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "교사는 작은 잡거 빌딩🏢 한 층에 있고, 오는 사람 수도 적어...\n\n집에서 온라인으로 참여하는 사람이 더 많은 것 같아?\n\n제복이 없어서 다 같이 모여 있어도 사복이라 약간 학원 같은 분위기💦\n\n라고 생각했는데 기모노 입은 사람이나 온통 검은색 코디에 징 박힌 마스크💀 쓴 사람도 있었어😯\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799042,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 108,
+      "prompt_tokens": 140,
+      "total_tokens": 248,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

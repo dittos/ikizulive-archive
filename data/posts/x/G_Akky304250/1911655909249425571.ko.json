@@ -1,0 +1,36 @@
+{
+  "id": "1911655909249425571",
+  "translated_text": "분명 앞으로 특별히 인연은 없겠지만\n\n뭐,\n\n다음에 근처에 앉으면 도와줘야겠다고 생각해. 🏔\n\n엄청 컴퓨터를 못하는 것 같았으니까.\n떠올리면 조금 웃겨. 🌊\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "분명 앞으로 특별히 인연은 없겠지만\n\n뭐,\n\n다음에 근처에 앉으면 도와줘야겠다고 생각해. 🏔\n\n엄청 컴퓨터를 못하는 것 같았으니까.\n떠올리면 조금 웃겨. 🌊\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799106,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 67,
+      "prompt_tokens": 113,
+      "total_tokens": 180,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

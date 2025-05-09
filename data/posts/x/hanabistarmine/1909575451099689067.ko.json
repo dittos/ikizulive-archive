@@ -1,0 +1,36 @@
+{
+  "id": "1909575451099689067",
+  "translated_text": "내일 입학식에 입고 갈 기모노 고르는 중👘\n어느 게 좋을까?\n나비에 꽃이 수놓인 자잘한 무늬의 유젠 염색 기모노🦋로 화려하고 아가씨 같은 느낌을 줄까, 아니면 깔끔하게 검은 바탕에 쓰지가하나 무늬가 있는 호몬기🌸로 격조 높은 느낌을 줄까ーー\n음, 고민되네!\n이렇게 된 이상 운텐의 화투🎴로 결정해야지\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "내일 입학식에 입고 갈 기모노 고르는 중👘\n어느 게 좋을까?\n나비에 꽃이 수놓인 자잘한 무늬의 유젠 염색 기모노🦋로 화려하고 아가씨 같은 느낌을 줄까, 아니면 깔끔하게 검은 바탕에 쓰지가하나 무늬가 있는 호몬기🌸로 격조 높은 느낌을 줄까ーー\n음, 고민되네!\n이렇게 된 이상 운텐의 화투🎴로 결정해야지\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799084,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 125,
+      "prompt_tokens": 140,
+      "total_tokens": 265,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

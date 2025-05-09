@@ -1,0 +1,36 @@
+{
+  "id": "1915731766763282709",
+  "translated_text": "그런 일이 있다니!\n\n마치 나만을 위한 이야기 같잖아💖✨\n\n라고 했더니\n\n마이쨩한테 콧방귀 뀌어졌지만👻\n\n그래도 말야\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "그런 일이 있다니!\n\n마치 나만을 위한 이야기 같잖아💖✨\n\n라고 했더니\n\n마이쨩한테 콧방귀 뀌어졌지만👻\n\n그래도 말야\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799043,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 50,
+      "prompt_tokens": 102,
+      "total_tokens": 152,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1920739010219307380",
+  "translated_text": "솔직히 성우 지망생들을 위한 워크숍 같은 것도 가보고 싶지만, 그런 건 거의 개최지가 도쿄라서…🚅\n돈이 너무 많이 들어서 나한테는 좀 힘들어.😿\n엄마는 반대하시지만 역시 아르바이트를 찾아볼까…\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "솔직히 성우 지망생들을 위한 워크숍 같은 것도 가보고 싶지만, 그런 건 거의 개최지가 도쿄라서…🚅\n돈이 너무 많이 들어서 나한테는 좀 힘들어.😿\n엄마는 반대하시지만 역시 아르바이트를 찾아볼까…\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799143,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 81,
+      "prompt_tokens": 117,
+      "total_tokens": 198,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

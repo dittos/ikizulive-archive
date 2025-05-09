@@ -1,0 +1,36 @@
+{
+  "id": "1920398516465381542",
+  "translated_text": "GW에는 밀린 가극단 영상들을 잔뜩 보면서 엄청 충실하게 보냈어요!\n정말로 피가 끓고 가슴이 두근거렸어요 🩰✨\n아아아, 정말 ～～！！！\n이 흥분을 어떻게 해야 할까요 🥰💖\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "GW에는 밀린 가극단 영상들을 잔뜩 보면서 엄청 충실하게 보냈어요!\n정말로 피가 끓고 가슴이 두근거렸어요 🩰✨\n아아아, 정말 ～～！！！\n이 흥분을 어떻게 해야 할까요 🥰💖\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799179,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 76,
+      "prompt_tokens": 118,
+      "total_tokens": 194,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

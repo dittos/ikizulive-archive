@@ -1,0 +1,36 @@
+{
+  "id": "1920738758850154979",
+  "translated_text": "이번 주는 골든위크가 끝나서 그런지 살짝 맥이 빠지는 느낌이야😸\n작년 같았으면 싫어하는 운동회 때문에 걱정할 시기인데, 올해는 그런 게 없어서 왠지 모르게 이상한 기분이야.\n그만큼 보컬 트레이닝이랑 레슨을 열심히 해야겠어!🎤✨\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "이번 주는 골든위크가 끝나서 그런지 살짝 맥이 빠지는 느낌이야😸\n작년 같았으면 싫어하는 운동회 때문에 걱정할 시기인데, 올해는 그런 게 없어서 왠지 모르게 이상한 기분이야.\n그만큼 보컬 트레이닝이랑 레슨을 열심히 해야겠어!🎤✨\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799145,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 97,
+      "prompt_tokens": 124,
+      "total_tokens": 221,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

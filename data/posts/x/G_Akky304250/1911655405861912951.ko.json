@@ -1,0 +1,36 @@
+{
+  "id": "1911655405861912951",
+  "translated_text": "오늘 학교에 갔더니 🚵\n무슨 일인지 엄청 소란스러운 아이가 있었어.\n\n나는 자리가 멀리 떨어져 있었는데도 꽤 크게 들렸어.\n활기찬 아이가 있구나 하고 보고 있었는데 😶‍🌫️\n옆에 있는 애한테 심하게 시비 걸면서 싸우고 있더라.\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "오늘 학교에 갔더니 🚵\n무슨 일인지 엄청 소란스러운 아이가 있었어.\n\n나는 자리가 멀리 떨어져 있었는데도 꽤 크게 들렸어.\n활기찬 아이가 있구나 하고 보고 있었는데 😶‍🌫️\n옆에 있는 애한테 심하게 시비 걸면서 싸우고 있더라.\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799115,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 96,
+      "prompt_tokens": 122,
+      "total_tokens": 218,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

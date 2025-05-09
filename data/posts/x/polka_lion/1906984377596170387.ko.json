@@ -1,0 +1,36 @@
+{
+  "id": "1906984377596170387",
+  "translated_text": "오늘부터 4월!\n\n고등학생이 되면 해보고 싶은 것 ✨✨\n\n1: 친구와 전철 통학하면서 딴 데 들르기!\n2: 재밌어 보이는 동아리, 가능하다면 댄스 계열 (마칭도 재밌을 것 같아)\n3: 이번에야말로 수학도 열심히 하기 (중간에 포기하지 않도록)\n4: 아르바이트\n5: 테마파크 순례\n6: 문화제에서 카페!\n7: 체육대회에서 응원단?\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "오늘부터 4월!\n\n고등학생이 되면 해보고 싶은 것 ✨✨\n\n1: 친구와 전철 통학하면서 딴 데 들르기!\n2: 재밌어 보이는 동아리, 가능하다면 댄스 계열 (마칭도 재밌을 것 같아)\n3: 이번에야말로 수학도 열심히 하기 (중간에 포기하지 않도록)\n4: 아르바이트\n5: 테마파크 순례\n6: 문화제에서 카페!\n7: 체육대회에서 응원단?\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799046,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 137,
+      "prompt_tokens": 159,
+      "total_tokens": 296,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

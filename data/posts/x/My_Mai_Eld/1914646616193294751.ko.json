@@ -1,0 +1,36 @@
+{
+  "id": "1914646616193294751",
+  "translated_text": "사람은 원래 혼자 사는 거잖아💀\n뭐, 딱히 어쩌다 옆에 있으면 조금 정도는 도와주겠지만…\n시끄러운 것보단 낫고, 그게 더 빠르다는 것뿐이야?\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "사람은 원래 혼자 사는 거잖아💀\n뭐, 딱히 어쩌다 옆에 있으면 조금 정도는 도와주겠지만…\n시끄러운 것보단 낫고, 그게 더 빠르다는 것뿐이야?\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799140,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 63,
+      "prompt_tokens": 112,
+      "total_tokens": 175,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

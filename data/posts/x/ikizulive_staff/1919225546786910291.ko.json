@@ -1,0 +1,36 @@
+{
+  "id": "1919225546786910291",
+  "translated_text": "이키즈라이브!\nLOVELIVE! BLUEBIRD\n\nSTART까지\n앞으로 7️⃣일!\n\nX 팔로우 &\nYouTube 채널 구독\n잘 부탁드립니다✨\n\nhttps://t.co/WYAr8yU2V5\n\n#살기힘든부 #이키즈라이브 https://t.co/DzU9p9Csod\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "이키즈라이브!\nLOVELIVE! BLUEBIRD\n\nSTART까지\n앞으로 7️⃣일!\n\nX 팔로우 &\nYouTube 채널 구독\n잘 부탁드립니다✨\n\nhttps://t.co/WYAr8yU2V5\n\n#살기힘든부 #이키즈라이브 https://t.co/DzU9p9Csod\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799027,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 87,
+      "prompt_tokens": 143,
+      "total_tokens": 230,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

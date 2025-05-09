@@ -1,0 +1,36 @@
+{
+  "id": "1909141340308582414",
+  "translated_text": "응, 진짜 최고, 트레비앙~🏔\n무조건 다 맛있을 거야~!!\n주 1회 오픈🏰\n매진되면 바로 종료되는 온라인 한정💝\n현역 고등학생 파티시에의 기적 같은 스위츠 가게🍧🎂🍭🍬🍰🧁\n다들 응원해 줘~!!💪✨\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "응, 진짜 최고, 트레비앙~🏔\n무조건 다 맛있을 거야~!!\n주 1회 오픈🏰\n매진되면 바로 종료되는 온라인 한정💝\n현역 고등학생 파티시에의 기적 같은 스위츠 가게🍧🎂🍭🍬🍰🧁\n다들 응원해 줘~!!💪✨\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799154,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 89,
+      "prompt_tokens": 131,
+      "total_tokens": 220,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

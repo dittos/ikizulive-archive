@@ -1,0 +1,36 @@
+{
+  "id": "1917785549626302958",
+  "translated_text": "클라우드 펀딩으로 자금을 모아서 교복 만들자는 거 요즘 흔하게 있을 법한 일이라고 생각하고\n나도 사실은\n\n학교에 아이스크림 자판기가 있으면 좀 좋겠다고 생각하고 있어😼\n뇌는 차갑게 식히는 게 중요해\n#숨쉬기힘든부",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "클라우드 펀딩으로 자금을 모아서 교복 만들자는 거 요즘 흔하게 있을 법한 일이라고 생각하고\n나도 사실은\n\n학교에 아이스크림 자판기가 있으면 좀 좋겠다고 생각하고 있어😼\n뇌는 차갑게 식히는 게 중요해\n#숨쉬기힘든부",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799125,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 81,
+      "prompt_tokens": 120,
+      "total_tokens": 201,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

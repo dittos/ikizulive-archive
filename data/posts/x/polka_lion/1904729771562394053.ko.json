@@ -1,0 +1,36 @@
+{
+  "id": "1904729771562394053",
+  "translated_text": "저, 몸을 조이는 옷을 싫어해서\n\n넥타이 같은 거 바로 답답해져서 헐렁하게 하고 다니다가 선생님한테 자주 혼났었거든\n\n좀 괜찮을지도💛\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "저, 몸을 조이는 옷을 싫어해서\n\n넥타이 같은 거 바로 답답해져서 헐렁하게 하고 다니다가 선생님한테 자주 혼났었거든\n\n좀 괜찮을지도💛\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799060,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 59,
+      "prompt_tokens": 107,
+      "total_tokens": 166,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

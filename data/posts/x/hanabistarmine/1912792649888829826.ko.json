@@ -1,0 +1,36 @@
+{
+  "id": "1912792649888829826",
+  "translated_text": "이렇게 눈에 띄는 옷차림🎎을 하고 다니면, 길거리에서 시선을 받는 건 이제 익숙한데\n어라?\n왠지 이 학교는, 주변 사람들이랑 눈이 잘 안 마주치는 것 같아? 😎✨\n\n왜 그럴까……\n다들 기모노에는 별로 관심이 없나?\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "이렇게 눈에 띄는 옷차림🎎을 하고 다니면, 길거리에서 시선을 받는 건 이제 익숙한데\n어라?\n왠지 이 학교는, 주변 사람들이랑 눈이 잘 안 마주치는 것 같아? 😎✨\n\n왜 그럴까……\n다들 기모노에는 별로 관심이 없나?\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799088,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 89,
+      "prompt_tokens": 123,
+      "total_tokens": 212,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

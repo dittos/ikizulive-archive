@@ -1,0 +1,36 @@
+{
+  "id": "1907684239321223628",
+  "translated_text": "오늘은 엄청 춥다 ❄️⛄!\n벌써 봄이 왔다고 생각했는데 😿\n그런데도 오늘도 우편함📮이 신경 쓰여서 1시간마다 보고 있지만\n아직 텅 비어있어…\n2주 전에 보낸 영상 오디션 심사 결과가 슬슬 돌아올 때가 됐는데 💦\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "오늘은 엄청 춥다 ❄️⛄!\n벌써 봄이 왔다고 생각했는데 😿\n그런데도 오늘도 우편함📮이 신경 쓰여서 1시간마다 보고 있지만\n아직 텅 비어있어…\n2주 전에 보낸 영상 오디션 심사 결과가 슬슬 돌아올 때가 됐는데 💦\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799151,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 92,
+      "prompt_tokens": 128,
+      "total_tokens": 220,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

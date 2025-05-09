@@ -1,0 +1,36 @@
+{
+  "id": "1907619059958690064",
+  "translated_text": "이제부터 온디맨드 수업은 배속 시청⌛으로 빨리 끝내고, 그만큼 남는 시간은 전부 프로그래밍💻에 쓸 거야!\n공백의 아름다운 3년✨✨\n최고!!!!\n이 기간을 아주 유효하게 써서 3년 후에는 꼭 세상에 mai azabu라는 이름을 떨쳐 보이겠어!\n아마👌\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "이제부터 온디맨드 수업은 배속 시청⌛으로 빨리 끝내고, 그만큼 남는 시간은 전부 프로그래밍💻에 쓸 거야!\n공백의 아름다운 3년✨✨\n최고!!!!\n이 기간을 아주 유효하게 써서 3년 후에는 꼭 세상에 mai azabu라는 이름을 떨쳐 보이겠어!\n아마👌\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799132,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 101,
+      "prompt_tokens": 145,
+      "total_tokens": 246,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

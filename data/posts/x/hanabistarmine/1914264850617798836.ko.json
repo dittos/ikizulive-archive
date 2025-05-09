@@ -1,0 +1,36 @@
+{
+  "id": "1914264850617798836",
+  "translated_text": "기모노를 좀 더 모두의 평상복으로! 👘✨\n\n세계로 뻗어 나가는 기모노 활동가 하나비입니다. 🎆\n이번 주말도 엄청 바빠서 아사쿠사의 옷 가게 매장에 서 있으면 역시 요즘 외국인 관광객의 엄청남을 피부로 느끼지만 🦋\n역시 저는 좀 더 많은 일본인들이 평상복으로 입어주었으면 좋겠어요!!\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "기모노를 좀 더 모두의 평상복으로! 👘✨\n\n세계로 뻗어 나가는 기모노 활동가 하나비입니다. 🎆\n이번 주말도 엄청 바빠서 아사쿠사의 옷 가게 매장에 서 있으면 역시 요즘 외국인 관광객의 엄청남을 피부로 느끼지만 🦋\n역시 저는 좀 더 많은 일본인들이 평상복으로 입어주었으면 좋겠어요!!\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799093,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 117,
+      "prompt_tokens": 140,
+      "total_tokens": 257,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

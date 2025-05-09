@@ -1,0 +1,36 @@
+{
+  "id": "1912073410370224578",
+  "translated_text": "드디어 마이마이랑 같이 방과 후 맥도날드에서 감자튀김🍟 먹는 데 성공~!!\n\n고등학교 생활의 꿈 하나를 이뤘다✨✨\n\n마이짱은 별로 맥도날드에 안 가는 것 같아\n\n감자튀김에 카페오레☕ 시켰더라\n\n포르카는 한겨울에도 콜라파입니다🥤\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "드디어 마이마이랑 같이 방과 후 맥도날드에서 감자튀김🍟 먹는 데 성공~!!\n\n고등학교 생활의 꿈 하나를 이뤘다✨✨\n\n마이짱은 별로 맥도날드에 안 가는 것 같아\n\n감자튀김에 카페오레☕ 시켰더라\n\n포르카는 한겨울에도 콜라파입니다🥤\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799054,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 95,
+      "prompt_tokens": 130,
+      "total_tokens": 225,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

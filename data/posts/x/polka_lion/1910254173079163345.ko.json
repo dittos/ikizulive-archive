@@ -1,0 +1,36 @@
+{
+  "id": "1910254173079163345",
+  "translated_text": "고등학교 2일째 ⛩✨\n\n마음을 다잡고 수업 첫날이었는데\n\n온라인으로 대혼란!!!😫😫😫\n\n어떡해, 이거 뭐야!?\n어\n어어어!?💦\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "고등학교 2일째 ⛩✨\n\n마음을 다잡고 수업 첫날이었는데\n\n온라인으로 대혼란!!!😫😫😫\n\n어떡해, 이거 뭐야!?\n어\n어어어!?💦\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799045,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 55,
+      "prompt_tokens": 107,
+      "total_tokens": 162,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

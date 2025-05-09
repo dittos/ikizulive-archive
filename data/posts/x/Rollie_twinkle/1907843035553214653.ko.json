@@ -1,0 +1,36 @@
+{
+  "id": "1907843035553214653",
+  "translated_text": "정신 차려보니 4월! 🎉✨\n놀랍네!\n벌써 일본은 새 학년이 시작됐잖아~🏫✨\n근데 나는 아직 당분간 집안 사정 때문에 여기 있어야 하고✈️\n아, 🤦\n분명 올해도 입학식에는 절대 못 맞추는 거 확정 🎯\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "정신 차려보니 4월! 🎉✨\n놀랍네!\n벌써 일본은 새 학년이 시작됐잖아~🏫✨\n근데 나는 아직 당분간 집안 사정 때문에 여기 있어야 하고✈️\n아, 🤦\n분명 올해도 입학식에는 절대 못 맞추는 거 확정 🎯\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799169,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 80,
+      "prompt_tokens": 128,
+      "total_tokens": 208,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

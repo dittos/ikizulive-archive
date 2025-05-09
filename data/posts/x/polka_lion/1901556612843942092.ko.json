@@ -1,0 +1,36 @@
+{
+  "id": "1901556612843942092",
+  "translated_text": "그러니까\n\n분명 내일부터는 괜찮을 거야\n",
+  "lang": "ko",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "그러니까\n\n분명 내일부터는 괜찮을 거야\n",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746799047,
+    "model": "gemini-2.0-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 17,
+      "prompt_tokens": 77,
+      "total_tokens": 94,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}
