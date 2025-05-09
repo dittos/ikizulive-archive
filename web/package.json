@@ -1,0 +1,40 @@
+{
+  "name": "web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "react-router build",
+    "dev": "react-router dev",
+    "start": "react-router-serve ./build/server/index.js",
+    "typecheck": "react-router typegen && tsc"
+  },
+  "dependencies": {
+    "@js-temporal/polyfill": "^0.5.1",
+    "@radix-ui/react-avatar": "^1.1.9",
+    "@radix-ui/react-checkbox": "^1.3.1",
+    "@radix-ui/react-slot": "^1.2.2",
+    "@react-router/node": "^7.5.3",
+    "@react-router/serve": "^7.5.3",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "isbot": "^5.1.27",
+    "lucide-react": "^0.507.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router": "^7.5.3",
+    "tailwind-merge": "^3.2.0"
+  },
+  "devDependencies": {
+    "@react-router/dev": "^7.5.3",
+    "@tailwindcss/vite": "^4.1.4",
+    "@types/node": "^20",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "tailwindcss": "^4.1.4",
+    "tw-animate-css": "^1.2.9",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.3",
+    "vite-tsconfig-paths": "^5.1.4"
+  }
+}
