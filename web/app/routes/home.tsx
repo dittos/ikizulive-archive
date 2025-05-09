@@ -2,10 +2,11 @@ import { useState } from "react"
 import { Temporal, Intl } from "@js-temporal/polyfill"
 import { Avatar, AvatarFallback, AvatarImage } from "~/components/ui/avatar"
 import { Checkbox } from "~/components/ui/checkbox"
-import type { AllData, Post } from "~/data"
+import type { AllData, Post, TranslatedPost } from "~/data"
 import type { Route } from "./+types/home";
-import { loadAllData } from "~/data";
-import { STRINGS } from "~/i18n"
+import { loadAllData, loadTranslatedPosts } from "~/data";
+import { STRINGS, type Strings } from "~/i18n"
+import { SquareArrowOutUpRightIcon } from "lucide-react"
 
 export async function loader({ params }: Route.LoaderArgs) {
   const strings = STRINGS[params.lang as keyof typeof STRINGS];
@@ -15,6 +16,7 @@ export async function loader({ params }: Route.LoaderArgs) {
   return {
     strings,
     ...(await loadAllData()),
+    translatedPosts: await loadTranslatedPosts(params.lang),
   };
 }
 
@@ -28,7 +30,7 @@ export default function Home({
   loaderData,
   params,
 }: Route.ComponentProps) {
-  const { accounts, postsByDate, strings } = loaderData
+  const { accounts, postsByDate, strings, translatedPosts } = loaderData
   const [selectedAccounts, setSelectedAccounts] = useState(accounts.map((account) => account.username))
 
   // Filter tweets by selected accounts and group by date
@@ -50,7 +52,7 @@ export default function Home({
       <h1 className="text-2xl font-bold mb-6">{strings.home.title}</h1>
 
       {/* Account filter section */}
-      <div className="bg-white dark:bg-gray-800 rounded-lg shadow p-4 mb-6">
+      <div className="bg-white rounded-lg shadow p-4 mb-6">
         <h2 className="text-lg font-semibold mb-3">{strings.home.accountFilter}</h2>
         <div className="flex flex-wrap gap-y-3 gap-x-6">
           {accounts.map((account) => (
@@ -75,7 +77,7 @@ export default function Home({
         </div>
       </div>
 
-      <Posts lang={params.lang} accounts={accounts} posts={filteredTweets} />
+      <Posts strings={strings} lang={params.lang} accounts={accounts} posts={filteredTweets} translatedPosts={translatedPosts} />
     </div>
   )
 }
@@ -84,10 +86,14 @@ function Posts({
   lang,
   accounts,
   posts,
+  translatedPosts,
+  strings,
 }: {
   lang: string;
   accounts: AllData["accounts"];
   posts: Post[];
+  translatedPosts: { [id: string]: TranslatedPost };
+  strings: Strings;
 }) {
   // Group tweets by date (YYYY-MM-DD)
   const groupedTweets = posts.reduce((groups, post) => {
@@ -124,14 +130,14 @@ function Posts({
   return (
     <div className="space-y-8">
       {sortedDates.map((dateStr) => (
-        <div key={dateStr} className="bg-white dark:bg-gray-800 rounded-lg shadow overflow-hidden">
+        <div key={dateStr} className="bg-white rounded-lg shadow overflow-hidden">
           {/* Date header with profile pictures */}
-          <div className="p-4 bg-gray-50 dark:bg-gray-900 border-b">
+          <div className="p-4 bg-gray-50 border-b">
             <div className="flex items-center">
               <h2 className="text-xl font-semibold mr-4">{formatDateHeader(dateStr)}</h2>
               <div className="flex -space-x-2">
                 {getAccountsForDate(dateStr).map((account, index) => (
-                  <Avatar key={account.id} className="border-2 border-white dark:border-gray-900 h-8 w-8">
+                  <Avatar key={account.id} className="border-2 border-white h-8 w-8">
                     <AvatarImage src={account.profileImage || "/placeholder.svg"} alt={account.name} />
                     <AvatarFallback>{account.name.substring(0, 2)}</AvatarFallback>
                   </Avatar>
@@ -144,28 +150,17 @@ function Posts({
           <div className="divide-y">
             {groupedTweets[dateStr]
               .sort((a, b) => new Date(b.created_at).getTime() - new Date(a.created_at).getTime())
-              .map((post) => (
-                <div key={post.id} className="p-4">
-                  <div className="flex">
-                    <Avatar className="h-10 w-10 mr-3">
-                      <AvatarImage
-                        src={post.user.profile_image_url_https}
-                        alt={post.user.name}
-                      />
-                    </Avatar>
-                    <div className="flex-1">
-                      <div className="flex items-center">
-                        <span className="font-semibold">{post.user.name}</span>
-                        <span className="text-gray-500 dark:text-gray-400 ml-2">@{post.user.screen_name}</span>
-                        <a href={`https://x.com/${post.user.screen_name}/status/${post.id}`} className="text-gray-500 dark:text-gray-400 ml-2 text-sm" target="_blank">
-                          {Temporal.Instant.from(post.created_at).toZonedDateTimeISO("Asia/Tokyo").toPlainTime().toLocaleString(lang, { timeStyle: "short" })}
-                        </a>
-                      </div>
-                      <p className="mt-1 text-gray-600 dark:text-gray-300 whitespace-pre-wrap">{post.text}</p>
-                    </div>
-                  </div>
-                </div>
-              ))}
+              .map((post) => {
+                const translatedPost = translatedPosts[post.id]
+                return (
+                  <Post
+                    key={post.id}
+                    post={post}
+                    translatedPost={translatedPost}
+                    strings={strings}
+                  />
+                );
+              })}
           </div>
         </div>
       ))}
@@ -181,4 +176,57 @@ function Posts({
       </div> */}
     </div>
   );
+}
+
+function Post({
+  post,
+  translatedPost,
+  strings,
+}: {
+  post: Post;
+  translatedPost?: TranslatedPost;
+  strings: Strings;
+}) {
+  const [showOriginal, setShowOriginal] = useState(false)
+
+  return (
+    <div className="p-4" id={post.id}>
+      <div className="flex">
+        <Avatar className="h-10 w-10 mr-3">
+          <AvatarImage src={post.user.profile_image_url_https} alt={post.user.name} />
+        </Avatar>
+        <div className="flex-1">
+          <div className="flex flex-wrap items-center">
+            <span className="font-semibold">{post.user.name}</span>
+            <span className="text-gray-500 ml-2">@{post.user.screen_name}</span>
+            <a href={`#${post.id}`} className="text-gray-500 ml-2 text-sm">
+              {Temporal.Instant.from(post.created_at).toZonedDateTimeISO("Asia/Tokyo").toPlainTime().toLocaleString("ko-KR", { timeStyle: "short" })}
+            </a>
+            <span className="ml-auto" />
+            <a href={`https://x.com/${post.user.screen_name}/status/${post.id}`} target="_blank" rel="noopener noreferrer" className="text-gray-400 ml-2 text-sm">
+              <SquareArrowOutUpRightIcon size={16} />
+            </a>
+          </div>
+          <div className="flex mt-1 gap-x-6 max-md:flex-col max-md:gap-y-3">
+            <p className="text-gray-800 whitespace-pre-wrap flex-1">
+              {translatedPost?.translated_text ?? post.text}
+            </p>
+            {showOriginal && (
+              <p className="text-gray-500 whitespace-pre-wrap flex-1">
+                {post.text}
+              </p>
+            )}
+          </div>
+          {translatedPost && (
+            <p className="mt-2 text-gray-500 text-sm md:float-right">
+              <a href="#" onClick={(e) => {
+                e.preventDefault()
+                setShowOriginal(!showOriginal)
+              }}>{showOriginal ? strings.home.hideOriginal : strings.home.showOriginal}</a> &middot; {strings.home.translatedBy}: {translatedPost.raw_data?.model}
+            </p>
+          )}
+        </div>
+      </div>
+    </div>
+  )
 }

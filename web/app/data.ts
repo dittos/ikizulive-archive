@@ -19,6 +19,14 @@ export type Post = {
   };
 }
 
+export type TranslatedPost = {
+  id: string;
+  translated_text: string;
+  raw_data?: {
+    model?: string;
+  };
+}
+
 export type AllData = {
   accounts: Account[];
   postsByDate: {
@@ -27,24 +35,20 @@ export type AllData = {
   }[];
 }
 
+async function loadAccounts() {
+  const data = await fs.readFile("../data/accounts.json", "utf-8");
+  return JSON.parse(data);
+}
+
 export async function loadAllData(): Promise<AllData> {
-  const accounts: any[] = [
-    {"x": "ikizulive_staff"},
-    {"x": "polka_lion"},
-    {"x": "hanabistarmine"},
-    {"x": "G_Akky304250"},
-    {"x": "My_Mai_Eld"},
-    {"x": "Noricco_U"},
-    {"x": "MiracleGoldSP"},
-    {"x": "Rollie_twinkle"},
-    {"x": "Yukuri_talk"},
-  ];
+  const accounts = await loadAccounts();
   const allPosts = [];
   for (const account of accounts) {
     const files = await fs.readdir(`../data/posts/x/${account.x}`)
     const posts: Post[] = [];
     for (const file of files) {
       if (!file.endsWith(".json")) continue;
+      if (file.replace(".json", "").includes(".")) continue; // translation
       const data = await fs.readFile(`../data/posts/x/${account.x}/${file}`, "utf-8");
       const json = JSON.parse(data);
       posts.push({
@@ -83,4 +87,19 @@ export async function loadAllData(): Promise<AllData> {
     accounts,
     postsByDate,
   };
+}
+
+export async function loadTranslatedPosts(lang: string): Promise<{ [id: string]: TranslatedPost }> {
+  const accounts = await loadAccounts();
+  const translations: { [id: string]: TranslatedPost } = {};
+  for (const account of accounts) {
+    const files = await fs.readdir(`../data/posts/x/${account.x}`);
+    for (const file of files) {
+      if (!file.endsWith(`.${lang}.json`)) continue;
+      const data = await fs.readFile(`../data/posts/x/${account.x}/${file}`, "utf-8");
+      const json = JSON.parse(data) as TranslatedPost;
+      translations[json.id] = json;
+    }
+  }
+  return translations;
 }
