@@ -1,7 +1,8 @@
 {
   "id": "1910300226465771978",
-  "translated_text": "인터넷 고등학교에 입학한다면서 마이페이지 로그인💻도 못 한다니 무슨 일이야!?\n혹시 컴퓨터 처음 써보는 거야!?\n되도록 엮이지 말아야겠다고 굳게 결심💪\n\n그녀는 2살이지만, 나는 최신의 최대 메르센 소수라고!\n",
+  "translated_text": "온라인 고등학교에 입학한다는데 마이페이지 로그인💻도 안 된다는 게 무슨 일이야!?\n혹시 컴퓨터 처음 써봐!?\n되도록 엮이지 말아야겠다고 굳게 결심💪\n\n그녀는 2살이지만, 나는 최신의 최대 메르센 소수라고!\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "인터넷 고등학교에 입학한다면서 마이페이지 로그인💻도 못 한다니 무슨 일이야!?\n혹시 컴퓨터 처음 써보는 거야!?\n되도록 엮이지 말아야겠다고 굳게 결심💪\n\n그녀는 2살이지만, 나는 최신의 최대 메르센 소수라고!\n",
+          "content": "온라인 고등학교에 입학한다는데 마이페이지 로그인💻도 안 된다는 게 무슨 일이야!?\n혹시 컴퓨터 처음 써봐!?\n되도록 엮이지 말아야겠다고 굳게 결심💪\n\n그녀는 2살이지만, 나는 최신의 최대 메르센 소수라고!\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799130,
+    "created": 1746802544,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 85,
-      "prompt_tokens": 122,
-      "total_tokens": 207,
+      "completion_tokens": 82,
+      "prompt_tokens": 180,
+      "total_tokens": 262,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

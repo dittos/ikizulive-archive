@@ -1,7 +1,8 @@
 {
   "id": "1914906578903257133",
-  "translated_text": "LA 기념품의 새로운 스테디셀러라고 하면 당연히 파란 야구 모자🧢✨\n그래서 오늘은 몇 개 사 왔지롱🎵\n그리고 제일 좋아하는 아나스타샤 화장품에 트레이더 조스의 에코백, 캐리어 가득 채워서 드디어 다음 주에는 귀국이야~🎁💄💝\n",
+  "translated_text": "LA 기념품👙🏄🌞의 새로운 스테디셀러라고 하면 당연히ーー파란 야구 모자🧢✨\n라는わけで, 오늘은 몇 개 사왔다🎵\n그리고 제일 좋아하는 아나스타샤 화장품에 트레이더 조스의 에코백, 캐리어 가득 채워서 드디어 다음 주에는 귀국이야~🎁💄💝\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "LA 기념품의 새로운 스테디셀러라고 하면 당연히 파란 야구 모자🧢✨\n그래서 오늘은 몇 개 사 왔지롱🎵\n그리고 제일 좋아하는 아나스타샤 화장품에 트레이더 조스의 에코백, 캐리어 가득 채워서 드디어 다음 주에는 귀국이야~🎁💄💝\n",
+          "content": "LA 기념품👙🏄🌞의 새로운 스테디셀러라고 하면 당연히ーー파란 야구 모자🧢✨\n라는わけで, 오늘은 몇 개 사왔다🎵\n그리고 제일 좋아하는 아나스타샤 화장품에 트레이더 조스의 에코백, 캐리어 가득 채워서 드디어 다음 주에는 귀국이야~🎁💄💝\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799164,
+    "created": 1746802577,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 87,
-      "prompt_tokens": 130,
-      "total_tokens": 217,
+      "completion_tokens": 89,
+      "prompt_tokens": 188,
+      "total_tokens": 277,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

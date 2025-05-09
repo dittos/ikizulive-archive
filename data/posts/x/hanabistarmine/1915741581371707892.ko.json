@@ -1,7 +1,8 @@
 {
   "id": "1915741581371707892",
-  "translated_text": "좋아👘\n첫 손님 특전🎁으로, 나랑 똑같은 한 벌 특별히 선물해 줄까나!\n둘이 같이 입으면 지금보다 눈에 띄고, 더 제복 느낌이 날 테니까, 더 주목받을 수 있을 거야🎆\n",
+  "translated_text": "좋아👘\n첫 손님 특전🎁으로, 나랑 똑같은 한 벌 특별히 선물해 줄까나!\n둘이 같이 입고 있으면 지금보다 눈에 띄고, 더 제복 느낌이 날 것 같으니까, 더 주목받을 수 있을 거야🎆\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "좋아👘\n첫 손님 특전🎁으로, 나랑 똑같은 한 벌 특별히 선물해 줄까나!\n둘이 같이 입으면 지금보다 눈에 띄고, 더 제복 느낌이 날 테니까, 더 주목받을 수 있을 거야🎆\n",
+          "content": "좋아👘\n첫 손님 특전🎁으로, 나랑 똑같은 한 벌 특별히 선물해 줄까나!\n둘이 같이 입고 있으면 지금보다 눈에 띄고, 더 제복 느낌이 날 것 같으니까, 더 주목받을 수 있을 거야🎆\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799095,
+    "created": 1746802509,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 69,
-      "prompt_tokens": 123,
-      "total_tokens": 192,
+      "completion_tokens": 73,
+      "prompt_tokens": 181,
+      "total_tokens": 254,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

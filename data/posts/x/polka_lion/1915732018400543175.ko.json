@@ -2,6 +2,7 @@
   "id": "1915732018400543175",
   "translated_text": "이런 거 이제\n\n할 수밖에 없어!!\n\n라고 폴카는 생각합니다💪\n\n그러니까 이제 남은 건\n동료 모으기💛\n\n이런 건 진심으로 하면 반드시 길은 열려!\n라고 저는 고등학교 입시에서 배웠으니까📖\n\n하이퍼 진심으로 열심히 하겠습니다!!!\n\n졌다고 해도ーー다음이 있어✨\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799049,
+    "created": 1746802463,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 95,
-      "prompt_tokens": 133,
-      "total_tokens": 228,
+      "prompt_tokens": 191,
+      "total_tokens": 286,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

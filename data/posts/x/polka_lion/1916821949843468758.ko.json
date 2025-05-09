@@ -1,7 +1,8 @@
 {
   "id": "1916821949843468758",
-  "translated_text": "やった!\nやったやったやったやった!!!\n\n하늘의 신령님⛩도 아르헨티나 엄마 아빠도 보십시오~☀✨✨\n폴카가 해냈습니다~!!!\n",
+  "translated_text": "해냈다!\n해냈다 해냈다 해냈다 해냈다!!!\n\n하늘의 신님⛩도 아르헨티나 엄마도 아빠도 보고 계세요~☀✨✨\n폴카는 해냈습니다~!!!\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "やった!\nやったやったやったやった!!!\n\n하늘의 신령님⛩도 아르헨티나 엄마 아빠도 보십시오~☀✨✨\n폴카가 해냈습니다~!!!\n",
+          "content": "해냈다!\n해냈다 해냈다 해냈다 해냈다!!!\n\n하늘의 신님⛩도 아르헨티나 엄마도 아빠도 보고 계세요~☀✨✨\n폴카는 해냈습니다~!!!\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799063,
+    "created": 1746802477,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 43,
-      "prompt_tokens": 107,
-      "total_tokens": 150,
+      "completion_tokens": 54,
+      "prompt_tokens": 165,
+      "total_tokens": 219,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

@@ -1,7 +1,8 @@
 {
   "id": "1911753301294780846",
-  "translated_text": "유카타는 입기도 쉽고, 누구나 입을 수 있어서 정말 편리한 건 알겠어🎆!\n\n그렇지만! 기모노를 너무나 사랑하는💘 나로서는 옷깃이나 옷자락 맞춤, 에리누키, 오하쇼리의 아름다움도 즐겨줬으면 좋겠어!! 라고 자꾸 생각해버려👘✨\n",
+  "translated_text": "유카타는, 입는 방법도 간단하고, 누구든 입을 수 있고 정말 편리하지🎆\n라는 건 알고 있지만!\n\n기모노 러브💘인 나로서는 무늬 맞춤이나 옷깃 빼기, 오하쇼리의 아름다움도 즐겨줬으면 좋겠어!! 라고 아무래도 생각해버려👘✨\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "유카타는 입기도 쉽고, 누구나 입을 수 있어서 정말 편리한 건 알겠어🎆!\n\n그렇지만! 기모노를 너무나 사랑하는💘 나로서는 옷깃이나 옷자락 맞춤, 에리누키, 오하쇼리의 아름다움도 즐겨줬으면 좋겠어!! 라고 자꾸 생각해버려👘✨\n",
+          "content": "유카타는, 입는 방법도 간단하고, 누구든 입을 수 있고 정말 편리하지🎆\n라는 건 알고 있지만!\n\n기모노 러브💘인 나로서는 무늬 맞춤이나 옷깃 빼기, 오하쇼리의 아름다움도 즐겨줬으면 좋겠어!! 라고 아무래도 생각해버려👘✨\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799092,
+    "created": 1746802506,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 93,
-      "prompt_tokens": 123,
-      "total_tokens": 216,
+      "completion_tokens": 90,
+      "prompt_tokens": 181,
+      "total_tokens": 271,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

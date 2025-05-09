@@ -1,7 +1,8 @@
 {
   "id": "1915731766763282709",
-  "translated_text": "그런 일이 있다니!\n\n마치 나만을 위한 이야기 같잖아💖✨\n\n라고 했더니\n\n마이쨩한테 콧방귀 뀌어졌지만👻\n\n그래도 말야\n",
+  "translated_text": "그런 일이 있다니!\n\n마치 나를 위해 있는 것 같은 이야기잖아💖✨\n\n라고 했더니\n\n마이쨩한테 콧방귀 뀌어졌지만👻\n\n근데 말야\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "그런 일이 있다니!\n\n마치 나만을 위한 이야기 같잖아💖✨\n\n라고 했더니\n\n마이쨩한테 콧방귀 뀌어졌지만👻\n\n그래도 말야\n",
+          "content": "그런 일이 있다니!\n\n마치 나를 위해 있는 것 같은 이야기잖아💖✨\n\n라고 했더니\n\n마이쨩한테 콧방귀 뀌어졌지만👻\n\n근데 말야\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799043,
+    "created": 1746802458,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 50,
-      "prompt_tokens": 102,
-      "total_tokens": 152,
+      "prompt_tokens": 160,
+      "total_tokens": 210,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

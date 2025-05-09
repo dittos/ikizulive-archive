@@ -1,7 +1,8 @@
 {
   "id": "1910606746151768230",
-  "translated_text": "라고 말했더니\n\n마이쨩이 \"폴카의 예상이 너무 낮대\"라고 말했다...\n\n확실히 ⛩\n",
+  "translated_text": "라고 했더니\n\n마이쨩이 \"폴카의 예상이 너무 낮대\"라고 말했다...\n\n확실히 ⛩\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "라고 말했더니\n\n마이쨩이 \"폴카의 예상이 너무 낮대\"라고 말했다...\n\n확실히 ⛩\n",
+          "content": "라고 했더니\n\n마이쨩이 \"폴카의 예상이 너무 낮대\"라고 말했다...\n\n확실히 ⛩\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799056,
+    "created": 1746802471,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 34,
-      "prompt_tokens": 95,
-      "total_tokens": 129,
+      "prompt_tokens": 153,
+      "total_tokens": 187,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

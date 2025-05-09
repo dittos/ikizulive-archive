@@ -1,7 +1,8 @@
 {
   "id": "1904729016784830655",
-  "translated_text": "어라어라어라?\n\n와, 혹시 교복 없는 거야? ⛩\n\n대단하다, L고!\n",
+  "translated_text": "어라 어라 어라?\n\n와, 혹시 교복 없는 거야? ⛩\n\n대단하다, L고!\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "어라어라어라?\n\n와, 혹시 교복 없는 거야? ⛩\n\n대단하다, L고!\n",
+          "content": "어라 어라 어라?\n\n와, 혹시 교복 없는 거야? ⛩\n\n대단하다, L고!\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799044,
+    "created": 1746802458,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 30,
-      "prompt_tokens": 92,
-      "total_tokens": 122,
+      "prompt_tokens": 150,
+      "total_tokens": 180,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

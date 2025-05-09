@@ -1,7 +1,8 @@
 {
   "id": "1909141340308582414",
-  "translated_text": "응, 진짜 최고, 트레비앙~🏔\n무조건 다 맛있을 거야~!!\n주 1회 오픈🏰\n매진되면 바로 종료되는 온라인 한정💝\n현역 고등학생 파티시에의 기적 같은 스위츠 가게🍧🎂🍭🍬🍰🧁\n다들 응원해 줘~!!💪✨\n",
+  "translated_text": "응, 진짜 최고, 트레비앙~🏔\n무조건 다 맛있을 거야~!!\n주 1회 개점🏰\n매진되는 대로 바로 종료되는 온라인 한정💝\n현역 고등학생 파티시에 미라클의 스위츠 가게🍧🎂🍭🍬🍰🧁\n다들 응원해줘~!!💪✨\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "응, 진짜 최고, 트레비앙~🏔\n무조건 다 맛있을 거야~!!\n주 1회 오픈🏰\n매진되면 바로 종료되는 온라인 한정💝\n현역 고등학생 파티시에의 기적 같은 스위츠 가게🍧🎂🍭🍬🍰🧁\n다들 응원해 줘~!!💪✨\n",
+          "content": "응, 진짜 최고, 트레비앙~🏔\n무조건 다 맛있을 거야~!!\n주 1회 개점🏰\n매진되는 대로 바로 종료되는 온라인 한정💝\n현역 고등학생 파티시에 미라클의 스위츠 가게🍧🎂🍭🍬🍰🧁\n다들 응원해줘~!!💪✨\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799154,
+    "created": 1746802567,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 89,
-      "prompt_tokens": 131,
-      "total_tokens": 220,
+      "prompt_tokens": 189,
+      "total_tokens": 278,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

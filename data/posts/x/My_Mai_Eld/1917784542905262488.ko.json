@@ -1,7 +1,8 @@
 {
   "id": "1917784542905262488",
-  "translated_text": "세상에는 화려하고 으리으리한 거대 온라인 고등학교도 있지만, 솔직히 말해서 우리 학교는 온라인 고등학교 중에서도 약체이고 시설이나 설비가 너무 빈약해서 도산설까지 돌고 있는 것 같아.\n",
+  "translated_text": "세상에는 반짝반짝 화려한 거대 인터넷 고등학교도 있지만\n솔직히 말해서 우리 학교는 인터넷 고등학교 중에서도 약소하고\n시설이나 설비가 너무 빈약해서 도산설까지 돌고 있는 것 같아\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "세상에는 화려하고 으리으리한 거대 온라인 고등학교도 있지만, 솔직히 말해서 우리 학교는 온라인 고등학교 중에서도 약체이고 시설이나 설비가 너무 빈약해서 도산설까지 돌고 있는 것 같아.\n",
+          "content": "세상에는 반짝반짝 화려한 거대 인터넷 고등학교도 있지만\n솔직히 말해서 우리 학교는 인터넷 고등학교 중에서도 약소하고\n시설이나 설비가 너무 빈약해서 도산설까지 돌고 있는 것 같아\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799137,
+    "created": 1746802551,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 68,
-      "prompt_tokens": 109,
-      "total_tokens": 177,
+      "completion_tokens": 63,
+      "prompt_tokens": 167,
+      "total_tokens": 230,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

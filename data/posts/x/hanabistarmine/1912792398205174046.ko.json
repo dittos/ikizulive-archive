@@ -1,7 +1,8 @@
 {
   "id": "1912792398205174046",
-  "translated_text": "오늘도 기모노 보급 활동의 일환으로 학교에도 기모노를 입고 등교~👘🎵\n가게와 다르게, 여기서는 저와 비슷한 또래의 젊은 친구들에게 어필하고 싶으니까\n기모노 어레인지로 프릴이 달린 속옷을 받쳐 입고 하이칼라 메이드풍으로☕✨\n",
+  "translated_text": "오늘도 기모노 보급 활동의 일환으로, 학교에도 기모노를 입고 등교~👘🎵\n가게와 다르게, 여기서는 저와 비슷한 나이 또래의 젊은 친구들에게 어필하고 싶으니까\n기모노 어레인지로 프릴 달린 속옷을 준비해서 하이칼라 메이드풍☕✨\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "오늘도 기모노 보급 활동의 일환으로 학교에도 기모노를 입고 등교~👘🎵\n가게와 다르게, 여기서는 저와 비슷한 또래의 젊은 친구들에게 어필하고 싶으니까\n기모노 어레인지로 프릴이 달린 속옷을 받쳐 입고 하이칼라 메이드풍으로☕✨\n",
+          "content": "오늘도 기모노 보급 활동의 일환으로, 학교에도 기모노를 입고 등교~👘🎵\n가게와 다르게, 여기서는 저와 비슷한 나이 또래의 젊은 친구들에게 어필하고 싶으니까\n기모노 어레인지로 프릴 달린 속옷을 준비해서 하이칼라 메이드풍☕✨\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799091,
+    "created": 1746802505,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 90,
-      "prompt_tokens": 128,
-      "total_tokens": 218,
+      "prompt_tokens": 186,
+      "total_tokens": 276,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

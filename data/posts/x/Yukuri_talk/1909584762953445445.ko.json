@@ -1,7 +1,8 @@
 {
   "id": "1909584762953445445",
-  "translated_text": "어제 도쿄에서 돌아와서 내일부터 드디어 새로운 생활 시작!\n역시 레슨 후기는 최고였어✨✨🌟\n언젠가 저렇게 되고 싶다고 생각해서, 레슨 우선의 생활을 하기 위해 온라인 고등학교로 진학하기로 결정했는데…\n앞으로 내가 어디를 향해 달려갈지\n나조차도 모르는 게 조금은ーー즐겁고 나조차도 의외야🥰\n",
+  "translated_text": "어제 도쿄에서 돌아와 내일부터는 드디어 새로운 생활!\n역시 LOVELIVE! BLUEBIRD 리뷰는 최고였어✨✨🌟\n언젠가 저렇게 되고 싶다고 생각해서, 레슨 우선의 생활을 하기 위해 인터넷 고등학교로 진학하기로 결정했는데…\n앞으로의 내가 어디를 향해 달려갈지\n나도 모르는 게 조금ーー즐거워서 나조차도 의외🥰\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "어제 도쿄에서 돌아와서 내일부터 드디어 새로운 생활 시작!\n역시 레슨 후기는 최고였어✨✨🌟\n언젠가 저렇게 되고 싶다고 생각해서, 레슨 우선의 생활을 하기 위해 온라인 고등학교로 진학하기로 결정했는데…\n앞으로 내가 어디를 향해 달려갈지\n나조차도 모르는 게 조금은ーー즐겁고 나조차도 의외야🥰\n",
+          "content": "어제 도쿄에서 돌아와 내일부터는 드디어 새로운 생활!\n역시 LOVELIVE! BLUEBIRD 리뷰는 최고였어✨✨🌟\n언젠가 저렇게 되고 싶다고 생각해서, 레슨 우선의 생활을 하기 위해 인터넷 고등학교로 진학하기로 결정했는데…\n앞으로의 내가 어디를 향해 달려갈지\n나도 모르는 게 조금ーー즐거워서 나조차도 의외🥰\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799182,
+    "created": 1746802593,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 112,
-      "prompt_tokens": 134,
-      "total_tokens": 246,
+      "prompt_tokens": 192,
+      "total_tokens": 304,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

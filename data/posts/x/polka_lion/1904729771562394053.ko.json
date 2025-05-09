@@ -1,7 +1,8 @@
 {
   "id": "1904729771562394053",
-  "translated_text": "저, 몸을 조이는 옷을 싫어해서\n\n넥타이 같은 거 바로 답답해져서 헐렁하게 하고 다니다가 선생님한테 자주 혼났었거든\n\n좀 괜찮을지도💛\n",
+  "translated_text": "저, 몸을 조이는 옷이 약해서\n\n넥타이 같은 거 바로 답답해져서 헐렁하게 하고 다니다가 선생님한테 자주 혼났었거든\n\n좀 괜찮을지도💛\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "저, 몸을 조이는 옷을 싫어해서\n\n넥타이 같은 거 바로 답답해져서 헐렁하게 하고 다니다가 선생님한테 자주 혼났었거든\n\n좀 괜찮을지도💛\n",
+          "content": "저, 몸을 조이는 옷이 약해서\n\n넥타이 같은 거 바로 답답해져서 헐렁하게 하고 다니다가 선생님한테 자주 혼났었거든\n\n좀 괜찮을지도💛\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799060,
+    "created": 1746802475,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 59,
-      "prompt_tokens": 107,
-      "total_tokens": 166,
+      "completion_tokens": 57,
+      "prompt_tokens": 165,
+      "total_tokens": 222,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

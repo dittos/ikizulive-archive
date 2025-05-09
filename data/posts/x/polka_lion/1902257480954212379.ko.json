@@ -1,7 +1,8 @@
 {
   "id": "1902257480954212379",
-  "translated_text": "아아\n\n만약 이게 사실이라면!\n\n하느님, 아무리 수학을 못해도 ⛩⛩⛩\n\n이제부터 조금 더 도망치지 않고 열심히 노력하겠다고 약속할게요 🙏🙏🙏✨✨!!\n",
+  "translated_text": "아아\n\n만약 이게 사실이라면!\n\n신이시여, 아무리 수학을 못해도 ⛩⛩⛩\n\n이제부터 조금 더 도망치지 않고 열심히 하겠다고 약속할게요 🙏🙏🙏✨✨!!\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "아아\n\n만약 이게 사실이라면!\n\n하느님, 아무리 수학을 못해도 ⛩⛩⛩\n\n이제부터 조금 더 도망치지 않고 열심히 노력하겠다고 약속할게요 🙏🙏🙏✨✨!!\n",
+          "content": "아아\n\n만약 이게 사실이라면!\n\n신이시여, 아무리 수학을 못해도 ⛩⛩⛩\n\n이제부터 조금 더 도망치지 않고 열심히 하겠다고 약속할게요 🙏🙏🙏✨✨!!\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799037,
+    "created": 1746802451,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 62,
-      "prompt_tokens": 108,
-      "total_tokens": 170,
+      "completion_tokens": 61,
+      "prompt_tokens": 166,
+      "total_tokens": 227,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

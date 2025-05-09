@@ -1,7 +1,8 @@
 {
   "id": "1910585355176116376",
-  "translated_text": "인터넷 고등학교에 입학한 지 3일째🚵\n음, 매일 수업은 소화하고 있고 순조롭다\n\n기본적으로 강의는 오전에 몰아넣고 오후에는 훈련에 할애할 수 있다는 게\n굉장히 신선하게 느껴진다⛰✨\n",
+  "translated_text": "인터넷 고등학교에 입학한 지 3일째🚵\n음, 매일 수업은 소화하고 있고\n순조로워\n\n기본적으로 강의는 오전에 몰아넣고 오후에는 훈련에 할애할 수 있다는 게\n굉장히 신선한 느낌이 들어⛰✨\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "인터넷 고등학교에 입학한 지 3일째🚵\n음, 매일 수업은 소화하고 있고 순조롭다\n\n기본적으로 강의는 오전에 몰아넣고 오후에는 훈련에 할애할 수 있다는 게\n굉장히 신선하게 느껴진다⛰✨\n",
+          "content": "인터넷 고등학교에 입학한 지 3일째🚵\n음, 매일 수업은 소화하고 있고\n순조로워\n\n기본적으로 강의는 오전에 몰아넣고 오후에는 훈련에 할애할 수 있다는 게\n굉장히 신선한 느낌이 들어⛰✨\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799116,
+    "created": 1746802530,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 75,
-      "prompt_tokens": 118,
-      "total_tokens": 193,
+      "completion_tokens": 76,
+      "prompt_tokens": 176,
+      "total_tokens": 252,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

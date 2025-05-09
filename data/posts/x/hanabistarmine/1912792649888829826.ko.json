@@ -1,7 +1,8 @@
 {
   "id": "1912792649888829826",
-  "translated_text": "이렇게 눈에 띄는 옷차림🎎을 하고 다니면, 길거리에서 시선을 받는 건 이제 익숙한데\n어라?\n왠지 이 학교는, 주변 사람들이랑 눈이 잘 안 마주치는 것 같아? 😎✨\n\n왜 그럴까……\n다들 기모노에는 별로 관심이 없나?\n",
+  "translated_text": "이런 눈에 띄는 차림🎎을 하고 있으면, 길거리에서 힐끔힐끔 시선을 받는 건 이제 익숙한데\n어라?\n왠지 이 학교는, 별로 주변 사람들이랑 눈이 안 마주치는 것 같아?😎✨\n\n왜 그럴까……\n다들 별로 기모노에 관심이 없나?\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "이렇게 눈에 띄는 옷차림🎎을 하고 다니면, 길거리에서 시선을 받는 건 이제 익숙한데\n어라?\n왠지 이 학교는, 주변 사람들이랑 눈이 잘 안 마주치는 것 같아? 😎✨\n\n왜 그럴까……\n다들 기모노에는 별로 관심이 없나?\n",
+          "content": "이런 눈에 띄는 차림🎎을 하고 있으면, 길거리에서 힐끔힐끔 시선을 받는 건 이제 익숙한데\n어라?\n왠지 이 학교는, 별로 주변 사람들이랑 눈이 안 마주치는 것 같아?😎✨\n\n왜 그럴까……\n다들 별로 기모노에 관심이 없나?\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799088,
+    "created": 1746802502,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 89,
-      "prompt_tokens": 123,
-      "total_tokens": 212,
+      "completion_tokens": 91,
+      "prompt_tokens": 181,
+      "total_tokens": 272,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

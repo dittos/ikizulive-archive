@@ -1,7 +1,8 @@
 {
   "id": "1917785549626302958",
-  "translated_text": "클라우드 펀딩으로 자금을 모아서 교복 만들자는 거 요즘 흔하게 있을 법한 일이라고 생각하고\n나도 사실은\n\n학교에 아이스크림 자판기가 있으면 좀 좋겠다고 생각하고 있어😼\n뇌는 차갑게 식히는 게 중요해\n#숨쉬기힘든부",
+  "translated_text": "클라우드 펀딩으로 자금을 모아서 교복 만들자는 거 요즘 흔하게 있는 일이라고 생각하고\n나도 사실은\n\n학교에 아이스크림 자판기가 있으면 좀 좋겠다고 생각하고 있어😼\n뇌는 차갑게 식히는 게 중요해\n#살기힘든부\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "클라우드 펀딩으로 자금을 모아서 교복 만들자는 거 요즘 흔하게 있을 법한 일이라고 생각하고\n나도 사실은\n\n학교에 아이스크림 자판기가 있으면 좀 좋겠다고 생각하고 있어😼\n뇌는 차갑게 식히는 게 중요해\n#숨쉬기힘든부",
+          "content": "클라우드 펀딩으로 자금을 모아서 교복 만들자는 거 요즘 흔하게 있는 일이라고 생각하고\n나도 사실은\n\n학교에 아이스크림 자판기가 있으면 좀 좋겠다고 생각하고 있어😼\n뇌는 차갑게 식히는 게 중요해\n#살기힘든부\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799125,
+    "created": 1746802538,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 81,
-      "prompt_tokens": 120,
-      "total_tokens": 201,
+      "completion_tokens": 78,
+      "prompt_tokens": 178,
+      "total_tokens": 256,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

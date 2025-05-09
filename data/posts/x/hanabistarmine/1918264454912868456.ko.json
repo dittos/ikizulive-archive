@@ -1,7 +1,8 @@
 {
   "id": "1918264454912868456",
-  "translated_text": "기모노로 세계를 제패하려는 기모노 활동가 하나비입니다! 👘✨\n집의 옷감 가게 일도 있어서 인터넷 고등학교를 선택했을 정도라서, 동아리 활동을 할 생각은 없었지만\n#숨막히는부",
+  "translated_text": "기모노로 세계 제패를 노리는 기모노 활동가 하나비입니다! 👘✨ 친가의 옷 가게 일도 있어서 넷 고등학교를 선택했을 정도라서, 동아리 활동을 할 생각은 없었지만 #살기힘든부\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "기모노로 세계를 제패하려는 기모노 활동가 하나비입니다! 👘✨\n집의 옷감 가게 일도 있어서 인터넷 고등학교를 선택했을 정도라서, 동아리 활동을 할 생각은 없었지만\n#숨막히는부",
+          "content": "기모노로 세계 제패를 노리는 기모노 활동가 하나비입니다! 👘✨ 친가의 옷 가게 일도 있어서 넷 고등학교를 선택했을 정도라서, 동아리 활동을 할 생각은 없었지만 #살기힘든부\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799083,
+    "created": 1746802496,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 67,
-      "prompt_tokens": 117,
-      "total_tokens": 184,
+      "completion_tokens": 66,
+      "prompt_tokens": 175,
+      "total_tokens": 241,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

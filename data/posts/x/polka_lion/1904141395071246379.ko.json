@@ -1,7 +1,8 @@
 {
   "id": "1904141395071246379",
-  "translated_text": "내일은 졸업식\n\n고등학교 입시 충격으로 잊고 있었지만\n\n중학교 생활은 나름 즐거운 일도 있었지만, 마음이 무거운 일도 많았지.\n매일 무거운 앞머리가 눈앞에 드리워져 있는 것처럼.\n\n솔직히, 수학과의 싸움이었어!\n\n언젠가 숫자가 없는 세상이 되면 좋겠다✨✨\n",
+  "translated_text": "내일은 졸업식\n\n고등학교 입시 쇼크로 잊고 있었지만\n\n중학교 생활은 나름 즐거운 일도 있었지만, 마음이 무거운 일도 많았지\n매일 무거운 앞머리가 눈앞에 드리워져 있는 것 같은\n\n솔직히, 수학과의 싸움이었어!\n\n언젠가 숫자가 없는 세상이 되면 좋겠다✨✨\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "내일은 졸업식\n\n고등학교 입시 충격으로 잊고 있었지만\n\n중학교 생활은 나름 즐거운 일도 있었지만, 마음이 무거운 일도 많았지.\n매일 무거운 앞머리가 눈앞에 드리워져 있는 것처럼.\n\n솔직히, 수학과의 싸움이었어!\n\n언젠가 숫자가 없는 세상이 되면 좋겠다✨✨\n",
+          "content": "내일은 졸업식\n\n고등학교 입시 쇼크로 잊고 있었지만\n\n중학교 생활은 나름 즐거운 일도 있었지만, 마음이 무거운 일도 많았지\n매일 무거운 앞머리가 눈앞에 드리워져 있는 것 같은\n\n솔직히, 수학과의 싸움이었어!\n\n언젠가 숫자가 없는 세상이 되면 좋겠다✨✨\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799064,
+    "created": 1746802478,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 105,
-      "prompt_tokens": 130,
-      "total_tokens": 235,
+      "completion_tokens": 104,
+      "prompt_tokens": 188,
+      "total_tokens": 292,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

@@ -1,7 +1,8 @@
 {
   "id": "1920458411193610539",
-  "translated_text": "하지만 그만큼 매출도 상당하고🎉\n음 역시 많이 일하고 많이 벌어서, 녹초가 된 몸으로 먹는 말차 헤븐 파르페는 최고야!! 🍵🍡\n#살기힘든부\n",
+  "translated_text": "하지만 그만큼 매출도 상당해서🎉\n음 역시 많이 일하고 많이 벌어서, 녹초가 된 몸으로 먹는 말차 헤븐 파르페는 최고야!!🍵🍡\n#살기힘든부\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "하지만 그만큼 매출도 상당하고🎉\n음 역시 많이 일하고 많이 벌어서, 녹초가 된 몸으로 먹는 말차 헤븐 파르페는 최고야!! 🍵🍡\n#살기힘든부\n",
+          "content": "하지만 그만큼 매출도 상당해서🎉\n음 역시 많이 일하고 많이 벌어서, 녹초가 된 몸으로 먹는 말차 헤븐 파르페는 최고야!!🍵🍡\n#살기힘든부\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799078,
+    "created": 1746802491,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 60,
-      "prompt_tokens": 110,
-      "total_tokens": 170,
+      "completion_tokens": 59,
+      "prompt_tokens": 168,
+      "total_tokens": 227,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

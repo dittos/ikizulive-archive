@@ -1,7 +1,8 @@
 {
   "id": "1911655657494770160",
-  "translated_text": "학교 시작한 지 1주일도 안 됐는데\n저렇게 거리낌 없이 서로 주고받을 정도로 친해지는 게\n신기해. 🎖️\n\n나랑은 정반대인 것 같아.\n",
+  "translated_text": "학교 시작하고 1주일도 안 됐는데\n저렇게 거리낌 없이 서로 주고받을 정도로 친해지다니\n대단하네🎖️\n\n나랑은 정반대라고 생각해\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "학교 시작한 지 1주일도 안 됐는데\n저렇게 거리낌 없이 서로 주고받을 정도로 친해지는 게\n신기해. 🎖️\n\n나랑은 정반대인 것 같아.\n",
+          "content": "학교 시작하고 1주일도 안 됐는데\n저렇게 거리낌 없이 서로 주고받을 정도로 친해지다니\n대단하네🎖️\n\n나랑은 정반대라고 생각해\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799111,
+    "created": 1746802525,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 56,
-      "prompt_tokens": 107,
-      "total_tokens": 163,
+      "completion_tokens": 53,
+      "prompt_tokens": 165,
+      "total_tokens": 218,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

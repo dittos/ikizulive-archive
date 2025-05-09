@@ -1,7 +1,8 @@
 {
   "id": "1912964532961743318",
-  "translated_text": "자, 그럼💖\n\n오늘 ローラ의 추천 아이템은 헤어 오일💄💎!\n특히 왁스 싫어하는 남자분들에게 윤기와 텍스처를 연출하기에 추천👔🥝✨\n좋은 냄새 나는 사람 좋아해요💐✨\n",
+  "translated_text": "그럼 이만💖\n\n오늘 롤라의 추천 아이템은 헤어 오일💄💎!\n특히 왁스 싫어하는 남자에게도 윤기와 머리 뭉침을 연출하기에 추천👔🥝✨\n좋은 냄새가 나는 아이 좋아해요💐✨\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "자, 그럼💖\n\n오늘 ローラ의 추천 아이템은 헤어 오일💄💎!\n특히 왁스 싫어하는 남자분들에게 윤기와 텍스처를 연출하기에 추천👔🥝✨\n좋은 냄새 나는 사람 좋아해요💐✨\n",
+          "content": "그럼 이만💖\n\n오늘 롤라의 추천 아이템은 헤어 오일💄💎!\n특히 왁스 싫어하는 남자에게도 윤기와 머리 뭉침을 연출하기에 추천👔🥝✨\n좋은 냄새가 나는 아이 좋아해요💐✨\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799171,
+    "created": 1746802583,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 67,
-      "prompt_tokens": 112,
-      "total_tokens": 179,
+      "completion_tokens": 70,
+      "prompt_tokens": 170,
+      "total_tokens": 240,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

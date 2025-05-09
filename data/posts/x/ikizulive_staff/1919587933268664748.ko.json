@@ -1,7 +1,8 @@
 {
   "id": "1919587933268664748",
-  "translated_text": "이키즈라이브!\nLOVELIVE! BLUEBIRD\n\nSTART까지\n앞으로 6️⃣일!\n\nX 팔로우 &\nYouTube 채널 구독\n잘 부탁드립니다✨\n\nhttps://t.co/WYAr8yUAKD\n\n#이키즈라이부 #이키즈라이브 https://t.co/cYPaDbX2Xv\n",
+  "translated_text": "이키즈라이브!\nLOVELIVE! BLUEBIRD\n\n시작까지\n앞으로 6️⃣일!\n\nX 팔로우 &\nYouTube 채널 구독\n잘 부탁드립니다✨\n\nhttps://t.co/WYAr8yUAKD\n\n#살기힘든부 #이키즈라이브\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "이키즈라이브!\nLOVELIVE! BLUEBIRD\n\nSTART까지\n앞으로 6️⃣일!\n\nX 팔로우 &\nYouTube 채널 구독\n잘 부탁드립니다✨\n\nhttps://t.co/WYAr8yUAKD\n\n#이키즈라이부 #이키즈라이브 https://t.co/cYPaDbX2Xv\n",
+          "content": "이키즈라이브!\nLOVELIVE! BLUEBIRD\n\n시작까지\n앞으로 6️⃣일!\n\nX 팔로우 &\nYouTube 채널 구독\n잘 부탁드립니다✨\n\nhttps://t.co/WYAr8yUAKD\n\n#살기힘든부 #이키즈라이브\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799022,
+    "created": 1746802438,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 87,
-      "prompt_tokens": 143,
-      "total_tokens": 230,
+      "completion_tokens": 74,
+      "prompt_tokens": 201,
+      "total_tokens": 275,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

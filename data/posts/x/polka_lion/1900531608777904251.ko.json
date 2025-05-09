@@ -1,7 +1,8 @@
 {
   "id": "1900531608777904251",
-  "translated_text": "이거\n\n봄부터 갈 데 없다는 거야?\n\n거짓말이지...\n\n어떡해\n\n아\n\n이거, 꿈 아니지?\n",
+  "translated_text": "이거\n\n봄부터 갈 곳 없다는 거야?\n\n거짓말이지...\n\n어떡해\n\n아아\n\n이거, 꿈 아니지?\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "이거\n\n봄부터 갈 데 없다는 거야?\n\n거짓말이지...\n\n어떡해\n\n아\n\n이거, 꿈 아니지?\n",
+          "content": "이거\n\n봄부터 갈 곳 없다는 거야?\n\n거짓말이지...\n\n어떡해\n\n아아\n\n이거, 꿈 아니지?\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799062,
+    "created": 1746802476,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 35,
-      "prompt_tokens": 97,
-      "total_tokens": 132,
+      "completion_tokens": 36,
+      "prompt_tokens": 155,
+      "total_tokens": 191,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

@@ -1,7 +1,8 @@
 {
   "id": "1914646112738091457",
-  "translated_text": "말하자면 자금난💰으로 망할 것 같다는 흔한 헛소문이겠지, 그런 건…\n어디에나 있는 인터넷 뜬소문을 믿다니\n정말 괜찮을까, 쟤\n언젠가 사기나 불법 아르바이트 같은 거에 걸려들까 봐 걱정돼💻🧸\n",
+  "translated_text": "자금난💰으로 망할 것 같다는 흔한 헛소문이겠지, 그런 건…\n어디에나 있는 흔한 인터넷 루머를 믿다니\n정말 괜찮을까, 저 아이\n언젠가 사기나 불법 아르바이트 같은 거에 걸리는 건 아닐까 걱정돼💻🧸\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "말하자면 자금난💰으로 망할 것 같다는 흔한 헛소문이겠지, 그런 건…\n어디에나 있는 인터넷 뜬소문을 믿다니\n정말 괜찮을까, 쟤\n언젠가 사기나 불법 아르바이트 같은 거에 걸려들까 봐 걱정돼💻🧸\n",
+          "content": "자금난💰으로 망할 것 같다는 흔한 헛소문이겠지, 그런 건…\n어디에나 있는 흔한 인터넷 루머를 믿다니\n정말 괜찮을까, 저 아이\n언젠가 사기나 불법 아르바이트 같은 거에 걸리는 건 아닐까 걱정돼💻🧸\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799122,
+    "created": 1746802536,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 89,
-      "prompt_tokens": 124,
-      "total_tokens": 213,
+      "completion_tokens": 84,
+      "prompt_tokens": 182,
+      "total_tokens": 266,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

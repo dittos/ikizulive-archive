@@ -1,7 +1,8 @@
 {
   "id": "1907843035553214653",
-  "translated_text": "정신 차려보니 4월! 🎉✨\n놀랍네!\n벌써 일본은 새 학년이 시작됐잖아~🏫✨\n근데 나는 아직 당분간 집안 사정 때문에 여기 있어야 하고✈️\n아, 🤦\n분명 올해도 입학식에는 절대 못 맞추는 거 확정 🎯\n",
+  "translated_text": "정신 차려보니 April! 🎉✨\n놀랍네!\n벌써 일본에서는 새 학년 시작했잖아~🏫✨\n하지만, 나는 아직 당분간 집안 사정으로 여기에 있어야 하고✈️\n아, 정말🤷\n분명 올해도 입학식에는 전혀 맞출 수 없는 건 확정🎯\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "정신 차려보니 4월! 🎉✨\n놀랍네!\n벌써 일본은 새 학년이 시작됐잖아~🏫✨\n근데 나는 아직 당분간 집안 사정 때문에 여기 있어야 하고✈️\n아, 🤦\n분명 올해도 입학식에는 절대 못 맞추는 거 확정 🎯\n",
+          "content": "정신 차려보니 April! 🎉✨\n놀랍네!\n벌써 일본에서는 새 학년 시작했잖아~🏫✨\n하지만, 나는 아직 당분간 집안 사정으로 여기에 있어야 하고✈️\n아, 정말🤷\n분명 올해도 입학식에는 전혀 맞출 수 없는 건 확정🎯\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799169,
+    "created": 1746802581,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 80,
-      "prompt_tokens": 128,
-      "total_tokens": 208,
+      "completion_tokens": 79,
+      "prompt_tokens": 186,
+      "total_tokens": 265,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

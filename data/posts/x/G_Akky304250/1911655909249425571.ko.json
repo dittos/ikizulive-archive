@@ -1,7 +1,8 @@
 {
   "id": "1911655909249425571",
-  "translated_text": "분명 앞으로 특별히 인연은 없겠지만\n\n뭐,\n\n다음에 근처에 앉으면 도와줘야겠다고 생각해. 🏔\n\n엄청 컴퓨터를 못하는 것 같았으니까.\n떠올리면 조금 웃겨. 🌊\n",
+  "translated_text": "분명 앞으로 특별히 인연도 없겠지만\n\n뭐, 그래도\n\n다음에 근처에 앉으면 도와줘야겠다고 생각해 🏔\n\n엄청 컴퓨터를 못하는 것 같았으니까\n생각하면 조금 웃겨 🌊\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "분명 앞으로 특별히 인연은 없겠지만\n\n뭐,\n\n다음에 근처에 앉으면 도와줘야겠다고 생각해. 🏔\n\n엄청 컴퓨터를 못하는 것 같았으니까.\n떠올리면 조금 웃겨. 🌊\n",
+          "content": "분명 앞으로 특별히 인연도 없겠지만\n\n뭐, 그래도\n\n다음에 근처에 앉으면 도와줘야겠다고 생각해 🏔\n\n엄청 컴퓨터를 못하는 것 같았으니까\n생각하면 조금 웃겨 🌊\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799106,
+    "created": 1746802520,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 67,
-      "prompt_tokens": 113,
-      "total_tokens": 180,
+      "completion_tokens": 66,
+      "prompt_tokens": 171,
+      "total_tokens": 237,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

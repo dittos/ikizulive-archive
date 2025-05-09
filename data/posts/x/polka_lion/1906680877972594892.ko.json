@@ -1,7 +1,8 @@
 {
   "id": "1906680877972594892",
-  "translated_text": "드디어 내일부터 4월!\npolka의 새로운 생활도 바로 코앞이다~🌻♪\n\n한때는 더 이상 고등학생이 될 수 없을지도 모른다고 생각했었으니까\n절망 속에서 한 줄기 희망을 찾은 기분!\n\n왠지 여러 가지로 마음속 깊이 와닿는 느낌\n",
+  "translated_text": "드디어 내일부터 4월!\npolka의 새로운 생활도 이제 곧이다~🌻♪\n\n한때는 이제 고등학생이 되지 못할지도 모른다고 생각했었으니까\n절망에 한 줄기 빛, 고양이에게 금덩이!\n\n왠지 여러 가지로 마음속 깊이 와닿는 느낌",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "드디어 내일부터 4월!\npolka의 새로운 생활도 바로 코앞이다~🌻♪\n\n한때는 더 이상 고등학생이 될 수 없을지도 모른다고 생각했었으니까\n절망 속에서 한 줄기 희망을 찾은 기분!\n\n왠지 여러 가지로 마음속 깊이 와닿는 느낌\n",
+          "content": "드디어 내일부터 4월!\npolka의 새로운 생활도 이제 곧이다~🌻♪\n\n한때는 이제 고등학생이 되지 못할지도 모른다고 생각했었으니까\n절망에 한 줄기 빛, 고양이에게 금덩이!\n\n왠지 여러 가지로 마음속 깊이 와닿는 느낌",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799055,
+    "created": 1746802469,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 85,
-      "prompt_tokens": 118,
-      "total_tokens": 203,
+      "prompt_tokens": 176,
+      "total_tokens": 261,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

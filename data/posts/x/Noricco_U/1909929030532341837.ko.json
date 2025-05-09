@@ -1,7 +1,8 @@
 {
   "id": "1909929030532341837",
-  "translated_text": "오늘은 고등학교 입학식이었어!\n입학식이라고는 해도 온라인으로 진행돼서 모니터 화면💻 너머로 교장 선생님이 인사하는 걸 쳐다보는 게 전부였어...\n좀 신기한 느낌😺✨\n그래도 중간에 박수 치거나 좋아요 보내는 사람들도 있어서 왠지 모르게 친근감이 느껴져서 기뻤어~👏👏👏\n",
+  "translated_text": "오늘은 고등학교 입학식이었어요!\n입학식이라고는 해도, 온라인이라 모니터 화면💻 너머로 교장 선생님이 인사하시는 걸 바라보는 것뿐이라…\n조금 신기한 느낌😺✨\n그래도 중간에 박수나 좋아요를 보내는 사람들도 있어서, 왠지 모르게 친근감이 느껴져서 기뻤어요~👏👏👏\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "오늘은 고등학교 입학식이었어!\n입학식이라고는 해도 온라인으로 진행돼서 모니터 화면💻 너머로 교장 선생님이 인사하는 걸 쳐다보는 게 전부였어...\n좀 신기한 느낌😺✨\n그래도 중간에 박수 치거나 좋아요 보내는 사람들도 있어서 왠지 모르게 친근감이 느껴져서 기뻤어~👏👏👏\n",
+          "content": "오늘은 고등학교 입학식이었어요!\n입학식이라고는 해도, 온라인이라 모니터 화면💻 너머로 교장 선생님이 인사하시는 걸 바라보는 것뿐이라…\n조금 신기한 느낌😺✨\n그래도 중간에 박수나 좋아요를 보내는 사람들도 있어서, 왠지 모르게 친근감이 느껴져서 기뻤어요~👏👏👏\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799142,
+    "created": 1746802555,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 109,
-      "prompt_tokens": 138,
-      "total_tokens": 247,
+      "completion_tokens": 111,
+      "prompt_tokens": 196,
+      "total_tokens": 307,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

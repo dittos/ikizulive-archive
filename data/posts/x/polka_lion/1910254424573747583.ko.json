@@ -1,7 +1,8 @@
 {
   "id": "1910254424573747583",
-  "translated_text": "뭐야 그거, 출석은 어떻게 하는 거야!?\n\n교실 모니터 앞에서 \"하ー이!\" 하고 대답할 뻔했어🌻\n\n역시나 꾹 참은 폴카 칭찬해 주세요ー!!\n",
+  "translated_text": "뭐야 그게, 출석은 어떻게 하는 거야!?\n\n교실 모니터 앞에서 \"하-이\"하고 대답할 뻔했어🌻\n\n역시나 꾹 참은 폴카를 누가 좀 칭찬해 주세요!!\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "뭐야 그거, 출석은 어떻게 하는 거야!?\n\n교실 모니터 앞에서 \"하ー이!\" 하고 대답할 뻔했어🌻\n\n역시나 꾹 참은 폴카 칭찬해 주세요ー!!\n",
+          "content": "뭐야 그게, 출석은 어떻게 하는 거야!?\n\n교실 모니터 앞에서 \"하-이\"하고 대답할 뻔했어🌻\n\n역시나 꾹 참은 폴카를 누가 좀 칭찬해 주세요!!\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799038,
+    "created": 1746802452,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 57,
-      "prompt_tokens": 111,
-      "total_tokens": 168,
+      "completion_tokens": 61,
+      "prompt_tokens": 169,
+      "total_tokens": 230,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

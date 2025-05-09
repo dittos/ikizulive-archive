@@ -1,7 +1,8 @@
 {
   "id": "1907618808065323312",
-  "translated_text": "취미라고 해야 할지, 제 본업인 프로그래밍💻에 시간을 맘껏 쓰고 싶어서, 인터넷 고등학교에 들어가기로 한 건 좋았는데, 부모님이 통학 코스를 지정하신 건 오산이었네😮‍💨 역시 작년에 낮밤이 바뀌어서 학교를 꽤 많이 빠진 게 영향이 있었나.\n\n그때의 나는 시간 선호율이 높다거나 5살 수준이었어... 방심했어💦\n",
+  "translated_text": "취미라고 할까, 내 본업인 프로그래밍💻에 시간을 맘껏 쓰고 싶어서, 인터넷 고등학교에 들어가기로 한 건 좋았는데\n부모님이 통학 코스를 지정하신 건 오산이었네😮‍💨\n역시 작년에, 낮밤이 바뀌어서 학교를 꽤 많이 빠진 게 영향이 있었나\n\n그때의 나는, 시간 선호율이 높다거나 5살 수준이었어…\n방심했다💦\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "취미라고 해야 할지, 제 본업인 프로그래밍💻에 시간을 맘껏 쓰고 싶어서, 인터넷 고등학교에 들어가기로 한 건 좋았는데, 부모님이 통학 코스를 지정하신 건 오산이었네😮‍💨 역시 작년에 낮밤이 바뀌어서 학교를 꽤 많이 빠진 게 영향이 있었나.\n\n그때의 나는 시간 선호율이 높다거나 5살 수준이었어... 방심했어💦\n",
+          "content": "취미라고 할까, 내 본업인 프로그래밍💻에 시간을 맘껏 쓰고 싶어서, 인터넷 고등학교에 들어가기로 한 건 좋았는데\n부모님이 통학 코스를 지정하신 건 오산이었네😮‍💨\n역시 작년에, 낮밤이 바뀌어서 학교를 꽤 많이 빠진 게 영향이 있었나\n\n그때의 나는, 시간 선호율이 높다거나 5살 수준이었어…\n방심했다💦\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799129,
+    "created": 1746802543,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 124,
-      "prompt_tokens": 150,
-      "total_tokens": 274,
+      "prompt_tokens": 208,
+      "total_tokens": 332,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

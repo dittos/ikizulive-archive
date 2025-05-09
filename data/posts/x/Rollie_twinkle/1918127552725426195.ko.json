@@ -2,6 +2,7 @@
   "id": "1918127552725426195",
   "translated_text": "일본에 다시 오신 것을 환영합니다～～🌈✨\n드디어 돌아왔다～！！\n\n역시 일본은 쌀이 맛있어～🎵　\n집에 돌아갈 때까지 참을 수 없어서 간사이 공항에서 먹은 해산물 덮밥 최고였어🥰🍚✨\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799167,
+    "created": 1746802580,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 72,
-      "prompt_tokens": 112,
-      "total_tokens": 184,
+      "prompt_tokens": 170,
+      "total_tokens": 242,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

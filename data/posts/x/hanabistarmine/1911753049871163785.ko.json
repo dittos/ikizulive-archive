@@ -1,7 +1,8 @@
 {
   "id": "1911753049871163785",
-  "translated_text": "주말에는 본가 기모노 가게 일을 도우러, 인바운드 대상 일본 옷 이벤트 도우미로 일했어요 👘🎵\n여러 손님들의 웃는 얼굴을 보는 건 즐겁고 ✨ 영어 공부도 돼서 좋긴 한데ーー\n아무래도 투피스 유카타가 많아서, 살짝 불만족스러울지도…\n",
+  "translated_text": "주말에는 본가 기모노 가게 일을 도와주러, 인바운드 대상 일본 옷 이벤트 도우미를 했어요👘🎵\n여러 손님들의 웃는 얼굴을 보는 건 즐겁고✨\n영어 공부도 돼서 좋긴 한데ーー\n아무래도 투피스 유카타가 많아서, 살짝 불만족스러울지도…\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "주말에는 본가 기모노 가게 일을 도우러, 인바운드 대상 일본 옷 이벤트 도우미로 일했어요 👘🎵\n여러 손님들의 웃는 얼굴을 보는 건 즐겁고 ✨ 영어 공부도 돼서 좋긴 한데ーー\n아무래도 투피스 유카타가 많아서, 살짝 불만족스러울지도…\n",
+          "content": "주말에는 본가 기모노 가게 일을 도와주러, 인바운드 대상 일본 옷 이벤트 도우미를 했어요👘🎵\n여러 손님들의 웃는 얼굴을 보는 건 즐겁고✨\n영어 공부도 돼서 좋긴 한데ーー\n아무래도 투피스 유카타가 많아서, 살짝 불만족스러울지도…\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799097,
+    "created": 1746802511,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 99,
-      "prompt_tokens": 134,
-      "total_tokens": 233,
+      "prompt_tokens": 192,
+      "total_tokens": 291,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

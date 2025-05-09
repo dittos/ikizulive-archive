@@ -1,7 +1,8 @@
 {
   "id": "1908077329307353367",
-  "translated_text": "오늘로 도쿄에 온 지 딱 2주.\n이쪽 생활에도 겨우 익숙해졌어...\n\n...졌나?\n\n아침 일찍 조깅하기 전에 스트레칭하고 있으면\n본가인 누마즈 쪽이 역시 더 따뜻했던 것 같아.\n강변 도로는 밝고 넓지만, 바다 냄새가 안 나는 게 왠지 신기해🌊\n",
+  "translated_text": "오늘로 도쿄에 온 지 딱 2주\n이쪽 생활에도 겨우 익숙해졌어...\n\n그런가?\n\n아침 일찍 조깅하기 전에 스트레칭하고 있으면\n본가인 누마즈 쪽이 역시 따뜻했던 것 같은 기분이 들어\n강변길은 밝고 넓지만, 갯내음이 안 나는 게 왠지 신기해🌊\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "오늘로 도쿄에 온 지 딱 2주.\n이쪽 생활에도 겨우 익숙해졌어...\n\n...졌나?\n\n아침 일찍 조깅하기 전에 스트레칭하고 있으면\n본가인 누마즈 쪽이 역시 더 따뜻했던 것 같아.\n강변 도로는 밝고 넓지만, 바다 냄새가 안 나는 게 왠지 신기해🌊\n",
+          "content": "오늘로 도쿄에 온 지 딱 2주\n이쪽 생활에도 겨우 익숙해졌어...\n\n그런가?\n\n아침 일찍 조깅하기 전에 스트레칭하고 있으면\n본가인 누마즈 쪽이 역시 따뜻했던 것 같은 기분이 들어\n강변길은 밝고 넓지만, 갯내음이 안 나는 게 왠지 신기해🌊\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799103,
+    "created": 1746802516,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 103,
-      "prompt_tokens": 132,
-      "total_tokens": 235,
+      "completion_tokens": 101,
+      "prompt_tokens": 190,
+      "total_tokens": 291,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

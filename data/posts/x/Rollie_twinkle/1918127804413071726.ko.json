@@ -1,7 +1,8 @@
 {
   "id": "1918127804413071726",
-  "translated_text": "데\n오늘은 로라 혼자 하루 늦은 외로운 혼밥 입학💖\n\n이라니...\n\n이제부터 다닐 곳은 온라인 고등학교니까🏫🌈\n그런 걱정은 NoNo🏝️\n\nNo need라구~!\n",
+  "translated_text": "그래서\n오늘은 로라만 하루 늦은 외로운 혼자 입학💖\n\n이라니。。。\n\n이제부터 다닐 곳은 온라인 고등학교니까🏫🌈\n그런 걱정은 NoNo🏝️\n\nNo need라구요～！！\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "데\n오늘은 로라 혼자 하루 늦은 외로운 혼밥 입학💖\n\n이라니...\n\n이제부터 다닐 곳은 온라인 고등학교니까🏫🌈\n그런 걱정은 NoNo🏝️\n\nNo need라구~!\n",
+          "content": "그래서\n오늘은 로라만 하루 늦은 외로운 혼자 입학💖\n\n이라니。。。\n\n이제부터 다닐 곳은 온라인 고등학교니까🏫🌈\n그런 걱정은 NoNo🏝️\n\nNo need라구요～！！\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799168,
+    "created": 1746802580,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 62,
-      "prompt_tokens": 115,
-      "total_tokens": 177,
+      "completion_tokens": 64,
+      "prompt_tokens": 173,
+      "total_tokens": 237,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

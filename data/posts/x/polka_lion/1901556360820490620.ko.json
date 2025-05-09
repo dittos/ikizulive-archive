@@ -1,7 +1,8 @@
 {
   "id": "1901556360820490620",
-  "translated_text": "계속 너무 울어서 눈이 아파.\n\n그래도 이불 뒤집어쓰고 하루 종일 침대에 웅크리고 있었더니 조금 나아진\n\n것 같아.\n\n아마도.\n\n일단 배고픈 것 같아.\n",
+  "translated_text": "계속 너무 울어서 눈이 아파\n\n그래도 이불 뒤집어쓰고 하루 종일 침대에 웅크려 있었더니 조금은 나아진\n\n것 같아\n\n아마도\n\n일단 배고픈 것 같기도 하고\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "계속 너무 울어서 눈이 아파.\n\n그래도 이불 뒤집어쓰고 하루 종일 침대에 웅크리고 있었더니 조금 나아진\n\n것 같아.\n\n아마도.\n\n일단 배고픈 것 같아.\n",
+          "content": "계속 너무 울어서 눈이 아파\n\n그래도 이불 뒤집어쓰고 하루 종일 침대에 웅크려 있었더니 조금은 나아진\n\n것 같아\n\n아마도\n\n일단 배고픈 것 같기도 하고\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799048,
+    "created": 1746802462,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 66,
-      "prompt_tokens": 110,
-      "total_tokens": 176,
+      "completion_tokens": 64,
+      "prompt_tokens": 168,
+      "total_tokens": 232,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

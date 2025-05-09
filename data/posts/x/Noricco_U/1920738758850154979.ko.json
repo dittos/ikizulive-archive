@@ -1,7 +1,8 @@
 {
   "id": "1920738758850154979",
-  "translated_text": "이번 주는 골든위크가 끝나서 그런지 살짝 맥이 빠지는 느낌이야😸\n작년 같았으면 싫어하는 운동회 때문에 걱정할 시기인데, 올해는 그런 게 없어서 왠지 모르게 이상한 기분이야.\n그만큼 보컬 트레이닝이랑 레슨을 열심히 해야겠어!🎤✨\n",
+  "translated_text": "이번 주는 골든 위크가 끝나서 그런지 살짝 맥이 빠진 느낌😸\n작년까지는 싫어하는 운동회 때문에 겁먹을 시기였는데, 올해는 그런 게 없어서 왠지 신기한 기분이에요.\n그만큼 보컬 트레이닝이랑 레슨을 열심히 해야겠어요!🎤✨\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "이번 주는 골든위크가 끝나서 그런지 살짝 맥이 빠지는 느낌이야😸\n작년 같았으면 싫어하는 운동회 때문에 걱정할 시기인데, 올해는 그런 게 없어서 왠지 모르게 이상한 기분이야.\n그만큼 보컬 트레이닝이랑 레슨을 열심히 해야겠어!🎤✨\n",
+          "content": "이번 주는 골든 위크가 끝나서 그런지 살짝 맥이 빠진 느낌😸\n작년까지는 싫어하는 운동회 때문에 겁먹을 시기였는데, 올해는 그런 게 없어서 왠지 신기한 기분이에요.\n그만큼 보컬 트레이닝이랑 레슨을 열심히 해야겠어요!🎤✨\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799145,
+    "created": 1746802558,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 97,
-      "prompt_tokens": 124,
-      "total_tokens": 221,
+      "completion_tokens": 94,
+      "prompt_tokens": 182,
+      "total_tokens": 276,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

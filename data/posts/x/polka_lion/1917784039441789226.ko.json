@@ -1,7 +1,8 @@
 {
   "id": "1917784039441789226",
-  "translated_text": "아무것도 없는 새하얀 공간과 시간을 발견하면\n\n발끝이 간질간질해져서 🎵\n\n저절로 스텝을 밟기 시작해\n\n이제부터, 이 텅 빈 넓은 공간을 채워갈 거야\n\n폴카의 청춘! ✨✨\n\n시작한다, 숨 막히는 부!!!\n모두 지켜봐 주시면 기쁠 거예요!!\n\n#숨막히는부\n",
+  "translated_text": "아무것도 없는 새하얀 공간과 시간을 발견하면\n\n발끝이 간질간질해져서 🎵\n\n맘대로 스텝을 밟기 시작해\n\n이제부터, 이 텅 빈 넓은 공간을 채워갈\n\n폴카의 청춘! ✨✨\n\n시작한다, 살기힘든부!!!\n다들 지켜봐 주시면 기쁠 거예요!!\n\n#이키즈라이브\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "아무것도 없는 새하얀 공간과 시간을 발견하면\n\n발끝이 간질간질해져서 🎵\n\n저절로 스텝을 밟기 시작해\n\n이제부터, 이 텅 빈 넓은 공간을 채워갈 거야\n\n폴카의 청춘! ✨✨\n\n시작한다, 숨 막히는 부!!!\n모두 지켜봐 주시면 기쁠 거예요!!\n\n#숨막히는부\n",
+          "content": "아무것도 없는 새하얀 공간과 시간을 발견하면\n\n발끝이 간질간질해져서 🎵\n\n맘대로 스텝을 밟기 시작해\n\n이제부터, 이 텅 빈 넓은 공간을 채워갈\n\n폴카의 청춘! ✨✨\n\n시작한다, 살기힘든부!!!\n다들 지켜봐 주시면 기쁠 거예요!!\n\n#이키즈라이브\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799032,
+    "created": 1746802447,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 107,
-      "prompt_tokens": 141,
-      "total_tokens": 248,
+      "completion_tokens": 102,
+      "prompt_tokens": 199,
+      "total_tokens": 301,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

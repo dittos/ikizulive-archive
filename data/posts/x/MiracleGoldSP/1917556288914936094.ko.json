@@ -1,7 +1,8 @@
 {
   "id": "1917556288914936094",
-  "translated_text": "노리노리, 요즘 뭔가 기운이 없어 보이네 😔\n또 성우 오디션에서 떨어졌나…\n노릿코는 엄청 귀여운데 🍭🍬\n분명 조만간 기회가 올 거라고 말해주고 싶지만…\n",
+  "translated_text": "노리노리, 왠지 요즘 기운이 없네😔\n또 성우 오디션 안 됐나…\n노릿코는 엄청 귀여운데🍭🍬\n분명 조만간 기회 올 거라고 말해주고 싶은데…\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "노리노리, 요즘 뭔가 기운이 없어 보이네 😔\n또 성우 오디션에서 떨어졌나…\n노릿코는 엄청 귀여운데 🍭🍬\n분명 조만간 기회가 올 거라고 말해주고 싶지만…\n",
+          "content": "노리노리, 왠지 요즘 기운이 없네😔\n또 성우 오디션 안 됐나…\n노릿코는 엄청 귀여운데🍭🍬\n분명 조만간 기회 올 거라고 말해주고 싶은데…\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799155,
+    "created": 1746802567,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 68,
-      "prompt_tokens": 112,
-      "total_tokens": 180,
+      "completion_tokens": 62,
+      "prompt_tokens": 170,
+      "total_tokens": 232,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

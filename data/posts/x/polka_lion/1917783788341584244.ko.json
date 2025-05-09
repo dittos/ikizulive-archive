@@ -1,7 +1,8 @@
 {
   "id": "1917783788341584244",
-  "translated_text": "교실도, 운동장도, 교복도, 정기권도, 학식도!\n\n아무것도 없지만🙃\n\n그래도, 나의 고등학교 생활은 여기에 있어!\n\n텅 빈 공간\n\n꽤나 폴카는 좋아해💛\n\n왜냐면, 역시 춤추고 싶어지니까✨\n",
+  "translated_text": "교실도 운동장도 교복도 정기권도 학생 식당도!\n\n아ー무것도 없지만🙃\n\n그래도, 나의 고등학교 생활은 여기에 있어!\n\n텅 빈 공간\n\n꽤 폴카는 좋아해💛\n\n왜냐면, 역시 춤추고 싶어지니까✨\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "교실도, 운동장도, 교복도, 정기권도, 학식도!\n\n아무것도 없지만🙃\n\n그래도, 나의 고등학교 생활은 여기에 있어!\n\n텅 빈 공간\n\n꽤나 폴카는 좋아해💛\n\n왜냐면, 역시 춤추고 싶어지니까✨\n",
+          "content": "교실도 운동장도 교복도 정기권도 학생 식당도!\n\n아ー무것도 없지만🙃\n\n그래도, 나의 고등학교 생활은 여기에 있어!\n\n텅 빈 공간\n\n꽤 폴카는 좋아해💛\n\n왜냐면, 역시 춤추고 싶어지니까✨\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799073,
+    "created": 1746802487,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 79,
-      "prompt_tokens": 122,
-      "total_tokens": 201,
+      "completion_tokens": 77,
+      "prompt_tokens": 180,
+      "total_tokens": 257,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

@@ -1,7 +1,8 @@
 {
   "id": "1912471030506942946",
-  "translated_text": "클라이밍 월을 오르는 중에\n집중하고 있으면 갑자기 찾아오는 붕 뜨는 듯 몸이 가벼워지는 특별한 순간처럼\n\n이런 거\n뭐라고 해야 할까...\n\n역시\n잘 모르겠어🏔\n",
+  "translated_text": "클라이밍 월을 오르고 있을 때\n집중하고 있으면 갑자기 찾아오는 그 붕 뜨면서 몸이 가벼워지는 특별한 순간처럼\n\n이런 거\n뭐라고 해야 할까...\n\n역시\n잘 모르겠어🏔\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "클라이밍 월을 오르는 중에\n집중하고 있으면 갑자기 찾아오는 붕 뜨는 듯 몸이 가벼워지는 특별한 순간처럼\n\n이런 거\n뭐라고 해야 할까...\n\n역시\n잘 모르겠어🏔\n",
+          "content": "클라이밍 월을 오르고 있을 때\n집중하고 있으면 갑자기 찾아오는 그 붕 뜨면서 몸이 가벼워지는 특별한 순간처럼\n\n이런 거\n뭐라고 해야 할까...\n\n역시\n잘 모르겠어🏔\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799117,
+    "created": 1746802530,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 67,
-      "prompt_tokens": 113,
-      "total_tokens": 180,
+      "completion_tokens": 68,
+      "prompt_tokens": 171,
+      "total_tokens": 239,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

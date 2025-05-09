@@ -1,7 +1,8 @@
 {
   "id": "1918265209925349416",
-  "translated_text": "세계 진출을 생각하고 있다면 인터넷은 필수이고, 춤이나 노래 영상이 가장 유행할 확률이 높다는 마이 님의 설명에 감동받아 참여를 결정했습니다!\n앞으로 잘 부탁드립니다🦋\n#살기힘든부\n",
+  "translated_text": "세계 진출을 생각하고 있다면 인터넷은 필수불가결하고, 춤이나 노래 영상은 가장 유행할 확률이 높다는 마이 짱의 해설에 감동받아 참가를 결정했습니다!\n앞으로 잘 부탁드립니다🦋\n#살기힘든부\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "세계 진출을 생각하고 있다면 인터넷은 필수이고, 춤이나 노래 영상이 가장 유행할 확률이 높다는 마이 님의 설명에 감동받아 참여를 결정했습니다!\n앞으로 잘 부탁드립니다🦋\n#살기힘든부\n",
+          "content": "세계 진출을 생각하고 있다면 인터넷은 필수불가결하고, 춤이나 노래 영상은 가장 유행할 확률이 높다는 마이 짱의 해설에 감동받아 참가를 결정했습니다!\n앞으로 잘 부탁드립니다🦋\n#살기힘든부\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799079,
+    "created": 1746802492,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 68,
-      "prompt_tokens": 121,
-      "total_tokens": 189,
+      "completion_tokens": 73,
+      "prompt_tokens": 179,
+      "total_tokens": 252,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

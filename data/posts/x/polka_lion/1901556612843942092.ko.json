@@ -2,6 +2,7 @@
   "id": "1901556612843942092",
   "translated_text": "그러니까\n\n분명 내일부터는 괜찮을 거야\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799047,
+    "created": 1746802461,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 17,
-      "prompt_tokens": 77,
-      "total_tokens": 94,
+      "prompt_tokens": 135,
+      "total_tokens": 152,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

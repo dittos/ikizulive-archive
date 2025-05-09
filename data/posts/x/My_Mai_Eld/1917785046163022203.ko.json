@@ -1,7 +1,8 @@
 {
   "id": "1917785046163022203",
-  "translated_text": "확실히 교실은 텅 비어 있고 온라인 학생 수도 적으니까 신빙성이 아주 없는 건 아니지만, 굳이 따지자면 그걸 틈탄 학교 엄청 좋아하는 소녀 폴카가 이참에 교복이라든가 학식이라든가 지금 L고에는 없는 것들이 갖고 싶어! 라면서 억지를 부린 게 이유입니다.\n#숨막혀부\n",
+  "translated_text": "확실히 교실은 텅 비어 있고 온라인 수강생 수도 적으니까 신빙성이 아예 없는 건 아니지만,\n어느 쪽이냐고 하면 거기에 편승한 학교 엄청 좋아하는 소녀 폴카가\n이 기회에 교복이라든가 학식이라든가 지금의 L고에는 없는 게 갖고 싶어!\n라며 억지를 부린 게 이유입니다.\n#살기힘든부\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "확실히 교실은 텅 비어 있고 온라인 학생 수도 적으니까 신빙성이 아주 없는 건 아니지만, 굳이 따지자면 그걸 틈탄 학교 엄청 좋아하는 소녀 폴카가 이참에 교복이라든가 학식이라든가 지금 L고에는 없는 것들이 갖고 싶어! 라면서 억지를 부린 게 이유입니다.\n#숨막혀부\n",
+          "content": "확실히 교실은 텅 비어 있고 온라인 수강생 수도 적으니까 신빙성이 아예 없는 건 아니지만,\n어느 쪽이냐고 하면 거기에 편승한 학교 엄청 좋아하는 소녀 폴카가\n이 기회에 교복이라든가 학식이라든가 지금의 L고에는 없는 게 갖고 싶어!\n라며 억지를 부린 게 이유입니다.\n#살기힘든부\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799134,
+    "created": 1746802547,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 106,
-      "prompt_tokens": 137,
-      "total_tokens": 243,
+      "completion_tokens": 113,
+      "prompt_tokens": 195,
+      "total_tokens": 308,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

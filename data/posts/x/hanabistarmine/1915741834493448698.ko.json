@@ -1,7 +1,8 @@
 {
   "id": "1915741834493448698",
-  "translated_text": "장사꾼은 역시 선행 투자 판단이 중요해💘\n저 아이에게 어울리는 무늬는 뭘까나👘\n풋풋한 느낌이니까 나팔꽃도 좋지만\n잠자리 같은 것도 어울릴 것 같아!\n",
+  "translated_text": "장사꾼은 역시 선행 투자 판단이 중요해💘\n저 아이에게 어울리는 무늬는 뭘까나👘\n풋풋한 느낌이니까 나팔꽃도 좋지만\n잠자리 같은 거 어울릴 것 같아!\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "장사꾼은 역시 선행 투자 판단이 중요해💘\n저 아이에게 어울리는 무늬는 뭘까나👘\n풋풋한 느낌이니까 나팔꽃도 좋지만\n잠자리 같은 것도 어울릴 것 같아!\n",
+          "content": "장사꾼은 역시 선행 투자 판단이 중요해💘\n저 아이에게 어울리는 무늬는 뭘까나👘\n풋풋한 느낌이니까 나팔꽃도 좋지만\n잠자리 같은 거 어울릴 것 같아!\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799090,
+    "created": 1746802504,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 60,
-      "prompt_tokens": 108,
-      "total_tokens": 168,
+      "completion_tokens": 59,
+      "prompt_tokens": 166,
+      "total_tokens": 225,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

@@ -1,7 +1,8 @@
 {
   "id": "1912796173137567744",
-  "translated_text": "이런 점이 내 단점이야 💦\n\n저 가게 정기 휴일 같은 건\n근처 사람이라면 다 아는 건데...\n\n슬픔에 잠긴 귀갓길 🌻\n\n터벅터벅 스미다 강 위에 놓인 고마가타 다리를 걷고 있었더니...\n\n자전거를 탄 할머니와 마주쳤다!! 🚲✨\n",
+  "translated_text": "이런 점이 내 안 좋은 점이지... 💦\n\n저 가게 정기 휴일 같은 건\n근처 사람이라면 다 아는 건데...\n\n슬픔에 잠긴 귀갓길 🌻\n\n터벅터벅 스미다 강 위에 놓인 고마가타 다리를 걷고 있었더니...\n\n자전거를 탄 할머니와 조우!! 🚲✨\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "이런 점이 내 단점이야 💦\n\n저 가게 정기 휴일 같은 건\n근처 사람이라면 다 아는 건데...\n\n슬픔에 잠긴 귀갓길 🌻\n\n터벅터벅 스미다 강 위에 놓인 고마가타 다리를 걷고 있었더니...\n\n자전거를 탄 할머니와 마주쳤다!! 🚲✨\n",
+          "content": "이런 점이 내 안 좋은 점이지... 💦\n\n저 가게 정기 휴일 같은 건\n근처 사람이라면 다 아는 건데...\n\n슬픔에 잠긴 귀갓길 🌻\n\n터벅터벅 스미다 강 위에 놓인 고마가타 다리를 걷고 있었더니...\n\n자전거를 탄 할머니와 조우!! 🚲✨\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799051,
+    "created": 1746802465,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 94,
-      "prompt_tokens": 136,
-      "total_tokens": 230,
+      "prompt_tokens": 194,
+      "total_tokens": 288,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

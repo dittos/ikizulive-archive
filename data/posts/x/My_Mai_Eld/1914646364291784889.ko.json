@@ -2,6 +2,7 @@
   "id": "1914646364291784889",
   "translated_text": "나랑 같은 학교🏫가 아니면 안 된다거나\n그런 말…\n할 때가 아니라고!!\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799120,
+    "created": 1746802534,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 26,
-      "prompt_tokens": 94,
-      "total_tokens": 120,
+      "prompt_tokens": 152,
+      "total_tokens": 178,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

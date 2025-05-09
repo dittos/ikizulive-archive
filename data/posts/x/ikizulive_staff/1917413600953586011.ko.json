@@ -1,7 +1,8 @@
 {
   "id": "1917413600953586011",
-  "translated_text": "╭━━━━━╮\n　 오늘 발매!!\n╰━∨━━━╯\n\n4/30 발매되는 LoveLiveDays 6월호에서는,\n이키즈 라이브! LOVELIVE! BLUEBIRD\n핀업 포스터가 수록!\n\n꼭 확인해 보세요📚✨\n\nhttps://t.co/ym2wI9ZbuQ\n\n#이키즈라이브 #살기힘든부 https://t.co/Bbqf5yh26o\n",
+  "translated_text": "╭━━━━━╮\n　 오늘 발매!!\n╰━∨━━━╯\n\n4/30 발매된 LoveLiveDays 6월호에서는,\n이키즈라이브! LOVELIVE! BLUEBIRD\n핀업 포스터가 수록!\n\n꼭 확인하세요📚✨\n\nhttps://t.co/ym2wI9ZbuQ\n\n#이키즈라이브 #살기힘든부 https://t.co/Bbqf5yh26o\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "╭━━━━━╮\n　 오늘 발매!!\n╰━∨━━━╯\n\n4/30 발매되는 LoveLiveDays 6월호에서는,\n이키즈 라이브! LOVELIVE! BLUEBIRD\n핀업 포스터가 수록!\n\n꼭 확인해 보세요📚✨\n\nhttps://t.co/ym2wI9ZbuQ\n\n#이키즈라이브 #살기힘든부 https://t.co/Bbqf5yh26o\n",
+          "content": "╭━━━━━╮\n　 오늘 발매!!\n╰━∨━━━╯\n\n4/30 발매된 LoveLiveDays 6월호에서는,\n이키즈라이브! LOVELIVE! BLUEBIRD\n핀업 포스터가 수록!\n\n꼭 확인하세요📚✨\n\nhttps://t.co/ym2wI9ZbuQ\n\n#이키즈라이브 #살기힘든부 https://t.co/Bbqf5yh26o\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799030,
+    "created": 1746802445,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 106,
-      "prompt_tokens": 163,
-      "total_tokens": 269,
+      "completion_tokens": 104,
+      "prompt_tokens": 221,
+      "total_tokens": 325,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

@@ -1,7 +1,8 @@
 {
   "id": "1920037638817353960",
-  "translated_text": "폴카의 권유로 스쿨 아이돌을 시작하게 됐는데\n무엇이 바뀔까 생각했더니\n음...\n뭔가 별로 달라진 게 없는 것 같아?\n오늘도 아침 훈련을 하고 등교하고\n앗🏔\n폴카나 마이와 여러 가지 상담을 하게 된 건 달라졌으려나 🚵\n#숨막히는부",
+  "translated_text": "폴카의 권유로 스쿨 아이돌을 시작하게 되어서\n무엇이 달라질까 생각했는데\n음...\n뭔가 별로 달라진 건 없는 것 같아?\n오늘도 아침 훈련을 하고 등교해서\n아🏔\n폴카나 마이와 여러 가지 상담을 하게 된 건 달라졌을지도🚵\n#살기힘든부\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "폴카의 권유로 스쿨 아이돌을 시작하게 됐는데\n무엇이 바뀔까 생각했더니\n음...\n뭔가 별로 달라진 게 없는 것 같아?\n오늘도 아침 훈련을 하고 등교하고\n앗🏔\n폴카나 마이와 여러 가지 상담을 하게 된 건 달라졌으려나 🚵\n#숨막히는부",
+          "content": "폴카의 권유로 스쿨 아이돌을 시작하게 되어서\n무엇이 달라질까 생각했는데\n음...\n뭔가 별로 달라진 건 없는 것 같아?\n오늘도 아침 훈련을 하고 등교해서\n아🏔\n폴카나 마이와 여러 가지 상담을 하게 된 건 달라졌을지도🚵\n#살기힘든부\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799113,
+    "created": 1746802527,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 92,
-      "prompt_tokens": 130,
-      "total_tokens": 222,
+      "prompt_tokens": 188,
+      "total_tokens": 280,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

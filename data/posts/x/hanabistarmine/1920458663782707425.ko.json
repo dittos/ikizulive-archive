@@ -1,7 +1,8 @@
 {
   "id": "1920458663782707425",
-  "translated_text": "게다가 GW가 끝나면, 이제부터가 본 무대인 아사쿠사, 산자 마츠리가 기다리고 있어~ 🎴\n거기 너!\n조금이라도 흥미가 있다면 축제 구경해 봐~\n유카타 입는 법 레슨은 하나비에게 맡겨줘 👘✨\n남자라면 감색 지지미를 추천해 💘\n#살기힘든부",
+  "translated_text": "게다가 GW가 끝나면, 이제부터가 본 무대인 아사쿠사, 산자 마츠리가 기다리고 있어~🎴\n거기 너!\n조금이라도 흥미가 있다면 축제 구경해 봐~\n유카타 입는 법 레슨은 하나비에게 맡겨줘 👘✨\n남자라면 감색 지지미를 추천해💘\n#살기힘든부\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "게다가 GW가 끝나면, 이제부터가 본 무대인 아사쿠사, 산자 마츠리가 기다리고 있어~ 🎴\n거기 너!\n조금이라도 흥미가 있다면 축제 구경해 봐~\n유카타 입는 법 레슨은 하나비에게 맡겨줘 👘✨\n남자라면 감색 지지미를 추천해 💘\n#살기힘든부",
+          "content": "게다가 GW가 끝나면, 이제부터가 본 무대인 아사쿠사, 산자 마츠리가 기다리고 있어~🎴\n거기 너!\n조금이라도 흥미가 있다면 축제 구경해 봐~\n유카타 입는 법 레슨은 하나비에게 맡겨줘 👘✨\n남자라면 감색 지지미를 추천해💘\n#살기힘든부\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799081,
+    "created": 1746802494,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 102,
-      "prompt_tokens": 137,
-      "total_tokens": 239,
+      "completion_tokens": 101,
+      "prompt_tokens": 195,
+      "total_tokens": 296,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

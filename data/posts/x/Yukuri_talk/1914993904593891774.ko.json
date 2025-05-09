@@ -1,7 +1,8 @@
 {
   "id": "1914993904593891774",
-  "translated_text": "이렇게 빛나는 동경의 별에 그저 비춰지고 있을 뿐인 지금도\n왠지 모르게 행복한 기분은 사라지지 않으니까\n나는 이대로도 괜찮을 것 같아요🌟✨✨\n",
+  "translated_text": "이렇게 빛나는 동경의 별에 그저 비춰지고만 있는 지금도\n왠지 모르게 행복한 기분은 사라지지 않으니까\n나는 이대로도-- 괜찮을 것 같은 기분이 듭니다🌟✨✨\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "이렇게 빛나는 동경의 별에 그저 비춰지고 있을 뿐인 지금도\n왠지 모르게 행복한 기분은 사라지지 않으니까\n나는 이대로도 괜찮을 것 같아요🌟✨✨\n",
+          "content": "이렇게 빛나는 동경의 별에 그저 비춰지고만 있는 지금도\n왠지 모르게 행복한 기분은 사라지지 않으니까\n나는 이대로도-- 괜찮을 것 같은 기분이 듭니다🌟✨✨\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799174,
+    "created": 1746802587,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 60,
-      "prompt_tokens": 102,
-      "total_tokens": 162,
+      "completion_tokens": 62,
+      "prompt_tokens": 160,
+      "total_tokens": 222,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

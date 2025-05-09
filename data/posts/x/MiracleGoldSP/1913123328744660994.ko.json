@@ -1,7 +1,8 @@
 {
   "id": "1913123328744660994",
-  "translated_text": "뭔가 귀여워🎃✨\n\n근데 알아~!\n미이가 만드는 바나나🍌 머핀은 엄청 달콤하고 좋은 냄새가 나거든~🧁\n\n먹고 싶어지는 마음 알아 알아~💪✨\n너무 맛있어 보이잖아🏔\n",
+  "translated_text": "뭔가 귀여워🎃✨\n\n근데 알아～！！\n미이가 만드는 바나나🍌 머핀 엄청 달콤하고 좋은 냄새가 나거든～🧁\n \n먹고 싶어지는 마음 알아 알아💪✨\n너무 맛있어 보이잖아🏔\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "뭔가 귀여워🎃✨\n\n근데 알아~!\n미이가 만드는 바나나🍌 머핀은 엄청 달콤하고 좋은 냄새가 나거든~🧁\n\n먹고 싶어지는 마음 알아 알아~💪✨\n너무 맛있어 보이잖아🏔\n",
+          "content": "뭔가 귀여워🎃✨\n\n근데 알아～！！\n미이가 만드는 바나나🍌 머핀 엄청 달콤하고 좋은 냄새가 나거든～🧁\n \n먹고 싶어지는 마음 알아 알아💪✨\n너무 맛있어 보이잖아🏔\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799159,
+    "created": 1746802572,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 71,
-      "prompt_tokens": 122,
-      "total_tokens": 193,
+      "completion_tokens": 72,
+      "prompt_tokens": 180,
+      "total_tokens": 252,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

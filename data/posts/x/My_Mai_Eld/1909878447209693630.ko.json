@@ -1,7 +1,8 @@
 {
   "id": "1909878447209693630",
-  "translated_text": "오늘은 입학식이었다\n\n입학식 정도는 꼭 가야 학비 내준다고 부모님이 말씀하셔서ーー일단 가보긴 했는데\n별로 대단한 건 없었네😼\n아ー 역시 통학 코스는 귀찮아!\n",
+  "translated_text": "오늘은 입학식이었다\n\n입학식 정도는 꼭 가지 않으면 학비 안 낸다고 부모님이 말하니까--일단 가보긴 했는데\n별로 대단한 건 없었네😼\n아- 역시 통학 코스 귀찮아!\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "오늘은 입학식이었다\n\n입학식 정도는 꼭 가야 학비 내준다고 부모님이 말씀하셔서ーー일단 가보긴 했는데\n별로 대단한 건 없었네😼\n아ー 역시 통학 코스는 귀찮아!\n",
+          "content": "오늘은 입학식이었다\n\n입학식 정도는 꼭 가지 않으면 학비 안 낸다고 부모님이 말하니까--일단 가보긴 했는데\n별로 대단한 건 없었네😼\n아- 역시 통학 코스 귀찮아!\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799126,
+    "created": 1746802539,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 68,
-      "prompt_tokens": 115,
-      "total_tokens": 183,
+      "completion_tokens": 67,
+      "prompt_tokens": 173,
+      "total_tokens": 240,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

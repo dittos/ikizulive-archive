@@ -1,7 +1,8 @@
 {
   "id": "1902257229366952099",
-  "translated_text": "할머니가 학교에 상담하러 가보라고 하셔서 갔어\n\n선생님이 지금이라도 들어갈 수 있는 학교가 있대!\n\n어떡해 어떡해!!\n\n정말!?\n\n너무 기뻐 ☀☀✨✨✨!!!\n",
+  "translated_text": "할머니한테 말씀드려서 학교에 상담하러 갔어\n\n선생님이 지금이라도 들어갈 수 있는 학교가 있대!\n\n어떡해 어떡해!!\n\n정말!?\n\n너무 기뻐 ☀☀✨✨✨!!!\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "할머니가 학교에 상담하러 가보라고 하셔서 갔어\n\n선생님이 지금이라도 들어갈 수 있는 학교가 있대!\n\n어떡해 어떡해!!\n\n정말!?\n\n너무 기뻐 ☀☀✨✨✨!!!\n",
+          "content": "할머니한테 말씀드려서 학교에 상담하러 갔어\n\n선생님이 지금이라도 들어갈 수 있는 학교가 있대!\n\n어떡해 어떡해!!\n\n정말!?\n\n너무 기뻐 ☀☀✨✨✨!!!\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799042,
+    "created": 1746802457,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
       "completion_tokens": 64,
-      "prompt_tokens": 110,
-      "total_tokens": 174,
+      "prompt_tokens": 168,
+      "total_tokens": 232,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

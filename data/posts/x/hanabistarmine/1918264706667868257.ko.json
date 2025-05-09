@@ -1,7 +1,8 @@
 {
   "id": "1918264706667868257",
-  "translated_text": "어느 날 학교에서 돌아오는 길, 엄청난 기세로 달려오는 폴카에게 납치당해서\n정신없이 압도당해 버리고 🌀\n정신을 차려 보니 어쩐지 이미 동료 같은 분위기가 되어 있었다.\n",
+  "translated_text": "어느 날 학교에서 돌아오는 길, 엄청난 기세로 달려오는 폴카 짱에게 납치당해서\n어쩐지 정신없이 휘말려 버리고 🌀\n정신을 차려 보니 어쩐지 벌써 동료 같은 분위기가 되어 있었다\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "어느 날 학교에서 돌아오는 길, 엄청난 기세로 달려오는 폴카에게 납치당해서\n정신없이 압도당해 버리고 🌀\n정신을 차려 보니 어쩐지 이미 동료 같은 분위기가 되어 있었다.\n",
+          "content": "어느 날 학교에서 돌아오는 길, 엄청난 기세로 달려오는 폴카 짱에게 납치당해서\n어쩐지 정신없이 휘말려 버리고 🌀\n정신을 차려 보니 어쩐지 벌써 동료 같은 분위기가 되어 있었다\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799094,
+    "created": 1746802508,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 71,
-      "prompt_tokens": 106,
-      "total_tokens": 177,
+      "completion_tokens": 76,
+      "prompt_tokens": 164,
+      "total_tokens": 240,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }

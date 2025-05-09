@@ -1,7 +1,8 @@
 {
   "id": "1920458160113852734",
-  "translated_text": "GW 아사쿠사는 정말 엄청난 인파로 대성황👘✨\n덴보인 거리에서 4대째 이어오는 옷감 가게 간판딸인 저도 녹초가 됐어요!!\n약한 소리 하는 건 싫어하지만, 오늘만큼은 어쩔 수 없이 푸념하게 되네요~!\n#숨막혀부",
+  "translated_text": "GW 아사쿠사는 정말 엄청난 대성황, 대단한 북적거림👘✨\n덴포인 거리에서 4대째 이어오는 옷 가게 간판 딸인 저도 녹초가 됐어요!!\n약한 소리 하는 건 싫어하지만, 역시 오늘 정도는 푸념하게 되네요~!\n#살기힘든부\n",
   "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
   "raw_data": {
     "id": null,
     "choices": [
@@ -10,7 +11,7 @@
         "index": 0,
         "logprobs": null,
         "message": {
-          "content": "GW 아사쿠사는 정말 엄청난 인파로 대성황👘✨\n덴보인 거리에서 4대째 이어오는 옷감 가게 간판딸인 저도 녹초가 됐어요!!\n약한 소리 하는 건 싫어하지만, 오늘만큼은 어쩔 수 없이 푸념하게 되네요~!\n#숨막혀부",
+          "content": "GW 아사쿠사는 정말 엄청난 대성황, 대단한 북적거림👘✨\n덴포인 거리에서 4대째 이어오는 옷 가게 간판 딸인 저도 녹초가 됐어요!!\n약한 소리 하는 건 싫어하지만, 역시 오늘 정도는 푸념하게 되네요~!\n#살기힘든부\n",
           "refusal": null,
           "role": "assistant",
           "annotations": null,
@@ -20,15 +21,15 @@
         }
       }
     ],
-    "created": 1746799077,
+    "created": 1746802490,
     "model": "gemini-2.0-flash",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": null,
     "usage": {
-      "completion_tokens": 92,
-      "prompt_tokens": 128,
-      "total_tokens": 220,
+      "completion_tokens": 96,
+      "prompt_tokens": 186,
+      "total_tokens": 282,
       "completion_tokens_details": null,
       "prompt_tokens_details": null
     }
