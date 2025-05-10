@@ -1,0 +1,37 @@
+{
+  "id": "1919881358966423808",
+  "translated_text": "손님이 잘 모이지 않아서 곤란해하고 있었는데, 우연히 새 학교의 반 친구를 만나서 큰 도움을 받았습니다.\n로라 짱 그때 정말 감사했어요🌎\n저도 지구를 위해 더욱 정진해 나가겠다고 굳게 결심하고, 일당은 전부 WWF🐼 모금함에 넣었습니다🍀",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "손님이 잘 모이지 않아서 곤란해하고 있었는데, 우연히 새 학교의 반 친구를 만나서 큰 도움을 받았습니다.\n로라 짱 그때 정말 감사했어요🌎\n저도 지구를 위해 더욱 정진해 나가겠다고 굳게 결심하고, 일당은 전부 WWF🐼 모금함에 넣었습니다🍀",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746856644,
+    "model": "gemini-2.5-flash-preview-04-17",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 75,
+      "prompt_tokens": 199,
+      "total_tokens": 1826,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

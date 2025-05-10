@@ -1,0 +1,37 @@
+{
+  "id": "1916697630920347862",
+  "translated_text": "알고 있어\n이 분위기의 정체는\n\n부모의 압력",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "알고 있어\n이 분위기의 정체는\n\n부모의 압력",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746856595,
+    "model": "gemini-2.5-flash-preview-04-17",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 16,
+      "prompt_tokens": 145,
+      "total_tokens": 1136,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

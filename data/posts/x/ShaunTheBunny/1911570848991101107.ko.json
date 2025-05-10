@@ -1,0 +1,37 @@
+{
+  "id": "1911570848991101107",
+  "translated_text": "이렇게 인터넷으로 누군가와 교류도 하고\n얼굴도 모르는 누군가지만\n여기서는 속마음을 이야기하고 있으니까\n내 현실 얼굴을 아는 다른 누군가보다, 분명 진짜 나를 아는 건 너라고 생각해.",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "이렇게 인터넷으로 누군가와 교류도 하고\n얼굴도 모르는 누군가지만\n여기서는 속마음을 이야기하고 있으니까\n내 현실 얼굴을 아는 다른 누군가보다, 분명 진짜 나를 아는 건 너라고 생각해.",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746856543,
+    "model": "gemini-2.5-flash-preview-04-17",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 55,
+      "prompt_tokens": 183,
+      "total_tokens": 1163,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

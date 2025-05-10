@@ -1,0 +1,37 @@
+{
+  "id": "1920888495515803936",
+  "translated_text": "새로운 헤드폰의 노캔이 너무 잘 돼서 행복하다\n\n밤중은 나의 시간\n\n계속 이대로 아침이 오지 않으면 좋을 텐데 라고 생각하지만\n그러면 분명 모두 곤란해지니까 아침은 와도 된다\n\n단 나는 잔다",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "새로운 헤드폰의 노캔이 너무 잘 돼서 행복하다\n\n밤중은 나의 시간\n\n계속 이대로 아침이 오지 않으면 좋을 텐데 라고 생각하지만\n그러면 분명 모두 곤란해지니까 아침은 와도 된다\n\n단 나는 잔다",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1746856581,
+    "model": "gemini-2.5-flash-preview-04-17",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 61,
+      "prompt_tokens": 182,
+      "total_tokens": 2636,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

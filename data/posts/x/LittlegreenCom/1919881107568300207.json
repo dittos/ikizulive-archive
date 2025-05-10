@@ -1,0 +1,106 @@
+{
+  "id": "1919881107568300207",
+  "username": "LittlegreenCom",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1919881107568300207",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NTg1MDA5NDkyMDQ5OTIw",
+          "rest_id": "1906585009492049920",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": false,
+          "legacy": {
+            "following": false,
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Mon Mar 31 05:51:14 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 539,
+            "friends_count": 0,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 142,
+            "location": "",
+            "media_count": 0,
+            "name": "Little　green",
+            "normal_followers_count": 539,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1914962323900657664/NYt5WuEG_normal.png",
+            "profile_interstitial_type": "",
+            "screen_name": "LittlegreenCom",
+            "statuses_count": 11,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1919881107568300207"
+      ],
+      "editable_until_msecs": "1746573900000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "2274",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 1,
+      "bookmarked": false,
+      "created_at": "Tue May 06 22:25:00 +0000 2025",
+      "conversation_id_str": "1919881107568300207",
+      "display_text_range": [
+        0,
+        67
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 27,
+      "favorited": false,
+      "full_text": "私は試飲のちっちゃな紙コップを来場者の皆さんに勧めて回る役だったのですが\n初めてのアルバイトのせいもあってなかなかうまくいかなくて…🐛",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4,
+      "retweeted": false,
+      "user_id_str": "1906585009492049920",
+      "id_str": "1919881107568300207"
+    }
+  },
+  "created_at": "2025-05-06T22:25:00Z"
+}
