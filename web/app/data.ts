@@ -89,17 +89,18 @@ export async function loadAllData(): Promise<AllData> {
   };
 }
 
-export async function loadTranslatedPosts(lang: string): Promise<{ [id: string]: TranslatedPost }> {
-  const accounts = await loadAccounts();
+export async function loadTranslatedPosts(lang: string, posts: Post[]): Promise<{ [id: string]: TranslatedPost }> {
   const translations: { [id: string]: TranslatedPost } = {};
-  for (const account of accounts) {
-    const files = await fs.readdir(`../data/posts/x/${account.x}`);
-    for (const file of files) {
-      if (!file.endsWith(`.${lang}.json`)) continue;
-      const data = await fs.readFile(`../data/posts/x/${account.x}/${file}`, "utf-8");
-      const json = JSON.parse(data) as TranslatedPost;
-      translations[json.id] = json;
+  for (const post of posts) {
+    const file = `../data/posts/x/${post.user.screen_name}/${post.id}.${lang}.json`;
+    let json;
+    try {
+      json = await fs.readFile(file, "utf-8");
+    } catch (error) {
+      continue;
     }
+    const data = JSON.parse(json) as TranslatedPost;
+    translations[data.id] = data;
   }
   return translations;
 }

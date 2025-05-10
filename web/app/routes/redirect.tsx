@@ -9,5 +9,5 @@ export default function Redirect() {
     navigate(`/${DEFAULT_LOCALE}`);
   }, [navigate]);
 
-  return <div>Redirecting...</div>;
+  return <div className="p-10 text-center text-gray-400">Redirecting...</div>;
 }

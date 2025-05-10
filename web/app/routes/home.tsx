@@ -6,17 +6,31 @@ import type { AllData, Post, TranslatedPost } from "~/data"
 import type { Route } from "./+types/home";
 import { loadAllData, loadTranslatedPosts } from "~/data";
 import { STRINGS, type Strings } from "~/i18n"
-import { SquareArrowOutUpRightIcon } from "lucide-react"
+import { ChevronLeft, ChevronRight, SquareArrowOutUpRightIcon } from "lucide-react"
+import { Button } from "~/components/ui/button"
+import { Link } from "react-router"
 
 export async function loader({ params }: Route.LoaderArgs) {
   const strings = STRINGS[params.lang as keyof typeof STRINGS];
   if (!strings) {
     throw new Response("Not Found", { status: 404 });
   }
+  const allData = await loadAllData();
+  const offset = params.date ? allData.postsByDate.findIndex((date) => date.date === params.date) : 0;
+  if (offset === -1) {
+    throw new Response("Not Found", { status: 404 });
+  }
+  const postsByDate = allData.postsByDate.slice(offset, offset + 7);
   return {
     strings,
-    ...(await loadAllData()),
-    translatedPosts: await loadTranslatedPosts(params.lang),
+    accounts: allData.accounts,
+    postsByDate,
+    pages: {
+      first: allData.postsByDate[0].date,
+      prev: offset > 0 ? (allData.postsByDate[offset - 7] ?? allData.postsByDate[0])?.date : null,
+      next: allData.postsByDate[offset + 7]?.date,
+    },
+    translatedPosts: await loadTranslatedPosts(params.lang, postsByDate.flatMap((date) => date.posts)),
   };
 }
 
@@ -49,7 +63,11 @@ export default function Home({
 
   return (
     <div className="container mx-auto max-w-4xl py-8 px-4">
-      <h1 className="text-2xl font-bold mb-6">{strings.home.title}</h1>
+      <h1 className="text-2xl font-bold mb-6">
+        <Link to={`/${params.lang}`}>
+          {strings.home.title}
+        </Link>
+      </h1>
 
       {/* Account filter section */}
       <div className="bg-white rounded-lg shadow p-4 mb-6">
@@ -77,7 +95,14 @@ export default function Home({
         </div>
       </div>
 
-      <Posts strings={strings} lang={params.lang} accounts={accounts} posts={filteredTweets} translatedPosts={translatedPosts} />
+      <Posts
+        strings={strings}
+        lang={params.lang}
+        accounts={accounts}
+        posts={filteredTweets}
+        translatedPosts={translatedPosts}
+        pages={loaderData.pages}
+      />
     </div>
   )
 }
@@ -88,12 +113,18 @@ function Posts({
   posts,
   translatedPosts,
   strings,
+  pages,
 }: {
   lang: string;
   accounts: AllData["accounts"];
   posts: Post[];
   translatedPosts: { [id: string]: TranslatedPost };
   strings: Strings;
+  pages: {
+    first: string;
+    prev: string | null;
+    next: string | null;
+  };
 }) {
   // Group tweets by date (YYYY-MM-DD)
   const groupedTweets = posts.reduce((groups, post) => {
@@ -127,8 +158,30 @@ function Posts({
     return new Intl.DateTimeFormat(lang, { dateStyle: "full" }).format(Temporal.PlainDate.from(dateStr))
   }
 
+  const dateNav = (
+    <div className="flex justify-between items-center mb-6">
+      {pages.prev && (
+        <Link to={pages.prev === pages.first ? `/${lang}` : `/${lang}/d/${pages.prev}`}>
+          <Button variant="outline" size="sm" className="cursor-pointer">
+            <ChevronLeft className="h-4 w-4 mr-1" /> 이전 페이지
+          </Button>
+        </Link>
+      )}
+      <div />
+      {pages.next && (
+        <Link to={`/${lang}/d/${pages.next}`}>
+          <Button variant="outline" size="sm" className="cursor-pointer">
+            다음 페이지 <ChevronRight className="h-4 w-4 ml-1" />
+          </Button>
+        </Link>
+      )}
+    </div>
+  );
+
   return (
     <div className="space-y-8">
+      {dateNav}
+
       {sortedDates.map((dateStr) => (
         <div key={dateStr} className="bg-white rounded-lg shadow overflow-hidden">
           {/* Date header with profile pictures */}
@@ -165,15 +218,7 @@ function Posts({
         </div>
       ))}
       
-      {/* Date navigation */}
-      {/* <div className="flex justify-between items-center mb-6">
-        <Button variant="outline" size="sm" onClick={goToPreviousDate}>
-          <ChevronLeft className="h-4 w-4 mr-1" /> 이전 페이지
-        </Button>
-        <Button variant="outline" size="sm" onClick={goToNextDate}>
-          다음 페이지 <ChevronRight className="h-4 w-4 ml-1" />
-        </Button>
-      </div> */}
+      {dateNav}
     </div>
   );
 }
