@@ -54,12 +54,12 @@ export default function Home({
   params,
 }: Route.ComponentProps) {
   const { accounts, postsByDate, strings, translatedPosts } = loaderData
-  const [selectedAccounts, setSelectedAccounts] = useState(accounts.map((account) => account.username))
+  const [selectedAccounts, setSelectedAccounts] = useState(accounts.map((account) => account.id))
 
   // Filter tweets by selected accounts and group by date
   const filteredTweets = postsByDate
     .flatMap((date) => date.posts)
-    .filter((tweet) => selectedAccounts.includes(tweet.user.screen_name))
+    .filter((tweet) => selectedAccounts.includes(tweet.account.id))
 
   // Toggle account selection
   const toggleAccount = (accountId: string) => {
@@ -90,7 +90,7 @@ export default function Home({
                 if (selectedAccounts.length === accounts.length) {
                   setSelectedAccounts([])
                 } else {
-                  setSelectedAccounts(accounts.map((account) => account.username))
+                  setSelectedAccounts(accounts.map((account) => account.id))
                 }
               }}
             />
@@ -113,10 +113,10 @@ export default function Home({
                 className="flex items-center gap-2 text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"
               >
                 <Avatar className="h-6 w-6">
-                  <AvatarImage src={account.profileImage || "/placeholder.svg"} alt={account.name} />
-                  <AvatarFallback>{account.name.substring(0, 2)}</AvatarFallback>
+                  <AvatarImage src={account.x.profile_image_url_https} alt={account.x.name} />
+                  <AvatarFallback>{account.x.name.substring(0, 2)}</AvatarFallback>
                 </Avatar>
-                {account.name}
+                {account.x.name}
               </label>
             </div>
           ))}
@@ -165,9 +165,9 @@ function Posts({
   const getAccountsForDate = (dateStr: string) => {
     const uniqueAccounts = new Set()
     groupedTweets[dateStr].forEach((tweet) => {
-      uniqueAccounts.add(tweet.user.screen_name)
+      uniqueAccounts.add(tweet.account.id)
     })
-    return Array.from(uniqueAccounts).map((username) => accounts.find((account) => account.username === username)!)
+    return Array.from(uniqueAccounts).map((id) => accounts.find((account) => account.id === id)!)
   }
 
   // Format date for display
@@ -211,6 +211,12 @@ function Posts({
     <div className="space-y-8">
       {dateNav}
 
+      {posts.length === 0 && (
+        <div className="bg-white rounded-lg shadow overflow-hidden p-4 text-center text-gray-500">
+          {strings.home.noPosts}
+        </div>
+      )}
+
       {Object.keys(groupedTweets).map((dateStr) => (
         <div key={dateStr} className="bg-white rounded-lg shadow overflow-hidden">
           {/* Date header with profile pictures */}
@@ -220,8 +226,8 @@ function Posts({
               <div className="flex -space-x-2">
                 {getAccountsForDate(dateStr).map((account, index) => (
                   <Avatar key={account.id} className="border-2 border-white h-8 w-8">
-                    <AvatarImage src={account.profileImage || "/placeholder.svg"} alt={account.name} />
-                    <AvatarFallback>{account.name.substring(0, 2)}</AvatarFallback>
+                    <AvatarImage src={account.x.profile_image_url_https} alt={account.x.name} />
+                    <AvatarFallback>{account.x.name.substring(0, 2)}</AvatarFallback>
                   </Avatar>
                 ))}
               </div>
@@ -265,17 +271,17 @@ function Post({
     <div className="p-4" id={post.id}>
       <div className="flex">
         <Avatar className="h-10 w-10 mr-3">
-          <AvatarImage src={post.user.profile_image_url_https} alt={post.user.name} />
+          <AvatarImage src={post.account.x.profile_image_url_https} alt={post.account.x.name} />
         </Avatar>
         <div className="flex-1">
           <div className="flex flex-wrap items-center">
-            <span className="font-semibold">{post.user.name}</span>
-            <span className="text-gray-500 ml-2">@{post.user.screen_name}</span>
+            <span className="font-semibold">{post.account.x.name}</span>
+            <span className="text-gray-500 ml-2">@{post.account.x.screen_name}</span>
             <a href={`/${lang}/${pages.direction}/${pages.current}#${post.id}`} className="text-gray-500 ml-2 text-sm">
               {Temporal.Instant.from(post.created_at).toZonedDateTimeISO("Asia/Tokyo").toPlainTime().toLocaleString("ko-KR", { timeStyle: "short" })}
             </a>
             <span className="ml-auto" />
-            <a href={`https://x.com/${post.user.screen_name}/status/${post.id}`} target="_blank" rel="noopener noreferrer" className="text-gray-400 ml-2 text-sm">
+            <a href={`https://x.com/${post.account.x.screen_name}/status/${post.id}`} target="_blank" rel="noopener noreferrer" className="text-gray-400 ml-2 text-sm">
               <SquareArrowOutUpRightIcon size={16} />
             </a>
           </div>

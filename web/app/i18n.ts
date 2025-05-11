@@ -14,6 +14,7 @@ export type Strings = {
     nextPage: string;
     sortByLatest: string;
     sortByOldest: string;
+    noPosts: string;
   };
   footer: {
     disclaimer: string;
@@ -33,6 +34,7 @@ export const STRINGS: Record<Language, Strings> = {
       nextPage: "다음 페이지",
       sortByLatest: "최신순",
       sortByOldest: "날짜순",
+      noPosts: "게시물이 없습니다. 필터를 변경하거나 다른 날짜를 선택해 보세요.",
     },
     footer: {
       disclaimer: "이 아카이브는 비공식 팬사이트이며, 프로젝트 이키즈라이브!와 무관합니다.\n모든 저작권은 원작자(©プロジェクトイキッズライブ！)에 있습니다.",

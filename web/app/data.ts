@@ -3,9 +3,11 @@ import * as fs from "fs/promises";
 
 export type Account = {
   id: string;
-  name: string;
-  username: string;
-  profileImage: string;
+  x: {
+    name: string;
+    screen_name: string;
+    profile_image_url_https: string;
+  };
 }
 
 export type Post = {
@@ -25,11 +27,7 @@ export type Post = {
       expanded_url: string;
     }[];
   };
-  user: {
-    name: string;
-    screen_name: string;
-    profile_image_url_https: string;
-  };
+  account: Account;
 }
 
 export type TranslatedPost = {
@@ -48,7 +46,7 @@ export type AllData = {
   }[];
 }
 
-async function loadAccounts() {
+async function loadAccounts(): Promise<Account[]> {
   const data = await fs.readFile("../data/accounts.json", "utf-8");
   return JSON.parse(data);
 }
@@ -57,27 +55,21 @@ export async function loadAllData(direction: "asc" | "desc" = "desc"): Promise<A
   const accounts = await loadAccounts();
   const allPosts = [];
   for (const account of accounts) {
-    const files = await fs.readdir(`../data/posts/x/${account.x}`)
+    const files = await fs.readdir(`../data/posts/x/${account.x.screen_name}`);
     const posts: Post[] = [];
     for (const file of files) {
       if (!file.endsWith(".json")) continue;
       if (file.replace(".json", "").includes(".")) continue; // translation
-      const data = await fs.readFile(`../data/posts/x/${account.x}/${file}`, "utf-8");
+      const data = await fs.readFile(`../data/posts/x/${account.x.screen_name}/${file}`, "utf-8");
       const json = JSON.parse(data);
       posts.push({
         id: json.id,
         created_at: json.created_at,
         text: json.raw_data.legacy.full_text,
-        user: json.raw_data.core.user_results.result.legacy,
+        account,
         entities: json.raw_data.legacy.entities,
       });
     }
-    const latestPost = posts[0];
-    const user = latestPost.user;
-    account.id = account.x;
-    account.name = user.name;
-    account.username = account.x;
-    account.profileImage = user.profile_image_url_https;
     allPosts.push(...posts);
   }
   allPosts.sort((a, b) => new Date(a.created_at).getTime() - new Date(b.created_at).getTime());
@@ -108,7 +100,7 @@ export async function loadAllData(direction: "asc" | "desc" = "desc"): Promise<A
 export async function loadTranslatedPosts(lang: string, posts: Post[]): Promise<{ [id: string]: TranslatedPost }> {
   const translations: { [id: string]: TranslatedPost } = {};
   for (const post of posts) {
-    const file = `../data/posts/x/${post.user.screen_name}/${post.id}.${lang}.json`;
+    const file = `../data/posts/x/${post.account.x.screen_name}/${post.id}.${lang}.json`;
     let json;
     try {
       json = await fs.readFile(file, "utf-8");

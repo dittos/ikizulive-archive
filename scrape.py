@@ -143,9 +143,13 @@ class TwitterDownloader:
                             type=media["type"],
                             url=media["media_url_https"],
                         ))
+                    screen_name = raw_tweet["core"]["user_results"]["result"]["legacy"]["screen_name"]
+                    if screen_name != username:
+                        logging.info(f"skipping tweet {raw_tweet["rest_id"]} from {screen_name}")
+                        continue
                     tweets.append(Tweet(
                         id=raw_tweet["rest_id"],
-                        username=raw_tweet["core"]["user_results"]["result"]["legacy"]["screen_name"],
+                        username=screen_name,
                         attachments=attachments,
                         raw_data=raw_tweet,
                         created_at=parsedate_to_datetime(raw_tweet["legacy"]["created_at"]),
@@ -190,17 +194,24 @@ class DownloadTask:
         self.tweet_repo = tweet_repo
         self.twitter_downloader = twitter_downloader
 
-    def handle(self, username: str, pages: int | None = None):
-        tweets = self._get_new_tweets(username, pages)
-        tweets.reverse()  # to save old likes first
-        self._download_images(tweets)
+    def handle(self, account: dict, pages: int | None = None):
+        new_tweets, old_tweets = self._get_new_tweets(account["x"]["screen_name"], pages)
+        new_tweets.reverse()  # to save old likes first
+        self._download_images(new_tweets)
 
-        for tweet in tweets:
+        for tweet in new_tweets:
             self.tweet_repo.put(tweet)
+        
+        if old_tweets:
+            user = old_tweets[0].raw_data["core"]["user_results"]["result"]["legacy"]
+            account["x"]["name"] = user["name"]
+            account["x"]["description"] = user["description"]
+            account["x"]["profile_image_url_https"] = user["profile_image_url_https"]
 
     def _get_new_tweets(self, username: str, pages: int | None = None):
         page_count = 0
-        tweets = []
+        new_tweets = []
+        old_tweets = []
         pagination_state = None
 
         while pages is None or page_count < pages:
@@ -217,13 +228,14 @@ class DownloadTask:
                 if self.tweet_repo.get(tweet.username, tweet.id):
                     logging.info(f"saved tweet found: {tweet.id}")
                     found_saved = True
+                    old_tweets.append(tweet)
                 else:
-                    tweets.append(tweet)
+                    new_tweets.append(tweet)
             
             if found_saved and pages is None:
                 break
         
-        return tweets
+        return new_tweets, old_tweets
 
     def _download_images(self, tweets: list[Tweet]) -> list[tuple[Tweet, Attachment]]:
         result = []
@@ -266,6 +278,8 @@ if __name__ == "__main__":
     ):
         with downloader.open():
             for account in accounts:
-                username = account["x"]
+                username = account["x"]["screen_name"]
                 logging.info(f"downloading {username}")
-                task.handle(username=username)
+                task.handle(account)
+
+    (data_dir / "accounts.json").write_text(json.dumps(accounts, indent=2, ensure_ascii=False))
