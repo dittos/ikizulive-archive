@@ -53,7 +53,7 @@ async function loadAccounts() {
   return JSON.parse(data);
 }
 
-export async function loadAllData(): Promise<AllData> {
+export async function loadAllData(direction: "asc" | "desc" = "desc"): Promise<AllData> {
   const accounts = await loadAccounts();
   const allPosts = [];
   for (const account of accounts) {
@@ -72,7 +72,6 @@ export async function loadAllData(): Promise<AllData> {
         entities: json.raw_data.legacy.entities,
       });
     }
-    posts.sort((a, b) => new Date(b.created_at).getTime() - new Date(a.created_at).getTime());
     const latestPost = posts[0];
     const user = latestPost.user;
     account.id = account.x;
@@ -81,7 +80,10 @@ export async function loadAllData(): Promise<AllData> {
     account.profileImage = user.profile_image_url_https;
     allPosts.push(...posts);
   }
-  allPosts.sort((a, b) => new Date(b.created_at).getTime() - new Date(a.created_at).getTime());
+  allPosts.sort((a, b) => new Date(a.created_at).getTime() - new Date(b.created_at).getTime());
+  if (direction === "desc") {
+    allPosts.reverse();
+  }
 
   const postsByDate: { date: string; posts: Post[] }[] = [];
   allPosts.forEach((post) => {

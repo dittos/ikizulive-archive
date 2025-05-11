@@ -13,7 +13,8 @@ export default {
     for (const lang of ["ko"]) {
       paths.push(`/${lang}`);
       for (const date of dates) {
-        paths.push(`/${lang}/d/${date}`);
+        paths.push(`/${lang}/until/${date}`);
+        paths.push(`/${lang}/since/${date}`);
       }
     }
     return paths;

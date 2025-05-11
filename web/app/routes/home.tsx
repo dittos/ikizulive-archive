@@ -2,20 +2,26 @@ import React, { useState } from "react"
 import { Temporal, Intl } from "@js-temporal/polyfill"
 import { Avatar, AvatarFallback, AvatarImage } from "~/components/ui/avatar"
 import { Checkbox } from "~/components/ui/checkbox"
-import type { AllData, Post, TranslatedPost } from "~/data"
+import type { Post, TranslatedPost } from "~/data"
 import type { Route } from "./+types/home";
 import { loadAllData, loadTranslatedPosts } from "~/data";
-import { STRINGS, type Strings } from "~/i18n"
+import { STRINGS } from "~/i18n"
 import { ChevronLeft, ChevronRight, SquareArrowOutUpRightIcon } from "lucide-react"
 import { Button } from "~/components/ui/button"
-import { Link } from "react-router"
+import { Link, useLoaderData, useParams } from "react-router"
 
 export async function loader({ params }: Route.LoaderArgs) {
   const strings = STRINGS[params.lang as keyof typeof STRINGS];
   if (!strings) {
     throw new Response("Not Found", { status: 404 });
   }
-  const allData = await loadAllData();
+  const direction = params.dir ?? "until";
+  if (direction !== "until" && direction !== "since") {
+    throw new Response("Not Found", { status: 404 });
+  }
+
+  const allData = await loadAllData(direction === "until" ? "desc" : "asc");
+  const oldest = allData.postsByDate[direction === "until" ? allData.postsByDate.length - 1 : 0].date;
   const offset = params.date ? allData.postsByDate.findIndex((date) => date.date === params.date) : 0;
   if (offset === -1) {
     throw new Response("Not Found", { status: 404 });
@@ -26,9 +32,12 @@ export async function loader({ params }: Route.LoaderArgs) {
     accounts: allData.accounts,
     postsByDate,
     pages: {
+      direction: direction as "until" | "since",
+      oldest,
       first: allData.postsByDate[0].date,
       prev: offset > 0 ? (allData.postsByDate[offset - 7] ?? allData.postsByDate[0])?.date : null,
       next: allData.postsByDate[offset + 7]?.date,
+      current: postsByDate[0].date,
     },
     translatedPosts: await loadTranslatedPosts(params.lang, postsByDate.flatMap((date) => date.posts)),
   };
@@ -115,12 +124,8 @@ export default function Home({
       </div>
 
       <Posts
-        strings={strings}
-        lang={params.lang}
-        accounts={accounts}
         posts={filteredTweets}
         translatedPosts={translatedPosts}
-        pages={loaderData.pages}
       />
 
       {/* Footer */}
@@ -132,24 +137,15 @@ export default function Home({
 }
 
 function Posts({
-  lang,
-  accounts,
   posts,
   translatedPosts,
-  strings,
-  pages,
 }: {
-  lang: string;
-  accounts: AllData["accounts"];
   posts: Post[];
   translatedPosts: { [id: string]: TranslatedPost };
-  strings: Strings;
-  pages: {
-    first: string;
-    prev: string | null;
-    next: string | null;
-  };
 }) {
+  const {lang} = useParams()
+  const {accounts, strings, pages} = useLoaderData<typeof loader>()
+
   // Group tweets by date (YYYY-MM-DD)
   const groupedTweets = posts.reduce((groups, post) => {
     const dateStr = Temporal.Instant.from(post.created_at)
@@ -164,9 +160,6 @@ function Posts({
     groups[dateStr].push(post)
     return groups
   }, {} as Record<string, Post[]>)
-
-  // Sort dates in descending order
-  const sortedDates = Object.keys(groupedTweets).sort((a, b) => b.localeCompare(a))
 
   // Get unique accounts that tweeted on a specific date
   const getAccountsForDate = (dateStr: string) => {
@@ -183,17 +176,29 @@ function Posts({
   }
 
   const dateNav = (
-    <div className="flex justify-between items-center mb-6">
+    <div className="flex items-center mb-6">
+      <Link to={`/${lang}`}>
+        <Button variant={pages.direction === "until" ? "default" : "outline"} size="sm" className="cursor-pointer">
+          {strings.home.sortByLatest}
+        </Button>
+      </Link>
+      <Link to={`/${lang}/since/${pages.oldest}`} className="ml-2">
+        <Button variant={pages.direction === "since" ? "default" : "outline"} size="sm" className="cursor-pointer">
+          {strings.home.sortByOldest}
+        </Button>
+      </Link>
+
+      <div className="ml-auto" />
+
       {pages.prev && (
-        <Link to={pages.prev === pages.first ? `/${lang}` : `/${lang}/d/${pages.prev}`}>
+        <Link to={pages.prev === pages.first ? `/${lang}` : `/${lang}/${pages.direction}/${pages.prev}`}>
           <Button variant="outline" size="sm" className="cursor-pointer">
             <ChevronLeft className="h-4 w-4 mr-1" /> {strings.home.prevPage}
           </Button>
         </Link>
       )}
-      <div />
       {pages.next && (
-        <Link to={`/${lang}/d/${pages.next}`}>
+        <Link to={`/${lang}/${pages.direction}/${pages.next}`} className="ml-2">
           <Button variant="outline" size="sm" className="cursor-pointer">
             {strings.home.nextPage} <ChevronRight className="h-4 w-4 ml-1" />
           </Button>
@@ -206,7 +211,7 @@ function Posts({
     <div className="space-y-8">
       {dateNav}
 
-      {sortedDates.map((dateStr) => (
+      {Object.keys(groupedTweets).map((dateStr) => (
         <div key={dateStr} className="bg-white rounded-lg shadow overflow-hidden">
           {/* Date header with profile pictures */}
           <div className="p-4 bg-gray-50 border-b">
@@ -226,7 +231,6 @@ function Posts({
           {/* Tweets for this date */}
           <div className="divide-y">
             {groupedTweets[dateStr]
-              .sort((a, b) => new Date(b.created_at).getTime() - new Date(a.created_at).getTime())
               .map((post) => {
                 const translatedPost = translatedPosts[post.id]
                 return (
@@ -234,7 +238,6 @@ function Posts({
                     key={post.id}
                     post={post}
                     translatedPost={translatedPost}
-                    strings={strings}
                   />
                 );
               })}
@@ -250,13 +253,13 @@ function Posts({
 function Post({
   post,
   translatedPost,
-  strings,
 }: {
   post: Post;
   translatedPost?: TranslatedPost;
-  strings: Strings;
 }) {
   const [showOriginal, setShowOriginal] = useState(false)
+  const {lang} = useParams()
+  const {pages, strings} = useLoaderData<typeof loader>()
 
   return (
     <div className="p-4" id={post.id}>
@@ -268,7 +271,7 @@ function Post({
           <div className="flex flex-wrap items-center">
             <span className="font-semibold">{post.user.name}</span>
             <span className="text-gray-500 ml-2">@{post.user.screen_name}</span>
-            <a href={`#${post.id}`} className="text-gray-500 ml-2 text-sm">
+            <a href={`/${lang}/${pages.direction}/${pages.current}#${post.id}`} className="text-gray-500 ml-2 text-sm">
               {Temporal.Instant.from(post.created_at).toZonedDateTimeISO("Asia/Tokyo").toPlainTime().toLocaleString("ko-KR", { timeStyle: "short" })}
             </a>
             <span className="ml-auto" />
