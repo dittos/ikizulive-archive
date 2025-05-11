@@ -1,4 +1,4 @@
-import { useState } from "react"
+import React, { useState } from "react"
 import { Temporal, Intl } from "@js-temporal/polyfill"
 import { Avatar, AvatarFallback, AvatarImage } from "~/components/ui/avatar"
 import { Checkbox } from "~/components/ui/checkbox"
@@ -273,11 +273,11 @@ function Post({
           </div>
           <div className="flex mt-1 gap-x-6 max-md:flex-col max-md:gap-y-3">
             <p className="text-gray-800 whitespace-pre-wrap flex-1">
-              {translatedPost?.translated_text ?? post.text}
+              {formatText(translatedPost?.translated_text ?? post.text, post)}
             </p>
             {showOriginal && (
               <p className="text-gray-500 whitespace-pre-wrap flex-1">
-                {post.text}
+                {formatText(post.text, post)}
               </p>
             )}
           </div>
@@ -293,4 +293,107 @@ function Post({
       </div>
     </div>
   )
+}
+
+type RichTextNode = string | {
+  node: React.ReactNode
+  originalLength: number
+}
+
+class RichText {
+  private nodes: RichTextNode[]
+
+  constructor(text: string) {
+    this.nodes = [text]
+  }
+
+  replaceRange(start: number, end: number, replacement: React.ReactNode) {
+    const newNodes: RichTextNode[] = []
+
+    let nodeStart = 0
+    this.nodes.forEach((node) => {
+      // can't split react node
+      if (typeof node !== "string") {
+        newNodes.push(node)
+        nodeStart += node.originalLength
+        return;
+      }
+
+      const nodeEnd = nodeStart + node.length;
+      // if node contains the range, split
+      if (nodeStart <= start && end <= nodeEnd) {
+        if (nodeStart < start) {
+          newNodes.push(node.substring(0, start - nodeStart))
+        }
+        newNodes.push({
+          node: replacement,
+          originalLength: end - start,
+        })
+        if (nodeEnd > end) {
+          newNodes.push(node.substring(end - nodeStart))
+        }
+      } else {
+        newNodes.push(node)
+      }
+      nodeStart = nodeEnd
+    })
+
+    this.nodes = newNodes
+  }
+
+  add(node: React.ReactNode) {
+    this.nodes.push({
+      node,
+      originalLength: 0,
+    })
+  }
+
+  getNodes() {
+    return this.nodes.map((node) => typeof node === "string" ? node : node.node);
+  }
+}
+
+function formatText(text: string, post: Post) {
+  // Format the translated text with the original text and entities
+  let formattedText = new RichText(text)
+
+  // Replace URLs in the translated text with the original URLs
+  if (post.entities?.urls) {
+    post.entities.urls.forEach((url) => {
+      const originalText = url.url
+      let pos = 0
+      while (pos < text.length) {
+        const index = text.indexOf(originalText, pos)
+        if (index === -1) break
+        pos = index + originalText.length
+        formattedText.replaceRange(index, index + originalText.length,
+          <a href={url.expanded_url} target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">{url.display_url}</a>);
+      }
+    })
+  }
+
+  if (post.entities?.media) {
+    post.entities.media.forEach((media) => {
+      const originalText = media.url
+      const replacement = (
+        <a href={media.expanded_url} target="_blank" rel="noopener noreferrer" className="text-gray-500 block my-3">
+          <img src={media.media_url_https} alt={media.display_url} className="max-w-[80%] h-auto rounded-md" loading="lazy" />
+        </a>
+      );
+      let pos = 0
+      let found = false
+      while (pos < text.length) {
+        const index = text.indexOf(originalText, pos)
+        if (index === -1) break
+        pos = index + originalText.length
+        found = true
+        formattedText.replaceRange(index, index + originalText.length, replacement);
+      }
+      if (!found) {
+        formattedText.add(replacement);
+      }
+    })
+  }
+
+  return formattedText.getNodes()
 }

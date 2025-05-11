@@ -12,6 +12,19 @@ export type Post = {
   id: string;
   created_at: string;
   text: string;
+  entities?: {
+    media?: {
+      url: string;
+      expanded_url: string;
+      display_url: string;
+      media_url_https: string;
+    }[];
+    urls?: {
+      url: string;
+      display_url: string;
+      expanded_url: string;
+    }[];
+  };
   user: {
     name: string;
     screen_name: string;
@@ -56,6 +69,7 @@ export async function loadAllData(): Promise<AllData> {
         created_at: json.created_at,
         text: json.raw_data.legacy.full_text,
         user: json.raw_data.core.user_results.result.legacy,
+        entities: json.raw_data.legacy.entities,
       });
     }
     posts.sort((a, b) => new Date(b.created_at).getTime() - new Date(a.created_at).getTime());
