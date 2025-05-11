@@ -82,7 +82,7 @@ if __name__ == "__main__":
     accounts = json.loads((data_dir / "accounts.json").read_text())
 
     for account in accounts:
-        username = account["x"]
+        username = account["x"]["screen_name"]
         logging.info(f"account: {username}")
         posts_dir = data_dir / "posts" / "x" / username
         for filename in os.listdir(posts_dir):
