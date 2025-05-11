@@ -12,7 +12,10 @@ export type Strings = {
     translatedBy: string;
     prevPage: string;
     nextPage: string;
-  }
+  };
+  footer: {
+    disclaimer: string;
+  };
 };
 
 export const STRINGS: Record<Language, Strings> = {
@@ -26,6 +29,9 @@ export const STRINGS: Record<Language, Strings> = {
       translatedBy: "번역",
       prevPage: "이전 페이지",
       nextPage: "다음 페이지",
+    },
+    footer: {
+      disclaimer: "이 아카이브는 비공식 팬사이트이며, 프로젝트 이키즈라이브!와 무관합니다.\n모든 저작권은 원작자(©プロジェクトイキッズライブ！)에 있습니다.",
     },
   }
 };

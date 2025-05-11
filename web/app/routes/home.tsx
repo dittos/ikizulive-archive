@@ -122,6 +122,11 @@ export default function Home({
         translatedPosts={translatedPosts}
         pages={loaderData.pages}
       />
+
+      {/* Footer */}
+      <div className="text-center text-gray-500 mt-8 text-sm whitespace-pre-wrap">
+        {strings.footer.disclaimer}
+      </div>
     </div>
   )
 }
