@@ -73,6 +73,25 @@ export default function Home({
       <div className="bg-white rounded-lg shadow p-4 mb-6">
         <h2 className="text-lg font-semibold mb-3">{strings.home.accountFilter}</h2>
         <div className="flex flex-wrap gap-y-3 gap-x-6">
+          <div className="flex items-center space-x-2">
+            <Checkbox
+              id="select-all"
+              checked={selectedAccounts.length === accounts.length}
+              onCheckedChange={() => {
+                if (selectedAccounts.length === accounts.length) {
+                  setSelectedAccounts([])
+                } else {
+                  setSelectedAccounts(accounts.map((account) => account.username))
+                }
+              }}
+            />
+            <label
+              htmlFor="select-all"
+              className="flex items-center gap-2 text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"
+            >
+              {strings.home.selectAll}
+            </label>
+          </div>
           {accounts.map((account) => (
             <div key={account.id} className="flex items-center space-x-2">
               <Checkbox
@@ -163,7 +182,7 @@ function Posts({
       {pages.prev && (
         <Link to={pages.prev === pages.first ? `/${lang}` : `/${lang}/d/${pages.prev}`}>
           <Button variant="outline" size="sm" className="cursor-pointer">
-            <ChevronLeft className="h-4 w-4 mr-1" /> 이전 페이지
+            <ChevronLeft className="h-4 w-4 mr-1" /> {strings.home.prevPage}
           </Button>
         </Link>
       )}
@@ -171,7 +190,7 @@ function Posts({
       {pages.next && (
         <Link to={`/${lang}/d/${pages.next}`}>
           <Button variant="outline" size="sm" className="cursor-pointer">
-            다음 페이지 <ChevronRight className="h-4 w-4 ml-1" />
+            {strings.home.nextPage} <ChevronRight className="h-4 w-4 ml-1" />
           </Button>
         </Link>
       )}
