@@ -54,7 +54,7 @@ export default function Home({
   params,
 }: Route.ComponentProps) {
   const { accounts, postsByDate, strings, translatedPosts } = loaderData
-  const [selectedAccounts, setSelectedAccounts] = useState(accounts.map((account) => account.id))
+  const [selectedAccounts, setSelectedAccounts] = useState(accounts.map((account) => account.id).filter((id) => id !== "official"))
 
   // Filter tweets by selected accounts and group by date
   const filteredTweets = postsByDate
@@ -113,10 +113,10 @@ export default function Home({
                 className="flex items-center gap-2 text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"
               >
                 <Avatar className="h-6 w-6">
-                  <AvatarImage src={account.x.profile_image_url_https} alt={account.x.name} />
-                  <AvatarFallback>{account.x.name.substring(0, 2)}</AvatarFallback>
+                  <AvatarImage src={account.x.profile_image_url_https} alt={account.name[params.lang]} />
+                  <AvatarFallback>{account.name[params.lang]}</AvatarFallback>
                 </Avatar>
-                {account.x.name}
+                {account.name[params.lang].split(" ").pop()}
               </label>
             </div>
           ))}
@@ -275,7 +275,7 @@ function Post({
         </Avatar>
         <div className="flex-1">
           <div className="flex flex-wrap items-center">
-            <span className="font-semibold">{post.account.x.name}</span>
+            <span className="font-semibold">{post.account.x.translated_name?.["base"] === post.account.x.name ? post.account.x.translated_name[lang!] : post.account.x.name}</span>
             <span className="text-gray-500 ml-2">@{post.account.x.screen_name}</span>
             <a href={`/${lang}/${pages.direction}/${pages.current}#${post.id}`} className="text-gray-500 ml-2 text-sm">
               {Temporal.Instant.from(post.created_at).toZonedDateTimeISO("Asia/Tokyo").toPlainTime().toLocaleString("ko-KR", { timeStyle: "short" })}

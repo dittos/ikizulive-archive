@@ -3,8 +3,14 @@ import * as fs from "fs/promises";
 
 export type Account = {
   id: string;
+  name: {
+    [lang: string]: string;
+  };
   x: {
     name: string;
+    translated_name?: {
+      [lang: string]: string;
+    };
     screen_name: string;
     profile_image_url_https: string;
   };

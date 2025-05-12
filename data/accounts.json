@@ -1,101 +1,178 @@
 [
   {
     "id": "official",
+    "name": {
+      "ko": "공식"
+    },
     "x": {
       "screen_name": "ikizulive_staff",
       "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+      "translated_name": {
+        "base": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+        "ko": "이키즈라이브! LOVELIVE! BLUEBIRD"
+      },
       "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、X とYouTube で展開！YouTubeはこちら→https://t.co/uAo8WcIDpK",
       "profile_image_url_https": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
     }
   },
   {
     "id": "polka",
+    "name": {
+      "ko": "타카하시 폴카"
+    },
     "x": {
       "screen_name": "polka_lion",
       "name": "高橋ポルカ@いきづらい部！",
+      "translated_name": {
+        "base": "高橋ポルカ@いきづらい部！",
+        "ko": "타카하시 폴카@살기힘든부!"
+      },
       "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
       "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png"
     }
   },
   {
-    "id": "hanabi",
-    "x": {
-      "screen_name": "hanabistarmine",
-      "name": "駒形花火@いきづらい部！",
-      "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921886890002685952/WYCChlsQ_normal.png"
-    }
-  },
-  {
-    "id": "akira",
-    "x": {
-      "screen_name": "G_Akky304250",
-      "name": "五桐 玲@いきづらい部！",
-      "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921886488767442944/Jv0-T14d_normal.png"
-    }
-  },
-  {
     "id": "mai",
+    "name": {
+      "ko": "아자부 마이"
+    },
     "x": {
       "screen_name": "My_Mai_Eld",
       "name": "麻布麻衣@いきづらい部！",
+      "translated_name": {
+        "base": "麻布麻衣@いきづらい部！",
+        "ko": "아자부 마이@살기힘든부!"
+      },
       "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
       "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png"
     }
   },
   {
-    "id": "noricco",
+    "id": "akira",
+    "name": {
+      "ko": "고토 아키라"
+    },
     "x": {
-      "screen_name": "Noricco_U",
-      "name": "調布のりこ",
+      "screen_name": "G_Akky304250",
+      "name": "五桐 玲@いきづらい部！",
+      "translated_name": {
+        "base": "五桐 玲@いきづらい部！",
+        "ko": "고토 아키라@살기힘든부!"
+      },
       "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png"
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921886488767442944/Jv0-T14d_normal.png"
+    }
+  },
+  {
+    "id": "hanabi",
+    "name": {
+      "ko": "코마가타 하나비"
+    },
+    "x": {
+      "screen_name": "hanabistarmine",
+      "name": "駒形花火@いきづらい部！",
+      "translated_name": {
+        "base": "駒形花火@いきづらい部！",
+        "ko": "코마가타 하나비@살기힘든부!"
+      },
+      "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921886890002685952/WYCChlsQ_normal.png"
     }
   },
   {
     "id": "miracle",
+    "name": {
+      "ko": "카나자와 미라클"
+    },
     "x": {
       "screen_name": "MiracleGoldSP",
       "name": "金澤奇跡",
+      "translated_name": {
+        "base": "金澤奇跡",
+        "ko": "카나자와 미라클"
+      },
       "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
       "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png"
     }
   },
   {
-    "id": "rollie",
+    "id": "noriko",
+    "name": {
+      "ko": "쵸후 노리코"
+    },
     "x": {
-      "screen_name": "Rollie_twinkle",
-      "name": "Rollie",
-      "description": "",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1914962161383919616/_iUSQe-L_normal.png"
+      "screen_name": "Noricco_U",
+      "name": "調布のりこ",
+      "translated_name": {
+        "base": "調布のりこ",
+        "ko": "쵸후 노리코"
+      },
+      "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png"
     }
   },
   {
     "id": "yukuri",
+    "name": {
+      "ko": "하루미야 유쿠리"
+    },
     "x": {
       "screen_name": "Yukuri_talk",
       "name": "春宮ゆくり",
+      "translated_name": {
+        "base": "春宮ゆくり",
+        "ko": "하루미야 유쿠리"
+      },
       "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
       "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921887223185805312/YRTG0-G8_normal.png"
     }
   },
   {
-    "id": "shion",
+    "id": "aurora",
+    "name": {
+      "ko": "코노하나 오로라"
+    },
     "x": {
-      "screen_name": "ShaunTheBunny",
-      "name": "shion",
-      "description": "",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1914962519053238272/XTaE-BMb_normal.png"
+      "screen_name": "Rollie_twinkle",
+      "name": "此花輝夜",
+      "translated_name": {
+        "base": "此花輝夜",
+        "ko": "코노하나 오로라"
+      },
+      "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921887475561070593/Jf-AlnRm_normal.png"
     }
   },
   {
-    "id": "littlegreen",
+    "id": "midori",
+    "name": {
+      "ko": "야마다 미도리"
+    },
     "x": {
       "screen_name": "LittlegreenCom",
-      "name": "Little　green",
-      "description": "",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1914962323900657664/NYt5WuEG_normal.png"
+      "name": "山田真緑",
+      "translated_name": {
+        "base": "山田真緑",
+        "ko": "야마다 미도리"
+      },
+      "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921887756210540544/qODvEu78_normal.png"
+    }
+  },
+  {
+    "id": "shion",
+    "name": {
+      "ko": "사사키 시온"
+    },
+    "x": {
+      "screen_name": "ShaunTheBunny",
+      "name": "佐々木翔音",
+      "translated_name": {
+        "base": "佐々木翔音",
+        "ko": "사사키 시온"
+      },
+      "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png"
     }
   }
 ]
