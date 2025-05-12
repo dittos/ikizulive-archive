@@ -1,0 +1,37 @@
+{
+  "id": "1921819882309517519",
+  "translated_text": "그래서 사실은 오늘 지갑을 잃어버렸어요...👛\n올해 벌써 3번째💦\n\n근데 잔돈밖에 안 들어있어서...\n분명 그중에 나올 거예요!\n\n그렇죠?🐭\n\n#살기힘든부",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "그래서 사실은 오늘 지갑을 잃어버렸어요...👛\n올해 벌써 3번째💦\n\n근데 잔돈밖에 안 들어있어서...\n분명 그중에 나올 거예요!\n\n그렇죠?🐭\n\n#살기힘든부",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1747042289,
+    "model": "gemini-2.5-flash-preview-04-17",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 56,
+      "prompt_tokens": 176,
+      "total_tokens": 1340,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

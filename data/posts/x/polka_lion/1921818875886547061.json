@@ -1,0 +1,114 @@
+{
+  "id": "1921818875886547061",
+  "username": "polka_lion",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1921818875886547061",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxODg0MTE2MDM5Nzk1MTk1OTA0",
+          "rest_id": "1884116039795195904",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "following": false,
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Tue Jan 28 05:48:09 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 17709,
+            "friends_count": 3,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 781,
+            "location": "",
+            "media_count": 0,
+            "name": "Polka",
+            "normal_followers_count": 17709,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1914963231644450816/fDBT1RwK_normal.png",
+            "profile_interstitial_type": "",
+            "screen_name": "polka_lion",
+            "statuses_count": 51,
+            "translator_type": "none",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1921818875886547061"
+      ],
+      "editable_until_msecs": "1747035900000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "102057",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 62,
+      "bookmarked": false,
+      "created_at": "Mon May 12 06:45:00 +0000 2025",
+      "conversation_id_str": "1921818875886547061",
+      "display_text_range": [
+        0,
+        101
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              94,
+              101
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 3107,
+      "favorited": false,
+      "full_text": "今日からいよいよ本格的に活動開始します！！\nいきづらい部！\n\nみなさんぜひぜひ応援してくださ～い！！\n\n私たちと一緒に活動してみたいなっていう人は今すぐL高に入学してレッツジョイン🎵✨\n\n#いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 35,
+      "reply_count": 32,
+      "retweet_count": 692,
+      "retweeted": false,
+      "user_id_str": "1884116039795195904",
+      "id_str": "1921818875886547061"
+    }
+  },
+  "created_at": "2025-05-12T06:45:00Z"
+}
