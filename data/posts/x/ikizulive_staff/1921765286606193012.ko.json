@@ -1,0 +1,37 @@
+{
+  "id": "1921765286606193012",
+  "translated_text": "╭━━━━━╮\n　ＰＶ 공개!!\n╰━∨━━━╯\n\n이키즈라이브！\nLOVELIVE! BLUEBIRD\n\n📹https://t.co/OwIMA6Cb8F\n\n오늘 5/12 시작하는 새 프로젝트\n먼저, PV를 봐주세요!\n\n#이키즈라이브 #살기힘든부 https://t.co/hSH1u4bNJ4",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "╭━━━━━╮\n　ＰＶ 공개!!\n╰━∨━━━╯\n\n이키즈라이브！\nLOVELIVE! BLUEBIRD\n\n📹https://t.co/OwIMA6Cb8F\n\n오늘 5/12 시작하는 새 프로젝트\n먼저, PV를 봐주세요!\n\n#이키즈라이브 #살기힘든부 https://t.co/hSH1u4bNJ4",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1747020886,
+    "model": "gemini-2.5-flash-preview-04-17",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 96,
+      "prompt_tokens": 219,
+      "total_tokens": 1120,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

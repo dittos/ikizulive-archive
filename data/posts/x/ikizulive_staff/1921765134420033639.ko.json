@@ -1,0 +1,37 @@
+{
+  "id": "1921765134420033639",
+  "translated_text": "「져도\n　　　　다음은 있어.」\n\n　이키즈라이브！\nLOVELIVE! BLUEBIRD\n\n＞＞＞START！＜＜＜\n\n🔵 작품 사이트\n🟠 KV & PV\n🔵 살기힘든부！ 멤버\n🟠 멤버 X 계정\n🔵 캐스트 & 스태프 etc…\n를 공개！\n\n▼ 작품 사이트▼\nhttps://t.co/mGHaB8pStF\n\n#이키즈라이브 #살기힘든부 https://t.co/JwqaAp3sD9",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n",
+  "raw_data": {
+    "id": null,
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "「져도\n　　　　다음은 있어.」\n\n　이키즈라이브！\nLOVELIVE! BLUEBIRD\n\n＞＞＞START！＜＜＜\n\n🔵 작품 사이트\n🟠 KV & PV\n🔵 살기힘든부！ 멤버\n🟠 멤버 X 계정\n🔵 캐스트 & 스태프 etc…\n를 공개！\n\n▼ 작품 사이트▼\nhttps://t.co/mGHaB8pStF\n\n#이키즈라이브 #살기힘든부 https://t.co/JwqaAp3sD9",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1747020893,
+    "model": "gemini-2.5-flash-preview-04-17",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 134,
+      "prompt_tokens": 259,
+      "total_tokens": 1696,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}

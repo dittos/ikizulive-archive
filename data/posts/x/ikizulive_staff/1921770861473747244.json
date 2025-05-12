@@ -1,0 +1,194 @@
+{
+  "id": "1921770861473747244",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1921770861473747244",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "notifications": true,
+            "following": true,
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、X とYouTube で展開！YouTubeはこちら→https://t.co/uAo8WcIDpK",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      52,
+                      75
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 47435,
+            "friends_count": 11,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 649,
+            "location": "インターネット",
+            "media_count": 17,
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "normal_followers_count": 47435,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg",
+            "profile_interstitial_type": "",
+            "screen_name": "ikizulive_staff",
+            "statuses_count": 18,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/a5oPEaL8YT",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "unified_card",
+            "value": {
+              "string_value": "{\"component_objects\":{\"media_1\":{\"type\":\"media\",\"data\":{\"id\":\"media_1\",\"destination\":\"destination_1\"}},\"details_1\":{\"type\":\"twitter_list_details\",\"data\":{\"name\":{\"content\":\"\\u3044\\u304d\\u3065\\u3089\\u3044\\u90e8\\uff01\",\"is_rtl\":false},\"member_count\":10,\"subscriber_count\":2,\"user_id\":\"1911282293341356032\",\"destination\":\"destination_1\"}}},\"destination_objects\":{\"destination_1\":{\"type\":\"browser\",\"data\":{\"url_data\":{\"url\":\"https:\\/\\/twitter.com\\/i\\/lists\\/1921767698423521764\",\"vanity\":\"twitter.com\"}}}},\"media_entities\":{\"media_1\":{\"type\":\"photo\",\"id\":0,\"id_str\":\"1921770472057757698\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https:\\/\\/pbs.twimg.com\\/list_banner_img\\/1921770472057757698\\/MJRafSxp?format=jpg&name=orig\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"original_info\":{\"width\":1378,\"height\":459}}},\"users\":{\"1911282293341356032\":{\"advertiser_account_type\":\"promotable_user\",\"advertiser_account_service_levels\":[\"dso\",\"analytics\"],\"analytics_type\":\"disabled\",\"blocked_by\":false,\"blocking\":false,\"business_profile_state\":\"none\",\"can_media_tag\":false,\"can_dm\":false,\"created_at\":\"Sun Apr 13 04:56:34 +0000 2025\",\"default_profile\":true,\"default_profile_image\":false,\"description\":\"\\u300c\\u6557\\u3051\\u305f\\u3063\\u3066\\u6b21\\u306f\\u3042\\u308b\\u3002\\u300d10 \\u4eba\\u306e\\u51f8\\u51f9\\u30c0\\u30a4\\u30a2\\u30ea\\u30fc\\u3001X \\u3068YouTube \\u3067\\u5c55\\u958b\\uff01YouTube\\u306f\\u3053\\u3061\\u3089\\u2192https:\\/\\/t.co\\/uAo8WcIDpK\",\"entities\":{\"description\":{\"hashtags\":[],\"symbols\":[],\"urls\":[{\"display_url\":\"youtube.com\\/@IKIZULIVE\",\"expanded_url\":\"https:\\/\\/www.youtube.com\\/@IKIZULIVE\",\"indices\":[52,75],\"url\":\"https:\\/\\/t.co\\/uAo8WcIDpK\"}],\"user_mentions\":[]},\"url\":{\"urls\":[{\"display_url\":\"lovelive-anime.jp\\/lovehigh\\/\",\"expanded_url\":\"https:\\/\\/www.lovelive-anime.jp\\/lovehigh\\/\",\"indices\":[0,23],\"url\":\"https:\\/\\/t.co\\/mfWPigBwKr\"}]}},\"fast_followers_count\":\"0\",\"favourites_count\":0,\"follow_request_sent\":false,\"followed_by\":false,\"followers_count\":47420,\"following\":true,\"friends_count\":\"11\",\"geo_enabled\":false,\"has_custom_timelines\":false,\"has_extended_profile\":true,\"id_str\":\"1911282293341356032\",\"is_translation_enabled\":false,\"is_translator\":false,\"listed_count\":649,\"location\":\"\\u30a4\\u30f3\\u30bf\\u30fc\\u30cd\\u30c3\\u30c8\",\"media_count\":\"17\",\"muting\":false,\"name\":\"\\u30a4\\u30ad\\u30c5\\u30e9\\u30a4\\u30d6\\uff01 LOVELIVE! BLUEBIRD\",\"normal_followers_count\":\"47420\",\"notifications\":true,\"pinned_tweet_ids_str\":[],\"profile_background_color\":\"F5F8FA\",\"profile_background_tile\":false,\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/1911282293341356032\\/1744685770\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1911976807064109056\\/_-_IbsKQ_normal.jpg\",\"profile_interstitial_type\":\"\",\"profile_link_color\":\"1DA1F2\",\"profile_sidebar_border_color\":\"C0DEED\",\"profile_sidebar_fill_color\":\"DDEEF6\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"protected\":false,\"screen_name\":\"ikizulive_staff\",\"statuses_count\":\"17\",\"translator_type\":\"none\",\"url\":\"https:\\/\\/t.co\\/mfWPigBwKr\",\"verified\":false,\"want_retweets\":true,\"withheld_in_countries\":[],\"require_some_consent\":false,\"pinned_tweet_ids\":[],\"created_at_ms\":\"1744520194037\",\"profile\":{\"name\":\"\\u30a4\\u30ad\\u30c5\\u30e9\\u30a4\\u30d6\\uff01 LOVELIVE! BLUEBIRD\",\"screenName\":\"ikizulive_staff\",\"profileImage\":{\"id\":\"1911976807064109056\",\"filename\":\"_-_IbsKQ.jpg\"},\"profileImageUrls\":{\"original\":{\"httpUrl\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/1911976807064109056\\/_-_IbsKQ.jpg\",\"httpsUrl\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1911976807064109056\\/_-_IbsKQ.jpg\"},\"normal\":{\"httpUrl\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/1911976807064109056\\/_-_IbsKQ_normal.jpg\",\"httpsUrl\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1911976807064109056\\/_-_IbsKQ_normal.jpg\"},\"bigger\":{\"httpUrl\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/1911976807064109056\\/_-_IbsKQ_bigger.jpg\",\"httpsUrl\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1911976807064109056\\/_-_IbsKQ_bigger.jpg\"},\"mini\":{\"httpUrl\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/1911976807064109056\\/_-_IbsKQ_mini.jpg\",\"httpsUrl\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1911976807064109056\\/_-_IbsKQ_mini.jpg\"},\"flashBadge\":{\"httpUrl\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/1911976807064109056\\/_-_IbsKQ_flash_badge.jpg\",\"httpsUrl\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1911976807064109056\\/_-_IbsKQ_flash_badge.jpg\"},\"x96\":{\"httpUrl\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/1911976807064109056\\/_-_IbsKQ_x96.jpg\",\"httpsUrl\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1911976807064109056\\/_-_IbsKQ_x96.jpg\"},\"reasonablySmall\":{\"httpUrl\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/1911976807064109056\\/_-_IbsKQ_reasonably_small.jpg\",\"httpsUrl\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1911976807064109056\\/_-_IbsKQ_reasonably_small.jpg\"}},\"auth\":{\"loginEmail\":\"\\u003credacted\\u003e\",\"authToken\":\"\\u003credacted\\u003e\",\"hashedPassword\":\"\\u003credacted\\u003e\"},\"location\":\"\\u30a4\\u30f3\\u30bf\\u30fc\\u30cd\\u30c3\\u30c8\",\"description\":\"\\u300c\\u6557\\u3051\\u305f\\u3063\\u3066\\u6b21\\u306f\\u3042\\u308b\\u3002\\u300d10 \\u4eba\\u306e\\u51f8\\u51f9\\u30c0\\u30a4\\u30a2\\u30ea\\u30fc\\u3001X \\u3068YouTube \\u3067\\u5c55\\u958b\\uff01YouTube\\u306f\\u3053\\u3061\\u3089\\u2192https:\\/\\/t.co\\/uAo8WcIDpK\",\"url\":\"https:\\/\\/t.co\\/mfWPigBwKr\",\"profileBanner\":{\"activated\":true,\"updatedAtMsec\":\"1744685770315\",\"urls\":{\"httpUrl\":\"http:\\/\\/pbs.twimg.com\\/profile_banners\\/1911282293341356032\\/1744685770\",\"httpsUrl\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/1911282293341356032\\/1744685770\"}},\"hasTranslatorBadge\":false,\"businessProfileState\":\"None\",\"vineProfileVisible\":false,\"translatorType\":\"None\",\"periscopeProfileVisible\":false,\"descriptionLanguage\":{\"language\":\"ja\",\"confidence\":0.4749999940395355}},\"translator_type_enum\":\"None\",\"possibly_sensitive\":false,\"is_blue_verified\":true}},\"components\":[\"media_1\",\"details_1\"]}",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/a5oPEaL8YT",
+              "type": "STRING"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "unified_card",
+        "url": "https://t.co/a5oPEaL8YT",
+        "user_refs_results": []
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1921770861473747244"
+      ],
+      "editable_until_msecs": "1747024452000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "state": "Enabled"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Mon May 12 03:34:12 +0000 2025",
+      "conversation_id_str": "1921770861473747244",
+      "display_text_range": [
+        0,
+        141
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              126,
+              133
+            ],
+            "text": "イキヅライブ"
+          },
+          {
+            "indices": [
+              134,
+              141
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/i/lists/192176…",
+            "expanded_url": "https://x.com/i/lists/1921767698423521764",
+            "url": "https://t.co/a5oPEaL8YT",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "╭━━━━━━━━━╮\n  いきづらい部！リスト\n╰━∨━━━━━━━╯\n\nいきづらい部！メンバーの\nＸアカウントをリストにまとめました！\n\nここからメンバーのポストをまとめてチェックできます！\n\n📝 https://t.co/a5oPEaL8YT\n\n#イキヅライブ #いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1921770861473747244"
+    }
+  },
+  "created_at": "2025-05-12T03:34:12Z"
+}
