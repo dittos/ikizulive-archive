@@ -128,11 +128,20 @@ class TwitterDownloader:
         for instruction in body["data"]["user"]["result"]["timeline"]["timeline"]["instructions"]:
             if instruction["type"] != "TimelineAddEntries": continue
             for entry in instruction["entries"]:
+                raw_tweets = []
+
                 if entry["content"]["__typename"] == "TimelineTimelineCursor" and entry["content"]["cursorType"] == "Bottom":
                     next_cursor = entry["content"]["value"]
 
                 if entry["content"]["__typename"] == "TimelineTimelineItem":
-                    raw_tweet = entry["content"]["itemContent"]["tweet_results"]["result"]
+                    raw_tweets.append(entry["content"]["itemContent"]["tweet_results"]["result"])
+                
+                if entry["content"]["__typename"] == "TimelineTimelineModule":
+                    for item in entry["content"]["items"]:
+                        if item["item"]["itemContent"]["__typename"] == "TimelineTweet":
+                            raw_tweets.append(item["item"]["itemContent"]["tweet_results"]["result"])
+
+                for raw_tweet in raw_tweets:
                     if raw_tweet["__typename"] == "TweetWithVisibilityResults":
                         raw_tweet = raw_tweet["tweet"]
 

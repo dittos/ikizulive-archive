@@ -1,0 +1,354 @@
+{
+  "id": "1922611510955663722",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1922611510955663722",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/Gq57yg6acAAizdG.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1922611510955663722",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "following": true,
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、X とYouTube で展開！YouTubeはこちら→https://t.co/uAo8WcIDpK",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      52,
+                      75
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 58997,
+            "friends_count": 11,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 848,
+            "location": "インターネット",
+            "media_count": 30,
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "normal_followers_count": 58997,
+            "pinned_tweet_ids_str": [
+              "1921765134420033639"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg",
+            "profile_interstitial_type": "",
+            "screen_name": "ikizulive_staff",
+            "statuses_count": 32,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "verified": false,
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1922611510955663722"
+      ],
+      "editable_until_msecs": "1747224879000",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "156893",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 112,
+      "bookmarked": false,
+      "created_at": "Wed May 14 11:14:39 +0000 2025",
+      "conversation_id_str": "1922611510955663722",
+      "display_text_range": [
+        0,
+        126
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              111,
+              118
+            ],
+            "text": "イキヅライブ"
+          },
+          {
+            "indices": [
+              119,
+              126
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/ITXbfVCvEX",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1922611510955663722/photo/1",
+            "id_str": "1922610198692392960",
+            "indices": [
+              127,
+              150
+            ],
+            "media_key": "3_1922610198692392960",
+            "media_url_https": "https://pbs.twimg.com/media/Gq57yg6acAAizdG.jpg",
+            "type": "photo",
+            "url": "https://t.co/ITXbfVCvEX",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 720,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 720,
+              "width": 1280,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 3,
+                  "w": 1280,
+                  "h": 717
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 720,
+                  "h": 720
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 632,
+                  "h": 720
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 360,
+                  "h": 720
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 720
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1922610198692392960"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/ITXbfVCvEX",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1922611510955663722/photo/1",
+            "id_str": "1922610198692392960",
+            "indices": [
+              127,
+              150
+            ],
+            "media_key": "3_1922610198692392960",
+            "media_url_https": "https://pbs.twimg.com/media/Gq57yg6acAAizdG.jpg",
+            "type": "photo",
+            "url": "https://t.co/ITXbfVCvEX",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 720,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 720,
+              "width": 1280,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 3,
+                  "w": 1280,
+                  "h": 717
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 720,
+                  "h": 720
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 632,
+                  "h": 720
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 360,
+                  "h": 720
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 720
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1922610198692392960"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 3310,
+      "favorited": false,
+      "full_text": "╭━━━━━━━━━━╮\n　 ソロ曲リリース決定！\n╰━━━━∨━━━━━╯\n\nいきづらい部！ソロシングル発売決定🎊\n\n先行して…\n高橋ポルカ(CV.綾咲穂音)\nSolo Songリリックビデオティザームービーを公開‼\n\n#イキヅライブ #いきづらい部 https://t.co/ITXbfVCvEX",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 200,
+      "reply_count": 11,
+      "retweet_count": 1560,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1922611510955663722"
+    }
+  },
+  "created_at": "2025-05-14T11:14:39Z"
+}
