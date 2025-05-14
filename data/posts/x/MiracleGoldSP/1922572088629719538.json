@@ -1,0 +1,121 @@
+{
+  "id": "1922572088629719538",
+  "username": "MiracleGoldSP",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1922572088629719538",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NTc4MDI5MzQzOTE2MDMy",
+          "rest_id": "1906578029343916032",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": false,
+          "legacy": {
+            "following": false,
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Mon Mar 31 05:23:27 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=4",
+                    "url": "https://t.co/E7067OvLU0",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 17612,
+            "friends_count": 1,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 889,
+            "location": "",
+            "media_count": 0,
+            "name": "金澤奇跡",
+            "normal_followers_count": 17612,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906578029343916032/1747048423",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png",
+            "profile_interstitial_type": "",
+            "screen_name": "MiracleGoldSP",
+            "statuses_count": 14,
+            "translator_type": "none",
+            "url": "https://t.co/E7067OvLU0",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1922572088629719538"
+      ],
+      "editable_until_msecs": "1747215480000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "11840",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 4,
+      "bookmarked": false,
+      "created_at": "Wed May 14 08:38:00 +0000 2025",
+      "conversation_id_str": "1922572088629719538",
+      "display_text_range": [
+        0,
+        76
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 427,
+      "favorited": false,
+      "full_text": "そういうささやかな日々の変化に疎い鈍ちんなタイプは\n滅びる！！！\nのがパティシエの世界なので\n\n今日もミラクルさんはせっせと周りにリサーチ中だよ～🍭🍬🍫",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 3,
+      "reply_count": 0,
+      "retweet_count": 66,
+      "retweeted": false,
+      "user_id_str": "1906578029343916032",
+      "id_str": "1922572088629719538"
+    }
+  },
+  "created_at": "2025-05-14T08:38:00Z"
+}
