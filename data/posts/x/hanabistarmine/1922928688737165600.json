@@ -1,0 +1,131 @@
+{
+  "id": "1922928688737165600",
+  "username": "hanabistarmine",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1922928688737165600",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NTc1MTA1NzgzOTQzMTY5",
+          "rest_id": "1906575105783943169",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "following": false,
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Mon Mar 31 05:11:49 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=3",
+                    "url": "https://t.co/R8J40tZxQQ",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 21341,
+            "friends_count": 3,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 949,
+            "media_count": 0,
+            "name": "駒形花火@いきづらい部！",
+            "normal_followers_count": 21341,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906575105783943169/1747048518",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921886890002685952/WYCChlsQ_normal.png",
+            "profile_interstitial_type": "",
+            "screen_name": "hanabistarmine",
+            "statuses_count": 27,
+            "translator_type": "none",
+            "url": "https://t.co/R8J40tZxQQ",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "tipjar_settings": {},
+          "location": {
+            "location": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1922928688737165600"
+      ],
+      "editable_until_msecs": "1747300500000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "13426",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 7,
+      "bookmarked": false,
+      "created_at": "Thu May 15 08:15:00 +0000 2025",
+      "conversation_id_str": "1922928688737165600",
+      "display_text_range": [
+        0,
+        96
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              89,
+              96
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 492,
+      "favorited": false,
+      "full_text": "町内おそろいの法被の着こなしも人によってすごく違ってて\n現役感マシマシの細マッチョよりも意外に恰幅の良いおじいちゃんの方が\nなんだかキリっと腰が決まってかっこよかったりして👘✨\n#いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 7,
+      "reply_count": 0,
+      "retweet_count": 82,
+      "retweeted": false,
+      "user_id_str": "1906575105783943169",
+      "id_str": "1922928688737165600"
+    }
+  },
+  "created_at": "2025-05-15T08:15:00Z"
+}
