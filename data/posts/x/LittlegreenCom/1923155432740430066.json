@@ -1,0 +1,122 @@
+{
+  "id": "1923155432740430066",
+  "username": "LittlegreenCom",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1923155432740430066",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NTg1MDA5NDkyMDQ5OTIw",
+          "rest_id": "1906585009492049920",
+          "affiliates_highlighted_label": {},
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "can_dm": false,
+            "can_media_tag": false,
+            "created_at": "Mon Mar 31 05:51:14 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=8",
+                    "url": "https://t.co/A4iwOmvgs8",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 18273,
+            "following": false,
+            "friends_count": 1,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 805,
+            "media_count": 0,
+            "name": "山田真緑",
+            "normal_followers_count": 18273,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906585009492049920/1747048724",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921887756210540544/qODvEu78_normal.png",
+            "profile_interstitial_type": "",
+            "screen_name": "LittlegreenCom",
+            "statuses_count": 17,
+            "translator_type": "none",
+            "url": "https://t.co/A4iwOmvgs8",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "tipjar_settings": {},
+          "location": {
+            "location": ""
+          },
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1923155432740430066"
+      ],
+      "editable_until_msecs": "1747354560000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "72623",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 26,
+      "bookmarked": false,
+      "created_at": "Thu May 15 23:16:00 +0000 2025",
+      "conversation_id_str": "1923155432740430066",
+      "display_text_range": [
+        0,
+        120
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 1713,
+      "favorited": false,
+      "full_text": "おはようございます\n１人１人の力は小さくても集まればきっと地球🌎の緑を守ると信じてるLittlegreen小さなみどりです\n今日は素敵なご報告をさせてください！！\nついに私の地球を守る運動にともに参加してくれる仲間ができました！！！！！✨✨",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 56,
+      "reply_count": 21,
+      "retweet_count": 580,
+      "retweeted": false,
+      "user_id_str": "1906585009492049920",
+      "id_str": "1923155432740430066"
+    }
+  },
+  "created_at": "2025-05-15T23:16:00Z"
+}
