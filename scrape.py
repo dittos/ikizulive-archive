@@ -215,7 +215,7 @@ class DownloadTask:
             user = old_tweets[0].raw_data["core"]["user_results"]["result"]["legacy"]
             account["x"]["name"] = user["name"]
             account["x"]["description"] = user["description"]
-            account["x"]["profile_image_url_https"] = user["profile_image_url_https"]
+            account["x"]["profile_image_url_https"] = old_tweets[0].raw_data["core"]["user_results"]["result"]["avatar"]["image_url"]
 
     def _get_new_tweets(self, username: str, pages: int | None = None):
         page_count = 0
