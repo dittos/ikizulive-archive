@@ -1,0 +1,133 @@
+{
+  "id": "1925117109039731051",
+  "username": "Rollie_twinkle",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1925117109039731051",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NTgzNjQ3NTU5NTI0MzUz",
+          "rest_id": "1906583647559524353",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921887475561070593/Jf-AlnRm_normal.png"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "created_at": "Mon Mar 31 05:45:49 +0000 2025",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=7",
+                    "url": "https://t.co/oAjV51EVxz",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 19179,
+            "friends_count": 1,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 949,
+            "media_count": 0,
+            "name": "此花輝夜",
+            "normal_followers_count": 19179,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906583647559524353/1747048657",
+            "profile_interstitial_type": "",
+            "screen_name": "Rollie_twinkle",
+            "statuses_count": 20,
+            "translator_type": "none",
+            "url": "https://t.co/oAjV51EVxz",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": false
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1925117109039731051"
+      ],
+      "editable_until_msecs": "1747822260000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "7559",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 5,
+      "bookmarked": false,
+      "created_at": "Wed May 21 09:11:00 +0000 2025",
+      "conversation_id_str": "1925117109039731051",
+      "display_text_range": [
+        0,
+        35
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 305,
+      "favorited": false,
+      "full_text": "あ！！\n見て見て～コレ💖✨\n\nなんかかわいい高校生の動画みっけ🌈🏖️✨",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 6,
+      "reply_count": 2,
+      "retweet_count": 82,
+      "retweeted": false,
+      "user_id_str": "1906583647559524353",
+      "id_str": "1925117109039731051"
+    }
+  },
+  "created_at": "2025-05-21T09:11:00Z"
+}
