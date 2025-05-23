@@ -152,7 +152,7 @@ class TwitterDownloader:
                             type=media["type"],
                             url=media["media_url_https"],
                         ))
-                    screen_name = raw_tweet["core"]["user_results"]["result"]["legacy"]["screen_name"]
+                    screen_name = raw_tweet["core"]["user_results"]["result"]["core"]["screen_name"]
                     if screen_name != username:
                         logging.info(f"skipping tweet {raw_tweet["rest_id"]} from {screen_name}")
                         continue
@@ -212,10 +212,10 @@ class DownloadTask:
             self.tweet_repo.put(tweet)
         
         if old_tweets:
-            user = old_tweets[0].raw_data["core"]["user_results"]["result"]["legacy"]
-            account["x"]["name"] = user["name"]
-            account["x"]["description"] = user["description"]
-            account["x"]["profile_image_url_https"] = old_tweets[0].raw_data["core"]["user_results"]["result"]["avatar"]["image_url"]
+            user_result = old_tweets[0].raw_data["core"]["user_results"]["result"]
+            account["x"]["name"] = user_result["core"]["name"]
+            account["x"]["description"] = user_result["legacy"]["description"]
+            account["x"]["profile_image_url_https"] = user_result["avatar"]["image_url"]
 
     def _get_new_tweets(self, username: str, pages: int | None = None):
         page_count = 0
