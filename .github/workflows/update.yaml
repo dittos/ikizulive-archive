@@ -3,7 +3,7 @@ name: Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: "5 */3 * * *" # Every 3 hours
+    - cron: "5 0-18,23 * * *" # from 08:05 to next day 03:05 JST
 
 jobs:
   update:
