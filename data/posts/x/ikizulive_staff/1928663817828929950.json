@@ -1,0 +1,496 @@
+{
+  "id": "1928663817828929950",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1928663817828929950",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、X とYouTube で展開！YouTubeはこちら→https://t.co/uAo8WcIDpK",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      52,
+                      75
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 60919,
+            "friends_count": 11,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 922,
+            "media_count": 69,
+            "normal_followers_count": 60919,
+            "pinned_tweet_ids_str": [
+              "1921765134420033639"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 74,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/2btbzd54Bw",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "player_url",
+            "value": {
+              "string_value": "https://www.youtube.com/embed/bJkv8HEbonE",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_image_large",
+            "value": {
+              "image_value": {
+                "height": 320,
+                "width": 569,
+                "url": "https://pbs.twimg.com/card_img/1928663363141419008/xhfDiNXg?format=jpg&name=800x320_1"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "player_image",
+            "value": {
+              "image_value": {
+                "height": 158,
+                "width": 280,
+                "url": "https://pbs.twimg.com/card_img/1928663363141419008/xhfDiNXg?format=jpg&name=280x280"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "app_star_rating",
+            "value": {
+              "string_value": "4.67903",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "●春宮ゆくり 公式Xアカウントhttps://x.com/Yukuri_talk●自己紹介動画はこちらhttps://www.youtube.com/playlist?list=PL-3jtV2TsyS0lw96Gxrfrf7aDYbGvsz3M====================■いきづらい部！メンバー高橋...",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_width",
+            "value": {
+              "string_value": "1280",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "www.youtube.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_is_free",
+            "value": {
+              "string_value": "true",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "10228272",
+                "path": []
+              }
+            }
+          },
+          {
+            "key": "player_image_original",
+            "value": {
+              "image_value": {
+                "height": 720,
+                "width": 1280,
+                "url": "https://pbs.twimg.com/card_img/1928663363141419008/xhfDiNXg?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "app_num_ratings",
+            "value": {
+              "string_value": "42,106,785",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_amount",
+            "value": {
+              "string_value": "0.0",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_height",
+            "value": {
+              "string_value": "720",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "youtube.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_name",
+            "value": {
+              "string_value": "YouTube",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_image_small",
+            "value": {
+              "image_value": {
+                "height": 81,
+                "width": 144,
+                "url": "https://pbs.twimg.com/card_img/1928663363141419008/xhfDiNXg?format=jpg&name=144x144"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "心が熱く強くなる何かをあなたにあげる 春宮ゆくり - Yukuri Harumiya -【イキヅライブ！ LOVELIVE!...",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_currency",
+            "value": {
+              "string_value": "USD",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/2btbzd54Bw",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 249,
+                      "green": 233,
+                      "red": 183
+                    },
+                    "percentage": 65.05
+                  },
+                  {
+                    "rgb": {
+                      "blue": 140,
+                      "green": 157,
+                      "red": 181
+                    },
+                    "percentage": 20.01
+                  },
+                  {
+                    "rgb": {
+                      "blue": 196,
+                      "green": 152,
+                      "red": 31
+                    },
+                    "percentage": 9.86
+                  },
+                  {
+                    "rgb": {
+                      "blue": 198,
+                      "green": 225,
+                      "red": 202
+                    },
+                    "percentage": 2.03
+                  },
+                  {
+                    "rgb": {
+                      "blue": 98,
+                      "green": 107,
+                      "red": 124
+                    },
+                    "percentage": 1.84
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "player_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 720,
+                "width": 1280,
+                "url": "https://pbs.twimg.com/card_img/1928663363141419008/xhfDiNXg?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "player",
+        "url": "https://t.co/2btbzd54Bw",
+        "user_refs_results": [
+          {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxMDIyODI3Mg==",
+              "rest_id": "10228272",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1915882040353837056/VbhPvueq_normal.jpg"
+              },
+              "core": {
+                "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+                "name": "YouTube",
+                "screen_name": "YouTube"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "like & subscribe",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "yt.be/3NDRz",
+                        "expanded_url": "https://yt.be/3NDRz",
+                        "url": "https://t.co/WBV5E1Rh1y",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 6067,
+                "followers_count": 79010664,
+                "friends_count": 1150,
+                "has_custom_timelines": true,
+                "is_translator": false,
+                "listed_count": 77696,
+                "media_count": 16005,
+                "normal_followers_count": 79010664,
+                "pinned_tweet_ids_str": [],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1745416765",
+                "profile_interstitial_type": "",
+                "statuses_count": 60001,
+                "translator_type": "regular",
+                "url": "https://t.co/WBV5E1Rh1y",
+                "want_retweets": false,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": "San Bruno, CA"
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Square",
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": false
+              },
+              "tipjar_settings": {},
+              "verification": {
+                "verified": false,
+                "verified_type": "Business"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1928663817828929950"
+      ],
+      "editable_until_msecs": "1748667861000",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "28464",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 6,
+      "bookmarked": false,
+      "created_at": "Sat May 31 04:04:21 +0000 2025",
+      "conversation_id_str": "1928663678049554545",
+      "display_text_range": [
+        0,
+        53
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              38,
+              45
+            ],
+            "text": "イキヅライブ"
+          },
+          {
+            "indices": [
+              46,
+              53
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/bJkv8HEbonE",
+            "expanded_url": "https://youtu.be/bJkv8HEbonE",
+            "url": "https://t.co/2btbzd54Bw",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 122,
+      "favorited": false,
+      "full_text": "👇ゆくりの動画はこちら🎥\nhttps://t.co/2btbzd54Bw\n\n#イキヅライブ #いきづらい部",
+      "in_reply_to_screen_name": "ikizulive_staff",
+      "in_reply_to_status_id_str": "1928663678049554545",
+      "in_reply_to_user_id_str": "1911282293341356032",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 34,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1928663817828929950"
+    }
+  },
+  "created_at": "2025-05-31T04:04:21Z"
+}

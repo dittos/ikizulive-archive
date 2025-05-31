@@ -1,0 +1,445 @@
+{
+  "id": "1928663678049554545",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1928663678049554545",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/GsP9YL-aMAEG4X3.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1928663678049554545",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、X とYouTube で展開！YouTubeはこちら→https://t.co/uAo8WcIDpK",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      52,
+                      75
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 60919,
+            "friends_count": 11,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 922,
+            "media_count": 69,
+            "normal_followers_count": 60919,
+            "pinned_tweet_ids_str": [
+              "1921765134420033639"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 74,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "initial_tweet_id": "1928663388563058838",
+      "edit_control_initial": {
+        "edit_tweet_ids": [
+          "1928663388563058838",
+          "1928663678049554545"
+        ],
+        "editable_until_msecs": "1748667759000",
+        "is_edit_eligible": false,
+        "edits_remaining": "4"
+      }
+    },
+    "previous_counts": {
+      "bookmark_count": 1,
+      "favorite_count": 49,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "17821",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 20,
+      "bookmarked": false,
+      "created_at": "Sat May 31 04:03:48 +0000 2025",
+      "conversation_id_str": "1928663678049554545",
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              122,
+              129
+            ],
+            "text": "イキヅライブ"
+          },
+          {
+            "indices": [
+              130,
+              137
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/ASwzz1Dw8N",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1928663678049554545/photo/1",
+            "id_str": "1928663657417945089",
+            "indices": [
+              138,
+              161
+            ],
+            "media_key": "3_1928663657417945089",
+            "media_url_https": "https://pbs.twimg.com/media/GsP9YL-aMAEG4X3.jpg",
+            "type": "photo",
+            "url": "https://t.co/ASwzz1Dw8N",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 969,
+                    "y": 270,
+                    "h": 285,
+                    "w": 285
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 605,
+                    "y": 168,
+                    "h": 178,
+                    "w": 178
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 343,
+                    "y": 95,
+                    "h": 100,
+                    "w": 100
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 969,
+                    "y": 270,
+                    "h": 285,
+                    "w": 285
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1920,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1920,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1920,
+                  "h": 1075
+                },
+                {
+                  "x": 840,
+                  "y": 0,
+                  "w": 1080,
+                  "h": 1080
+                },
+                {
+                  "x": 973,
+                  "y": 0,
+                  "w": 947,
+                  "h": 1080
+                },
+                {
+                  "x": 1218,
+                  "y": 0,
+                  "w": 540,
+                  "h": 1080
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1920,
+                  "h": 1080
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1928663657417945089"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1906578738156064768",
+            "name": "春宮ゆくり@いきづらい部！",
+            "screen_name": "Yukuri_talk",
+            "indices": [
+              107,
+              119
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/ASwzz1Dw8N",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1928663678049554545/photo/1",
+            "id_str": "1928663657417945089",
+            "indices": [
+              138,
+              161
+            ],
+            "media_key": "3_1928663657417945089",
+            "media_url_https": "https://pbs.twimg.com/media/GsP9YL-aMAEG4X3.jpg",
+            "type": "photo",
+            "url": "https://t.co/ASwzz1Dw8N",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 969,
+                    "y": 270,
+                    "h": 285,
+                    "w": 285
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 605,
+                    "y": 168,
+                    "h": 178,
+                    "w": 178
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 343,
+                    "y": 95,
+                    "h": 100,
+                    "w": 100
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 969,
+                    "y": 270,
+                    "h": 285,
+                    "w": 285
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1920,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1920,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1920,
+                  "h": 1075
+                },
+                {
+                  "x": 840,
+                  "y": 0,
+                  "w": 1080,
+                  "h": 1080
+                },
+                {
+                  "x": 973,
+                  "y": 0,
+                  "w": 947,
+                  "h": 1080
+                },
+                {
+                  "x": 1218,
+                  "y": 0,
+                  "w": 540,
+                  "h": 1080
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1920,
+                  "h": 1080
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1928663657417945089"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 409,
+      "favorited": false,
+      "full_text": "╭━━━━━━━━━━━╮\n   心が熱く強くなる何かを\n　      あなたにあげる\n╰━━━━∨━━━━━━╯\n\n春宮ゆくりから動画が届きました🎥✨\n\nぜひチェックしてください！👀\n\n✅ゆくり Xアカウント \n@Yukuri_talk\n \n#イキヅライブ #いきづらい部 https://t.co/ASwzz1Dw8N",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 11,
+      "reply_count": 6,
+      "retweet_count": 183,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1928663678049554545"
+    }
+  },
+  "created_at": "2025-05-31T04:03:48Z"
+}
