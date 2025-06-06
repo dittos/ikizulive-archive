@@ -1,0 +1,37 @@
+{
+  "id": "1930998865836081341",
+  "translated_text": "왜냐면, 저렇게 멀리 도쿄에 있는 뭔가 쓸데없이 들떠 보이는 듯한 스쿨 아이돌 같은 애들이랑\n내 우미 쨩이랑은 전혀 다르잖아!\n좀 더 고상하고 우아하고 그러면서도 귀엽고 가끔 부끄러워하는 갭 같은 거...\n아~ 역시 전혀 모르고 있네.",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n\n사람 이름 읽는 법:\n高橋ポルカ -> 타카하시 폴카\n麻布麻衣 -> 아자부 마이\n五桐 玲 -> 고토 아키라\n駒形花火 -> 코마가타 하나비\n金澤奇跡 -> 카나자와 미라클\n調布のりこ -> 쵸후 노리코\n春宮ゆくり -> 하루미야 유쿠리\n此花輝夜 -> 코노하나 오로라\n山田真緑 -> 야마다 미도리\n佐々木翔音 -> 사사키 시온\n",
+  "raw_data": {
+    "id": "vghDaKqFCdKSjMcPksPp-Q4",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "왜냐면, 저렇게 멀리 도쿄에 있는 뭔가 쓸데없이 들떠 보이는 듯한 스쿨 아이돌 같은 애들이랑\n내 우미 쨩이랑은 전혀 다르잖아!\n좀 더 고상하고 우아하고 그러면서도 귀엽고 가끔 부끄러워하는 갭 같은 거...\n아~ 역시 전혀 모르고 있네.",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1749223614,
+    "model": "gemini-2.5-flash-preview-04-17",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 77,
+      "prompt_tokens": 317,
+      "total_tokens": 2059,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}
