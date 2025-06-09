@@ -1,0 +1,493 @@
+{
+  "id": "1932048581449625626",
+  "username": "My_Mai_Eld",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1932048581449625626",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NjE1OTcyNDAxOTA5NzYw",
+          "rest_id": "1906615972401909760",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 07:54:14 +0000 2025",
+            "name": "麻布麻衣@いきづらい部！",
+            "screen_name": "My_Mai_Eld"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=1",
+                    "url": "https://t.co/qAvuWYUDvf",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 23781,
+            "friends_count": 6,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1051,
+            "media_count": 0,
+            "normal_followers_count": 23781,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906615972401909760/1747048417",
+            "profile_interstitial_type": "",
+            "statuses_count": 50,
+            "translator_type": "none",
+            "url": "https://t.co/qAvuWYUDvf",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": false
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1932048581449625626"
+      ],
+      "editable_until_msecs": "1749474852000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "17573",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "quoted_status_result": {
+      "result": {
+        "__typename": "Tweet",
+        "rest_id": "1932048177525649567",
+        "core": {
+          "user_results": {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxNTM0MTUyODk=",
+              "rest_id": "153415289",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1885609095891451904/rIyiO6P-_normal.jpg"
+              },
+              "core": {
+                "created_at": "Tue Jun 08 13:56:43 +0000 2010",
+                "name": "電撃G's magazine編集部",
+                "screen_name": "gs_magazine"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "has_graduated_access": true,
+              "is_blue_verified": false,
+              "legacy": {
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "G'sチャンネル、LoveLive!Daysの情報を発信するアカウントです。代表作：ラブライブ！シリーズ、『結城友奈は勇者である』『天華百剣』ほか。G's関連情報を編集部員がポストしていきます。〔注意〕直接のお問い合わせはこちらへお願いします https://t.co/8bYmwQEXNI",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "kdq.jp/support/",
+                        "expanded_url": "http://kdq.jp/support/",
+                        "url": "https://t.co/8bYmwQEXNI",
+                        "indices": [
+                          122,
+                          145
+                        ]
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "gs-ch.com",
+                        "expanded_url": "https://gs-ch.com/",
+                        "url": "https://t.co/dDDFshmG7l",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 466,
+                "followers_count": 228212,
+                "friends_count": 424,
+                "has_custom_timelines": true,
+                "is_translator": false,
+                "listed_count": 1529,
+                "media_count": 17812,
+                "normal_followers_count": 228212,
+                "pinned_tweet_ids_str": [],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/153415289/1681183550",
+                "profile_interstitial_type": "",
+                "statuses_count": 33213,
+                "translator_type": "none",
+                "url": "https://t.co/dDDFshmG7l",
+                "want_retweets": false,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": "東京都 千代田区"
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Square",
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": false
+              },
+              "tipjar_settings": {},
+              "verification": {
+                "verified": false,
+                "verified_type": "Business"
+              }
+            }
+          }
+        },
+        "unmention_data": {},
+        "edit_control": {
+          "edit_tweet_ids": [
+            "1932048177525649567"
+          ],
+          "editable_until_msecs": "1749474755000",
+          "is_edit_eligible": true,
+          "edits_remaining": "5"
+        },
+        "is_translatable": true,
+        "views": {
+          "count": "30435",
+          "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "legacy": {
+          "bookmark_count": 46,
+          "bookmarked": false,
+          "created_at": "Mon Jun 09 12:12:35 +0000 2025",
+          "conversation_id_str": "1932048177525649567",
+          "display_text_range": [
+            0,
+            145
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  0,
+                  7
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "media": [
+              {
+                "display_url": "pic.x.com/GOKdlXvmJN",
+                "expanded_url": "https://x.com/gs_magazine/status/1932048177525649567/photo/1",
+                "id_str": "1932047873837072384",
+                "indices": [
+                  146,
+                  169
+                ],
+                "media_key": "3_1932047873837072384",
+                "media_url_https": "https://pbs.twimg.com/media/GtADTgkbgAAq-Vr.jpg",
+                "type": "photo",
+                "url": "https://t.co/GOKdlXvmJN",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "medium": {
+                    "faces": []
+                  },
+                  "small": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  }
+                },
+                "sizes": {
+                  "large": {
+                    "h": 675,
+                    "w": 1200,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "h": 675,
+                    "w": 1200,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "h": 383,
+                    "w": 680,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "w": 150,
+                    "resize": "crop"
+                  }
+                },
+                "original_info": {
+                  "height": 675,
+                  "width": 1200,
+                  "focus_rects": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 1200,
+                      "h": 672
+                    },
+                    {
+                      "x": 525,
+                      "y": 0,
+                      "w": 675,
+                      "h": 675
+                    },
+                    {
+                      "x": 574,
+                      "y": 0,
+                      "w": 592,
+                      "h": 675
+                    },
+                    {
+                      "x": 701,
+                      "y": 0,
+                      "w": 338,
+                      "h": 675
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 1200,
+                      "h": 675
+                    }
+                  ]
+                },
+                "media_results": {
+                  "result": {
+                    "media_key": "3_1932047873837072384"
+                  }
+                }
+              }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": []
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/GOKdlXvmJN",
+                "expanded_url": "https://x.com/gs_magazine/status/1932048177525649567/photo/1",
+                "id_str": "1932047873837072384",
+                "indices": [
+                  146,
+                  169
+                ],
+                "media_key": "3_1932047873837072384",
+                "media_url_https": "https://pbs.twimg.com/media/GtADTgkbgAAq-Vr.jpg",
+                "type": "photo",
+                "url": "https://t.co/GOKdlXvmJN",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": []
+                  },
+                  "medium": {
+                    "faces": []
+                  },
+                  "small": {
+                    "faces": []
+                  },
+                  "orig": {
+                    "faces": []
+                  }
+                },
+                "sizes": {
+                  "large": {
+                    "h": 675,
+                    "w": 1200,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "h": 675,
+                    "w": 1200,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "h": 383,
+                    "w": 680,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "w": 150,
+                    "resize": "crop"
+                  }
+                },
+                "original_info": {
+                  "height": 675,
+                  "width": 1200,
+                  "focus_rects": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 1200,
+                      "h": 672
+                    },
+                    {
+                      "x": 525,
+                      "y": 0,
+                      "w": 675,
+                      "h": 675
+                    },
+                    {
+                      "x": 574,
+                      "y": 0,
+                      "w": 592,
+                      "h": 675
+                    },
+                    {
+                      "x": 701,
+                      "y": 0,
+                      "w": 338,
+                      "h": 675
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 1200,
+                      "h": 675
+                    }
+                  ]
+                },
+                "media_results": {
+                  "result": {
+                    "media_key": "3_1932047873837072384"
+                  }
+                }
+              }
+            ]
+          },
+          "favorite_count": 365,
+          "favorited": false,
+          "full_text": "#いきづらい部 にやってほしいことを募集します！\n\nまずは募集を受け付けるためのハッシュタグを決めたいのですが、どんなタグがいいと思いますか？　このポストへのリプライで教えてください。\n\n今日からさっそく大募集。リプライを編集部で集計して、6/24～30の期間で3択で決選投票を開催します！ https://t.co/GOKdlXvmJN",
+          "is_quote_status": false,
+          "lang": "ja",
+          "possibly_sensitive": false,
+          "possibly_sensitive_editable": true,
+          "quote_count": 12,
+          "reply_count": 76,
+          "retweet_count": 185,
+          "retweeted": false,
+          "user_id_str": "153415289",
+          "id_str": "1932048177525649567"
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 19,
+      "bookmarked": false,
+      "created_at": "Mon Jun 09 12:14:12 +0000 2025",
+      "conversation_id_str": "1932048581449625626",
+      "display_text_range": [
+        0,
+        128
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              121,
+              128
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 434,
+      "favorited": false,
+      "full_text": "もうみんなにアイデア募集を丸投げ…じゃなかった\n私たちにこんなことやってみたら？という提案を頂けたらなと思っています💻\nそこで今回はハッシュタグを大募集！\nローラいわくネットでは定番の企画らしいので皆さんにぜひ参加していただけたら嬉しいです\n#いきづらい部",
+      "is_quote_status": true,
+      "lang": "ja",
+      "quote_count": 9,
+      "quoted_status_id_str": "1932048177525649567",
+      "quoted_status_permalink": {
+        "url": "https://t.co/Tfl1NEkwT3",
+        "expanded": "https://twitter.com/gs_magazine/status/1932048177525649567",
+        "display": "x.com/gs_magazine/st…"
+      },
+      "reply_count": 2,
+      "retweet_count": 206,
+      "retweeted": false,
+      "user_id_str": "1906615972401909760",
+      "id_str": "1932048581449625626"
+    }
+  },
+  "created_at": "2025-06-09T12:14:12Z"
+}
