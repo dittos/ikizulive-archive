@@ -1,0 +1,332 @@
+{
+  "id": "1932725944193855851",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1932725944193855851",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、X とYouTube で展開！YouTubeはこちら→https://t.co/uAo8WcIDpK",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      52,
+                      75
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 61162,
+            "friends_count": 11,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 939,
+            "media_count": 82,
+            "normal_followers_count": 61162,
+            "pinned_tweet_ids_str": [
+              "1921765134420033639"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 89,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/dBGx7d0BUs",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "image_value": {
+                "height": 144,
+                "width": 144,
+                "url": "https://pbs.twimg.com/card_img/1932725856386113536/5fUCyWjg?format=jpg&name=144x144_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "■番組名： 「イキヅLIVE配信～いきづらい部？何それ？知らん！らん！～」 ■日時： 2025年6月17日（火）20時00分～ ■出演者： いきづらい部！ 綾咲穂音（高橋ポルカ役）、遠藤璃菜（麻布麻衣役）、宮野 芹（五桐 玲役）、藤野こころ（駒形花火役）、坂野愛羽（金澤奇跡役）、瀬古梨愛 （調布のりこ役）、奥村優季 （春宮ゆくり役）、天沢朱音（此花輝夜役）、小戸森穂花（山田真緑役）、涼ノ瀬葵...",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "docs.google.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "image_value": {
+                "height": 420,
+                "width": 420,
+                "url": "https://pbs.twimg.com/card_img/1932725856386113536/5fUCyWjg?format=jpg&name=420x420_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/1932725856386113536/5fUCyWjg?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "image_value": {
+                "height": 100,
+                "width": 100,
+                "url": "https://pbs.twimg.com/card_img/1932725856386113536/5fUCyWjg?format=jpg&name=100x100_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/1932725856386113536/5fUCyWjg?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "docs.google.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 241,
+                      "green": 242,
+                      "red": 253
+                    },
+                    "percentage": 99.74
+                  },
+                  {
+                    "rgb": {
+                      "blue": 144,
+                      "green": 142,
+                      "red": 141
+                    },
+                    "percentage": 0.17
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "イキヅライブ！LOVELIVE!BLUEBIRD「イキヅLIVE配信」メールフォーム",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/dBGx7d0BUs",
+              "type": "STRING"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary",
+        "url": "https://t.co/dBGx7d0BUs",
+        "user_refs_results": []
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1932725944193855851"
+      ],
+      "editable_until_msecs": "1749636348000",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "15317",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 7,
+      "bookmarked": false,
+      "created_at": "Wed Jun 11 09:05:48 +0000 2025",
+      "conversation_id_str": "1932725744813420642",
+      "display_text_range": [
+        0,
+        111
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              85,
+              92
+            ],
+            "text": "いきづらい部"
+          },
+          {
+            "indices": [
+              93,
+              100
+            ],
+            "text": "イキヅライブ"
+          },
+          {
+            "indices": [
+              101,
+              111
+            ],
+            "text": "イキヅLIVE配信"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "lovelive-anime.jp/news/01_4851.h…",
+            "expanded_url": "https://www.lovelive-anime.jp/news/01_4851.html",
+            "url": "https://t.co/pf2YeB9vGE",
+            "indices": [
+              8,
+              31
+            ]
+          },
+          {
+            "display_url": "forms.gle/KUokCPykBUv1dA…",
+            "expanded_url": "https://forms.gle/KUokCPykBUv1dA7z6",
+            "url": "https://t.co/dBGx7d0BUs",
+            "indices": [
+              59,
+              82
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 130,
+      "favorited": false,
+      "full_text": "詳細はこちら✅\nhttps://t.co/pf2YeB9vGE　\n\nお便りも募集中です💌\nこちらからお送りください！\nhttps://t.co/dBGx7d0BUs　\n\n#いきづらい部 #イキヅライブ #イキヅLIVE配信",
+      "in_reply_to_screen_name": "ikizulive_staff",
+      "in_reply_to_status_id_str": "1932725744813420642",
+      "in_reply_to_user_id_str": "1911282293341356032",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 37,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1932725944193855851"
+    }
+  },
+  "created_at": "2025-06-11T09:05:48Z"
+}
