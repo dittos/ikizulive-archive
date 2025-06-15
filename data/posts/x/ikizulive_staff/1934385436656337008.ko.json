@@ -1,0 +1,37 @@
+{
+  "id": "1934385436656337008",
+  "translated_text": "【생방송 정보】\n내일 6/17(화) 20:00부터\n「이키즈라이브 방송 ～살기힘든부? 그게 뭐야? 몰라! 몰라!～」\n\n살기힘든부! 캐스트 10명이 함께하는 첫 생방송!\n\n#이키즈라이브 방송 해시태그를 단 게시물로,\n여러분 꼭 참여해주세요💓\n\n상세 내용📝\nhttps://t.co/ytDRf2hwUP",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n\n사람 이름 읽는 법:\n高橋ポルカ -> 타카하시 폴카\n麻布麻衣 -> 아자부 마이\n五桐 玲 -> 고토 아키라\n駒形花火 -> 코마가타 하나비\n金澤奇跡 -> 카나자와 미라클\n調布のりこ -> 쵸후 노리코\n春宮ゆくり -> 하루미야 유쿠리\n此花輝夜 -> 코노하나 오로라\n山田真緑 -> 야마다 미도리\n佐々木翔音 -> 사사키 시온\n",
+  "raw_data": {
+    "id": "O1ZPaIrKL4Gf1MkPuLTi2Aw",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "【생방송 정보】\n내일 6/17(화) 20:00부터\n「이키즈라이브 방송 ～살기힘든부? 그게 뭐야? 몰라! 몰라!～」\n\n살기힘든부! 캐스트 10명이 함께하는 첫 생방송!\n\n#이키즈라이브 방송 해시태그를 단 게시물로,\n여러분 꼭 참여해주세요💓\n\n상세 내용📝\nhttps://t.co/ytDRf2hwUP",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1750029883,
+    "model": "gemini-2.5-flash-preview-04-17",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 111,
+      "prompt_tokens": 349,
+      "total_tokens": 2337,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}
