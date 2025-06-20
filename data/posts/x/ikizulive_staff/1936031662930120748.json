@@ -1,0 +1,955 @@
+{
+  "id": "1936031662930120748",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1936031662930120748",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 62044,
+            "friends_count": 11,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 968,
+            "media_count": 104,
+            "normal_followers_count": 62044,
+            "pinned_tweet_ids_str": [
+              "1921765134420033639"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 124,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1936031662930120748"
+      ],
+      "editable_until_msecs": "1750424492828",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "state": "Enabled"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Fri Jun 20 12:01:32 +0000 2025",
+      "conversation_id_str": "1936031662930120748",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              33,
+              48
+            ],
+            "text": "ちゃやまち推しフェスティバル"
+          },
+          {
+            "indices": [
+              75,
+              80
+            ],
+            "text": "ガンダム"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "2892591636",
+            "name": "VSTORAGE（ビー・ストレージ）",
+            "screen_name": "VSTORAGE",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @VSTORAGE: 6/21(土)＆6/22(日)開催\n「#ちゃやまち推しフェスティバル 2025」\nバンダイナムコフィルムワークスブース\n\n#ガンダム シリーズ3作品\nラブライブ！シリーズ6作品\n\n設営完了しました✨\n皆様のお越しをお待ちしております💞\n\nブース展開詳…",
+      "is_quote_status": true,
+      "lang": "ja",
+      "quote_count": 0,
+      "quoted_status_id_str": "1935609632934010991",
+      "quoted_status_permalink": {
+        "url": "https://t.co/XtqFqOTUCJ",
+        "expanded": "https://twitter.com/VSTORAGE/status/1935609632934010991",
+        "display": "x.com/VSTORAGE/statu…"
+      },
+      "reply_count": 0,
+      "retweet_count": 232,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1936031662930120748",
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1936009238335393976",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoyODkyNTkxNjM2",
+                "rest_id": "2892591636",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1594510918293258243/OD3eJ6eR_normal.png"
+                },
+                "core": {
+                  "created_at": "Fri Nov 07 09:31:28 +0000 2014",
+                  "name": "VSTORAGE（ビー・ストレージ）",
+                  "screen_name": "VSTORAGE"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "has_graduated_access": true,
+                "is_blue_verified": false,
+                "legacy": {
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "株式会社バンダイナムコフィルムワークス エモーション＆バンダイビジュアルレーベルの『V-STORAGE』公式Xです。 V-STORAGEのニュース掲載や関係者が呟きます。「EMOTION」レーベルは2023年に40周年 #EMOTION40th を迎えました。※フォロー返し、コメントリプライは実施していません。",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "v-storage.jp",
+                          "expanded_url": "https://v-storage.jp/",
+                          "url": "https://t.co/14G0zz4chM",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 6,
+                  "followers_count": 35161,
+                  "friends_count": 0,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 186,
+                  "media_count": 8068,
+                  "normal_followers_count": 35161,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2892591636/1648790540",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 15423,
+                  "translator_type": "none",
+                  "url": "https://t.co/14G0zz4chM",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": "V-STORAGE（株式会社バンダイナムコフィルムワークス）"
+                },
+                "media_permissions": {
+                  "can_media_tag": false
+                },
+                "parody_commentary_fan_label": "None",
+                "profile_image_shape": "Square",
+                "privacy": {
+                  "protected": false
+                },
+                "relationship_perspectives": {
+                  "following": false
+                },
+                "tipjar_settings": {},
+                "verification": {
+                  "verified": false,
+                  "verified_type": "Business"
+                }
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1936009238335393976"
+            ],
+            "editable_until_msecs": "1750419146000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+          },
+          "is_translatable": true,
+          "views": {
+            "count": "104975",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "quoted_status_result": {
+            "result": {
+              "__typename": "Tweet",
+              "rest_id": "1935609632934010991",
+              "core": {
+                "user_results": {
+                  "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoyODkyNTkxNjM2",
+                    "rest_id": "2892591636",
+                    "affiliates_highlighted_label": {},
+                    "avatar": {
+                      "image_url": "https://pbs.twimg.com/profile_images/1594510918293258243/OD3eJ6eR_normal.png"
+                    },
+                    "core": {
+                      "created_at": "Fri Nov 07 09:31:28 +0000 2014",
+                      "name": "VSTORAGE（ビー・ストレージ）",
+                      "screen_name": "VSTORAGE"
+                    },
+                    "dm_permissions": {
+                      "can_dm": false
+                    },
+                    "has_graduated_access": true,
+                    "is_blue_verified": false,
+                    "legacy": {
+                      "default_profile": false,
+                      "default_profile_image": false,
+                      "description": "株式会社バンダイナムコフィルムワークス エモーション＆バンダイビジュアルレーベルの『V-STORAGE』公式Xです。 V-STORAGEのニュース掲載や関係者が呟きます。「EMOTION」レーベルは2023年に40周年 #EMOTION40th を迎えました。※フォロー返し、コメントリプライは実施していません。",
+                      "entities": {
+                        "description": {
+                          "urls": []
+                        },
+                        "url": {
+                          "urls": [
+                            {
+                              "display_url": "v-storage.jp",
+                              "expanded_url": "https://v-storage.jp/",
+                              "url": "https://t.co/14G0zz4chM",
+                              "indices": [
+                                0,
+                                23
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      "fast_followers_count": 0,
+                      "favourites_count": 6,
+                      "followers_count": 35161,
+                      "friends_count": 0,
+                      "has_custom_timelines": true,
+                      "is_translator": false,
+                      "listed_count": 186,
+                      "media_count": 8068,
+                      "normal_followers_count": 35161,
+                      "pinned_tweet_ids_str": [],
+                      "possibly_sensitive": false,
+                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2892591636/1648790540",
+                      "profile_interstitial_type": "",
+                      "statuses_count": 15423,
+                      "translator_type": "none",
+                      "url": "https://t.co/14G0zz4chM",
+                      "want_retweets": false,
+                      "withheld_in_countries": []
+                    },
+                    "location": {
+                      "location": "V-STORAGE（株式会社バンダイナムコフィルムワークス）"
+                    },
+                    "media_permissions": {
+                      "can_media_tag": false
+                    },
+                    "parody_commentary_fan_label": "None",
+                    "profile_image_shape": "Square",
+                    "privacy": {
+                      "protected": false
+                    },
+                    "relationship_perspectives": {
+                      "following": false
+                    },
+                    "tipjar_settings": {},
+                    "verification": {
+                      "verified": false,
+                      "verified_type": "Business"
+                    }
+                  }
+                }
+              },
+              "unmention_data": {},
+              "edit_control": {
+                "edit_tweet_ids": [
+                  "1935609632934010991"
+                ],
+                "editable_until_msecs": "1750323873000",
+                "is_edit_eligible": true,
+                "edits_remaining": "5"
+              },
+              "is_translatable": true,
+              "views": {
+                "count": "103778",
+                "state": "EnabledWithCount"
+              },
+              "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+              "legacy": {
+                "bookmark_count": 10,
+                "bookmarked": false,
+                "created_at": "Thu Jun 19 08:04:33 +0000 2025",
+                "conversation_id_str": "1935609632934010991",
+                "display_text_range": [
+                  0,
+                  168
+                ],
+                "entities": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        19,
+                        34
+                      ],
+                      "text": "ちゃやまち推しフェスティバル"
+                    },
+                    {
+                      "indices": [
+                        61,
+                        66
+                      ],
+                      "text": "ガンダム"
+                    },
+                    {
+                      "indices": [
+                        159,
+                        168
+                      ],
+                      "text": "lovelive"
+                    }
+                  ],
+                  "media": [
+                    {
+                      "display_url": "pic.x.com/pyQu2O0nXd",
+                      "expanded_url": "https://x.com/VSTORAGE/status/1935609632934010991/photo/1",
+                      "id_str": "1935609625509797888",
+                      "indices": [
+                        169,
+                        192
+                      ],
+                      "media_key": "3_1935609625509797888",
+                      "media_url_https": "https://pbs.twimg.com/media/GtyqsvhWoAAS3ck.jpg",
+                      "type": "photo",
+                      "url": "https://t.co/pyQu2O0nXd",
+                      "ext_media_availability": {
+                        "status": "Available"
+                      },
+                      "features": {
+                        "large": {
+                          "faces": []
+                        },
+                        "medium": {
+                          "faces": []
+                        },
+                        "small": {
+                          "faces": []
+                        },
+                        "orig": {
+                          "faces": []
+                        }
+                      },
+                      "sizes": {
+                        "large": {
+                          "h": 1200,
+                          "w": 884,
+                          "resize": "fit"
+                        },
+                        "medium": {
+                          "h": 1200,
+                          "w": 884,
+                          "resize": "fit"
+                        },
+                        "small": {
+                          "h": 680,
+                          "w": 501,
+                          "resize": "fit"
+                        },
+                        "thumb": {
+                          "h": 150,
+                          "w": 150,
+                          "resize": "crop"
+                        }
+                      },
+                      "original_info": {
+                        "height": 1200,
+                        "width": 884,
+                        "focus_rects": [
+                          {
+                            "x": 0,
+                            "y": 322,
+                            "w": 884,
+                            "h": 495
+                          },
+                          {
+                            "x": 0,
+                            "y": 127,
+                            "w": 884,
+                            "h": 884
+                          },
+                          {
+                            "x": 0,
+                            "y": 65,
+                            "w": 884,
+                            "h": 1008
+                          },
+                          {
+                            "x": 142,
+                            "y": 0,
+                            "w": 600,
+                            "h": 1200
+                          },
+                          {
+                            "x": 0,
+                            "y": 0,
+                            "w": 884,
+                            "h": 1200
+                          }
+                        ]
+                      },
+                      "media_results": {
+                        "result": {
+                          "media_key": "3_1935609625509797888"
+                        }
+                      }
+                    }
+                  ],
+                  "symbols": [],
+                  "timestamps": [],
+                  "urls": [
+                    {
+                      "display_url": "v-storage.jp/bnf-oshifes202…",
+                      "expanded_url": "https://v-storage.jp/bnf-oshifes2025/",
+                      "url": "https://t.co/raaJXlXwGm",
+                      "indices": [
+                        135,
+                        158
+                      ]
+                    }
+                  ],
+                  "user_mentions": []
+                },
+                "extended_entities": {
+                  "media": [
+                    {
+                      "display_url": "pic.x.com/pyQu2O0nXd",
+                      "expanded_url": "https://x.com/VSTORAGE/status/1935609632934010991/photo/1",
+                      "id_str": "1935609625509797888",
+                      "indices": [
+                        169,
+                        192
+                      ],
+                      "media_key": "3_1935609625509797888",
+                      "media_url_https": "https://pbs.twimg.com/media/GtyqsvhWoAAS3ck.jpg",
+                      "type": "photo",
+                      "url": "https://t.co/pyQu2O0nXd",
+                      "ext_media_availability": {
+                        "status": "Available"
+                      },
+                      "features": {
+                        "large": {
+                          "faces": []
+                        },
+                        "medium": {
+                          "faces": []
+                        },
+                        "small": {
+                          "faces": []
+                        },
+                        "orig": {
+                          "faces": []
+                        }
+                      },
+                      "sizes": {
+                        "large": {
+                          "h": 1200,
+                          "w": 884,
+                          "resize": "fit"
+                        },
+                        "medium": {
+                          "h": 1200,
+                          "w": 884,
+                          "resize": "fit"
+                        },
+                        "small": {
+                          "h": 680,
+                          "w": 501,
+                          "resize": "fit"
+                        },
+                        "thumb": {
+                          "h": 150,
+                          "w": 150,
+                          "resize": "crop"
+                        }
+                      },
+                      "original_info": {
+                        "height": 1200,
+                        "width": 884,
+                        "focus_rects": [
+                          {
+                            "x": 0,
+                            "y": 322,
+                            "w": 884,
+                            "h": 495
+                          },
+                          {
+                            "x": 0,
+                            "y": 127,
+                            "w": 884,
+                            "h": 884
+                          },
+                          {
+                            "x": 0,
+                            "y": 65,
+                            "w": 884,
+                            "h": 1008
+                          },
+                          {
+                            "x": 142,
+                            "y": 0,
+                            "w": 600,
+                            "h": 1200
+                          },
+                          {
+                            "x": 0,
+                            "y": 0,
+                            "w": 884,
+                            "h": 1200
+                          }
+                        ]
+                      },
+                      "media_results": {
+                        "result": {
+                          "media_key": "3_1935609625509797888"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "favorite_count": 25,
+                "favorited": false,
+                "full_text": "6/21(土)＆6/22(日)開催\n「#ちゃやまち推しフェスティバル 2025」\nバンダイナムコフィルムワークスブース\n\n#ガンダム シリーズ3作品\nラブライブ！シリーズ6作品\n\n「重ね“推し”スタンプラリー 」\nスタンプ台設置MAP公開📢\n\nブース展開詳細はこちら👇\nhttps://t.co/raaJXlXwGm\n#lovelive https://t.co/pyQu2O0nXd",
+                "is_quote_status": false,
+                "lang": "ja",
+                "possibly_sensitive": false,
+                "possibly_sensitive_editable": true,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 8,
+                "retweeted": false,
+                "user_id_str": "2892591636",
+                "id_str": "1935609632934010991"
+              }
+            }
+          },
+          "legacy": {
+            "bookmark_count": 31,
+            "bookmarked": false,
+            "created_at": "Fri Jun 20 10:32:26 +0000 2025",
+            "conversation_id_str": "1936009238335393976",
+            "display_text_range": [
+              0,
+              166
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    19,
+                    34
+                  ],
+                  "text": "ちゃやまち推しフェスティバル"
+                },
+                {
+                  "indices": [
+                    61,
+                    66
+                  ],
+                  "text": "ガンダム"
+                },
+                {
+                  "indices": [
+                    157,
+                    166
+                  ],
+                  "text": "lovelive"
+                }
+              ],
+              "media": [
+                {
+                  "display_url": "pic.x.com/20WX9eTNno",
+                  "expanded_url": "https://x.com/VSTORAGE/status/1936009238335393976/photo/1",
+                  "id_str": "1936009103760932864",
+                  "indices": [
+                    167,
+                    190
+                  ],
+                  "media_key": "3_1936009103760932864",
+                  "media_url_https": "https://pbs.twimg.com/media/Gt4WBb-XwAAApwk.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/20WX9eTNno",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 644,
+                          "y": 485,
+                          "h": 68,
+                          "w": 68
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 507,
+                          "y": 381,
+                          "h": 53,
+                          "w": 53
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 287,
+                          "y": 216,
+                          "h": 30,
+                          "w": 30
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 644,
+                          "y": 485,
+                          "h": 68,
+                          "w": 68
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1000,
+                      "w": 1524,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 787,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 446,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1000,
+                    "width": 1524,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 145,
+                        "w": 1524,
+                        "h": 853
+                      },
+                      {
+                        "x": 524,
+                        "y": 0,
+                        "w": 1000,
+                        "h": 1000
+                      },
+                      {
+                        "x": 647,
+                        "y": 0,
+                        "w": 877,
+                        "h": 1000
+                      },
+                      {
+                        "x": 854,
+                        "y": 0,
+                        "w": 500,
+                        "h": 1000
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1524,
+                        "h": 1000
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1936009103760932864"
+                    }
+                  }
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [
+                {
+                  "display_url": "v-storage.jp/bnf-oshifes202…",
+                  "expanded_url": "https://v-storage.jp/bnf-oshifes2025/",
+                  "url": "https://t.co/raaJXlXwGm",
+                  "indices": [
+                    132,
+                    155
+                  ]
+                }
+              ],
+              "user_mentions": []
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "display_url": "pic.x.com/20WX9eTNno",
+                  "expanded_url": "https://x.com/VSTORAGE/status/1936009238335393976/photo/1",
+                  "id_str": "1936009103760932864",
+                  "indices": [
+                    167,
+                    190
+                  ],
+                  "media_key": "3_1936009103760932864",
+                  "media_url_https": "https://pbs.twimg.com/media/Gt4WBb-XwAAApwk.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/20WX9eTNno",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 644,
+                          "y": 485,
+                          "h": 68,
+                          "w": 68
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 507,
+                          "y": 381,
+                          "h": 53,
+                          "w": 53
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 287,
+                          "y": 216,
+                          "h": 30,
+                          "w": 30
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 644,
+                          "y": 485,
+                          "h": 68,
+                          "w": 68
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1000,
+                      "w": 1524,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 787,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 446,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1000,
+                    "width": 1524,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 145,
+                        "w": 1524,
+                        "h": 853
+                      },
+                      {
+                        "x": 524,
+                        "y": 0,
+                        "w": 1000,
+                        "h": 1000
+                      },
+                      {
+                        "x": 647,
+                        "y": 0,
+                        "w": 877,
+                        "h": 1000
+                      },
+                      {
+                        "x": 854,
+                        "y": 0,
+                        "w": 500,
+                        "h": 1000
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1524,
+                        "h": 1000
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1936009103760932864"
+                    }
+                  }
+                }
+              ]
+            },
+            "favorite_count": 679,
+            "favorited": false,
+            "full_text": "6/21(土)＆6/22(日)開催\n「#ちゃやまち推しフェスティバル 2025」\nバンダイナムコフィルムワークスブース\n\n#ガンダム シリーズ3作品\nラブライブ！シリーズ6作品\n\n設営完了しました✨\n皆様のお越しをお待ちしております💞\n\nブース展開詳細はこちら👇\nhttps://t.co/raaJXlXwGm\n\n#lovelive https://t.co/20WX9eTNno",
+            "is_quote_status": true,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 32,
+            "quoted_status_id_str": "1935609632934010991",
+            "quoted_status_permalink": {
+              "url": "https://t.co/XtqFqOTUCJ",
+              "expanded": "https://twitter.com/VSTORAGE/status/1935609632934010991",
+              "display": "x.com/VSTORAGE/statu…"
+            },
+            "reply_count": 2,
+            "retweet_count": 232,
+            "retweeted": false,
+            "user_id_str": "2892591636",
+            "id_str": "1936009238335393976"
+          }
+        }
+      }
+    }
+  },
+  "created_at": "2025-06-20T12:01:32Z"
+}
