@@ -1,0 +1,143 @@
+{
+  "id": "1937493410828492953",
+  "username": "Rollie_twinkle",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1937493410828492953",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NTgzNjQ3NTU5NTI0MzUz",
+          "rest_id": "1906583647559524353",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921887475561070593/Jf-AlnRm_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 05:45:49 +0000 2025",
+            "name": "此花輝夜@いきづらい部！",
+            "screen_name": "Rollie_twinkle"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=7",
+                    "url": "https://t.co/oAjV51EVxz",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 20928,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1032,
+            "media_count": 0,
+            "normal_followers_count": 20928,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906583647559524353/1747048657",
+            "profile_interstitial_type": "",
+            "statuses_count": 34,
+            "translator_type": "none",
+            "url": "https://t.co/oAjV51EVxz",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": false
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1937493410828492953"
+      ],
+      "editable_until_msecs": "1750773000000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "1421",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 1,
+      "bookmarked": false,
+      "created_at": "Tue Jun 24 12:50:00 +0000 2025",
+      "conversation_id_str": "1937493410828492953",
+      "display_text_range": [
+        0,
+        78
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              71,
+              78
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 108,
+      "favorited": false,
+      "full_text": "即効性があってお顔の表情がきゅきゅっと引き締まって\nフェイスラインばっちり🥝\n口角もアップしちゃう～🌈✨\n\n最近のローラのおすすめです！🎉\n\n#いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 18,
+      "retweeted": false,
+      "user_id_str": "1906583647559524353",
+      "id_str": "1937493410828492953"
+    }
+  },
+  "created_at": "2025-06-24T12:50:00Z"
+}
