@@ -49,7 +49,7 @@ Your task is to translate the text provided by the user into {lang_name} while p
 
 {custom_prompt}"""
     resp = client.chat.completions.create(
-        model="gemini-2.5-flash-preview-04-17",
+        model="gemini-2.5-flash",
         messages=[
             {
                 "role": "system",
