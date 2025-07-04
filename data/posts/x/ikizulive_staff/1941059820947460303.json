@@ -1,0 +1,633 @@
+{
+  "id": "1941059820947460303",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1941059820947460303",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 62692,
+            "friends_count": 11,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 997,
+            "media_count": 120,
+            "normal_followers_count": 62692,
+            "pinned_tweet_ids_str": [
+              "1921765134420033639"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 147,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1941059820947460303"
+      ],
+      "editable_until_msecs": "1751623299118",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "state": "Enabled"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Fri Jul 04 09:01:39 +0000 2025",
+      "conversation_id_str": "1941059820947460303",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              30,
+              37
+            ],
+            "text": "いきづらい部"
+          },
+          {
+            "indices": [
+              86,
+              94
+            ],
+            "text": "やってみたい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "153415289",
+            "name": "電撃G's magazine編集部",
+            "screen_name": "gs_magazine",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @gs_magazine: ／\n【ユーザー参加企画】\n#いきづらい部 にやってほしいこと\n募集受付用ハッシュタグ決定🎉\n＼\n\nみなさんの投票で選ばれたハッシュタグは\n#やってみたい部\nです！\n\nポルカたちにやってほしいことを、このハッシュタグをつけて送ってくださいね。\n素…",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1941059820947460303",
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1941059415576105257",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxNTM0MTUyODk=",
+                "rest_id": "153415289",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1885609095891451904/rIyiO6P-_normal.jpg"
+                },
+                "core": {
+                  "created_at": "Tue Jun 08 13:56:43 +0000 2010",
+                  "name": "電撃G's magazine編集部",
+                  "screen_name": "gs_magazine"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "has_graduated_access": true,
+                "is_blue_verified": false,
+                "legacy": {
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "G'sチャンネル、LoveLive!Daysの情報を発信するアカウントです。代表作：ラブライブ！シリーズ、『結城友奈は勇者である』『天華百剣』ほか。G's関連情報を編集部員がポストしていきます。〔注意〕直接のお問い合わせはこちらへお願いします https://t.co/8bYmwQEXNI",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "kdq.jp/support/",
+                          "expanded_url": "http://kdq.jp/support/",
+                          "url": "https://t.co/8bYmwQEXNI",
+                          "indices": [
+                            122,
+                            145
+                          ]
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "gs-ch.com",
+                          "expanded_url": "https://gs-ch.com/",
+                          "url": "https://t.co/dDDFshmG7l",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 467,
+                  "followers_count": 228284,
+                  "friends_count": 424,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 1527,
+                  "media_count": 17892,
+                  "normal_followers_count": 228284,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/153415289/1681183550",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 33443,
+                  "translator_type": "none",
+                  "url": "https://t.co/dDDFshmG7l",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": "東京都 千代田区"
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "parody_commentary_fan_label": "None",
+                "profile_image_shape": "Square",
+                "privacy": {
+                  "protected": false
+                },
+                "relationship_perspectives": {
+                  "following": false
+                },
+                "tipjar_settings": {},
+                "verification": {
+                  "verified": false,
+                  "verified_type": "Business"
+                }
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1941059415576105257"
+            ],
+            "editable_until_msecs": "1751623202000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+          },
+          "is_translatable": true,
+          "views": {
+            "count": "7305",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "legacy": {
+            "bookmark_count": 11,
+            "bookmarked": false,
+            "created_at": "Fri Jul 04 09:00:02 +0000 2025",
+            "conversation_id_str": "1941059415576105257",
+            "display_text_range": [
+              0,
+              148
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    13,
+                    20
+                  ],
+                  "text": "いきづらい部"
+                },
+                {
+                  "indices": [
+                    69,
+                    77
+                  ],
+                  "text": "やってみたい部"
+                },
+                {
+                  "indices": [
+                    141,
+                    148
+                  ],
+                  "text": "イキヅライブ"
+                }
+              ],
+              "media": [
+                {
+                  "display_url": "pic.x.com/LeKOS91qsL",
+                  "expanded_url": "https://x.com/gs_magazine/status/1941059415576105257/photo/1",
+                  "id_str": "1941035692798496771",
+                  "indices": [
+                    149,
+                    172
+                  ],
+                  "media_key": "3_1941035692798496771",
+                  "media_url_https": "https://pbs.twimg.com/media/Gu_xrbWb0AMveCC.png",
+                  "type": "photo",
+                  "url": "https://t.co/LeKOS91qsL",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 611,
+                          "y": 360,
+                          "h": 88,
+                          "w": 88
+                        },
+                        {
+                          "x": 129,
+                          "y": 896,
+                          "h": 116,
+                          "w": 116
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 381,
+                          "y": 225,
+                          "h": 55,
+                          "w": 55
+                        },
+                        {
+                          "x": 80,
+                          "y": 560,
+                          "h": 72,
+                          "w": 72
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 216,
+                          "y": 127,
+                          "h": 31,
+                          "w": 31
+                        },
+                        {
+                          "x": 45,
+                          "y": 317,
+                          "h": 41,
+                          "w": 41
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 611,
+                          "y": 360,
+                          "h": 88,
+                          "w": 88
+                        },
+                        {
+                          "x": 129,
+                          "y": 896,
+                          "h": 116,
+                          "w": 116
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "w": 1920,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 675,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 383,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1080,
+                    "width": 1920,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1920,
+                        "h": 1075
+                      },
+                      {
+                        "x": 420,
+                        "y": 0,
+                        "w": 1080,
+                        "h": 1080
+                      },
+                      {
+                        "x": 487,
+                        "y": 0,
+                        "w": 947,
+                        "h": 1080
+                      },
+                      {
+                        "x": 690,
+                        "y": 0,
+                        "w": 540,
+                        "h": 1080
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1920,
+                        "h": 1080
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1941035692798496771"
+                    }
+                  }
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "display_url": "pic.x.com/LeKOS91qsL",
+                  "expanded_url": "https://x.com/gs_magazine/status/1941059415576105257/photo/1",
+                  "id_str": "1941035692798496771",
+                  "indices": [
+                    149,
+                    172
+                  ],
+                  "media_key": "3_1941035692798496771",
+                  "media_url_https": "https://pbs.twimg.com/media/Gu_xrbWb0AMveCC.png",
+                  "type": "photo",
+                  "url": "https://t.co/LeKOS91qsL",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 611,
+                          "y": 360,
+                          "h": 88,
+                          "w": 88
+                        },
+                        {
+                          "x": 129,
+                          "y": 896,
+                          "h": 116,
+                          "w": 116
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 381,
+                          "y": 225,
+                          "h": 55,
+                          "w": 55
+                        },
+                        {
+                          "x": 80,
+                          "y": 560,
+                          "h": 72,
+                          "w": 72
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 216,
+                          "y": 127,
+                          "h": 31,
+                          "w": 31
+                        },
+                        {
+                          "x": 45,
+                          "y": 317,
+                          "h": 41,
+                          "w": 41
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 611,
+                          "y": 360,
+                          "h": 88,
+                          "w": 88
+                        },
+                        {
+                          "x": 129,
+                          "y": 896,
+                          "h": 116,
+                          "w": 116
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "w": 1920,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 675,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 383,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1080,
+                    "width": 1920,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1920,
+                        "h": 1075
+                      },
+                      {
+                        "x": 420,
+                        "y": 0,
+                        "w": 1080,
+                        "h": 1080
+                      },
+                      {
+                        "x": 487,
+                        "y": 0,
+                        "w": 947,
+                        "h": 1080
+                      },
+                      {
+                        "x": 690,
+                        "y": 0,
+                        "w": 540,
+                        "h": 1080
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1920,
+                        "h": 1080
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1941035692798496771"
+                    }
+                  }
+                }
+              ]
+            },
+            "favorite_count": 133,
+            "favorited": false,
+            "full_text": "／\n【ユーザー参加企画】\n#いきづらい部 にやってほしいこと\n募集受付用ハッシュタグ決定🎉\n＼\n\nみなさんの投票で選ばれたハッシュタグは\n#やってみたい部\nです！\n\nポルカたちにやってほしいことを、このハッシュタグをつけて送ってくださいね。\n素敵な投稿はどこかに採用されるかも…？\n#イキヅライブ https://t.co/LeKOS91qsL",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 55,
+            "retweeted": false,
+            "user_id_str": "153415289",
+            "id_str": "1941059415576105257"
+          }
+        }
+      }
+    }
+  },
+  "created_at": "2025-07-04T09:01:39Z"
+}
