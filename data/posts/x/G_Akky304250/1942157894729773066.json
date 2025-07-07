@@ -1,0 +1,302 @@
+{
+  "id": "1942157894729773066",
+  "username": "G_Akky304250",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1942157894729773066",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NjE1MTQ5OTg3MDEyNjA4",
+          "rest_id": "1906615149987012608",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921886488767442944/Jv0-T14d_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 07:50:56 +0000 2025",
+            "name": "五桐 玲@いきづらい部！",
+            "screen_name": "G_Akky304250"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=2",
+                    "url": "https://t.co/gaCMMiRs4a",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 24014,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1100,
+            "media_count": 0,
+            "normal_followers_count": 24014,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906615149987012608/1747048422",
+            "profile_interstitial_type": "",
+            "statuses_count": 54,
+            "translator_type": "none",
+            "url": "https://t.co/gaCMMiRs4a",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": false
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1942157894729773066"
+      ],
+      "editable_until_msecs": "1751885100000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "7572",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "quoted_status_result": {
+      "result": {
+        "__typename": "Tweet",
+        "rest_id": "1942137007020609904",
+        "core": {
+          "user_results": {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxOTA2NTc4NzM4MTU2MDY0NzY4",
+              "rest_id": "1906578738156064768",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1921887223185805312/YRTG0-G8_normal.png"
+              },
+              "core": {
+                "created_at": "Mon Mar 31 05:26:14 +0000 2025",
+                "name": "春宮ゆくり@いきづらい部！",
+                "screen_name": "Yukuri_talk"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                        "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=6",
+                        "url": "https://t.co/gevNHGrNWu",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 0,
+                "followers_count": 21404,
+                "friends_count": 9,
+                "has_custom_timelines": false,
+                "is_translator": false,
+                "listed_count": 1055,
+                "media_count": 0,
+                "normal_followers_count": 21404,
+                "pinned_tweet_ids_str": [],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906578738156064768/1747048597",
+                "profile_interstitial_type": "",
+                "statuses_count": 52,
+                "translator_type": "none",
+                "url": "https://t.co/gevNHGrNWu",
+                "want_retweets": false,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": ""
+              },
+              "media_permissions": {
+                "can_media_tag": false
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Circle",
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": false
+              },
+              "tipjar_settings": {},
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "unmention_data": {},
+        "edit_control": {
+          "edit_tweet_ids": [
+            "1942137007020609904"
+          ],
+          "editable_until_msecs": "1751880120000",
+          "is_edit_eligible": true,
+          "edits_remaining": "5"
+        },
+        "is_translatable": true,
+        "views": {
+          "count": "139769",
+          "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "legacy": {
+          "bookmark_count": 5,
+          "bookmarked": false,
+          "created_at": "Mon Jul 07 08:22:00 +0000 2025",
+          "conversation_id_str": "1942137007020609904",
+          "display_text_range": [
+            0,
+            105
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  94,
+                  101
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  102,
+                  105
+                ],
+                "text": "七夕"
+              }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": []
+          },
+          "favorite_count": 493,
+          "favorited": false,
+          "full_text": "そうだ🎩✨\n良かったらみんなもここに七夕のお願い書いてみませんか？\nカラフルな短冊がいっぱい吊るされた大きな大きな笹飾り🎋✨\n願いがいっぱいあるほど神様の目にとまり易そうな気がするから💘\n#いきづらい部 #七夕",
+          "is_quote_status": false,
+          "lang": "ja",
+          "quote_count": 14,
+          "reply_count": 23,
+          "retweet_count": 96,
+          "retweeted": false,
+          "user_id_str": "1906578738156064768",
+          "id_str": "1942137007020609904"
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 2,
+      "bookmarked": false,
+      "created_at": "Mon Jul 07 09:45:00 +0000 2025",
+      "conversation_id_str": "1942157894729773066",
+      "display_text_range": [
+        0,
+        25
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              14,
+              21
+            ],
+            "text": "いきづらい部"
+          },
+          {
+            "indices": [
+              22,
+              25
+            ],
+            "text": "七夕"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 270,
+      "favorited": false,
+      "full_text": "大会予選通過できますように🏔#いきづらい部　#七夕",
+      "is_quote_status": true,
+      "lang": "ja",
+      "quote_count": 0,
+      "quoted_status_id_str": "1942137007020609904",
+      "quoted_status_permalink": {
+        "url": "https://t.co/T42nSFbnlD",
+        "expanded": "https://twitter.com/Yukuri_talk/status/1942137007020609904",
+        "display": "x.com/Yukuri_talk/st…"
+      },
+      "reply_count": 0,
+      "retweet_count": 58,
+      "retweeted": false,
+      "user_id_str": "1906615149987012608",
+      "id_str": "1942157894729773066"
+    }
+  },
+  "created_at": "2025-07-07T09:45:00Z"
+}
