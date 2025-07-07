@@ -1,0 +1,495 @@
+{
+  "id": "1942056514778505428",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1942056514778505428",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/GvOSGksbYAAxQGw.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1942056514778505428",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 62710,
+            "friends_count": 11,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1001,
+            "media_count": 125,
+            "normal_followers_count": 62710,
+            "pinned_tweet_ids_str": [
+              "1921765134420033639"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 152,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1942056514778505428"
+      ],
+      "editable_until_msecs": "1751860929000",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "9838",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5NDIwNTY1MTQ2ODYxOTc3NjA=",
+          "text": "高橋ポルカ（@polka_lion）ってどんな子？\n\n📝プロフィール\nhttps://t.co/RCavJhQuXe\n\n💬自己紹介動画\nhttps://t.co/NFhBAsXj2u\n\n🎥語りかけ動画\nhttps://t.co/kIS0ns0wqu\n\n🎶「浅草Guilty Girlの歌」\nhttps://t.co/FXDyNpY9GL\n\nメンバーアイコンは今後グッズやHPなどで幅広く使用されます！\n皆さん、一緒に考えてください！✨\n\n#イキヅライブ #いきづらい部",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  219,
+                  226
+                ],
+                "text": "イキヅライブ"
+              },
+              {
+                "indices": [
+                  227,
+                  234
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=0",
+                "url": "https://t.co/RCavJhQuXe",
+                "indices": [
+                  35,
+                  58
+                ]
+              },
+              {
+                "display_url": "youtu.be/k-dMVgoFhBY",
+                "expanded_url": "https://youtu.be/k-dMVgoFhBY",
+                "url": "https://t.co/NFhBAsXj2u",
+                "indices": [
+                  68,
+                  91
+                ]
+              },
+              {
+                "display_url": "youtu.be/HxT8w_tCrhM",
+                "expanded_url": "https://youtu.be/HxT8w_tCrhM",
+                "url": "https://t.co/kIS0ns0wqu",
+                "indices": [
+                  101,
+                  124
+                ]
+              },
+              {
+                "display_url": "youtu.be/04t_L8Okvbg",
+                "expanded_url": "https://youtu.be/04t_L8Okvbg",
+                "url": "https://t.co/FXDyNpY9GL",
+                "indices": [
+                  145,
+                  168
+                ]
+              }
+            ],
+            "user_mentions": [
+              {
+                "id_str": "1884116039795195904",
+                "name": "高橋ポルカ@いきづらい部！",
+                "screen_name": "polka_lion",
+                "indices": [
+                  6,
+                  17
+                ]
+              }
+            ]
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 4,
+      "bookmarked": false,
+      "created_at": "Mon Jul 07 03:02:09 +0000 2025",
+      "conversation_id_str": "1942055984958201944",
+      "display_text_range": [
+        0,
+        200
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/nSfrBRpm8F",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1942056514778505428/photo/1",
+            "id_str": "1942056505953705984",
+            "indices": [
+              201,
+              224
+            ],
+            "media_key": "3_1942056505953705984",
+            "media_url_https": "https://pbs.twimg.com/media/GvOSGksbYAAxQGw.jpg",
+            "type": "photo",
+            "url": "https://t.co/nSfrBRpm8F",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1200,
+              "width": 1200,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 672
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 1200
+                },
+                {
+                  "x": 44,
+                  "y": 0,
+                  "w": 1053,
+                  "h": 1200
+                },
+                {
+                  "x": 270,
+                  "y": 0,
+                  "w": 600,
+                  "h": 1200
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 1200
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1942056505953705984"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/HxT8w_tCrhM",
+            "expanded_url": "https://youtu.be/HxT8w_tCrhM",
+            "url": "https://t.co/vcbihuraLR",
+            "indices": [
+              101,
+              124
+            ]
+          },
+          {
+            "display_url": "pic.x.com/nSfrBRpm8F",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1942056514778505428/photo/1",
+            "url": "https://t.co/nSfrBRpm8F",
+            "indices": [
+              201,
+              224
+            ]
+          },
+          {
+            "display_url": "youtu.be/04t_L8Okvbg",
+            "expanded_url": "https://youtu.be/04t_L8Okvbg",
+            "url": "https://t.co/zpxQHdGDhd",
+            "indices": [
+              145,
+              168
+            ]
+          },
+          {
+            "display_url": "youtu.be/k-dMVgoFhBY",
+            "expanded_url": "https://youtu.be/k-dMVgoFhBY",
+            "url": "https://t.co/KcrbO9hzN3",
+            "indices": [
+              68,
+              91
+            ]
+          },
+          {
+            "display_url": "lovelive-anime.jp/lovehigh/membe…",
+            "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=0",
+            "url": "https://t.co/ceW7bvAFwF",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1884116039795195904",
+            "name": "高橋ポルカ@いきづらい部！",
+            "screen_name": "polka_lion",
+            "indices": [
+              6,
+              17
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/nSfrBRpm8F",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1942056514778505428/photo/1",
+            "id_str": "1942056505953705984",
+            "indices": [
+              201,
+              224
+            ],
+            "media_key": "3_1942056505953705984",
+            "media_url_https": "https://pbs.twimg.com/media/GvOSGksbYAAxQGw.jpg",
+            "type": "photo",
+            "url": "https://t.co/nSfrBRpm8F",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1200,
+              "width": 1200,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 672
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 1200
+                },
+                {
+                  "x": 44,
+                  "y": 0,
+                  "w": 1053,
+                  "h": 1200
+                },
+                {
+                  "x": 270,
+                  "y": 0,
+                  "w": 600,
+                  "h": 1200
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 1200
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1942056505953705984"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 146,
+      "favorited": false,
+      "full_text": "高橋ポルカ（@polka_lion）ってどんな子？\n\n📝プロフィール\nhttps://t.co/ceW7bvAFwF\n\n💬自己紹介動画\nhttps://t.co/KcrbO9hzN3\n\n🎥語りかけ動画\nhttps://t.co/vcbihuraLR\n\n🎶「浅草Guilty Girlの歌」\nhttps://t.co/zpxQHdGDhd\n\nメンバーアイコンは今後グッズやHPなどで幅広く使用されます！ https://t.co/nSfrBRpm8F",
+      "in_reply_to_screen_name": "ikizulive_staff",
+      "in_reply_to_status_id_str": "1942055984958201944",
+      "in_reply_to_user_id_str": "1911282293341356032",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 47,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1942056514778505428"
+    }
+  },
+  "created_at": "2025-07-07T03:02:09Z"
+}
