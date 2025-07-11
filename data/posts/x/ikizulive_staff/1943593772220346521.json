@@ -1,0 +1,791 @@
+{
+  "id": "1943593772220346521",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1943593772220346521",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/GvkG1qVbIAAPTGc.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1943593772220346521",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 62920,
+            "friends_count": 11,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1004,
+            "media_count": 136,
+            "normal_followers_count": 62920,
+            "pinned_tweet_ids_str": [
+              "1921765134420033639"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 170,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1943593772220346521"
+      ],
+      "editable_until_msecs": "1752227440000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "58029",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "quoted_status_result": {
+      "result": {
+        "__typename": "Tweet",
+        "rest_id": "1943263944858308646",
+        "core": {
+          "user_results": {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxMjIyNTg1MTc=",
+              "rest_id": "122258517",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1783063616658534400/5I8uv0cS_normal.jpg"
+              },
+              "core": {
+                "created_at": "Fri Mar 12 03:43:58 +0000 2010",
+                "name": "リスアニ！編集部＠15周年イヤー",
+                "screen_name": "Lis_Ani"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "日本で最も熱くて濃いアニメ音楽メディア。「劇場版 うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ」OFFICIAL BOOK発売中！「アイドルマスター SideM」音楽大全 ～Special Edition～』3/12発売！／NEWSアカウントはこちら：@LisAni_NEWS",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "lisani.jp",
+                        "expanded_url": "http://www.lisani.jp/",
+                        "url": "https://t.co/3ru8Jl83qv",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 4943,
+                "followers_count": 139585,
+                "friends_count": 3092,
+                "has_custom_timelines": true,
+                "is_translator": false,
+                "listed_count": 1147,
+                "media_count": 7640,
+                "normal_followers_count": 139585,
+                "pinned_tweet_ids_str": [
+                  "1942871946934587884"
+                ],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/122258517/1719136048",
+                "profile_interstitial_type": "",
+                "statuses_count": 30627,
+                "translator_type": "none",
+                "url": "https://t.co/3ru8Jl83qv",
+                "want_retweets": false,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": "東京都港区"
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Circle",
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": false
+              },
+              "tipjar_settings": {},
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "unmention_data": {},
+        "edit_control": {
+          "edit_tweet_ids": [
+            "1943263944858308646"
+          ],
+          "editable_until_msecs": "1752148803000",
+          "is_edit_eligible": true,
+          "edits_remaining": "5"
+        },
+        "is_translatable": true,
+        "views": {
+          "count": "209598",
+          "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "legacy": {
+          "bookmark_count": 173,
+          "bookmarked": false,
+          "created_at": "Thu Jul 10 11:00:03 +0000 2025",
+          "conversation_id_str": "1943263944858308646",
+          "display_text_range": [
+            0,
+            146
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  1,
+                  6
+                ],
+                "text": "リスアニ"
+              },
+              {
+                "indices": [
+                  61,
+                  68
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "media": [
+              {
+                "display_url": "pic.x.com/4Mjai0n0S4",
+                "expanded_url": "https://x.com/Lis_Ani/status/1943263944858308646/video/1",
+                "id_str": "1942889520308903936",
+                "indices": [
+                  147,
+                  170
+                ],
+                "media_key": "13_1942889520308903936",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1942889520308903936/img/jsN5diDoJlC-SSUs.jpg",
+                "type": "video",
+                "url": "https://t.co/4Mjai0n0S4",
+                "additional_media_info": {
+                  "monetizable": false
+                },
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1080,
+                    "w": 1920,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "h": 675,
+                    "w": 1200,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "h": 383,
+                    "w": 680,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "w": 150,
+                    "resize": "crop"
+                  }
+                },
+                "original_info": {
+                  "height": 1080,
+                  "width": 1920,
+                  "focus_rects": []
+                },
+                "video_info": {
+                  "aspect_ratio": [
+                    16,
+                    9
+                  ],
+                  "duration_millis": 41633,
+                  "variants": [
+                    {
+                      "content_type": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/1942889520308903936/pl/upcoY3bZCdFLJkPX.m3u8?tag=21&v=3b0"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/1942889520308903936/vid/avc1/480x270/WcbcJN0tl5o0YlH1.mp4?tag=21"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/1942889520308903936/vid/avc1/640x360/Jaokjd4sMZuprcFj.mp4?tag=21"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/1942889520308903936/vid/avc1/1280x720/bhiamNOAqfYNCyW4.mp4?tag=21"
+                    },
+                    {
+                      "bitrate": 10368000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/1942889520308903936/vid/avc1/1920x1080/abmsOMWC8JZST3c5.mp4?tag=21"
+                    }
+                  ]
+                },
+                "media_results": {
+                  "result": {
+                    "media_key": "13_1942889520308903936"
+                  }
+                }
+              }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [
+              {
+                "display_url": "eplus.jp/lisani2025/",
+                "expanded_url": "https://eplus.jp/lisani2025/",
+                "url": "https://t.co/wB4Ol02n3f",
+                "indices": [
+                  123,
+                  146
+                ]
+              }
+            ],
+            "user_mentions": [
+              {
+                "id_str": "1911282293341356032",
+                "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                "screen_name": "ikizulive_staff",
+                "indices": [
+                  72,
+                  88
+                ]
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/4Mjai0n0S4",
+                "expanded_url": "https://x.com/Lis_Ani/status/1943263944858308646/video/1",
+                "id_str": "1942889520308903936",
+                "indices": [
+                  147,
+                  170
+                ],
+                "media_key": "13_1942889520308903936",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1942889520308903936/img/jsN5diDoJlC-SSUs.jpg",
+                "type": "video",
+                "url": "https://t.co/4Mjai0n0S4",
+                "additional_media_info": {
+                  "monetizable": false
+                },
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1080,
+                    "w": 1920,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "h": 675,
+                    "w": 1200,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "h": 383,
+                    "w": 680,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "w": 150,
+                    "resize": "crop"
+                  }
+                },
+                "original_info": {
+                  "height": 1080,
+                  "width": 1920,
+                  "focus_rects": []
+                },
+                "video_info": {
+                  "aspect_ratio": [
+                    16,
+                    9
+                  ],
+                  "duration_millis": 41633,
+                  "variants": [
+                    {
+                      "content_type": "application/x-mpegURL",
+                      "url": "https://video.twimg.com/amplify_video/1942889520308903936/pl/upcoY3bZCdFLJkPX.m3u8?tag=21&v=3b0"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/1942889520308903936/vid/avc1/480x270/WcbcJN0tl5o0YlH1.mp4?tag=21"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/1942889520308903936/vid/avc1/640x360/Jaokjd4sMZuprcFj.mp4?tag=21"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/1942889520308903936/vid/avc1/1280x720/bhiamNOAqfYNCyW4.mp4?tag=21"
+                    },
+                    {
+                      "bitrate": 10368000,
+                      "content_type": "video/mp4",
+                      "url": "https://video.twimg.com/amplify_video/1942889520308903936/vid/avc1/1920x1080/abmsOMWC8JZST3c5.mp4?tag=21"
+                    }
+                  ]
+                },
+                "media_results": {
+                  "result": {
+                    "media_key": "13_1942889520308903936"
+                  }
+                }
+              }
+            ]
+          },
+          "favorite_count": 1616,
+          "favorited": false,
+          "full_text": "「#リスアニ！LIVE 2025 ナツヤスミ」\n7/12(土)・13(日)＠パシフィコ横浜にて開催🍉☀\n\n両日ご出演の\n【#いきづらい部！】\n（@ikizulive_staff）\nからメッセージが届きました✨\n\nチケット一般発売中！\n▼お申込み\nhttps://t.co/wB4Ol02n3f https://t.co/4Mjai0n0S4",
+          "is_quote_status": false,
+          "lang": "ja",
+          "possibly_sensitive": false,
+          "possibly_sensitive_editable": true,
+          "quote_count": 34,
+          "reply_count": 4,
+          "retweet_count": 563,
+          "retweeted": false,
+          "user_id_str": "122258517",
+          "id_str": "1943263944858308646"
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 40,
+      "bookmarked": false,
+      "created_at": "Fri Jul 11 08:50:40 +0000 2025",
+      "conversation_id_str": "1943593772220346521",
+      "display_text_range": [
+        0,
+        130
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              1,
+              6
+            ],
+            "text": "リスアニ"
+          },
+          {
+            "indices": [
+              46,
+              53
+            ],
+            "text": "いきづらい部"
+          },
+          {
+            "indices": [
+              123,
+              130
+            ],
+            "text": "イキヅライブ"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/2atJGiPssF",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1943593772220346521/photo/1",
+            "id_str": "1943592233154060288",
+            "indices": [
+              131,
+              154
+            ],
+            "media_key": "3_1943592233154060288",
+            "media_url_https": "https://pbs.twimg.com/media/GvkG1qVbIAAPTGc.jpg",
+            "type": "photo",
+            "url": "https://t.co/2atJGiPssF",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 799,
+                    "y": 558,
+                    "h": 51,
+                    "w": 51
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 641,
+                    "y": 448,
+                    "h": 40,
+                    "w": 40
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 363,
+                    "y": 253,
+                    "h": 23,
+                    "w": 23
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 799,
+                    "y": 558,
+                    "h": 51,
+                    "w": 51
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 809,
+                "w": 1494,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 650,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 368,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 809,
+              "width": 1494,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1445,
+                  "h": 809
+                },
+                {
+                  "x": 6,
+                  "y": 0,
+                  "w": 809,
+                  "h": 809
+                },
+                {
+                  "x": 55,
+                  "y": 0,
+                  "w": 710,
+                  "h": 809
+                },
+                {
+                  "x": 208,
+                  "y": 0,
+                  "w": 405,
+                  "h": 809
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1494,
+                  "h": 809
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1943592233154060288"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "lisani.jp/live-special/",
+            "expanded_url": "https://www.lisani.jp/live-special/",
+            "url": "https://t.co/uh6Pzty64h",
+            "indices": [
+              71,
+              94
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/2atJGiPssF",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1943593772220346521/photo/1",
+            "id_str": "1943592233154060288",
+            "indices": [
+              131,
+              154
+            ],
+            "media_key": "3_1943592233154060288",
+            "media_url_https": "https://pbs.twimg.com/media/GvkG1qVbIAAPTGc.jpg",
+            "type": "photo",
+            "url": "https://t.co/2atJGiPssF",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 799,
+                    "y": 558,
+                    "h": 51,
+                    "w": 51
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 641,
+                    "y": 448,
+                    "h": 40,
+                    "w": 40
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 363,
+                    "y": 253,
+                    "h": 23,
+                    "w": 23
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 799,
+                    "y": 558,
+                    "h": 51,
+                    "w": 51
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 809,
+                "w": 1494,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 650,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 368,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 809,
+              "width": 1494,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1445,
+                  "h": 809
+                },
+                {
+                  "x": 6,
+                  "y": 0,
+                  "w": 809,
+                  "h": 809
+                },
+                {
+                  "x": 55,
+                  "y": 0,
+                  "w": 710,
+                  "h": 809
+                },
+                {
+                  "x": 208,
+                  "y": 0,
+                  "w": 405,
+                  "h": 809
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1494,
+                  "h": 809
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1943592233154060288"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 1196,
+      "favorited": false,
+      "full_text": "「#リスアニ！LIVE 2025 ナツヤスミ」\n7/12(土)・13(日)＠パシフィコ横浜\n#いきづらい部 がオープニングアクトで両日出演✨\nhttps://t.co/uh6Pzty64h\n\nいよいよ明日から‼\nいきづらい部！頑張ります！！🍉\n\n#イキヅライブ https://t.co/2atJGiPssF",
+      "is_quote_status": true,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 55,
+      "quoted_status_id_str": "1943263944858308646",
+      "quoted_status_permalink": {
+        "url": "https://t.co/FDJMvDK8Mc",
+        "expanded": "https://twitter.com/Lis_Ani/status/1943263944858308646",
+        "display": "x.com/Lis_Ani/status…"
+      },
+      "reply_count": 6,
+      "retweet_count": 377,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1943593772220346521"
+    }
+  },
+  "created_at": "2025-07-11T08:50:40Z"
+}
