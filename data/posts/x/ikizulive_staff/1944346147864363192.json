@@ -1,0 +1,1017 @@
+{
+  "id": "1944346147864363192",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1944346147864363192",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 63019,
+            "friends_count": 11,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1008,
+            "media_count": 144,
+            "normal_followers_count": 63019,
+            "pinned_tweet_ids_str": [
+              "1943233783035236743"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 184,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/kmrV1EMebS",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "player_url",
+            "value": {
+              "string_value": "https://www.youtube.com/embed/5mBMYUhyhys",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_image_large",
+            "value": {
+              "image_value": {
+                "height": 320,
+                "width": 569,
+                "url": "https://pbs.twimg.com/card_img/1941310473556897792/aZoAtQZS?format=jpg&name=800x320_1"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "player_image",
+            "value": {
+              "image_value": {
+                "height": 158,
+                "width": 280,
+                "url": "https://pbs.twimg.com/card_img/1941310473556897792/aZoAtQZS?format=jpg&name=280x280"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "app_star_rating",
+            "value": {
+              "string_value": "4.68064",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "いきづらい部！のメンバーがサテライトごとに歌ってみた動画を撮影することに…！7月21日までに本動画のコメント欄でリクエストしていただいた楽曲の中から歌ってみた動画を制作します♪ラブライブ！シリーズの楽曲に限らず、どんな楽曲でもリクエストOK！ジャンル・年代は問いません！皆さんのご参加お待ちしています！======...",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_width",
+            "value": {
+              "string_value": "1280",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "www.youtube.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_is_free",
+            "value": {
+              "string_value": "true",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "10228272",
+                "path": []
+              }
+            }
+          },
+          {
+            "key": "player_image_original",
+            "value": {
+              "image_value": {
+                "height": 720,
+                "width": 1280,
+                "url": "https://pbs.twimg.com/card_img/1941310473556897792/aZoAtQZS?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "app_num_ratings",
+            "value": {
+              "string_value": "42,672,569",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_amount",
+            "value": {
+              "string_value": "0.0",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_height",
+            "value": {
+              "string_value": "720",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "youtube.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_name",
+            "value": {
+              "string_value": "YouTube",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_image_small",
+            "value": {
+              "image_value": {
+                "height": 81,
+                "width": 144,
+                "url": "https://pbs.twimg.com/card_img/1941310473556897792/aZoAtQZS?format=jpg&name=144x144"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "いきづらい部！歌ってみたリクエスト募集！【イキヅライブ！ LOVELIVE! BLUEBIRD】",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_currency",
+            "value": {
+              "string_value": "USD",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/kmrV1EMebS",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 226,
+                      "green": 220,
+                      "red": 209
+                    },
+                    "percentage": 47.95
+                  },
+                  {
+                    "rgb": {
+                      "blue": 194,
+                      "green": 169,
+                      "red": 118
+                    },
+                    "percentage": 11.09
+                  },
+                  {
+                    "rgb": {
+                      "blue": 180,
+                      "green": 187,
+                      "red": 227
+                    },
+                    "percentage": 10.38
+                  },
+                  {
+                    "rgb": {
+                      "blue": 173,
+                      "green": 204,
+                      "red": 222
+                    },
+                    "percentage": 3.88
+                  },
+                  {
+                    "rgb": {
+                      "blue": 43,
+                      "green": 123,
+                      "red": 247
+                    },
+                    "percentage": 2.12
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "player_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 720,
+                "width": 1280,
+                "url": "https://pbs.twimg.com/card_img/1941310473556897792/aZoAtQZS?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "player",
+        "url": "https://t.co/kmrV1EMebS",
+        "user_refs_results": [
+          {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxMDIyODI3Mg==",
+              "rest_id": "10228272",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1915882040353837056/VbhPvueq_normal.jpg"
+              },
+              "core": {
+                "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+                "name": "YouTube",
+                "screen_name": "YouTube"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "like & subscribe",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "yt.be/3NDRz",
+                        "expanded_url": "https://yt.be/3NDRz",
+                        "url": "https://t.co/WBV5E1Rh1y",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 6060,
+                "followers_count": 78994660,
+                "friends_count": 1147,
+                "has_custom_timelines": true,
+                "is_translator": false,
+                "listed_count": 1,
+                "media_count": 16017,
+                "normal_followers_count": 78994660,
+                "pinned_tweet_ids_str": [],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1745416765",
+                "profile_interstitial_type": "",
+                "statuses_count": 60069,
+                "translator_type": "regular",
+                "url": "https://t.co/WBV5E1Rh1y",
+                "want_retweets": false,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": "San Bruno, CA"
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Square",
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": false
+              },
+              "tipjar_settings": {},
+              "verification": {
+                "verified": false,
+                "verified_type": "Business"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1944346147864363192"
+      ],
+      "editable_until_msecs": "1752406820000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "26204",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "quoted_status_result": {
+      "result": {
+        "__typename": "Tweet",
+        "rest_id": "1938193468444287136",
+        "core": {
+          "user_results": {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+              "rest_id": "1911282293341356032",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+              },
+              "core": {
+                "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+                "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                "screen_name": "ikizulive_staff"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "youtube.com/@IKIZULIVE",
+                        "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                        "url": "https://t.co/uAo8WcIDpK",
+                        "indices": [
+                          44,
+                          67
+                        ]
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "lovelive-anime.jp/lovehigh/",
+                        "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                        "url": "https://t.co/mfWPigBwKr",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 0,
+                "followers_count": 63019,
+                "friends_count": 11,
+                "has_custom_timelines": false,
+                "is_translator": false,
+                "listed_count": 1008,
+                "media_count": 144,
+                "normal_followers_count": 63019,
+                "pinned_tweet_ids_str": [
+                  "1943233783035236743"
+                ],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+                "profile_interstitial_type": "",
+                "statuses_count": 184,
+                "translator_type": "none",
+                "url": "https://t.co/mfWPigBwKr",
+                "want_retweets": true,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": "インターネット"
+              },
+              "media_permissions": {
+                "can_media_tag": false
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Circle",
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": true
+              },
+              "tipjar_settings": {},
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "unmention_data": {},
+        "edit_control": {
+          "edit_tweet_ids": [
+            "1938193468444287136"
+          ],
+          "editable_until_msecs": "1750939907000",
+          "is_edit_eligible": true,
+          "edits_remaining": "5"
+        },
+        "is_translatable": true,
+        "views": {
+          "count": "299770",
+          "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "note_tweet": {
+          "is_expandable": true,
+          "note_tweet_results": {
+            "result": {
+              "id": "Tm90ZVR3ZWV0OjE5MzgxOTM0NjgyOTMyODM4NDA=",
+              "text": "✨ユーザー参加企画✨\n\n╭━━━━━━━━╮\n⠀⠀⠀⠀歌ってみた\n⠀⠀リクエスト募集！\n╰━━━∨━━━━╯\n\n#いきづらい部 がサテライトごとに\n「歌ってみた動画」を撮ることに！\n\n👇\nhttps://t.co/1aDMt8QBP4\n\n↑上記動画の【コメント欄】でリクエストしてください！\nジャンル・年代問わずどんな楽曲でもリクエストOK！\n募集は7/21(月)23:59まで！皆さまのご参加お待ちしています💓\n#イキヅライブ",
+              "entity_set": {
+                "hashtags": [
+                  {
+                    "indices": [
+                      56,
+                      63
+                    ],
+                    "text": "いきづらい部"
+                  },
+                  {
+                    "indices": [
+                      207,
+                      214
+                    ],
+                    "text": "イキヅライブ"
+                  }
+                ],
+                "symbols": [],
+                "urls": [
+                  {
+                    "display_url": "youtu.be/5mBMYUhyhys",
+                    "expanded_url": "https://youtu.be/5mBMYUhyhys",
+                    "url": "https://t.co/1aDMt8QBP4",
+                    "indices": [
+                      94,
+                      117
+                    ]
+                  }
+                ],
+                "user_mentions": []
+              },
+              "richtext": {
+                "richtext_tags": []
+              },
+              "media": {
+                "inline_media": []
+              }
+            }
+          }
+        },
+        "legacy": {
+          "bookmark_count": 156,
+          "bookmarked": false,
+          "created_at": "Thu Jun 26 11:11:47 +0000 2025",
+          "conversation_id_str": "1938193468444287136",
+          "display_text_range": [
+            0,
+            145
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  56,
+                  63
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "media": [
+              {
+                "display_url": "pic.x.com/v5f2Vh9HgV",
+                "expanded_url": "https://x.com/ikizulive_staff/status/1938193468444287136/photo/1",
+                "id_str": "1938189234764132352",
+                "indices": [
+                  146,
+                  169
+                ],
+                "media_key": "3_1938189234764132352",
+                "media_url_https": "https://pbs.twimg.com/media/GuXU1w2aMAA6-Bg.jpg",
+                "type": "photo",
+                "url": "https://t.co/v5f2Vh9HgV",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "x": 751,
+                        "y": 836,
+                        "h": 75,
+                        "w": 75
+                      },
+                      {
+                        "x": 733,
+                        "y": 746,
+                        "h": 108,
+                        "w": 108
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "x": 469,
+                        "y": 522,
+                        "h": 46,
+                        "w": 46
+                      },
+                      {
+                        "x": 458,
+                        "y": 466,
+                        "h": 67,
+                        "w": 67
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "x": 265,
+                        "y": 296,
+                        "h": 26,
+                        "w": 26
+                      },
+                      {
+                        "x": 259,
+                        "y": 264,
+                        "h": 38,
+                        "w": 38
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "x": 751,
+                        "y": 836,
+                        "h": 75,
+                        "w": 75
+                      },
+                      {
+                        "x": 733,
+                        "y": 746,
+                        "h": 108,
+                        "w": 108
+                      }
+                    ]
+                  }
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1080,
+                    "w": 1920,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "h": 675,
+                    "w": 1200,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "h": 383,
+                    "w": 680,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "w": 150,
+                    "resize": "crop"
+                  }
+                },
+                "original_info": {
+                  "height": 1080,
+                  "width": 1920,
+                  "focus_rects": [
+                    {
+                      "x": 0,
+                      "y": 5,
+                      "w": 1920,
+                      "h": 1075
+                    },
+                    {
+                      "x": 756,
+                      "y": 0,
+                      "w": 1080,
+                      "h": 1080
+                    },
+                    {
+                      "x": 823,
+                      "y": 0,
+                      "w": 947,
+                      "h": 1080
+                    },
+                    {
+                      "x": 1026,
+                      "y": 0,
+                      "w": 540,
+                      "h": 1080
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 1920,
+                      "h": 1080
+                    }
+                  ]
+                },
+                "allow_download_status": {
+                  "allow_download": true
+                },
+                "media_results": {
+                  "result": {
+                    "media_key": "3_1938189234764132352"
+                  }
+                }
+              }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [
+              {
+                "display_url": "youtu.be/5mBMYUhyhys",
+                "expanded_url": "https://youtu.be/5mBMYUhyhys",
+                "url": "https://t.co/nAHXrmcl6F",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/v5f2Vh9HgV",
+                "expanded_url": "https://x.com/ikizulive_staff/status/1938193468444287136/photo/1",
+                "id_str": "1938189234764132352",
+                "indices": [
+                  146,
+                  169
+                ],
+                "media_key": "3_1938189234764132352",
+                "media_url_https": "https://pbs.twimg.com/media/GuXU1w2aMAA6-Bg.jpg",
+                "type": "photo",
+                "url": "https://t.co/v5f2Vh9HgV",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "x": 751,
+                        "y": 836,
+                        "h": 75,
+                        "w": 75
+                      },
+                      {
+                        "x": 733,
+                        "y": 746,
+                        "h": 108,
+                        "w": 108
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "x": 469,
+                        "y": 522,
+                        "h": 46,
+                        "w": 46
+                      },
+                      {
+                        "x": 458,
+                        "y": 466,
+                        "h": 67,
+                        "w": 67
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "x": 265,
+                        "y": 296,
+                        "h": 26,
+                        "w": 26
+                      },
+                      {
+                        "x": 259,
+                        "y": 264,
+                        "h": 38,
+                        "w": 38
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "x": 751,
+                        "y": 836,
+                        "h": 75,
+                        "w": 75
+                      },
+                      {
+                        "x": 733,
+                        "y": 746,
+                        "h": 108,
+                        "w": 108
+                      }
+                    ]
+                  }
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1080,
+                    "w": 1920,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "h": 675,
+                    "w": 1200,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "h": 383,
+                    "w": 680,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "w": 150,
+                    "resize": "crop"
+                  }
+                },
+                "original_info": {
+                  "height": 1080,
+                  "width": 1920,
+                  "focus_rects": [
+                    {
+                      "x": 0,
+                      "y": 5,
+                      "w": 1920,
+                      "h": 1075
+                    },
+                    {
+                      "x": 756,
+                      "y": 0,
+                      "w": 1080,
+                      "h": 1080
+                    },
+                    {
+                      "x": 823,
+                      "y": 0,
+                      "w": 947,
+                      "h": 1080
+                    },
+                    {
+                      "x": 1026,
+                      "y": 0,
+                      "w": 540,
+                      "h": 1080
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 1920,
+                      "h": 1080
+                    }
+                  ]
+                },
+                "allow_download_status": {
+                  "allow_download": true
+                },
+                "media_results": {
+                  "result": {
+                    "media_key": "3_1938189234764132352"
+                  }
+                }
+              }
+            ]
+          },
+          "favorite_count": 2584,
+          "favorited": false,
+          "full_text": "✨ユーザー参加企画✨\n\n╭━━━━━━━━╮\n⠀⠀⠀⠀歌ってみた\n⠀⠀リクエスト募集！\n╰━━━∨━━━━╯\n\n#いきづらい部 がサテライトごとに\n「歌ってみた動画」を撮ることに！\n\n👇\nhttps://t.co/nAHXrmcl6F\n\n↑上記動画の【コメント欄】でリクエストしてください！ https://t.co/v5f2Vh9HgV",
+          "is_quote_status": false,
+          "lang": "ja",
+          "possibly_sensitive": false,
+          "possibly_sensitive_editable": true,
+          "quote_count": 166,
+          "reply_count": 11,
+          "retweet_count": 1006,
+          "retweeted": false,
+          "user_id_str": "1911282293341356032",
+          "id_str": "1938193468444287136"
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 20,
+      "bookmarked": false,
+      "created_at": "Sun Jul 13 10:40:20 +0000 2025",
+      "conversation_id_str": "1944346147864363192",
+      "display_text_range": [
+        0,
+        161
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              1,
+              6
+            ],
+            "text": "リスアニ"
+          },
+          {
+            "indices": [
+              67,
+              74
+            ],
+            "text": "いきづらい部"
+          },
+          {
+            "indices": [
+              154,
+              161
+            ],
+            "text": "イキヅライブ"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/5mBMYUhyhys",
+            "expanded_url": "http://youtu.be/5mBMYUhyhys",
+            "url": "https://t.co/kmrV1EMebS",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 317,
+      "favorited": false,
+      "full_text": "「#リスアニ！LIVE 2025 ナツヤスミ」のMC中に\nご紹介させていただいたユーザー参加企画はこちら👇\n￣￣￣＼(￣￣￣￣￣￣\n🎥#いきづらい部 歌ってみた リクエスト募集！\nhttps://t.co/kmrV1EMebS\n\n【📅7/21(月)23:59まで】\nみなさまのご参加をお待ちしております‼\n\n#イキヅライブ",
+      "is_quote_status": true,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "quoted_status_id_str": "1938193468444287136",
+      "quoted_status_permalink": {
+        "url": "https://t.co/8JwO1aNImA",
+        "expanded": "https://twitter.com/ikizulive_staff/status/1938193468444287136",
+        "display": "x.com/ikizulive_staf…"
+      },
+      "reply_count": 1,
+      "retweet_count": 94,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1944346147864363192"
+    }
+  },
+  "created_at": "2025-07-13T10:40:20Z"
+}
