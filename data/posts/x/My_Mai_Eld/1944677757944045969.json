@@ -1,0 +1,288 @@
+{
+  "id": "1944677757944045969",
+  "username": "My_Mai_Eld",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1944677757944045969",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NjE1OTcyNDAxOTA5NzYw",
+          "rest_id": "1906615972401909760",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 07:54:14 +0000 2025",
+            "name": "麻布麻衣@いきづらい部！",
+            "screen_name": "My_Mai_Eld"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=1",
+                    "url": "https://t.co/qAvuWYUDvf",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 24989,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1111,
+            "media_count": 0,
+            "normal_followers_count": 24989,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906615972401909760/1747048417",
+            "profile_interstitial_type": "",
+            "statuses_count": 74,
+            "translator_type": "none",
+            "url": "https://t.co/qAvuWYUDvf",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": false
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1944677757944045969"
+      ],
+      "editable_until_msecs": "1752485882000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "738",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "quoted_status_result": {
+      "result": {
+        "__typename": "Tweet",
+        "rest_id": "1944653841418625098",
+        "core": {
+          "user_results": {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxODg0MTE2MDM5Nzk1MTk1OTA0",
+              "rest_id": "1884116039795195904",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png"
+              },
+              "core": {
+                "created_at": "Tue Jan 28 05:48:09 +0000 2025",
+                "name": "高橋ポルカ@いきづらい部！",
+                "screen_name": "polka_lion"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                        "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=0",
+                        "url": "https://t.co/wP9kBCucrb",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 0,
+                "followers_count": 27718,
+                "friends_count": 9,
+                "has_custom_timelines": false,
+                "is_translator": false,
+                "listed_count": 1127,
+                "media_count": 0,
+                "normal_followers_count": 27718,
+                "pinned_tweet_ids_str": [],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884116039795195904/1747048408",
+                "profile_interstitial_type": "",
+                "statuses_count": 103,
+                "translator_type": "none",
+                "url": "https://t.co/wP9kBCucrb",
+                "want_retweets": false,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": ""
+              },
+              "media_permissions": {
+                "can_media_tag": false
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Circle",
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": false
+              },
+              "tipjar_settings": {},
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "unmention_data": {},
+        "edit_control": {
+          "edit_tweet_ids": [
+            "1944653841418625098"
+          ],
+          "editable_until_msecs": "1752480180000",
+          "is_edit_eligible": true,
+          "edits_remaining": "5"
+        },
+        "is_translatable": true,
+        "views": {
+          "count": "21935",
+          "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "legacy": {
+          "bookmark_count": 16,
+          "bookmarked": false,
+          "created_at": "Mon Jul 14 07:03:00 +0000 2025",
+          "conversation_id_str": "1944653841418625098",
+          "display_text_range": [
+            0,
+            87
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  80,
+                  87
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": []
+          },
+          "favorite_count": 567,
+          "favorited": false,
+          "full_text": "うーむ。。。\n\nこれだったら\n前に秋葉原にあるって噂に聞いた\n学校設備としての専用劇場っていうのを。。。\n\n目指してみるのもいいかもしれないな⛩✨\nムフフ🌻\n\n#いきづらい部",
+          "is_quote_status": false,
+          "lang": "ja",
+          "quote_count": 13,
+          "reply_count": 0,
+          "retweet_count": 137,
+          "retweeted": false,
+          "user_id_str": "1884116039795195904",
+          "id_str": "1944653841418625098"
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 1,
+      "bookmarked": false,
+      "created_at": "Mon Jul 14 08:38:02 +0000 2025",
+      "conversation_id_str": "1944677757944045969",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              16,
+              23
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 67,
+      "favorited": false,
+      "full_text": "寝言禁止\n眠い子は早く寝る！\n\n#いきづらい部",
+      "is_quote_status": true,
+      "lang": "ja",
+      "quote_count": 2,
+      "quoted_status_id_str": "1944653841418625098",
+      "quoted_status_permalink": {
+        "url": "https://t.co/BaU74p6C1P",
+        "expanded": "https://twitter.com/polka_lion/status/1944653841418625098",
+        "display": "x.com/polka_lion/sta…"
+      },
+      "reply_count": 0,
+      "retweet_count": 17,
+      "retweeted": false,
+      "user_id_str": "1906615972401909760",
+      "id_str": "1944677757944045969"
+    }
+  },
+  "created_at": "2025-07-14T08:38:02Z"
+}
