@@ -1,0 +1,1132 @@
+{
+  "id": "1945053002361892977",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1945053002361892977",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 63123,
+            "friends_count": 11,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1014,
+            "media_count": 149,
+            "normal_followers_count": 63123,
+            "pinned_tweet_ids_str": [
+              "1944592692002111875"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 191,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1945053002361892977"
+      ],
+      "editable_until_msecs": "1752575347757",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": false,
+    "views": {
+      "state": "Enabled"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Tue Jul 15 09:29:07 +0000 2025",
+      "conversation_id_str": "1945053002361892977",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "260157526",
+            "name": "U-NEXT",
+            "screen_name": "watch_UNEXT",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @watch_UNEXT: U-NEXT MUSIC FES Day3\nLoveLive! Series EXPO 2025 STAGE ~Right now!~\n7日前抽選の申し込みがスタート！ \n\n📅8/14(木) 17:00開演予定\n📍大阪・関西万博 EXPOアリー…",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1945053002361892977",
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1944592693092610556",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoyNjAxNTc1MjY=",
+                "rest_id": "260157526",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1914116299757948928/PgCpHxdL_normal.jpg"
+                },
+                "core": {
+                  "created_at": "Thu Mar 03 09:26:40 +0000 2011",
+                  "name": "U-NEXT",
+                  "screen_name": "watch_UNEXT"
+                },
+                "dm_permissions": {
+                  "can_dm": true
+                },
+                "has_graduated_access": true,
+                "is_blue_verified": false,
+                "legacy": {
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "映像作品や電子書籍の情報をお届けします💁‍♀️\nお問い合わせ▶https://t.co/lkYTrhRmsx\n#UNEXT",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "help.unext.jp",
+                          "expanded_url": "http://help.unext.jp",
+                          "url": "https://t.co/lkYTrhRmsx",
+                          "indices": [
+                            31,
+                            54
+                          ]
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "video.unext.jp",
+                          "expanded_url": "http://video.unext.jp/",
+                          "url": "https://t.co/cuMMUz2HxW",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 9411,
+                  "followers_count": 638251,
+                  "friends_count": 108,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 1360,
+                  "media_count": 91190,
+                  "normal_followers_count": 638251,
+                  "pinned_tweet_ids_str": [
+                    "1939623020831912196"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/260157526/1749705101",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 173676,
+                  "translator_type": "none",
+                  "url": "https://t.co/cuMMUz2HxW",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": "日本"
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "parody_commentary_fan_label": "None",
+                "profile_image_shape": "Square",
+                "professional": {
+                  "rest_id": "1460813795585306624",
+                  "professional_type": "Business",
+                  "category": [
+                    {
+                      "id": 15,
+                      "name": "엔터테인먼트 & 레크리에이션",
+                      "icon_name": "IconBriefcaseStroke"
+                    }
+                  ]
+                },
+                "privacy": {
+                  "protected": false
+                },
+                "relationship_perspectives": {
+                  "following": false
+                },
+                "tipjar_settings": {},
+                "verification": {
+                  "verified": false,
+                  "verified_type": "Business"
+                }
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1944592693092610556"
+            ],
+            "editable_until_msecs": "1752465601000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+          },
+          "is_translatable": true,
+          "views": {
+            "count": "110988",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "note_tweet": {
+            "is_expandable": true,
+            "note_tweet_results": {
+              "result": {
+                "id": "Tm90ZVR3ZWV0OjE5NDQ1OTI2OTI3MjM1MzU4NzM=",
+                "text": "U-NEXT MUSIC FES Day3\nLoveLive! Series EXPO 2025 STAGE ~Right now!~\n7日前抽選の申し込みがスタート！ \n\n📅8/14(木) 17:00開演予定\n📍大阪・関西万博 EXPOアリーナ「Matsuri」\n👤出演アーティスト\n「ラブライブ！」μ’s/ 「ラブライブ！サンシャイン!!」Aqours/  「ラブライブ！虹ヶ咲学園スクールアイドル同好会」虹ヶ咲学園スクールアイドル同好会/ 「ラブライブ！スーパースター!!」Liella!/ 「ラブライブ！蓮ノ空女学院スクールアイドルクラブ」蓮ノ空女学院スクールアイドルクラブ/ 「イキヅライブ！ LOVELIVE! BLUEBIRD」いきづらい部！🆕\n\n⌛申込〆切8/6(水)まで\n\nオープニングアクトに「いきづらい部！」の出演も新たに決定🎉\n\n詳しくは特設サイトをご確認ください💁‍♀️\nhttps://t.co/oKTVTwhrgW",
+                "entity_set": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "urls": [
+                    {
+                      "display_url": "video.unext.jp/lp/unext_music…",
+                      "expanded_url": "https://video.unext.jp/lp/unext_music_fes",
+                      "url": "https://t.co/oKTVTwhrgW",
+                      "indices": [
+                        399,
+                        422
+                      ]
+                    }
+                  ],
+                  "user_mentions": []
+                },
+                "richtext": {
+                  "richtext_tags": [
+                    {
+                      "from_index": 0,
+                      "to_index": 21,
+                      "richtext_types": [
+                        "Bold"
+                      ]
+                    },
+                    {
+                      "from_index": 22,
+                      "to_index": 67,
+                      "richtext_types": [
+                        "Bold"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "legacy": {
+            "bookmark_count": 41,
+            "bookmarked": false,
+            "created_at": "Mon Jul 14 03:00:01 +0000 2025",
+            "conversation_id_str": "1944592693092610556",
+            "display_text_range": [
+              0,
+              179
+            ],
+            "entities": {
+              "hashtags": [],
+              "media": [
+                {
+                  "display_url": "pic.x.com/VK1Shzh6YS",
+                  "expanded_url": "https://x.com/watch_UNEXT/status/1944592693092610556/photo/1",
+                  "id_str": "1943526664559837184",
+                  "indices": [
+                    180,
+                    203
+                  ],
+                  "media_key": "3_1943526664559837184",
+                  "media_url_https": "https://pbs.twimg.com/media/GvjLNESWwAA1Rsh.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/VK1Shzh6YS",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 672,
+                          "y": 213,
+                          "h": 45,
+                          "w": 45
+                        },
+                        {
+                          "x": 92,
+                          "y": 210,
+                          "h": 52,
+                          "w": 52
+                        },
+                        {
+                          "x": 665,
+                          "y": 492,
+                          "h": 58,
+                          "w": 58
+                        },
+                        {
+                          "x": 321,
+                          "y": 498,
+                          "h": 46,
+                          "w": 46
+                        },
+                        {
+                          "x": 58,
+                          "y": 498,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 476,
+                          "y": 509,
+                          "h": 49,
+                          "w": 49
+                        },
+                        {
+                          "x": 866,
+                          "y": 485,
+                          "h": 53,
+                          "w": 53
+                        },
+                        {
+                          "x": 207,
+                          "y": 498,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 1016,
+                          "y": 495,
+                          "h": 58,
+                          "w": 58
+                        },
+                        {
+                          "x": 277,
+                          "y": 220,
+                          "h": 62,
+                          "w": 62
+                        },
+                        {
+                          "x": 996,
+                          "y": 667,
+                          "h": 59,
+                          "w": 59
+                        },
+                        {
+                          "x": 461,
+                          "y": 239,
+                          "h": 104,
+                          "w": 104
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 672,
+                          "y": 213,
+                          "h": 45,
+                          "w": 45
+                        },
+                        {
+                          "x": 92,
+                          "y": 210,
+                          "h": 52,
+                          "w": 52
+                        },
+                        {
+                          "x": 665,
+                          "y": 492,
+                          "h": 58,
+                          "w": 58
+                        },
+                        {
+                          "x": 321,
+                          "y": 498,
+                          "h": 46,
+                          "w": 46
+                        },
+                        {
+                          "x": 58,
+                          "y": 498,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 476,
+                          "y": 509,
+                          "h": 49,
+                          "w": 49
+                        },
+                        {
+                          "x": 866,
+                          "y": 485,
+                          "h": 53,
+                          "w": 53
+                        },
+                        {
+                          "x": 207,
+                          "y": 498,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 1016,
+                          "y": 495,
+                          "h": 58,
+                          "w": 58
+                        },
+                        {
+                          "x": 277,
+                          "y": 220,
+                          "h": 62,
+                          "w": 62
+                        },
+                        {
+                          "x": 996,
+                          "y": 667,
+                          "h": 59,
+                          "w": 59
+                        },
+                        {
+                          "x": 461,
+                          "y": 239,
+                          "h": 104,
+                          "w": 104
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 380,
+                          "y": 120,
+                          "h": 25,
+                          "w": 25
+                        },
+                        {
+                          "x": 52,
+                          "y": 118,
+                          "h": 29,
+                          "w": 29
+                        },
+                        {
+                          "x": 376,
+                          "y": 278,
+                          "h": 32,
+                          "w": 32
+                        },
+                        {
+                          "x": 181,
+                          "y": 282,
+                          "h": 26,
+                          "w": 26
+                        },
+                        {
+                          "x": 32,
+                          "y": 282,
+                          "h": 28,
+                          "w": 28
+                        },
+                        {
+                          "x": 269,
+                          "y": 288,
+                          "h": 27,
+                          "w": 27
+                        },
+                        {
+                          "x": 490,
+                          "y": 274,
+                          "h": 30,
+                          "w": 30
+                        },
+                        {
+                          "x": 117,
+                          "y": 282,
+                          "h": 28,
+                          "w": 28
+                        },
+                        {
+                          "x": 575,
+                          "y": 280,
+                          "h": 32,
+                          "w": 32
+                        },
+                        {
+                          "x": 156,
+                          "y": 124,
+                          "h": 35,
+                          "w": 35
+                        },
+                        {
+                          "x": 564,
+                          "y": 377,
+                          "h": 33,
+                          "w": 33
+                        },
+                        {
+                          "x": 261,
+                          "y": 135,
+                          "h": 58,
+                          "w": 58
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 672,
+                          "y": 213,
+                          "h": 45,
+                          "w": 45
+                        },
+                        {
+                          "x": 92,
+                          "y": 210,
+                          "h": 52,
+                          "w": 52
+                        },
+                        {
+                          "x": 665,
+                          "y": 492,
+                          "h": 58,
+                          "w": 58
+                        },
+                        {
+                          "x": 321,
+                          "y": 498,
+                          "h": 46,
+                          "w": 46
+                        },
+                        {
+                          "x": 58,
+                          "y": 498,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 476,
+                          "y": 509,
+                          "h": 49,
+                          "w": 49
+                        },
+                        {
+                          "x": 866,
+                          "y": 485,
+                          "h": 53,
+                          "w": 53
+                        },
+                        {
+                          "x": 207,
+                          "y": 498,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 1016,
+                          "y": 495,
+                          "h": 58,
+                          "w": 58
+                        },
+                        {
+                          "x": 277,
+                          "y": 220,
+                          "h": 62,
+                          "w": 62
+                        },
+                        {
+                          "x": 996,
+                          "y": 667,
+                          "h": 59,
+                          "w": 59
+                        },
+                        {
+                          "x": 461,
+                          "y": 239,
+                          "h": 104,
+                          "w": 104
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1200,
+                      "w": 1169,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "w": 1169,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 680,
+                      "w": 662,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1200,
+                    "width": 1169,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 545,
+                        "w": 1169,
+                        "h": 655
+                      },
+                      {
+                        "x": 0,
+                        "y": 31,
+                        "w": 1169,
+                        "h": 1169
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1053,
+                        "h": 1200
+                      },
+                      {
+                        "x": 149,
+                        "y": 0,
+                        "w": 600,
+                        "h": 1200
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1169,
+                        "h": 1200
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1943526664559837184"
+                    }
+                  }
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "display_url": "pic.x.com/VK1Shzh6YS",
+                  "expanded_url": "https://x.com/watch_UNEXT/status/1944592693092610556/photo/1",
+                  "id_str": "1943526664559837184",
+                  "indices": [
+                    180,
+                    203
+                  ],
+                  "media_key": "3_1943526664559837184",
+                  "media_url_https": "https://pbs.twimg.com/media/GvjLNESWwAA1Rsh.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/VK1Shzh6YS",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 672,
+                          "y": 213,
+                          "h": 45,
+                          "w": 45
+                        },
+                        {
+                          "x": 92,
+                          "y": 210,
+                          "h": 52,
+                          "w": 52
+                        },
+                        {
+                          "x": 665,
+                          "y": 492,
+                          "h": 58,
+                          "w": 58
+                        },
+                        {
+                          "x": 321,
+                          "y": 498,
+                          "h": 46,
+                          "w": 46
+                        },
+                        {
+                          "x": 58,
+                          "y": 498,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 476,
+                          "y": 509,
+                          "h": 49,
+                          "w": 49
+                        },
+                        {
+                          "x": 866,
+                          "y": 485,
+                          "h": 53,
+                          "w": 53
+                        },
+                        {
+                          "x": 207,
+                          "y": 498,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 1016,
+                          "y": 495,
+                          "h": 58,
+                          "w": 58
+                        },
+                        {
+                          "x": 277,
+                          "y": 220,
+                          "h": 62,
+                          "w": 62
+                        },
+                        {
+                          "x": 996,
+                          "y": 667,
+                          "h": 59,
+                          "w": 59
+                        },
+                        {
+                          "x": 461,
+                          "y": 239,
+                          "h": 104,
+                          "w": 104
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 672,
+                          "y": 213,
+                          "h": 45,
+                          "w": 45
+                        },
+                        {
+                          "x": 92,
+                          "y": 210,
+                          "h": 52,
+                          "w": 52
+                        },
+                        {
+                          "x": 665,
+                          "y": 492,
+                          "h": 58,
+                          "w": 58
+                        },
+                        {
+                          "x": 321,
+                          "y": 498,
+                          "h": 46,
+                          "w": 46
+                        },
+                        {
+                          "x": 58,
+                          "y": 498,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 476,
+                          "y": 509,
+                          "h": 49,
+                          "w": 49
+                        },
+                        {
+                          "x": 866,
+                          "y": 485,
+                          "h": 53,
+                          "w": 53
+                        },
+                        {
+                          "x": 207,
+                          "y": 498,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 1016,
+                          "y": 495,
+                          "h": 58,
+                          "w": 58
+                        },
+                        {
+                          "x": 277,
+                          "y": 220,
+                          "h": 62,
+                          "w": 62
+                        },
+                        {
+                          "x": 996,
+                          "y": 667,
+                          "h": 59,
+                          "w": 59
+                        },
+                        {
+                          "x": 461,
+                          "y": 239,
+                          "h": 104,
+                          "w": 104
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 380,
+                          "y": 120,
+                          "h": 25,
+                          "w": 25
+                        },
+                        {
+                          "x": 52,
+                          "y": 118,
+                          "h": 29,
+                          "w": 29
+                        },
+                        {
+                          "x": 376,
+                          "y": 278,
+                          "h": 32,
+                          "w": 32
+                        },
+                        {
+                          "x": 181,
+                          "y": 282,
+                          "h": 26,
+                          "w": 26
+                        },
+                        {
+                          "x": 32,
+                          "y": 282,
+                          "h": 28,
+                          "w": 28
+                        },
+                        {
+                          "x": 269,
+                          "y": 288,
+                          "h": 27,
+                          "w": 27
+                        },
+                        {
+                          "x": 490,
+                          "y": 274,
+                          "h": 30,
+                          "w": 30
+                        },
+                        {
+                          "x": 117,
+                          "y": 282,
+                          "h": 28,
+                          "w": 28
+                        },
+                        {
+                          "x": 575,
+                          "y": 280,
+                          "h": 32,
+                          "w": 32
+                        },
+                        {
+                          "x": 156,
+                          "y": 124,
+                          "h": 35,
+                          "w": 35
+                        },
+                        {
+                          "x": 564,
+                          "y": 377,
+                          "h": 33,
+                          "w": 33
+                        },
+                        {
+                          "x": 261,
+                          "y": 135,
+                          "h": 58,
+                          "w": 58
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 672,
+                          "y": 213,
+                          "h": 45,
+                          "w": 45
+                        },
+                        {
+                          "x": 92,
+                          "y": 210,
+                          "h": 52,
+                          "w": 52
+                        },
+                        {
+                          "x": 665,
+                          "y": 492,
+                          "h": 58,
+                          "w": 58
+                        },
+                        {
+                          "x": 321,
+                          "y": 498,
+                          "h": 46,
+                          "w": 46
+                        },
+                        {
+                          "x": 58,
+                          "y": 498,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 476,
+                          "y": 509,
+                          "h": 49,
+                          "w": 49
+                        },
+                        {
+                          "x": 866,
+                          "y": 485,
+                          "h": 53,
+                          "w": 53
+                        },
+                        {
+                          "x": 207,
+                          "y": 498,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 1016,
+                          "y": 495,
+                          "h": 58,
+                          "w": 58
+                        },
+                        {
+                          "x": 277,
+                          "y": 220,
+                          "h": 62,
+                          "w": 62
+                        },
+                        {
+                          "x": 996,
+                          "y": 667,
+                          "h": 59,
+                          "w": 59
+                        },
+                        {
+                          "x": 461,
+                          "y": 239,
+                          "h": 104,
+                          "w": 104
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1200,
+                      "w": 1169,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "w": 1169,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 680,
+                      "w": 662,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1200,
+                    "width": 1169,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 545,
+                        "w": 1169,
+                        "h": 655
+                      },
+                      {
+                        "x": 0,
+                        "y": 31,
+                        "w": 1169,
+                        "h": 1169
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1053,
+                        "h": 1200
+                      },
+                      {
+                        "x": 149,
+                        "y": 0,
+                        "w": 600,
+                        "h": 1200
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1169,
+                        "h": 1200
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1943526664559837184"
+                    }
+                  }
+                }
+              ]
+            },
+            "favorite_count": 448,
+            "favorited": false,
+            "full_text": "U-NEXT MUSIC FES Day3\nLoveLive! Series EXPO 2025 STAGE ~Right now!~\n7日前抽選の申し込みがスタート！ \n\n📅8/14(木) 17:00開演予定\n📍大阪・関西万博 EXPOアリーナ「Matsuri」\n👤出演アーティスト\n「ラブライブ！」μ’s/ 「ラブライブ！サンシャイン!!」Aqours/ https://t.co/VK1Shzh6YS",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 12,
+            "reply_count": 0,
+            "retweet_count": 147,
+            "retweeted": false,
+            "user_id_str": "260157526",
+            "id_str": "1944592693092610556"
+          }
+        }
+      }
+    }
+  },
+  "created_at": "2025-07-15T09:29:07Z"
+}
