@@ -1,0 +1,37 @@
+{
+  "id": "1945785548666437689",
+  "translated_text": "🎥#살기힘든부🎥\n\n#이키즈라이브! 첫 굿즈를\n#타카하시 폴카 역 아야사키 호논\n#카나자와 미라클 역 사카노 아이하\n#야마다 미도리 역 코토모리 호노카\n가 개봉해 보았습니다✨\n\n▼　▼　▼\nhttps://t.co/WUyzvBQ3Vd\n\n굿즈 상세 정보는 여기!\nhttps://t.co/UMiq9M6Tdg https://t.co/2l0bbnsKmR",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n\n사람 이름 읽는 법:\n高橋ポルカ -> 타카하시 폴카\n麻布麻衣 -> 아자부 마이\n五桐 玲 -> 고토 아키라\n駒形花火 -> 코마가타 하나비\n金澤奇跡 -> 카나자와 미라클\n調布のりこ -> 쵸후 노리코\n春宮ゆくり -> 하루미야 유쿠리\n此花輝夜 -> 코노하나 오로라\n山田真緑 -> 야마다 미도리\n佐々木翔音 -> 사사키 시온\n",
+  "raw_data": {
+    "id": "WtF4aM7jK8b5jrEPwrzi0As",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "🎥#살기힘든부🎥\n\n#이키즈라이브! 첫 굿즈를\n#타카하시 폴카 역 아야사키 호논\n#카나자와 미라클 역 사카노 아이하\n#야마다 미도리 역 코토모리 호노카\n가 개봉해 보았습니다✨\n\n▼　▼　▼\nhttps://t.co/WUyzvBQ3Vd\n\n굿즈 상세 정보는 여기!\nhttps://t.co/UMiq9M6Tdg https://t.co/2l0bbnsKmR",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1752748378,
+    "model": "gemini-2.5-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 131,
+      "prompt_tokens": 393,
+      "total_tokens": 1281,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}
