@@ -1,0 +1,292 @@
+{
+  "id": "1945770483158536575",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1945770483158536575",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 63185,
+            "friends_count": 11,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1017,
+            "media_count": 152,
+            "normal_followers_count": 63185,
+            "pinned_tweet_ids_str": [
+              "1944592692002111875"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 197,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "card": {
+      "rest_id": "card://1945770482370007040",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "choice1_label",
+            "value": {
+              "string_value": "①麻衣の得意な「PC」",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "choice2_label",
+            "value": {
+              "string_value": "②マイマイだから「カタツムリ」",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "end_datetime_utc",
+            "value": {
+              "string_value": "2025-07-20T15:00:08Z",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "counts_are_final",
+            "value": {
+              "boolean_value": false,
+              "type": "BOOLEAN"
+            }
+          },
+          {
+            "key": "choice2_count",
+            "value": {
+              "string_value": "319",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "choice1_count",
+            "value": {
+              "string_value": "542",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "choice4_label",
+            "value": {
+              "string_value": "④美しい「幾何学模様」",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "last_updated_datetime_utc",
+            "value": {
+              "string_value": "2025-07-17T09:31:00Z",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "duration_minutes",
+            "value": {
+              "string_value": "4680",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "choice3_count",
+            "value": {
+              "string_value": "143",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "choice4_count",
+            "value": {
+              "string_value": "201",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "choice3_label",
+            "value": {
+              "string_value": "③数学で使われる「記号」",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "api",
+            "value": {
+              "string_value": "capi://passthrough/1",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://twitter.com",
+              "type": "STRING"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "poll4choice_text_only",
+        "url": "card://1945770482370007040",
+        "user_refs_results": []
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1945770483158536575"
+      ],
+      "editable_until_msecs": "1752746408000",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "8328",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 6,
+      "bookmarked": false,
+      "created_at": "Thu Jul 17 09:00:08 +0000 2025",
+      "conversation_id_str": "1945770483158536575",
+      "display_text_range": [
+        0,
+        129
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              114,
+              121
+            ],
+            "text": "イキヅライブ"
+          },
+          {
+            "indices": [
+              122,
+              129
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1906615972401909760",
+            "name": "麻布麻衣@いきづらい部！",
+            "screen_name": "My_Mai_Eld",
+            "indices": [
+              11,
+              22
+            ]
+          }
+        ]
+      },
+      "favorite_count": 178,
+      "favorited": false,
+      "full_text": "／\n   麻布麻衣( @My_Mai_Eld )\nメンバーアイコン決選投票！！\n＼\n\n皆様からのアイディアをもとに\n決戦投票に上がった候補はこちらの4つ！\n\n投票は7月20日(日)23:59まで♪\nご参加お待ちしております💕\n\n#イキヅライブ #いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 10,
+      "reply_count": 1,
+      "retweet_count": 96,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1945770483158536575"
+    }
+  },
+  "created_at": "2025-07-17T09:00:08Z"
+}
