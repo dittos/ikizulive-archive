@@ -1,0 +1,397 @@
+{
+  "id": "1946202735319339220",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1946202735319339220",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/GwJMtZvXQAI0QOC.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1946202735319339220",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 63307,
+            "friends_count": 11,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1028,
+            "media_count": 157,
+            "normal_followers_count": 63307,
+            "pinned_tweet_ids_str": [
+              "1945770483158536575"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 204,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1946202735319339220"
+      ],
+      "editable_until_msecs": "1752849465000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "4979",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5NDYyMDI3MzUyMzk3MjkxNTI=",
+          "text": "／\n#いきづらい部\nフリーライブ＆特典お渡し会💳\nin 池袋・サンシャインシティ噴水広場\n＼\n\nご参加いただいた皆様、ありがとうございました‼\n\nいきづらい部はまだ始まったばかり！\nいつでもどこからでも参加できます！気になったところからご参加ください‼\n\n本日のイベントの様子も一部、後日アップいたしますので、是非チェックしてください♪\n\n#イキヅライブ",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  2,
+                  9
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  170,
+                  177
+                ],
+                "text": "イキヅライブ"
+              }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 13,
+      "bookmarked": false,
+      "created_at": "Fri Jul 18 13:37:45 +0000 2025",
+      "conversation_id_str": "1946202735319339220",
+      "display_text_range": [
+        0,
+        126
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              2,
+              9
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/feaAHQhFfx",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1946202735319339220/photo/1",
+            "id_str": "1946202331864842242",
+            "indices": [
+              127,
+              150
+            ],
+            "media_key": "3_1946202331864842242",
+            "media_url_https": "https://pbs.twimg.com/media/GwJMtZvXQAI0QOC.jpg",
+            "type": "photo",
+            "url": "https://t.co/feaAHQhFfx",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 667,
+                "w": 774,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 667,
+                "w": 774,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 586,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 667,
+              "width": 774,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 112,
+                  "w": 774,
+                  "h": 433
+                },
+                {
+                  "x": 54,
+                  "y": 0,
+                  "w": 667,
+                  "h": 667
+                },
+                {
+                  "x": 95,
+                  "y": 0,
+                  "w": 585,
+                  "h": 667
+                },
+                {
+                  "x": 220,
+                  "y": 0,
+                  "w": 334,
+                  "h": 667
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 774,
+                  "h": 667
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1946202331864842242"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/feaAHQhFfx",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1946202735319339220/photo/1",
+            "id_str": "1946202331864842242",
+            "indices": [
+              127,
+              150
+            ],
+            "media_key": "3_1946202331864842242",
+            "media_url_https": "https://pbs.twimg.com/media/GwJMtZvXQAI0QOC.jpg",
+            "type": "photo",
+            "url": "https://t.co/feaAHQhFfx",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 667,
+                "w": 774,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 667,
+                "w": 774,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 586,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 667,
+              "width": 774,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 112,
+                  "w": 774,
+                  "h": 433
+                },
+                {
+                  "x": 54,
+                  "y": 0,
+                  "w": 667,
+                  "h": 667
+                },
+                {
+                  "x": 95,
+                  "y": 0,
+                  "w": 585,
+                  "h": 667
+                },
+                {
+                  "x": 220,
+                  "y": 0,
+                  "w": 334,
+                  "h": 667
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 774,
+                  "h": 667
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1946202331864842242"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 528,
+      "favorited": false,
+      "full_text": "／\n#いきづらい部\nフリーライブ＆特典お渡し会💳\nin 池袋・サンシャインシティ噴水広場\n＼\n\nご参加いただいた皆様、ありがとうございました‼\n\nいきづらい部はまだ始まったばかり！\nいつでもどこからでも参加できます！気になったところからご参加ください‼ https://t.co/feaAHQhFfx",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 19,
+      "reply_count": 3,
+      "retweet_count": 258,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1946202735319339220"
+    }
+  },
+  "created_at": "2025-07-18T13:37:45Z"
+}
