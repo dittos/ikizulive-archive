@@ -1,0 +1,143 @@
+{
+  "id": "1948297349870358686",
+  "username": "Noricco_U",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1948297349870358686",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NTc3MTc3Mjc1MTU0NDMy",
+          "rest_id": "1906577177275154432",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 05:20:02 +0000 2025",
+            "name": "調布のりこ@いきづらい部！",
+            "screen_name": "Noricco_U"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=5",
+                    "url": "https://t.co/4OB3Z2Z9EX",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 23037,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1107,
+            "media_count": 0,
+            "normal_followers_count": 23037,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906577177275154432/1747048505",
+            "profile_interstitial_type": "",
+            "statuses_count": 62,
+            "translator_type": "none",
+            "url": "https://t.co/4OB3Z2Z9EX",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": false
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1948297349870358686"
+      ],
+      "editable_until_msecs": "1753348860000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "3300",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 2,
+      "bookmarked": false,
+      "created_at": "Thu Jul 24 08:21:00 +0000 2025",
+      "conversation_id_str": "1948297349870358686",
+      "display_text_range": [
+        0,
+        72
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              65,
+              72
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 194,
+      "favorited": false,
+      "full_text": "こういう合否の結果って…🎤\n\n登録サイトに結果が出る場合と\nメールで個別にお知らせが届く場合\n\nどっちがより怖いですか？\n私は…\n#いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 37,
+      "retweeted": false,
+      "user_id_str": "1906577177275154432",
+      "id_str": "1948297349870358686"
+    }
+  },
+  "created_at": "2025-07-24T08:21:00Z"
+}
