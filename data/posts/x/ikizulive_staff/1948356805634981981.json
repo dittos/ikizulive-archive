@@ -1,0 +1,302 @@
+{
+  "id": "1948356805634981981",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1948356805634981981",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 63586,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1045,
+            "media_count": 176,
+            "normal_followers_count": 63586,
+            "pinned_tweet_ids_str": [
+              "1948307206866112980"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 229,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1948356805634981981"
+      ],
+      "editable_until_msecs": "1753363035839",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "state": "Enabled"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Thu Jul 24 12:17:15 +0000 2025",
+      "conversation_id_str": "1948356805634981981",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1946103370005245952",
+            "name": "みんなのイキヅライブ！ユーザー参加企画専用アカウント【集まれ！L高生】",
+            "screen_name": "lld_ikizulive",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @lld_ikizulive: LoveLive!Days編集部が運営する『イキヅライブ！ LOVELIVE! BLUEBIRD』のユーザー参加企画専用エックスアカウントが誕生しました🎉\n『イキヅライブ！』の様々なことを皆さんと決める、ユーザー参加企画をどんどん発信してい…",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 298,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1948356805634981981",
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1948337410393387391",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxOTQ2MTAzMzcwMDA1MjQ1OTUy",
+                "rest_id": "1946103370005245952",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1948336820879790080/HR6vjuti_normal.png"
+                },
+                "core": {
+                  "created_at": "Fri Jul 18 07:03:34 +0000 2025",
+                  "name": "みんなのイキヅライブ！ユーザー参加企画専用アカウント【集まれ！L高生】",
+                  "screen_name": "lld_ikizulive"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "has_graduated_access": false,
+                "is_blue_verified": false,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "『イキヅライブ！ LOVELIVE! BLUEBIRD』ユーザー参加企画専用アカウント。様々な企画を発信します♪\nあなたも新しい「みんなで叶える物語」に参加してみませんか？\n運営→LoveLive!Days編集部\nイキヅライブ！公式→ @ikizulive_staff\nいきづらい部にやってほしいこと→ #やってみたい部",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "lovelive-anime.jp/lovehigh/",
+                          "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                          "url": "https://t.co/gs0xjbmSBN",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 0,
+                  "followers_count": 1510,
+                  "friends_count": 12,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 188,
+                  "media_count": 0,
+                  "normal_followers_count": 1510,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946103370005245952/1753354673",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 1,
+                  "translator_type": "none",
+                  "url": "https://t.co/gs0xjbmSBN",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": ""
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "parody_commentary_fan_label": "None",
+                "profile_image_shape": "Circle",
+                "privacy": {
+                  "protected": false
+                },
+                "relationship_perspectives": {
+                  "following": false
+                },
+                "tipjar_settings": {},
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1948337410393387391"
+            ],
+            "editable_until_msecs": "1753358411000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+          },
+          "is_translatable": true,
+          "views": {
+            "count": "26422",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "legacy": {
+            "bookmark_count": 12,
+            "bookmarked": false,
+            "created_at": "Thu Jul 24 11:00:11 +0000 2025",
+            "conversation_id_str": "1948337410393387391",
+            "display_text_range": [
+              0,
+              156
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    141,
+                    148
+                  ],
+                  "text": "イキヅライブ"
+                },
+                {
+                  "indices": [
+                    149,
+                    156
+                  ],
+                  "text": "いきづらい部"
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+            },
+            "favorite_count": 467,
+            "favorited": false,
+            "full_text": "LoveLive!Days編集部が運営する『イキヅライブ！ LOVELIVE! BLUEBIRD』のユーザー参加企画専用エックスアカウントが誕生しました🎉\n『イキヅライブ！』の様々なことを皆さんと決める、ユーザー参加企画をどんどん発信していきます。\nフォローよろしくお願いします♪\n#イキヅライブ #いきづらい部",
+            "is_quote_status": false,
+            "lang": "ja",
+            "quote_count": 8,
+            "reply_count": 0,
+            "retweet_count": 298,
+            "retweeted": false,
+            "user_id_str": "1946103370005245952",
+            "id_str": "1948337410393387391"
+          }
+        }
+      }
+    }
+  },
+  "created_at": "2025-07-24T12:17:15Z"
+}
