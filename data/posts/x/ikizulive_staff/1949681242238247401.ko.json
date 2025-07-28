@@ -1,0 +1,37 @@
+{
+  "id": "1949681242238247401",
+  "translated_text": "＼🎊결과 발표🎊／\n\n아키라의 멤버 아이콘 아이디어는\n\"자전거\"로 결정!🎉\n\n보내주신 아이디어를 바탕으로 새로 디자인합니다!\n많은 참여 감사했습니다💕\n\n현재는 하나비의 아이콘 아이디어를 모집 중!\n잘 부탁드립니다✨\n\n#이키즈라이브 #살기힘든부",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n\n사람 이름 읽는 법:\n高橋ポルカ -> 타카하시 폴카\n麻布麻衣 -> 아자부 마이\n五桐 玲 -> 고토 아키라\n駒形花火 -> 코마가타 하나비\n金澤奇跡 -> 카나자와 미라클\n調布のりこ -> 쵸후 노리코\n春宮ゆくり -> 하루미야 유쿠리\n此花輝夜 -> 코노하나 오로라\n山田真緑 -> 야마다 미도리\n佐々木翔音 -> 사사키 시온\n",
+  "raw_data": {
+    "id": "ZfiGaN8euoXUyQ_PmbHAAw",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "＼🎊결과 발표🎊／\n\n아키라의 멤버 아이콘 아이디어는\n\"자전거\"로 결정!🎉\n\n보내주신 아이디어를 바탕으로 새로 디자인합니다!\n많은 참여 감사했습니다💕\n\n현재는 하나비의 아이콘 아이디어를 모집 중!\n잘 부탁드립니다✨\n\n#이키즈라이브 #살기힘든부",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1753675877,
+    "model": "gemini-2.5-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 79,
+      "prompt_tokens": 321,
+      "total_tokens": 1558,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}
