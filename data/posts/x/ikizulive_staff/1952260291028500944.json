@@ -1,0 +1,973 @@
+{
+  "id": "1952260291028500944",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1952260291028500944",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 63725,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1054,
+            "media_count": 203,
+            "normal_followers_count": 63725,
+            "pinned_tweet_ids_str": [
+              "1952202838945505525"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 266,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1952260291028500944"
+      ],
+      "editable_until_msecs": "1754293699280",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "state": "Enabled"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Mon Aug 04 06:48:19 +0000 2025",
+      "conversation_id_str": "1952260291028500944",
+      "display_text_range": [
+        0,
+        144
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              18,
+              27
+            ],
+            "text": "オーイシヤンタン"
+          },
+          {
+            "indices": [
+              45,
+              53
+            ],
+            "text": "Youtube"
+          },
+          {
+            "indices": [
+              78,
+              85
+            ],
+            "text": "イキヅライブ"
+          },
+          {
+            "indices": [
+              107,
+              112
+            ],
+            "text": "天沢朱音"
+          },
+          {
+            "indices": [
+              116,
+              122
+            ],
+            "text": "小戸森穂花"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1435582650245206032",
+            "name": "オーイシマサヨシのヤングタウン",
+            "screen_name": "yantan_oishi",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @yantan_oishi: #オーイシヤンタン \n\n次回8/4(月)17:30~ #Youtube で収録&amp;音声生配信📣\n\nゲストは・・・\n#イキヅライブ ！ LOVELIVE! BLUEBIRD\n#天沢朱音 さん #小戸森穂花 さんがご登場です👏(@ikizulive…",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 242,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1952260291028500944",
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1949803181724062169",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxNDM1NTgyNjUwMjQ1MjA2MDMy",
+                "rest_id": "1435582650245206032",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1472797864284024835/ALCApRu7_normal.jpg"
+                },
+                "core": {
+                  "created_at": "Wed Sep 08 12:36:42 +0000 2021",
+                  "name": "オーイシマサヨシのヤングタウン",
+                  "screen_name": "yantan_oishi"
+                },
+                "dm_permissions": {
+                  "can_dm": true
+                },
+                "has_graduated_access": true,
+                "is_blue_verified": false,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "MBSラジオ1179kHz『オーイシマサヨシのMBSヤングタウン』 公式Twitterです📻アニソンアーティスト・オーイシマサヨシが毎週火曜22:00〜放送中！毎週月曜19:30からはYouTubeアプリで収録の様子をライブ配信します！✉yk@mbs1179.com #オーイシヤンタン #MBSラジオ",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "mbs1179.com/yk/",
+                          "expanded_url": "https://www.mbs1179.com/yk/",
+                          "url": "https://t.co/n4MIXWMicc",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 595,
+                  "followers_count": 17441,
+                  "friends_count": 10,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 52,
+                  "media_count": 1939,
+                  "normal_followers_count": 17441,
+                  "pinned_tweet_ids_str": [
+                    "1949803181724062169"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1435582650245206032/1639980052",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 3106,
+                  "translator_type": "none",
+                  "url": "https://t.co/n4MIXWMicc",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": "MBSラジオ"
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "parody_commentary_fan_label": "None",
+                "profile_image_shape": "Circle",
+                "privacy": {
+                  "protected": false
+                },
+                "relationship_perspectives": {
+                  "following": false
+                },
+                "tipjar_settings": {},
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1949803181724062169"
+            ],
+            "editable_until_msecs": "1753707878000",
+            "is_edit_eligible": false,
+            "edits_remaining": "5"
+          },
+          "is_translatable": true,
+          "views": {
+            "count": "127533",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "legacy": {
+            "bookmark_count": 47,
+            "bookmarked": false,
+            "created_at": "Mon Jul 28 12:04:38 +0000 2025",
+            "conversation_id_str": "1949803181724062169",
+            "display_text_range": [
+              0,
+              203
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    0,
+                    9
+                  ],
+                  "text": "オーイシヤンタン"
+                },
+                {
+                  "indices": [
+                    27,
+                    35
+                  ],
+                  "text": "Youtube"
+                },
+                {
+                  "indices": [
+                    60,
+                    67
+                  ],
+                  "text": "イキヅライブ"
+                },
+                {
+                  "indices": [
+                    89,
+                    94
+                  ],
+                  "text": "天沢朱音"
+                },
+                {
+                  "indices": [
+                    98,
+                    104
+                  ],
+                  "text": "小戸森穂花"
+                }
+              ],
+              "media": [
+                {
+                  "display_url": "pic.x.com/bTuuWzgnH8",
+                  "expanded_url": "https://x.com/yantan_oishi/status/1949803181724062169/photo/1",
+                  "id_str": "1949803175340634112",
+                  "indices": [
+                    204,
+                    227
+                  ],
+                  "media_key": "3_1949803175340634112",
+                  "media_url_https": "https://pbs.twimg.com/media/Gw8XqFAbcAA3IqX.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/bTuuWzgnH8",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 527,
+                          "y": 120,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 720,
+                          "y": 312,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 659,
+                          "y": 107,
+                          "h": 48,
+                          "w": 48
+                        },
+                        {
+                          "x": 766,
+                          "y": 160,
+                          "h": 46,
+                          "w": 46
+                        },
+                        {
+                          "x": 585,
+                          "y": 270,
+                          "h": 51,
+                          "w": 51
+                        },
+                        {
+                          "x": 330,
+                          "y": 380,
+                          "h": 56,
+                          "w": 56
+                        },
+                        {
+                          "x": 473,
+                          "y": 424,
+                          "h": 52,
+                          "w": 52
+                        },
+                        {
+                          "x": 483,
+                          "y": 253,
+                          "h": 55,
+                          "w": 55
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 527,
+                          "y": 120,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 720,
+                          "y": 312,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 659,
+                          "y": 107,
+                          "h": 48,
+                          "w": 48
+                        },
+                        {
+                          "x": 766,
+                          "y": 160,
+                          "h": 46,
+                          "w": 46
+                        },
+                        {
+                          "x": 585,
+                          "y": 270,
+                          "h": 51,
+                          "w": 51
+                        },
+                        {
+                          "x": 330,
+                          "y": 380,
+                          "h": 56,
+                          "w": 56
+                        },
+                        {
+                          "x": 473,
+                          "y": 424,
+                          "h": 52,
+                          "w": 52
+                        },
+                        {
+                          "x": 483,
+                          "y": 253,
+                          "h": 55,
+                          "w": 55
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 298,
+                          "y": 68,
+                          "h": 28,
+                          "w": 28
+                        },
+                        {
+                          "x": 408,
+                          "y": 176,
+                          "h": 28,
+                          "w": 28
+                        },
+                        {
+                          "x": 373,
+                          "y": 60,
+                          "h": 27,
+                          "w": 27
+                        },
+                        {
+                          "x": 434,
+                          "y": 90,
+                          "h": 26,
+                          "w": 26
+                        },
+                        {
+                          "x": 331,
+                          "y": 153,
+                          "h": 28,
+                          "w": 28
+                        },
+                        {
+                          "x": 187,
+                          "y": 215,
+                          "h": 31,
+                          "w": 31
+                        },
+                        {
+                          "x": 268,
+                          "y": 240,
+                          "h": 29,
+                          "w": 29
+                        },
+                        {
+                          "x": 273,
+                          "y": 143,
+                          "h": 31,
+                          "w": 31
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 527,
+                          "y": 120,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 720,
+                          "y": 312,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 659,
+                          "y": 107,
+                          "h": 48,
+                          "w": 48
+                        },
+                        {
+                          "x": 766,
+                          "y": 160,
+                          "h": 46,
+                          "w": 46
+                        },
+                        {
+                          "x": 585,
+                          "y": 270,
+                          "h": 51,
+                          "w": 51
+                        },
+                        {
+                          "x": 330,
+                          "y": 380,
+                          "h": 56,
+                          "w": 56
+                        },
+                        {
+                          "x": 473,
+                          "y": 424,
+                          "h": 52,
+                          "w": 52
+                        },
+                        {
+                          "x": 483,
+                          "y": 253,
+                          "h": 55,
+                          "w": 55
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 800,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 800,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 453,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 800,
+                    "width": 1200,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1200,
+                        "h": 672
+                      },
+                      {
+                        "x": 170,
+                        "y": 0,
+                        "w": 800,
+                        "h": 800
+                      },
+                      {
+                        "x": 219,
+                        "y": 0,
+                        "w": 702,
+                        "h": 800
+                      },
+                      {
+                        "x": 370,
+                        "y": 0,
+                        "w": 400,
+                        "h": 800
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1200,
+                        "h": 800
+                      }
+                    ]
+                  },
+                  "allow_download_status": {
+                    "allow_download": true
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1949803175340634112"
+                    }
+                  }
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [
+                {
+                  "display_url": "youtube.com/@mbs7246",
+                  "expanded_url": "http://youtube.com/@mbs7246",
+                  "url": "https://t.co/v84BxrRR2W",
+                  "indices": [
+                    180,
+                    203
+                  ]
+                }
+              ],
+              "user_mentions": [
+                {
+                  "id_str": "1911282293341356032",
+                  "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                  "screen_name": "ikizulive_staff",
+                  "indices": [
+                    115,
+                    131
+                  ]
+                }
+              ]
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "display_url": "pic.x.com/bTuuWzgnH8",
+                  "expanded_url": "https://x.com/yantan_oishi/status/1949803181724062169/photo/1",
+                  "id_str": "1949803175340634112",
+                  "indices": [
+                    204,
+                    227
+                  ],
+                  "media_key": "3_1949803175340634112",
+                  "media_url_https": "https://pbs.twimg.com/media/Gw8XqFAbcAA3IqX.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/bTuuWzgnH8",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 527,
+                          "y": 120,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 720,
+                          "y": 312,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 659,
+                          "y": 107,
+                          "h": 48,
+                          "w": 48
+                        },
+                        {
+                          "x": 766,
+                          "y": 160,
+                          "h": 46,
+                          "w": 46
+                        },
+                        {
+                          "x": 585,
+                          "y": 270,
+                          "h": 51,
+                          "w": 51
+                        },
+                        {
+                          "x": 330,
+                          "y": 380,
+                          "h": 56,
+                          "w": 56
+                        },
+                        {
+                          "x": 473,
+                          "y": 424,
+                          "h": 52,
+                          "w": 52
+                        },
+                        {
+                          "x": 483,
+                          "y": 253,
+                          "h": 55,
+                          "w": 55
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 527,
+                          "y": 120,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 720,
+                          "y": 312,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 659,
+                          "y": 107,
+                          "h": 48,
+                          "w": 48
+                        },
+                        {
+                          "x": 766,
+                          "y": 160,
+                          "h": 46,
+                          "w": 46
+                        },
+                        {
+                          "x": 585,
+                          "y": 270,
+                          "h": 51,
+                          "w": 51
+                        },
+                        {
+                          "x": 330,
+                          "y": 380,
+                          "h": 56,
+                          "w": 56
+                        },
+                        {
+                          "x": 473,
+                          "y": 424,
+                          "h": 52,
+                          "w": 52
+                        },
+                        {
+                          "x": 483,
+                          "y": 253,
+                          "h": 55,
+                          "w": 55
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 298,
+                          "y": 68,
+                          "h": 28,
+                          "w": 28
+                        },
+                        {
+                          "x": 408,
+                          "y": 176,
+                          "h": 28,
+                          "w": 28
+                        },
+                        {
+                          "x": 373,
+                          "y": 60,
+                          "h": 27,
+                          "w": 27
+                        },
+                        {
+                          "x": 434,
+                          "y": 90,
+                          "h": 26,
+                          "w": 26
+                        },
+                        {
+                          "x": 331,
+                          "y": 153,
+                          "h": 28,
+                          "w": 28
+                        },
+                        {
+                          "x": 187,
+                          "y": 215,
+                          "h": 31,
+                          "w": 31
+                        },
+                        {
+                          "x": 268,
+                          "y": 240,
+                          "h": 29,
+                          "w": 29
+                        },
+                        {
+                          "x": 273,
+                          "y": 143,
+                          "h": 31,
+                          "w": 31
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 527,
+                          "y": 120,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 720,
+                          "y": 312,
+                          "h": 50,
+                          "w": 50
+                        },
+                        {
+                          "x": 659,
+                          "y": 107,
+                          "h": 48,
+                          "w": 48
+                        },
+                        {
+                          "x": 766,
+                          "y": 160,
+                          "h": 46,
+                          "w": 46
+                        },
+                        {
+                          "x": 585,
+                          "y": 270,
+                          "h": 51,
+                          "w": 51
+                        },
+                        {
+                          "x": 330,
+                          "y": 380,
+                          "h": 56,
+                          "w": 56
+                        },
+                        {
+                          "x": 473,
+                          "y": 424,
+                          "h": 52,
+                          "w": 52
+                        },
+                        {
+                          "x": 483,
+                          "y": 253,
+                          "h": 55,
+                          "w": 55
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 800,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 800,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 453,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 800,
+                    "width": 1200,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1200,
+                        "h": 672
+                      },
+                      {
+                        "x": 170,
+                        "y": 0,
+                        "w": 800,
+                        "h": 800
+                      },
+                      {
+                        "x": 219,
+                        "y": 0,
+                        "w": 702,
+                        "h": 800
+                      },
+                      {
+                        "x": 370,
+                        "y": 0,
+                        "w": 400,
+                        "h": 800
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1200,
+                        "h": 800
+                      }
+                    ]
+                  },
+                  "allow_download_status": {
+                    "allow_download": true
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1949803175340634112"
+                    }
+                  }
+                }
+              ]
+            },
+            "favorite_count": 713,
+            "favorited": false,
+            "full_text": "#オーイシヤンタン \n\n次回8/4(月)17:30~ #Youtube で収録&amp;音声生配信📣\n\nゲストは・・・\n#イキヅライブ ！ LOVELIVE! BLUEBIRD\n#天沢朱音 さん #小戸森穂花 さんがご登場です👏(@ikizulive_staff)\n\nメッセージは✉yk@mbs1179.com まで！\n\nOAは8/12(火)22:00~📻\n\nhttps://t.co/v84BxrRR2W https://t.co/bTuuWzgnH8",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 25,
+            "reply_count": 2,
+            "retweet_count": 242,
+            "retweeted": false,
+            "user_id_str": "1435582650245206032",
+            "id_str": "1949803181724062169"
+          }
+        }
+      }
+    }
+  },
+  "created_at": "2025-08-04T06:48:19Z"
+}
