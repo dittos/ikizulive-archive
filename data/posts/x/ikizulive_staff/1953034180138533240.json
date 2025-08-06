@@ -1,0 +1,201 @@
+{
+  "id": "1953034180138533240",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1953034180138533240",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 63712,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1056,
+            "media_count": 213,
+            "normal_followers_count": 63712,
+            "pinned_tweet_ids_str": [
+              "1952202838945505525"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 278,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1953034180138533240"
+      ],
+      "editable_until_msecs": "1754478208000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "14667",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5NTMwMzQxODAwMDg1MjU4MjU=",
+          "text": "🚨⚠️追加情報⚠️🚨\n／\n#いきづらい部\n1st Single「What is my LIFE?」リリースイベント\n【優先観覧後方エリア】追加します✨\n＼\n\n📅8/15(金)@大阪・あべのキューズモール\n🎤フリーライブ＆特典お渡し会💳の追加情報を更新いたしました。\n\n当日は混雑が予想されますので、注意事項をご覧いただきご協力の程よろしくお願いします🙇\nhttps://t.co/GBIPobNzVz\n\n#イキヅライブ",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  13,
+                  20
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  202,
+                  209
+                ],
+                "text": "イキヅライブ"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "lovelive-anime.jp/news/01_4889.h…",
+                "expanded_url": "https://www.lovelive-anime.jp/news/01_4889.html",
+                "url": "https://t.co/GBIPobNzVz",
+                "indices": [
+                  177,
+                  200
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 29,
+      "bookmarked": false,
+      "created_at": "Wed Aug 06 10:03:28 +0000 2025",
+      "conversation_id_str": "1953034180138533240",
+      "display_text_range": [
+        0,
+        132
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              13,
+              20
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 324,
+      "favorited": false,
+      "full_text": "🚨⚠️追加情報⚠️🚨\n／\n#いきづらい部\n1st Single「What is my LIFE?」リリースイベント\n【優先観覧後方エリア】追加します✨\n＼\n\n📅8/15(金)@大阪・あべのキューズモール\n🎤フリーライブ＆特典お渡し会💳の追加情報を更新いたしました。",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 25,
+      "reply_count": 0,
+      "retweet_count": 132,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1953034180138533240"
+    }
+  },
+  "created_at": "2025-08-06T10:03:28Z"
+}
