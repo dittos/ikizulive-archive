@@ -1,0 +1,417 @@
+{
+  "id": "1955224581490520453",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1955224581490520453",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/GyJaYhvbIAAd-Az.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1955224581490520453",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 63778,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1055,
+            "media_count": 223,
+            "normal_followers_count": 63778,
+            "pinned_tweet_ids_str": [
+              "1953380625001730528"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 293,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1955224581490520453"
+      ],
+      "editable_until_msecs": "1755000441000",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "21505",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5NTUyMjQ1ODEzNzcyMzI4OTc=",
+          "text": "╭━━━━━━━━━━━╮\n 　ソロ曲リリックビデオ\n 　　　　　公開‼\n╰━━━━━∨━━━━━╯\n\n【💿10/29(水)発売】\n#いきづらい部 佐々木翔音(CV.涼ノ瀬葵音)\nソロシングルリード曲♪\n「イキタクナイevery day」\nリリックビデオを公開⌚\n\n🎥ご視聴はこちら\nhttps://t.co/kVc6vua9ue\n\n#イキヅライブ",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  66,
+                  73
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  167,
+                  174
+                ],
+                "text": "イキヅライブ"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "youtu.be/gs4E5WAIpWo",
+                "expanded_url": "https://youtu.be/gs4E5WAIpWo",
+                "url": "https://t.co/kVc6vua9ue",
+                "indices": [
+                  142,
+                  165
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 37,
+      "bookmarked": false,
+      "created_at": "Tue Aug 12 11:07:21 +0000 2025",
+      "conversation_id_str": "1955224581490520453",
+      "display_text_range": [
+        0,
+        165
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              66,
+              73
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/h5csckOiOM",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1955224581490520453/photo/1",
+            "id_str": "1955224565652856832",
+            "indices": [
+              166,
+              189
+            ],
+            "media_key": "3_1955224565652856832",
+            "media_url_https": "https://pbs.twimg.com/media/GyJaYhvbIAAd-Az.jpg",
+            "type": "photo",
+            "url": "https://t.co/h5csckOiOM",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 720,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 720,
+              "width": 1280,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 717
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 720,
+                  "h": 720
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 632,
+                  "h": 720
+                },
+                {
+                  "x": 108,
+                  "y": 0,
+                  "w": 360,
+                  "h": 720
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 720
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1955224565652856832"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/gs4E5WAIpWo",
+            "expanded_url": "https://youtu.be/gs4E5WAIpWo",
+            "url": "https://t.co/aGbrEJ0qkP",
+            "indices": [
+              142,
+              165
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/h5csckOiOM",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1955224581490520453/photo/1",
+            "id_str": "1955224565652856832",
+            "indices": [
+              166,
+              189
+            ],
+            "media_key": "3_1955224565652856832",
+            "media_url_https": "https://pbs.twimg.com/media/GyJaYhvbIAAd-Az.jpg",
+            "type": "photo",
+            "url": "https://t.co/h5csckOiOM",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 720,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 720,
+              "width": 1280,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 717
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 720,
+                  "h": 720
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 632,
+                  "h": 720
+                },
+                {
+                  "x": 108,
+                  "y": 0,
+                  "w": 360,
+                  "h": 720
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 720
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1955224565652856832"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 721,
+      "favorited": false,
+      "full_text": "╭━━━━━━━━━━━╮\n 　ソロ曲リリックビデオ\n 　　　　　公開‼\n╰━━━━━∨━━━━━╯\n\n【💿10/29(水)発売】\n#いきづらい部 佐々木翔音(CV.涼ノ瀬葵音)\nソロシングルリード曲♪\n「イキタクナイevery day」\nリリックビデオを公開⌚\n\n🎥ご視聴はこちら\nhttps://t.co/aGbrEJ0qkP https://t.co/h5csckOiOM",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 118,
+      "reply_count": 2,
+      "retweet_count": 500,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1955224581490520453"
+    }
+  },
+  "created_at": "2025-08-12T11:07:21Z"
+}
