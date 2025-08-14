@@ -1,0 +1,399 @@
+{
+  "id": "1955882611810951667",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1955882611810951667",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/GySwnCYbQAAlf1z.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1955882611810951667",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 63827,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1059,
+            "media_count": 226,
+            "normal_followers_count": 63827,
+            "pinned_tweet_ids_str": [
+              "1955826758667919550"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 299,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1955882611810951667"
+      ],
+      "editable_until_msecs": "1755157327000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "18960",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 15,
+      "bookmarked": false,
+      "created_at": "Thu Aug 14 06:42:07 +0000 2025",
+      "conversation_id_str": "1955882611810951667",
+      "display_text_range": [
+        0,
+        198
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              75,
+              82
+            ],
+            "text": "いきづらい部"
+          },
+          {
+            "indices": [
+              153,
+              161
+            ],
+            "text": "大阪・関西万博"
+          },
+          {
+            "indices": [
+              162,
+              171
+            ],
+            "text": "EXPO2025"
+          },
+          {
+            "indices": [
+              172,
+              188
+            ],
+            "text": "UNEXT_MUSIC_FES"
+          },
+          {
+            "indices": [
+              189,
+              198
+            ],
+            "text": "lovelive"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/fUn3RfaEVC",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1955882611810951667/photo/1",
+            "id_str": "1955882322886344704",
+            "indices": [
+              199,
+              222
+            ],
+            "media_key": "3_1955882322886344704",
+            "media_url_https": "https://pbs.twimg.com/media/GySwnCYbQAAlf1z.jpg",
+            "type": "photo",
+            "url": "https://t.co/fUn3RfaEVC",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1108,
+                "w": 1477,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1108,
+              "width": 1477,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 281,
+                  "w": 1477,
+                  "h": 827
+                },
+                {
+                  "x": 369,
+                  "y": 0,
+                  "w": 1108,
+                  "h": 1108
+                },
+                {
+                  "x": 505,
+                  "y": 0,
+                  "w": 972,
+                  "h": 1108
+                },
+                {
+                  "x": 923,
+                  "y": 0,
+                  "w": 554,
+                  "h": 1108
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1477,
+                  "h": 1108
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1955882322886344704"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "lovelive-anime.jp/special/live/l…",
+            "expanded_url": "https://lovelive-anime.jp/special/live/live_detail.php?p=lovelive-expo2025",
+            "url": "https://t.co/aOP2ZRg7qV",
+            "indices": [
+              128,
+              151
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/fUn3RfaEVC",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1955882611810951667/photo/1",
+            "id_str": "1955882322886344704",
+            "indices": [
+              199,
+              222
+            ],
+            "media_key": "3_1955882322886344704",
+            "media_url_https": "https://pbs.twimg.com/media/GySwnCYbQAAlf1z.jpg",
+            "type": "photo",
+            "url": "https://t.co/fUn3RfaEVC",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1108,
+                "w": 1477,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1108,
+              "width": 1477,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 281,
+                  "w": 1477,
+                  "h": 827
+                },
+                {
+                  "x": 369,
+                  "y": 0,
+                  "w": 1108,
+                  "h": 1108
+                },
+                {
+                  "x": 505,
+                  "y": 0,
+                  "w": 972,
+                  "h": 1108
+                },
+                {
+                  "x": 923,
+                  "y": 0,
+                  "w": 554,
+                  "h": 1108
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1477,
+                  "h": 1108
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1955882322886344704"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 908,
+      "favorited": false,
+      "full_text": "💙❤️💙\n2025年大阪・関西万博\nU-NEXT MUSIC FES\nLoveLive! Series EXPO 2025 STAGE\n❤️💙❤️\n\n#いきづらい部！のオープニングアクトは\n開演時間17:00～を予定しています！\nよろしくお願いします💪\n\nhttps://t.co/aOP2ZRg7qV\n\n#大阪・関西万博 #EXPO2025\n#UNEXT_MUSIC_FES #lovelive https://t.co/fUn3RfaEVC",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 13,
+      "reply_count": 4,
+      "retweet_count": 315,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1955882611810951667"
+    }
+  },
+  "created_at": "2025-08-14T06:42:07Z"
+}
