@@ -1,0 +1,1797 @@
+{
+  "id": "1956157082064867588",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1956157082064867588",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 63920,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1062,
+            "media_count": 230,
+            "normal_followers_count": 63920,
+            "pinned_tweet_ids_str": [
+              "1955826758667919550"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 307,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/XIuWb0iGTI",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "photo_image_full_size_large",
+            "value": {
+              "image_value": {
+                "height": 419,
+                "width": 800,
+                "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=800x419"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "image_value": {
+                "height": 147,
+                "width": 280,
+                "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=280x150"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "敗けたって次はある。10人の凸凹ダイアリー、XとYouTubeで展開中！",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "www.lovelive-anime.jp",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "image_value": {
+                "height": 315,
+                "width": 600,
+                "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=600x600"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "width": 386,
+                "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=386x202"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "1911282293341356032",
+                "path": []
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "width": 386,
+                "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=386x202"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_large",
+            "value": {
+              "image_value": {
+                "height": 419,
+                "width": 800,
+                "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=800x419"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "image_value": {
+                "height": 76,
+                "width": 144,
+                "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=144x144"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_original",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "lovelive-anime.jp",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "photo_image_full_size",
+            "value": {
+              "image_value": {
+                "height": 314,
+                "width": 600,
+                "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=600x314"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    },
+                    "percentage": 97.17
+                  },
+                  {
+                    "rgb": {
+                      "blue": 231,
+                      "green": 185,
+                      "red": 69
+                    },
+                    "percentage": 2.83
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "【8月15日】いきづらい部！ 1st Single「What is my LIFE?」発売記念イベント開催決定！@大阪・あべのキューズモール | ニュース | イキヅライブ！ LOVELIVE!...",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    },
+                    "percentage": 97.17
+                  },
+                  {
+                    "rgb": {
+                      "blue": 231,
+                      "green": 185,
+                      "red": 69
+                    },
+                    "percentage": 2.83
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "summary_photo_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image",
+            "value": {
+              "image_value": {
+                "height": 314,
+                "width": 600,
+                "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=600x314"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    },
+                    "percentage": 97.17
+                  },
+                  {
+                    "rgb": {
+                      "blue": 231,
+                      "green": 185,
+                      "red": 69
+                    },
+                    "percentage": 2.83
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "photo_image_full_size_x_large",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/XIuWb0iGTI",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_original",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/XIuWb0iGTI",
+        "user_refs_results": [
+          {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+              "rest_id": "1911282293341356032",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+              },
+              "core": {
+                "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+                "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                "screen_name": "ikizulive_staff"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "youtube.com/@IKIZULIVE",
+                        "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                        "url": "https://t.co/uAo8WcIDpK",
+                        "indices": [
+                          44,
+                          67
+                        ]
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "lovelive-anime.jp/lovehigh/",
+                        "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                        "url": "https://t.co/mfWPigBwKr",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 0,
+                "followers_count": 63920,
+                "friends_count": 12,
+                "has_custom_timelines": false,
+                "is_translator": false,
+                "listed_count": 1062,
+                "media_count": 230,
+                "normal_followers_count": 63920,
+                "pinned_tweet_ids_str": [
+                  "1955826758667919550"
+                ],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+                "profile_interstitial_type": "",
+                "statuses_count": 307,
+                "translator_type": "none",
+                "url": "https://t.co/mfWPigBwKr",
+                "want_retweets": true,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": "インターネット"
+              },
+              "media_permissions": {
+                "can_media_tag": false
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Circle",
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": true
+              },
+              "tipjar_settings": {},
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        ]
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1956157082064867588"
+      ],
+      "editable_until_msecs": "1755222766662",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "state": "Enabled"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Fri Aug 15 00:52:46 +0000 2025",
+      "conversation_id_str": "1956157082064867588",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "lovelive-anime.jp/lovehigh/news/…",
+            "expanded_url": "https://www.lovelive-anime.jp/lovehigh/news/detail.php?p=01_4889",
+            "url": "https://t.co/XIuWb0iGTI",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1911282293341356032",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @ikizulive_staff: ／\nいきづらい部！ 1st Single「What is my LIFE?」発売記念イベント\n@大阪・あべのキューズモール\n＼\n\n明日8月15日(金)開催！\n\n🚨https://t.co/XIuWb0iGTI\n注意事項をご確認いただいた…",
+      "is_quote_status": true,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "quoted_status_id_str": "1948268186161586228",
+      "quoted_status_permalink": {
+        "url": "https://t.co/iEw1llmxy4",
+        "expanded": "https://twitter.com/ikizulive_staff/status/1948268186161586228",
+        "display": "x.com/ikizulive_staf…"
+      },
+      "reply_count": 0,
+      "retweet_count": 312,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1956157082064867588",
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1955982913855742143",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+                "rest_id": "1911282293341356032",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+                },
+                "core": {
+                  "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+                  "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                  "screen_name": "ikizulive_staff"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "youtube.com/@IKIZULIVE",
+                          "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                          "url": "https://t.co/uAo8WcIDpK",
+                          "indices": [
+                            44,
+                            67
+                          ]
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "lovelive-anime.jp/lovehigh/",
+                          "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                          "url": "https://t.co/mfWPigBwKr",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 0,
+                  "followers_count": 63920,
+                  "friends_count": 12,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 1062,
+                  "media_count": 230,
+                  "normal_followers_count": 63920,
+                  "pinned_tweet_ids_str": [
+                    "1955826758667919550"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 307,
+                  "translator_type": "none",
+                  "url": "https://t.co/mfWPigBwKr",
+                  "want_retweets": true,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": "インターネット"
+                },
+                "media_permissions": {
+                  "can_media_tag": false
+                },
+                "parody_commentary_fan_label": "None",
+                "profile_image_shape": "Circle",
+                "privacy": {
+                  "protected": false
+                },
+                "relationship_perspectives": {
+                  "following": true
+                },
+                "tipjar_settings": {},
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "card": {
+            "rest_id": "https://t.co/XIuWb0iGTI",
+            "legacy": {
+              "binding_values": [
+                {
+                  "key": "photo_image_full_size_large",
+                  "value": {
+                    "image_value": {
+                      "height": 419,
+                      "width": 800,
+                      "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=800x419"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image",
+                  "value": {
+                    "image_value": {
+                      "height": 147,
+                      "width": 280,
+                      "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=280x150"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "description",
+                  "value": {
+                    "string_value": "敗けたって次はある。10人の凸凹ダイアリー、XとYouTubeで展開中！",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "domain",
+                  "value": {
+                    "string_value": "www.lovelive-anime.jp",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_large",
+                  "value": {
+                    "image_value": {
+                      "height": 315,
+                      "width": 600,
+                      "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=600x600"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_small",
+                  "value": {
+                    "image_value": {
+                      "height": 202,
+                      "width": 386,
+                      "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=386x202"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_original",
+                  "value": {
+                    "image_value": {
+                      "height": 630,
+                      "width": 1200,
+                      "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=orig"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "site",
+                  "value": {
+                    "scribe_key": "publisher_id",
+                    "type": "USER",
+                    "user_value": {
+                      "id_str": "1911282293341356032",
+                      "path": []
+                    }
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_small",
+                  "value": {
+                    "image_value": {
+                      "height": 202,
+                      "width": 386,
+                      "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=386x202"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_large",
+                  "value": {
+                    "image_value": {
+                      "height": 419,
+                      "width": 800,
+                      "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=800x419"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_small",
+                  "value": {
+                    "image_value": {
+                      "height": 76,
+                      "width": 144,
+                      "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=144x144"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_x_large",
+                  "value": {
+                    "image_value": {
+                      "height": 630,
+                      "width": 1200,
+                      "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=2048x2048_2_exp"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_original",
+                  "value": {
+                    "image_value": {
+                      "height": 630,
+                      "width": 1200,
+                      "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=orig"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "vanity_url",
+                  "value": {
+                    "scribe_key": "vanity_url",
+                    "string_value": "lovelive-anime.jp",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size",
+                  "value": {
+                    "image_value": {
+                      "height": 314,
+                      "width": 600,
+                      "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=600x314"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_color",
+                  "value": {
+                    "image_color_value": {
+                      "palette": [
+                        {
+                          "rgb": {
+                            "blue": 255,
+                            "green": 255,
+                            "red": 255
+                          },
+                          "percentage": 97.17
+                        },
+                        {
+                          "rgb": {
+                            "blue": 231,
+                            "green": 185,
+                            "red": 69
+                          },
+                          "percentage": 2.83
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "title",
+                  "value": {
+                    "string_value": "【8月15日】いきづらい部！ 1st Single「What is my LIFE?」発売記念イベント開催決定！@大阪・あべのキューズモール | ニュース | イキヅライブ！ LOVELIVE!...",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_color",
+                  "value": {
+                    "image_color_value": {
+                      "palette": [
+                        {
+                          "rgb": {
+                            "blue": 255,
+                            "green": 255,
+                            "red": 255
+                          },
+                          "percentage": 97.17
+                        },
+                        {
+                          "rgb": {
+                            "blue": 231,
+                            "green": 185,
+                            "red": 69
+                          },
+                          "percentage": 2.83
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_x_large",
+                  "value": {
+                    "image_value": {
+                      "height": 630,
+                      "width": 1200,
+                      "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=2048x2048_2_exp"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image",
+                  "value": {
+                    "image_value": {
+                      "height": 314,
+                      "width": 600,
+                      "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=600x314"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_color",
+                  "value": {
+                    "image_color_value": {
+                      "palette": [
+                        {
+                          "rgb": {
+                            "blue": 255,
+                            "green": 255,
+                            "red": 255
+                          },
+                          "percentage": 97.17
+                        },
+                        {
+                          "rgb": {
+                            "blue": 231,
+                            "green": 185,
+                            "red": 69
+                          },
+                          "percentage": 2.83
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_x_large",
+                  "value": {
+                    "image_value": {
+                      "height": 630,
+                      "width": 1200,
+                      "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=2048x2048_2_exp"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "card_url",
+                  "value": {
+                    "scribe_key": "card_url",
+                    "string_value": "https://t.co/XIuWb0iGTI",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_original",
+                  "value": {
+                    "image_value": {
+                      "height": 630,
+                      "width": 1200,
+                      "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=orig"
+                    },
+                    "type": "IMAGE"
+                  }
+                }
+              ],
+              "card_platform": {
+                "platform": {
+                  "audience": {
+                    "name": "production"
+                  },
+                  "device": {
+                    "name": "Swift",
+                    "version": "12"
+                  }
+                }
+              },
+              "name": "summary_large_image",
+              "url": "https://t.co/XIuWb0iGTI",
+              "user_refs_results": [
+                {
+                  "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+                    "rest_id": "1911282293341356032",
+                    "affiliates_highlighted_label": {},
+                    "avatar": {
+                      "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+                    },
+                    "core": {
+                      "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+                      "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                      "screen_name": "ikizulive_staff"
+                    },
+                    "dm_permissions": {
+                      "can_dm": false
+                    },
+                    "has_graduated_access": true,
+                    "is_blue_verified": true,
+                    "legacy": {
+                      "default_profile": true,
+                      "default_profile_image": false,
+                      "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+                      "entities": {
+                        "description": {
+                          "urls": [
+                            {
+                              "display_url": "youtube.com/@IKIZULIVE",
+                              "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                              "url": "https://t.co/uAo8WcIDpK",
+                              "indices": [
+                                44,
+                                67
+                              ]
+                            }
+                          ]
+                        },
+                        "url": {
+                          "urls": [
+                            {
+                              "display_url": "lovelive-anime.jp/lovehigh/",
+                              "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                              "url": "https://t.co/mfWPigBwKr",
+                              "indices": [
+                                0,
+                                23
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      "fast_followers_count": 0,
+                      "favourites_count": 0,
+                      "followers_count": 63920,
+                      "friends_count": 12,
+                      "has_custom_timelines": false,
+                      "is_translator": false,
+                      "listed_count": 1062,
+                      "media_count": 230,
+                      "normal_followers_count": 63920,
+                      "pinned_tweet_ids_str": [
+                        "1955826758667919550"
+                      ],
+                      "possibly_sensitive": false,
+                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+                      "profile_interstitial_type": "",
+                      "statuses_count": 307,
+                      "translator_type": "none",
+                      "url": "https://t.co/mfWPigBwKr",
+                      "want_retweets": true,
+                      "withheld_in_countries": []
+                    },
+                    "location": {
+                      "location": "インターネット"
+                    },
+                    "media_permissions": {
+                      "can_media_tag": false
+                    },
+                    "parody_commentary_fan_label": "None",
+                    "profile_image_shape": "Circle",
+                    "privacy": {
+                      "protected": false
+                    },
+                    "relationship_perspectives": {
+                      "following": true
+                    },
+                    "tipjar_settings": {},
+                    "verification": {
+                      "verified": false
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1955982913855742143"
+            ],
+            "editable_until_msecs": "1755181241000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+          },
+          "is_translatable": true,
+          "views": {
+            "count": "110480",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "note_tweet": {
+            "is_expandable": true,
+            "note_tweet_results": {
+              "result": {
+                "id": "Tm90ZVR3ZWV0OjE5NTU5ODI5MTM3NzYwNTAxODE=",
+                "text": "／\nいきづらい部！ 1st Single「What is my LIFE?」発売記念イベント\n@大阪・あべのキューズモール\n＼\n\n明日8月15日(金)開催！\n\n🚨https://t.co/m0npJf4Zlz\n注意事項をご確認いただいたうえで安全にご参加いただけますよう、\nご協力の程お願いいたします。\n\nまた、当日は気温が高く、混雑も予想されますので、体調管理・熱中症対策などをお願いいたします。\n混雑状況に応じて、フリースペースであっても規制をさせていただく可能性がございますので、予めご了承ください。\n\n#イキヅライブ　#いきづらい部",
+                "entity_set": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        255,
+                        262
+                      ],
+                      "text": "イキヅライブ"
+                    },
+                    {
+                      "indices": [
+                        263,
+                        270
+                      ],
+                      "text": "いきづらい部"
+                    }
+                  ],
+                  "symbols": [],
+                  "urls": [
+                    {
+                      "display_url": "lovelive-anime.jp/lovehigh/news/…",
+                      "expanded_url": "https://www.lovelive-anime.jp/lovehigh/news/detail.php?p=01_4889",
+                      "url": "https://t.co/m0npJf4Zlz",
+                      "indices": [
+                        81,
+                        104
+                      ]
+                    }
+                  ],
+                  "user_mentions": []
+                },
+                "richtext": {
+                  "richtext_tags": []
+                },
+                "media": {
+                  "inline_media": []
+                }
+              }
+            }
+          },
+          "quoted_status_result": {
+            "result": {
+              "__typename": "Tweet",
+              "rest_id": "1948268186161586228",
+              "core": {
+                "user_results": {
+                  "result": {
+                    "__typename": "User",
+                    "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+                    "rest_id": "1911282293341356032",
+                    "affiliates_highlighted_label": {},
+                    "avatar": {
+                      "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+                    },
+                    "core": {
+                      "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+                      "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                      "screen_name": "ikizulive_staff"
+                    },
+                    "dm_permissions": {
+                      "can_dm": false
+                    },
+                    "has_graduated_access": true,
+                    "is_blue_verified": true,
+                    "legacy": {
+                      "default_profile": true,
+                      "default_profile_image": false,
+                      "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+                      "entities": {
+                        "description": {
+                          "urls": [
+                            {
+                              "display_url": "youtube.com/@IKIZULIVE",
+                              "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                              "url": "https://t.co/uAo8WcIDpK",
+                              "indices": [
+                                44,
+                                67
+                              ]
+                            }
+                          ]
+                        },
+                        "url": {
+                          "urls": [
+                            {
+                              "display_url": "lovelive-anime.jp/lovehigh/",
+                              "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                              "url": "https://t.co/mfWPigBwKr",
+                              "indices": [
+                                0,
+                                23
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      "fast_followers_count": 0,
+                      "favourites_count": 0,
+                      "followers_count": 63920,
+                      "friends_count": 12,
+                      "has_custom_timelines": false,
+                      "is_translator": false,
+                      "listed_count": 1062,
+                      "media_count": 230,
+                      "normal_followers_count": 63920,
+                      "pinned_tweet_ids_str": [
+                        "1955826758667919550"
+                      ],
+                      "possibly_sensitive": false,
+                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+                      "profile_interstitial_type": "",
+                      "statuses_count": 307,
+                      "translator_type": "none",
+                      "url": "https://t.co/mfWPigBwKr",
+                      "want_retweets": true,
+                      "withheld_in_countries": []
+                    },
+                    "location": {
+                      "location": "インターネット"
+                    },
+                    "media_permissions": {
+                      "can_media_tag": false
+                    },
+                    "parody_commentary_fan_label": "None",
+                    "profile_image_shape": "Circle",
+                    "privacy": {
+                      "protected": false
+                    },
+                    "relationship_perspectives": {
+                      "following": true
+                    },
+                    "tipjar_settings": {},
+                    "verification": {
+                      "verified": false
+                    }
+                  }
+                }
+              },
+              "card": {
+                "rest_id": "https://t.co/XIuWb0iGTI",
+                "legacy": {
+                  "binding_values": [
+                    {
+                      "key": "photo_image_full_size_large",
+                      "value": {
+                        "image_value": {
+                          "height": 419,
+                          "width": 800,
+                          "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=800x419"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image",
+                      "value": {
+                        "image_value": {
+                          "height": 147,
+                          "width": 280,
+                          "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=280x150"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "description",
+                      "value": {
+                        "string_value": "敗けたって次はある。10人の凸凹ダイアリー、XとYouTubeで展開中！",
+                        "type": "STRING"
+                      }
+                    },
+                    {
+                      "key": "domain",
+                      "value": {
+                        "string_value": "www.lovelive-anime.jp",
+                        "type": "STRING"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image_large",
+                      "value": {
+                        "image_value": {
+                          "height": 315,
+                          "width": 600,
+                          "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=600x600"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "summary_photo_image_small",
+                      "value": {
+                        "image_value": {
+                          "height": 202,
+                          "width": 386,
+                          "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=386x202"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image_original",
+                      "value": {
+                        "image_value": {
+                          "height": 630,
+                          "width": 1200,
+                          "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=orig"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "site",
+                      "value": {
+                        "scribe_key": "publisher_id",
+                        "type": "USER",
+                        "user_value": {
+                          "id_str": "1911282293341356032",
+                          "path": []
+                        }
+                      }
+                    },
+                    {
+                      "key": "photo_image_full_size_small",
+                      "value": {
+                        "image_value": {
+                          "height": 202,
+                          "width": 386,
+                          "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=386x202"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "summary_photo_image_large",
+                      "value": {
+                        "image_value": {
+                          "height": 419,
+                          "width": 800,
+                          "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=800x419"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image_small",
+                      "value": {
+                        "image_value": {
+                          "height": 76,
+                          "width": 144,
+                          "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=144x144"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image_x_large",
+                      "value": {
+                        "image_value": {
+                          "height": 630,
+                          "width": 1200,
+                          "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=2048x2048_2_exp"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "photo_image_full_size_original",
+                      "value": {
+                        "image_value": {
+                          "height": 630,
+                          "width": 1200,
+                          "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=orig"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "vanity_url",
+                      "value": {
+                        "scribe_key": "vanity_url",
+                        "string_value": "lovelive-anime.jp",
+                        "type": "STRING"
+                      }
+                    },
+                    {
+                      "key": "photo_image_full_size",
+                      "value": {
+                        "image_value": {
+                          "height": 314,
+                          "width": 600,
+                          "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=600x314"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "thumbnail_image_color",
+                      "value": {
+                        "image_color_value": {
+                          "palette": [
+                            {
+                              "rgb": {
+                                "blue": 255,
+                                "green": 255,
+                                "red": 255
+                              },
+                              "percentage": 97.17
+                            },
+                            {
+                              "rgb": {
+                                "blue": 231,
+                                "green": 185,
+                                "red": 69
+                              },
+                              "percentage": 2.83
+                            }
+                          ]
+                        },
+                        "type": "IMAGE_COLOR"
+                      }
+                    },
+                    {
+                      "key": "title",
+                      "value": {
+                        "string_value": "【8月15日】いきづらい部！ 1st Single「What is my LIFE?」発売記念イベント開催決定！@大阪・あべのキューズモール | ニュース | イキヅライブ！ LOVELIVE!...",
+                        "type": "STRING"
+                      }
+                    },
+                    {
+                      "key": "summary_photo_image_color",
+                      "value": {
+                        "image_color_value": {
+                          "palette": [
+                            {
+                              "rgb": {
+                                "blue": 255,
+                                "green": 255,
+                                "red": 255
+                              },
+                              "percentage": 97.17
+                            },
+                            {
+                              "rgb": {
+                                "blue": 231,
+                                "green": 185,
+                                "red": 69
+                              },
+                              "percentage": 2.83
+                            }
+                          ]
+                        },
+                        "type": "IMAGE_COLOR"
+                      }
+                    },
+                    {
+                      "key": "summary_photo_image_x_large",
+                      "value": {
+                        "image_value": {
+                          "height": 630,
+                          "width": 1200,
+                          "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=2048x2048_2_exp"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "summary_photo_image",
+                      "value": {
+                        "image_value": {
+                          "height": 314,
+                          "width": 600,
+                          "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=600x314"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "photo_image_full_size_color",
+                      "value": {
+                        "image_color_value": {
+                          "palette": [
+                            {
+                              "rgb": {
+                                "blue": 255,
+                                "green": 255,
+                                "red": 255
+                              },
+                              "percentage": 97.17
+                            },
+                            {
+                              "rgb": {
+                                "blue": 231,
+                                "green": 185,
+                                "red": 69
+                              },
+                              "percentage": 2.83
+                            }
+                          ]
+                        },
+                        "type": "IMAGE_COLOR"
+                      }
+                    },
+                    {
+                      "key": "photo_image_full_size_x_large",
+                      "value": {
+                        "image_value": {
+                          "height": 630,
+                          "width": 1200,
+                          "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=2048x2048_2_exp"
+                        },
+                        "type": "IMAGE"
+                      }
+                    },
+                    {
+                      "key": "card_url",
+                      "value": {
+                        "scribe_key": "card_url",
+                        "string_value": "https://t.co/XIuWb0iGTI",
+                        "type": "STRING"
+                      }
+                    },
+                    {
+                      "key": "summary_photo_image_original",
+                      "value": {
+                        "image_value": {
+                          "height": 630,
+                          "width": 1200,
+                          "url": "https://pbs.twimg.com/card_img/1955248086722482176/LT2slTF7?format=png&name=orig"
+                        },
+                        "type": "IMAGE"
+                      }
+                    }
+                  ],
+                  "card_platform": {
+                    "platform": {
+                      "audience": {
+                        "name": "production"
+                      },
+                      "device": {
+                        "name": "Swift",
+                        "version": "12"
+                      }
+                    }
+                  },
+                  "name": "summary_large_image",
+                  "url": "https://t.co/XIuWb0iGTI",
+                  "user_refs_results": [
+                    {
+                      "result": {
+                        "__typename": "User",
+                        "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+                        "rest_id": "1911282293341356032",
+                        "affiliates_highlighted_label": {},
+                        "avatar": {
+                          "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+                        },
+                        "core": {
+                          "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+                          "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                          "screen_name": "ikizulive_staff"
+                        },
+                        "dm_permissions": {
+                          "can_dm": false
+                        },
+                        "has_graduated_access": true,
+                        "is_blue_verified": true,
+                        "legacy": {
+                          "default_profile": true,
+                          "default_profile_image": false,
+                          "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+                          "entities": {
+                            "description": {
+                              "urls": [
+                                {
+                                  "display_url": "youtube.com/@IKIZULIVE",
+                                  "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                                  "url": "https://t.co/uAo8WcIDpK",
+                                  "indices": [
+                                    44,
+                                    67
+                                  ]
+                                }
+                              ]
+                            },
+                            "url": {
+                              "urls": [
+                                {
+                                  "display_url": "lovelive-anime.jp/lovehigh/",
+                                  "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                                  "url": "https://t.co/mfWPigBwKr",
+                                  "indices": [
+                                    0,
+                                    23
+                                  ]
+                                }
+                              ]
+                            }
+                          },
+                          "fast_followers_count": 0,
+                          "favourites_count": 0,
+                          "followers_count": 63920,
+                          "friends_count": 12,
+                          "has_custom_timelines": false,
+                          "is_translator": false,
+                          "listed_count": 1062,
+                          "media_count": 230,
+                          "normal_followers_count": 63920,
+                          "pinned_tweet_ids_str": [
+                            "1955826758667919550"
+                          ],
+                          "possibly_sensitive": false,
+                          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+                          "profile_interstitial_type": "",
+                          "statuses_count": 307,
+                          "translator_type": "none",
+                          "url": "https://t.co/mfWPigBwKr",
+                          "want_retweets": true,
+                          "withheld_in_countries": []
+                        },
+                        "location": {
+                          "location": "インターネット"
+                        },
+                        "media_permissions": {
+                          "can_media_tag": false
+                        },
+                        "parody_commentary_fan_label": "None",
+                        "profile_image_shape": "Circle",
+                        "privacy": {
+                          "protected": false
+                        },
+                        "relationship_perspectives": {
+                          "following": true
+                        },
+                        "tipjar_settings": {},
+                        "verification": {
+                          "verified": false
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "unmention_data": {},
+              "edit_control": {
+                "edit_tweet_ids": [
+                  "1948268186161586228"
+                ],
+                "editable_until_msecs": "1753341907000",
+                "is_edit_eligible": true,
+                "edits_remaining": "5"
+              },
+              "is_translatable": true,
+              "views": {
+                "count": "641322",
+                "state": "EnabledWithCount"
+              },
+              "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+              "note_tweet": {
+                "is_expandable": true,
+                "note_tweet_results": {
+                  "result": {
+                    "id": "Tm90ZVR3ZWV0OjE5NDgyNjgxODYwMzk5MjI2ODg=",
+                    "text": "8月15日(金)開催\nいきづらい部！ 1st Single「What is my LIFE?」発売記念イベント\n@大阪・あべのキューズモール\n\n皆様に安心してイベントをお楽しみいただけるよう、\n警備体制の強化ならびに注意事項を更新いたしました。\nhttps://t.co/m0npJf4Zlz\n\nご参加の方はご一読いただけますよう、\nご協力をお願いいたします。\n\n#イキヅライブ #いきづらい部",
+                    "entity_set": {
+                      "hashtags": [
+                        {
+                          "indices": [
+                            182,
+                            189
+                          ],
+                          "text": "イキヅライブ"
+                        },
+                        {
+                          "indices": [
+                            190,
+                            197
+                          ],
+                          "text": "いきづらい部"
+                        }
+                      ],
+                      "symbols": [],
+                      "urls": [
+                        {
+                          "display_url": "lovelive-anime.jp/lovehigh/news/…",
+                          "expanded_url": "https://www.lovelive-anime.jp/lovehigh/news/detail.php?p=01_4889",
+                          "url": "https://t.co/m0npJf4Zlz",
+                          "indices": [
+                            123,
+                            146
+                          ]
+                        }
+                      ],
+                      "user_mentions": []
+                    },
+                    "richtext": {
+                      "richtext_tags": []
+                    },
+                    "media": {
+                      "inline_media": []
+                    }
+                  }
+                }
+              },
+              "legacy": {
+                "bookmark_count": 367,
+                "bookmarked": false,
+                "created_at": "Thu Jul 24 06:25:07 +0000 2025",
+                "conversation_id_str": "1948268186161586228",
+                "display_text_range": [
+                  0,
+                  166
+                ],
+                "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "timestamps": [],
+                  "urls": [
+                    {
+                      "display_url": "lovelive-anime.jp/lovehigh/news/…",
+                      "expanded_url": "https://www.lovelive-anime.jp/lovehigh/news/detail.php?p=01_4889",
+                      "url": "https://t.co/XIuWb0iGTI",
+                      "indices": [
+                        123,
+                        146
+                      ]
+                    }
+                  ],
+                  "user_mentions": []
+                },
+                "favorite_count": 3849,
+                "favorited": false,
+                "full_text": "8月15日(金)開催\nいきづらい部！ 1st Single「What is my LIFE?」発売記念イベント\n@大阪・あべのキューズモール\n\n皆様に安心してイベントをお楽しみいただけるよう、\n警備体制の強化ならびに注意事項を更新いたしました。\nhttps://t.co/XIuWb0iGTI\n\nご参加の方はご一読いただけますよう、",
+                "is_quote_status": false,
+                "lang": "ja",
+                "possibly_sensitive": false,
+                "possibly_sensitive_editable": true,
+                "quote_count": 565,
+                "reply_count": 44,
+                "retweet_count": 2036,
+                "retweeted": false,
+                "user_id_str": "1911282293341356032",
+                "id_str": "1948268186161586228"
+              }
+            }
+          },
+          "legacy": {
+            "bookmark_count": 40,
+            "bookmarked": false,
+            "created_at": "Thu Aug 14 13:20:41 +0000 2025",
+            "conversation_id_str": "1955982913855742143",
+            "display_text_range": [
+              0,
+              151
+            ],
+            "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [
+                {
+                  "display_url": "lovelive-anime.jp/lovehigh/news/…",
+                  "expanded_url": "https://www.lovelive-anime.jp/lovehigh/news/detail.php?p=01_4889",
+                  "url": "https://t.co/XIuWb0iGTI",
+                  "indices": [
+                    81,
+                    104
+                  ]
+                }
+              ],
+              "user_mentions": []
+            },
+            "favorite_count": 826,
+            "favorited": false,
+            "full_text": "／\nいきづらい部！ 1st Single「What is my LIFE?」発売記念イベント\n@大阪・あべのキューズモール\n＼\n\n明日8月15日(金)開催！\n\n🚨https://t.co/XIuWb0iGTI\n注意事項をご確認いただいたうえで安全にご参加いただけますよう、\nご協力の程お願いいたします。",
+            "is_quote_status": true,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 23,
+            "quoted_status_id_str": "1948268186161586228",
+            "quoted_status_permalink": {
+              "url": "https://t.co/iEw1llmxy4",
+              "expanded": "https://twitter.com/ikizulive_staff/status/1948268186161586228",
+              "display": "x.com/ikizulive_staf…"
+            },
+            "reply_count": 5,
+            "retweet_count": 312,
+            "retweeted": false,
+            "user_id_str": "1911282293341356032",
+            "id_str": "1955982913855742143"
+          }
+        }
+      }
+    }
+  },
+  "created_at": "2025-08-15T00:52:46Z"
+}
