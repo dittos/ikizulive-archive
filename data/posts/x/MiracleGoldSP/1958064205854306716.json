@@ -1,0 +1,143 @@
+{
+  "id": "1958064205854306716",
+  "username": "MiracleGoldSP",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1958064205854306716",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NTc4MDI5MzQzOTE2MDMy",
+          "rest_id": "1906578029343916032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 05:23:27 +0000 2025",
+            "name": "金澤奇跡@いきづらい部！",
+            "screen_name": "MiracleGoldSP"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=4",
+                    "url": "https://t.co/E7067OvLU0",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 21728,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1138,
+            "media_count": 0,
+            "normal_followers_count": 21728,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906578029343916032/1747048423",
+            "profile_interstitial_type": "",
+            "statuses_count": 75,
+            "translator_type": "none",
+            "url": "https://t.co/E7067OvLU0",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": false
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1958064205854306716"
+      ],
+      "editable_until_msecs": "1755677460000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "2539",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 3,
+      "bookmarked": false,
+      "created_at": "Wed Aug 20 07:11:00 +0000 2025",
+      "conversation_id_str": "1958064205854306716",
+      "display_text_range": [
+        0,
+        87
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              80,
+              87
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 127,
+      "favorited": false,
+      "full_text": "うん、そりゃそうだよ！\n気も抜けるよ～🍭🧁\n\n大緊張のオーディションエントリーからの～\nまさかの東京行き！🍭🍬🍫\n\nしかも夜行バス日帰りのガチの弾丸ツアー🚀🍩\n#いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 2,
+      "reply_count": 1,
+      "retweet_count": 29,
+      "retweeted": false,
+      "user_id_str": "1906578029343916032",
+      "id_str": "1958064205854306716"
+    }
+  },
+  "created_at": "2025-08-20T07:11:00Z"
+}
