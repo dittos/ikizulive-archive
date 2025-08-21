@@ -1,0 +1,37 @@
+{
+  "id": "1958418541809402107",
+  "translated_text": "「있잖아! 우리 절대 또 절대…」\n말을 채 끝내기도 전에 양 어깨를 꽉 잡고 제지당했다🌻✨\n\n눈을 감고 천천히 고개를 가로저은 마이 짱💻\n\n「알고 있으니까 끝까지 말하지 마」라고\n\n우와~ 뭔가 멋있어⛩✨\n\n#살기힘든부",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n\n사람 이름 읽는 법:\n高橋ポルカ -> 타카하시 폴카\n麻布麻衣 -> 아자부 마이\n五桐 玲 -> 고토 아키라\n駒形花火 -> 코마가타 하나비\n金澤奇跡 -> 카나자와 미라클\n調布のりこ -> 쵸후 노리코\n春宮ゆくり -> 하루미야 유쿠리\n此花輝夜 -> 코노하나 오로라\n山田真緑 -> 야마다 미도리\n佐々木翔音 -> 사사키 시온\n",
+  "raw_data": {
+    "id": "qcGmaIzMKNSFz7IP5M3riA8",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "「있잖아! 우리 절대 또 절대…」\n말을 채 끝내기도 전에 양 어깨를 꽉 잡고 제지당했다🌻✨\n\n눈을 감고 천천히 고개를 가로저은 마이 짱💻\n\n「알고 있으니까 끝까지 말하지 마」라고\n\n우와~ 뭔가 멋있어⛩✨\n\n#살기힘든부",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1755759017,
+    "model": "gemini-2.5-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 81,
+      "prompt_tokens": 328,
+      "total_tokens": 1340,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}
