@@ -1,0 +1,671 @@
+{
+  "id": "1960278933204816116",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1960278933204816116",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64189,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1072,
+            "media_count": 262,
+            "normal_followers_count": 64189,
+            "pinned_tweet_ids_str": [
+              "1959812992167747764"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 345,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1960278933204816116"
+      ],
+      "editable_until_msecs": "1756205492554",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "state": "Enabled"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Tue Aug 26 09:51:32 +0000 2025",
+      "conversation_id_str": "1960278933204816116",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              33,
+              38
+            ],
+            "text": "あにぺろ"
+          },
+          {
+            "indices": [
+              53,
+              58
+            ],
+            "text": "天沢朱音"
+          },
+          {
+            "indices": [
+              66,
+              73
+            ],
+            "text": "いきづらい部"
+          },
+          {
+            "indices": [
+              74,
+              81
+            ],
+            "text": "イキヅライブ"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1212039208363102210",
+            "name": "あにぺろ【毎週火曜日20時30分～OA】",
+            "screen_name": "FMFUKUOKA1",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "id_str": "1911282293341356032",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff",
+            "indices": [
+              83,
+              99
+            ]
+          },
+          {
+            "id_str": "1906583647559524353",
+            "name": "此花輝夜@いきづらい部！",
+            "screen_name": "Rollie_twinkle",
+            "indices": [
+              100,
+              115
+            ]
+          },
+          {
+            "id_str": "1772525668087283713",
+            "name": "天沢 朱音",
+            "screen_name": "amasawa__akane",
+            "indices": [
+              116,
+              131
+            ]
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @FMFUKUOKA1: 【告知④】 2025.08.26 #あにぺろ\n2人目のコメントゲストは\n＜#天沢朱音＞さんです🌟\n\n#いきづらい部 #イキヅライブ \n@ikizulive_staff\n@Rollie_twinkle\n@amasawa__akane\n\nまさかのお知…",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1960278933204816116",
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1960183671442538739",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxMjEyMDM5MjA4MzYzMTAyMjEw",
+                "rest_id": "1212039208363102210",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1940012601544491008/glTZA5LQ_normal.jpg"
+                },
+                "core": {
+                  "created_at": "Tue Dec 31 15:56:13 +0000 2019",
+                  "name": "あにぺろ【毎週火曜日20時30分～OA】",
+                  "screen_name": "FMFUKUOKA1"
+                },
+                "dm_permissions": {
+                  "can_dm": true
+                },
+                "has_graduated_access": true,
+                "is_blue_verified": false,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "SQUAIR(Tue)\nアニメ・漫画・声優・アニソンをぺろっとご紹介する番組。 アニメ大好き「愛智望美」がパーソナリティを担当！アニメ、漫画が好きな方、是非メッセージをどうぞ！\n✉anipero@fmfukuoka.jp ＃あにぺろ でのポストもお待ちしています〜！（番組収録は前週金曜午前中が多めです！）",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "fmfukuoka.co.jp/program/anime/",
+                          "expanded_url": "https://fmfukuoka.co.jp/program/anime/",
+                          "url": "https://t.co/X9HWwQsFJo",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 25224,
+                  "followers_count": 1717,
+                  "friends_count": 58,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 23,
+                  "media_count": 294,
+                  "normal_followers_count": 1717,
+                  "pinned_tweet_ids_str": [
+                    "1937474284055679261"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1212039208363102210/1751370024",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 3127,
+                  "translator_type": "none",
+                  "url": "https://t.co/X9HWwQsFJo",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": "福岡県　福岡市"
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "parody_commentary_fan_label": "None",
+                "profile_image_shape": "Circle",
+                "professional": {
+                  "rest_id": "1605411974140923904",
+                  "professional_type": "Business",
+                  "category": []
+                },
+                "privacy": {
+                  "protected": false
+                },
+                "relationship_perspectives": {
+                  "following": false
+                },
+                "tipjar_settings": {},
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1960183671442538739"
+            ],
+            "editable_until_msecs": "1756182780000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+          },
+          "is_translatable": true,
+          "views": {
+            "count": "16365",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "legacy": {
+            "bookmark_count": 17,
+            "bookmarked": false,
+            "created_at": "Tue Aug 26 03:33:00 +0000 2025",
+            "conversation_id_str": "1960183671442538739",
+            "display_text_range": [
+              0,
+              159
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    17,
+                    22
+                  ],
+                  "text": "あにぺろ"
+                },
+                {
+                  "indices": [
+                    37,
+                    42
+                  ],
+                  "text": "天沢朱音"
+                },
+                {
+                  "indices": [
+                    50,
+                    57
+                  ],
+                  "text": "いきづらい部"
+                },
+                {
+                  "indices": [
+                    58,
+                    65
+                  ],
+                  "text": "イキヅライブ"
+                },
+                {
+                  "indices": [
+                    135,
+                    145
+                  ],
+                  "text": "FMFUKUOKA"
+                },
+                {
+                  "indices": [
+                    146,
+                    153
+                  ],
+                  "text": "SQUAIR"
+                }
+              ],
+              "media": [
+                {
+                  "display_url": "pic.x.com/kygPhrXNam",
+                  "expanded_url": "https://x.com/FMFUKUOKA1/status/1960183671442538739/photo/1",
+                  "id_str": "1959811794199068672",
+                  "indices": [
+                    160,
+                    183
+                  ],
+                  "media_key": "3_1959811794199068672",
+                  "media_url_https": "https://pbs.twimg.com/media/GzKmcXvbQAAW8vB.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/kygPhrXNam",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 286,
+                          "y": 155,
+                          "h": 200,
+                          "w": 200
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 286,
+                          "y": 155,
+                          "h": 200,
+                          "w": 200
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 194,
+                          "y": 105,
+                          "h": 136,
+                          "w": 136
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 286,
+                          "y": 155,
+                          "h": 200,
+                          "w": 200
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1000,
+                      "w": 707,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 1000,
+                      "w": 707,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 680,
+                      "w": 481,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1000,
+                    "width": 707,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 77,
+                        "w": 707,
+                        "h": 396
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 707,
+                        "h": 707
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 707,
+                        "h": 806
+                      },
+                      {
+                        "x": 125,
+                        "y": 0,
+                        "w": 500,
+                        "h": 1000
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 707,
+                        "h": 1000
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1959811794199068672"
+                    }
+                  }
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                {
+                  "id_str": "1911282293341356032",
+                  "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                  "screen_name": "ikizulive_staff",
+                  "indices": [
+                    67,
+                    83
+                  ]
+                },
+                {
+                  "id_str": "1906583647559524353",
+                  "name": "此花輝夜@いきづらい部！",
+                  "screen_name": "Rollie_twinkle",
+                  "indices": [
+                    84,
+                    99
+                  ]
+                },
+                {
+                  "id_str": "1772525668087283713",
+                  "name": "天沢 朱音",
+                  "screen_name": "amasawa__akane",
+                  "indices": [
+                    100,
+                    115
+                  ]
+                }
+              ]
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "display_url": "pic.x.com/kygPhrXNam",
+                  "expanded_url": "https://x.com/FMFUKUOKA1/status/1960183671442538739/photo/1",
+                  "id_str": "1959811794199068672",
+                  "indices": [
+                    160,
+                    183
+                  ],
+                  "media_key": "3_1959811794199068672",
+                  "media_url_https": "https://pbs.twimg.com/media/GzKmcXvbQAAW8vB.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/kygPhrXNam",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 286,
+                          "y": 155,
+                          "h": 200,
+                          "w": 200
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 286,
+                          "y": 155,
+                          "h": 200,
+                          "w": 200
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 194,
+                          "y": 105,
+                          "h": 136,
+                          "w": 136
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 286,
+                          "y": 155,
+                          "h": 200,
+                          "w": 200
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1000,
+                      "w": 707,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 1000,
+                      "w": 707,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 680,
+                      "w": 481,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1000,
+                    "width": 707,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 77,
+                        "w": 707,
+                        "h": 396
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 707,
+                        "h": 707
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 707,
+                        "h": 806
+                      },
+                      {
+                        "x": 125,
+                        "y": 0,
+                        "w": 500,
+                        "h": 1000
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 707,
+                        "h": 1000
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1959811794199068672"
+                    }
+                  }
+                }
+              ]
+            },
+            "favorite_count": 377,
+            "favorited": false,
+            "full_text": "【告知④】 2025.08.26 #あにぺろ\n2人目のコメントゲストは\n＜#天沢朱音＞さんです🌟\n\n#いきづらい部 #イキヅライブ \n@ikizulive_staff\n@Rollie_twinkle\n@amasawa__akane\n\nまさかのお知らせがありますよ‼️😆\n#FMFUKUOKA #SQUAIR (tue) https://t.co/kygPhrXNam",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 102,
+            "retweeted": false,
+            "user_id_str": "1212039208363102210",
+            "id_str": "1960183671442538739"
+          }
+        }
+      }
+    }
+  },
+  "created_at": "2025-08-26T09:51:32Z"
+}
