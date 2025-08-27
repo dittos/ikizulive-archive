@@ -1,0 +1,727 @@
+{
+  "id": "1960523484368687293",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1960523484368687293",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/GzUtoWIa4AATLCX.jpg"
+    },
+    {
+      "tweet_id": "1960523484368687293",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/GzUts7fa4AM5Gkp.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1960523484368687293",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64195,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1072,
+            "media_count": 265,
+            "normal_followers_count": 64195,
+            "pinned_tweet_ids_str": [
+              "1959812992167747764"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 348,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1960523484368687293"
+      ],
+      "editable_until_msecs": "1756263798000",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": false,
+    "views": {
+      "count": "6646",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5NjA1MjM0ODQyMzAyNDY0MDA=",
+          "text": "🛒#いきづらい部 1st Solo Singleご購入はこちら\n\n💿高橋ポルカ 1st Solo Single「浅草Guilty Girlの歌」\n▼初回生産限定盤：https://t.co/nvyFQV5mIc\n▼通常盤：https://t.co/xzcmPqPYON\n\n💿麻布麻衣 1st Solo Single「Public Style」\n▼初回生産限定盤：https://t.co/ns1qtZjTtH\n▼通常盤：https://t.co/d8TFV3Whni\n\nSolo Songs リリックビデオ再生リストはこちら\n🎥https://t.co/RLPDNa1Phq\n\n#イキヅライブ",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  1,
+                  8
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  289,
+                  296
+                ],
+                "text": "イキヅライブ"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "lnk.to/LACM-34751",
+                "expanded_url": "https://lnk.to/LACM-34751",
+                "url": "https://t.co/nvyFQV5mIc",
+                "indices": [
+                  82,
+                  105
+                ]
+              },
+              {
+                "display_url": "lnk.to/LACM-24751",
+                "expanded_url": "https://lnk.to/LACM-24751",
+                "url": "https://t.co/xzcmPqPYON",
+                "indices": [
+                  111,
+                  134
+                ]
+              },
+              {
+                "display_url": "lnk.to/LACM-34752",
+                "expanded_url": "https://lnk.to/LACM-34752",
+                "url": "https://t.co/ns1qtZjTtH",
+                "indices": [
+                  181,
+                  204
+                ]
+              },
+              {
+                "display_url": "lnk.to/LACM-24752",
+                "expanded_url": "https://lnk.to/LACM-24752",
+                "url": "https://t.co/d8TFV3Whni",
+                "indices": [
+                  210,
+                  233
+                ]
+              },
+              {
+                "display_url": "youtube.com/playlist?list=…",
+                "expanded_url": "https://youtube.com/playlist?list=PL-3jtV2TsyS3v9CgbiuZxosBsdKECAXqk&si=sktdxsdaUvDERY_X",
+                "url": "https://t.co/RLPDNa1Phq",
+                "indices": [
+                  264,
+                  287
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 3,
+      "bookmarked": false,
+      "created_at": "Wed Aug 27 02:03:18 +0000 2025",
+      "conversation_id_str": "1960523240608293380",
+      "display_text_range": [
+        0,
+        204
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              1,
+              8
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/ueHqLyzi7O",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1960523484368687293/photo/1",
+            "id_str": "1960523383948632064",
+            "indices": [
+              205,
+              228
+            ],
+            "media_key": "3_1960523383948632064",
+            "media_url_https": "https://pbs.twimg.com/media/GzUtoWIa4AATLCX.jpg",
+            "type": "photo",
+            "url": "https://t.co/ueHqLyzi7O",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 308,
+                    "y": 214,
+                    "h": 41,
+                    "w": 41
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 308,
+                    "y": 214,
+                    "h": 41,
+                    "w": 41
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 308,
+                    "y": 214,
+                    "h": 41,
+                    "w": 41
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 308,
+                    "y": 214,
+                    "h": 41,
+                    "w": 41
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 360,
+                "w": 360,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 360,
+                "w": 360,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 360,
+                "w": 360,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 360,
+              "width": 360,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 360,
+                  "h": 202
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 360,
+                  "h": 360
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 316,
+                  "h": 360
+                },
+                {
+                  "x": 9,
+                  "y": 0,
+                  "w": 180,
+                  "h": 360
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 360,
+                  "h": 360
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1960523383948632064"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/ueHqLyzi7O",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1960523484368687293/photo/1",
+            "id_str": "1960523462696689667",
+            "indices": [
+              205,
+              228
+            ],
+            "media_key": "3_1960523462696689667",
+            "media_url_https": "https://pbs.twimg.com/media/GzUts7fa4AM5Gkp.jpg",
+            "type": "photo",
+            "url": "https://t.co/ueHqLyzi7O",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "w": 1000,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1000,
+                "w": 1000,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1000,
+              "width": 1000,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1000,
+                  "h": 560
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1000,
+                  "h": 1000
+                },
+                {
+                  "x": 123,
+                  "y": 0,
+                  "w": 877,
+                  "h": 1000
+                },
+                {
+                  "x": 500,
+                  "y": 0,
+                  "w": 500,
+                  "h": 1000
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1000,
+                  "h": 1000
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1960523462696689667"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "lnk.to/LACM-34751",
+            "expanded_url": "https://lnk.to/LACM-34751",
+            "url": "https://t.co/oS2x3uMibz",
+            "indices": [
+              82,
+              105
+            ]
+          },
+          {
+            "display_url": "lnk.to/LACM-24751",
+            "expanded_url": "https://lnk.to/LACM-24751",
+            "url": "https://t.co/qJusu7igWX",
+            "indices": [
+              111,
+              134
+            ]
+          },
+          {
+            "display_url": "lnk.to/LACM-34752",
+            "expanded_url": "https://lnk.to/LACM-34752",
+            "url": "https://t.co/GMpk6936OC",
+            "indices": [
+              181,
+              204
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/ueHqLyzi7O",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1960523484368687293/photo/1",
+            "id_str": "1960523383948632064",
+            "indices": [
+              205,
+              228
+            ],
+            "media_key": "3_1960523383948632064",
+            "media_url_https": "https://pbs.twimg.com/media/GzUtoWIa4AATLCX.jpg",
+            "type": "photo",
+            "url": "https://t.co/ueHqLyzi7O",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 308,
+                    "y": 214,
+                    "h": 41,
+                    "w": 41
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 308,
+                    "y": 214,
+                    "h": 41,
+                    "w": 41
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 308,
+                    "y": 214,
+                    "h": 41,
+                    "w": 41
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 308,
+                    "y": 214,
+                    "h": 41,
+                    "w": 41
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 360,
+                "w": 360,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 360,
+                "w": 360,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 360,
+                "w": 360,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 360,
+              "width": 360,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 360,
+                  "h": 202
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 360,
+                  "h": 360
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 316,
+                  "h": 360
+                },
+                {
+                  "x": 9,
+                  "y": 0,
+                  "w": 180,
+                  "h": 360
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 360,
+                  "h": 360
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1960523383948632064"
+              }
+            }
+          },
+          {
+            "display_url": "pic.x.com/ueHqLyzi7O",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1960523484368687293/photo/1",
+            "id_str": "1960523462696689667",
+            "indices": [
+              205,
+              228
+            ],
+            "media_key": "3_1960523462696689667",
+            "media_url_https": "https://pbs.twimg.com/media/GzUts7fa4AM5Gkp.jpg",
+            "type": "photo",
+            "url": "https://t.co/ueHqLyzi7O",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "w": 1000,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1000,
+                "w": 1000,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1000,
+              "width": 1000,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1000,
+                  "h": 560
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1000,
+                  "h": 1000
+                },
+                {
+                  "x": 123,
+                  "y": 0,
+                  "w": 877,
+                  "h": 1000
+                },
+                {
+                  "x": 500,
+                  "y": 0,
+                  "w": 500,
+                  "h": 1000
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1000,
+                  "h": 1000
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1960523462696689667"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 77,
+      "favorited": false,
+      "full_text": "🛒#いきづらい部 1st Solo Singleご購入はこちら\n\n💿高橋ポルカ 1st Solo Single「浅草Guilty Girlの歌」\n▼初回生産限定盤：https://t.co/oS2x3uMibz\n▼通常盤：https://t.co/qJusu7igWX\n\n💿麻布麻衣 1st Solo Single「Public Style」\n▼初回生産限定盤：https://t.co/GMpk6936OC https://t.co/ueHqLyzi7O",
+      "in_reply_to_screen_name": "ikizulive_staff",
+      "in_reply_to_status_id_str": "1960523240608293380",
+      "in_reply_to_user_id_str": "1911282293341356032",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1960523484368687293"
+    }
+  },
+  "created_at": "2025-08-27T02:03:18Z"
+}
