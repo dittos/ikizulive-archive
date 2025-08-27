@@ -1,0 +1,143 @@
+{
+  "id": "1960830686430200103",
+  "username": "LittlegreenCom",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1960830686430200103",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NTg1MDA5NDkyMDQ5OTIw",
+          "rest_id": "1906585009492049920",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921887756210540544/qODvEu78_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 05:51:14 +0000 2025",
+            "name": "山田真緑@いきづらい部！",
+            "screen_name": "LittlegreenCom"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=8",
+                    "url": "https://t.co/A4iwOmvgs8",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 24602,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1070,
+            "media_count": 0,
+            "normal_followers_count": 24602,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906585009492049920/1747048724",
+            "profile_interstitial_type": "",
+            "statuses_count": 86,
+            "translator_type": "none",
+            "url": "https://t.co/A4iwOmvgs8",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": false
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1960830686430200103"
+      ],
+      "editable_until_msecs": "1756337040000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "5339",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 2,
+      "bookmarked": false,
+      "created_at": "Wed Aug 27 22:24:00 +0000 2025",
+      "conversation_id_str": "1960830686430200103",
+      "display_text_range": [
+        0,
+        74
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              67,
+              74
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 282,
+      "favorited": false,
+      "full_text": "でもでもやっぱり！！\n夜はみんなもう少し電気を消して暗くして、そっと星空を眺めるのもいいんじゃないかなぁ、なんて思ってしまうんです🌎\n#いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 2,
+      "reply_count": 0,
+      "retweet_count": 68,
+      "retweeted": false,
+      "user_id_str": "1906585009492049920",
+      "id_str": "1960830686430200103"
+    }
+  },
+  "created_at": "2025-08-27T22:24:00Z"
+}
