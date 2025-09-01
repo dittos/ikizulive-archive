@@ -1,0 +1,456 @@
+{
+  "id": "1962334596831515106",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1962334596831515106",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64249,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1076,
+            "media_count": 280,
+            "normal_followers_count": 64249,
+            "pinned_tweet_ids_str": [
+              "1961262554036277307"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 369,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1962334596831515106"
+      ],
+      "editable_until_msecs": "1756695600000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "8256",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "quoted_status_result": {
+      "result": {
+        "__typename": "Tweet",
+        "rest_id": "1961262554036277307",
+        "core": {
+          "user_results": {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+              "rest_id": "1911282293341356032",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+              },
+              "core": {
+                "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+                "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                "screen_name": "ikizulive_staff"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "youtube.com/@IKIZULIVE",
+                        "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                        "url": "https://t.co/uAo8WcIDpK",
+                        "indices": [
+                          44,
+                          67
+                        ]
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "lovelive-anime.jp/lovehigh/",
+                        "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                        "url": "https://t.co/mfWPigBwKr",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 0,
+                "followers_count": 64249,
+                "friends_count": 12,
+                "has_custom_timelines": false,
+                "is_translator": false,
+                "listed_count": 1076,
+                "media_count": 280,
+                "normal_followers_count": 64249,
+                "pinned_tweet_ids_str": [
+                  "1961262554036277307"
+                ],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+                "profile_interstitial_type": "",
+                "statuses_count": 369,
+                "translator_type": "none",
+                "url": "https://t.co/mfWPigBwKr",
+                "want_retweets": true,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": "インターネット"
+              },
+              "media_permissions": {
+                "can_media_tag": false
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Circle",
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": true
+              },
+              "tipjar_settings": {},
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "card": {
+          "rest_id": "card://1961262553100947456",
+          "legacy": {
+            "binding_values": [
+              {
+                "key": "choice1_label",
+                "value": {
+                  "string_value": "①お菓子作りに必要な「キッチン用品」",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "choice2_label",
+                "value": {
+                  "string_value": "②奇跡の作る美味しい「ケーキ」",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "end_datetime_utc",
+                "value": {
+                  "string_value": "2025-08-31T15:00:05Z",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "counts_are_final",
+                "value": {
+                  "boolean_value": true,
+                  "type": "BOOLEAN"
+                }
+              },
+              {
+                "key": "choice2_count",
+                "value": {
+                  "string_value": "2298",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "choice1_count",
+                "value": {
+                  "string_value": "541",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "choice4_label",
+                "value": {
+                  "string_value": "④製菓界で目指せホームラン「野球用品」",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "last_updated_datetime_utc",
+                "value": {
+                  "string_value": "2025-08-31T15:00:10Z",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "duration_minutes",
+                "value": {
+                  "string_value": "3600",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "choice3_count",
+                "value": {
+                  "string_value": "686",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "choice4_count",
+                "value": {
+                  "string_value": "429",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "choice3_label",
+                "value": {
+                  "string_value": "③かぶれば気合が入る「シェフハット」",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "api",
+                "value": {
+                  "string_value": "capi://passthrough/1",
+                  "type": "STRING"
+                }
+              },
+              {
+                "key": "card_url",
+                "value": {
+                  "scribe_key": "card_url",
+                  "string_value": "https://twitter.com",
+                  "type": "STRING"
+                }
+              }
+            ],
+            "card_platform": {
+              "platform": {
+                "audience": {
+                  "name": "production"
+                },
+                "device": {
+                  "name": "Swift",
+                  "version": "12"
+                }
+              }
+            },
+            "name": "poll4choice_text_only",
+            "url": "card://1961262553100947456",
+            "user_refs_results": []
+          }
+        },
+        "unmention_data": {},
+        "edit_control": {
+          "edit_tweet_ids": [
+            "1961262554036277307"
+          ],
+          "editable_until_msecs": "1756440006000",
+          "is_edit_eligible": false,
+          "edits_remaining": "5"
+        },
+        "is_translatable": true,
+        "views": {
+          "count": "74566",
+          "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "legacy": {
+          "bookmark_count": 12,
+          "bookmarked": false,
+          "created_at": "Fri Aug 29 03:00:06 +0000 2025",
+          "conversation_id_str": "1961262554036277307",
+          "display_text_range": [
+            0,
+            129
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  114,
+                  121
+                ],
+                "text": "イキヅライブ"
+              },
+              {
+                "indices": [
+                  122,
+                  129
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": [
+              {
+                "id_str": "1906578029343916032",
+                "name": "金澤奇跡@いきづらい部！",
+                "screen_name": "MiracleGoldSP",
+                "indices": [
+                  8,
+                  22
+                ]
+              }
+            ]
+          },
+          "favorite_count": 468,
+          "favorited": false,
+          "full_text": "／\n金澤奇跡（ @MiracleGoldSP ）\nメンバーアイコン決選投票！！\n＼\n\n皆様からのアイディアをもとに\n決戦投票に上がった候補はこちらの4つ！\n\n投票は8月31日(日)23:59まで♪\nご参加お待ちしております💕\n\n#イキヅライブ #いきづらい部",
+          "is_quote_status": false,
+          "lang": "ja",
+          "quote_count": 24,
+          "reply_count": 1,
+          "retweet_count": 197,
+          "retweeted": false,
+          "user_id_str": "1911282293341356032",
+          "id_str": "1961262554036277307"
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 5,
+      "bookmarked": false,
+      "created_at": "Mon Sep 01 02:00:00 +0000 2025",
+      "conversation_id_str": "1962334596831515106",
+      "display_text_range": [
+        0,
+        143
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              128,
+              135
+            ],
+            "text": "イキヅライブ"
+          },
+          {
+            "indices": [
+              136,
+              143
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 205,
+      "favorited": false,
+      "full_text": "＼🎊結果発表🎊／\n\n奇跡のメンバーアイコンのアイディアは\n「ケーキ」に決定！🎉\n\nいただいたアイディアをもとに新規でデザインします！\nたくさんのご参加ありがとうございました💕\n\nのりこのアイコンアイディア募集もこのあとスタート！\nよろしくお願いします✨\n\n#イキヅライブ #いきづらい部",
+      "is_quote_status": true,
+      "lang": "ja",
+      "quote_count": 10,
+      "quoted_status_id_str": "1961262554036277307",
+      "quoted_status_permalink": {
+        "url": "https://t.co/TiiOyWAX33",
+        "expanded": "https://twitter.com/ikizulive_staff/status/1961262554036277307",
+        "display": "x.com/ikizulive_staf…"
+      },
+      "reply_count": 0,
+      "retweet_count": 70,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1962334596831515106"
+    }
+  },
+  "created_at": "2025-09-01T02:00:00Z"
+}
