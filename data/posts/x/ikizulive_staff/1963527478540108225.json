@@ -1,0 +1,292 @@
+{
+  "id": "1963527478540108225",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1963527478540108225",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64421,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1077,
+            "media_count": 295,
+            "normal_followers_count": 64421,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 386,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "card": {
+      "rest_id": "card://1963527477785231360",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "choice1_label",
+            "value": {
+              "string_value": "①ソロ楽曲から「鍵・錠前」",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "choice2_label",
+            "value": {
+              "string_value": "②特技が歌だから「ハンドマイク」",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "end_datetime_utc",
+            "value": {
+              "string_value": "2025-09-07T15:00:05Z",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "counts_are_final",
+            "value": {
+              "boolean_value": false,
+              "type": "BOOLEAN"
+            }
+          },
+          {
+            "key": "choice2_count",
+            "value": {
+              "string_value": "192",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "choice1_count",
+            "value": {
+              "string_value": "335",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "choice4_label",
+            "value": {
+              "string_value": "④よく使う絵文字の「猫」",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "last_updated_datetime_utc",
+            "value": {
+              "string_value": "2025-09-04T09:24:40Z",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "duration_minutes",
+            "value": {
+              "string_value": "4680",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "choice3_count",
+            "value": {
+              "string_value": "233",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "choice4_count",
+            "value": {
+              "string_value": "130",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "choice3_label",
+            "value": {
+              "string_value": "③太ももを隠す「ロングスカート」",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "api",
+            "value": {
+              "string_value": "capi://passthrough/1",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://twitter.com",
+              "type": "STRING"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "poll4choice_text_only",
+        "url": "card://1963527477785231360",
+        "user_refs_results": []
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1963527478540108225"
+      ],
+      "editable_until_msecs": "1756980006000",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "7392",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 7,
+      "bookmarked": false,
+      "created_at": "Thu Sep 04 09:00:06 +0000 2025",
+      "conversation_id_str": "1963527478540108225",
+      "display_text_range": [
+        0,
+        127
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              112,
+              119
+            ],
+            "text": "イキヅライブ"
+          },
+          {
+            "indices": [
+              120,
+              127
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1906577177275154432",
+            "name": "調布のりこ@いきづらい部！",
+            "screen_name": "Noricco_U",
+            "indices": [
+              10,
+              20
+            ]
+          }
+        ]
+      },
+      "favorite_count": 134,
+      "favorited": false,
+      "full_text": "／\n 調布のりこ（ @Noricco_U ）\n メンバーアイコン決選投票！！\n＼\n\n皆様からのアイディアをもとに\n決戦投票に上がった候補はこちらの4つ！\n\n投票は9月7日(日)23:59まで♪\nご参加お待ちしております💕\n\n#イキヅライブ #いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 12,
+      "reply_count": 1,
+      "retweet_count": 75,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1963527478540108225"
+    }
+  },
+  "created_at": "2025-09-04T09:00:06Z"
+}
