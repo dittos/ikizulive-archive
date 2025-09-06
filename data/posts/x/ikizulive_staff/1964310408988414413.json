@@ -1,0 +1,470 @@
+{
+  "id": "1964310408988414413",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1964310408988414413",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false,
+            "can_dm_on_xchat": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64453,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1077,
+            "media_count": 300,
+            "normal_followers_count": 64453,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 395,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/UGlqokuA0D",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "app_star_rating",
+            "value": {
+              "string_value": "4.68055",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "image_value": {
+                "height": 144,
+                "width": 144,
+                "url": "https://pbs.twimg.com/card_img/1962412741093941248/-n48lPnN?format=jpg&name=144x144_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "www.youtube.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_is_free",
+            "value": {
+              "string_value": "true",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "image_value": {
+                "height": 270,
+                "width": 270,
+                "url": "https://pbs.twimg.com/card_img/1962412741093941248/-n48lPnN?format=jpg&name=280x280_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "image_value": {
+                "height": 270,
+                "width": 480,
+                "url": "https://pbs.twimg.com/card_img/1962412741093941248/-n48lPnN?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "10228272",
+                "path": []
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "image_value": {
+                "height": 100,
+                "width": 100,
+                "url": "https://pbs.twimg.com/card_img/1962412741093941248/-n48lPnN?format=jpg&name=100x100_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "app_num_ratings",
+            "value": {
+              "string_value": "43,502,745",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_amount",
+            "value": {
+              "string_value": "0.0",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 270,
+                "width": 480,
+                "url": "https://pbs.twimg.com/card_img/1962412741093941248/-n48lPnN?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "youtube.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_name",
+            "value": {
+              "string_value": "YouTube",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 221,
+                      "green": 235,
+                      "red": 234
+                    },
+                    "percentage": 25.18
+                  },
+                  {
+                    "rgb": {
+                      "blue": 147,
+                      "green": 229,
+                      "red": 244
+                    },
+                    "percentage": 13.93
+                  },
+                  {
+                    "rgb": {
+                      "blue": 215,
+                      "green": 180,
+                      "red": 118
+                    },
+                    "percentage": 11.92
+                  },
+                  {
+                    "rgb": {
+                      "blue": 195,
+                      "green": 141,
+                      "red": 13
+                    },
+                    "percentage": 8.46
+                  },
+                  {
+                    "rgb": {
+                      "blue": 67,
+                      "green": 205,
+                      "red": 242
+                    },
+                    "percentage": 3.65
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "MUSIC【イキヅライブ！ LOVELIVE!BLUEBIRD】",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_currency",
+            "value": {
+              "string_value": "USD",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/UGlqokuA0D",
+              "type": "STRING"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary",
+        "url": "https://t.co/UGlqokuA0D",
+        "user_refs_results": [
+          {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxMDIyODI3Mg==",
+              "rest_id": "10228272",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1915882040353837056/VbhPvueq_normal.jpg"
+              },
+              "core": {
+                "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+                "name": "YouTube",
+                "screen_name": "YouTube"
+              },
+              "dm_permissions": {
+                "can_dm": false,
+                "can_dm_on_xchat": false
+              },
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "football is so back",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "linkin.bio/youtube",
+                        "expanded_url": "http://linkin.bio/youtube",
+                        "url": "https://t.co/zyd5mI67Ld",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 6049,
+                "followers_count": 78970844,
+                "friends_count": 1147,
+                "has_custom_timelines": true,
+                "is_translator": false,
+                "listed_count": 77698,
+                "media_count": 16040,
+                "normal_followers_count": 78970844,
+                "pinned_tweet_ids_str": [],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1745416765",
+                "profile_interstitial_type": "",
+                "statuses_count": 60213,
+                "translator_type": "regular",
+                "url": "https://t.co/zyd5mI67Ld",
+                "want_retweets": false,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": "San Bruno, CA"
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Square",
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": false
+              },
+              "tipjar_settings": {},
+              "verification": {
+                "verified": false,
+                "verified_type": "Business"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1964310408988414413"
+      ],
+      "editable_until_msecs": "1757166671000",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "9675",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 1,
+      "bookmarked": false,
+      "created_at": "Sat Sep 06 12:51:11 +0000 2025",
+      "conversation_id_str": "1964310269519417470",
+      "display_text_range": [
+        0,
+        58
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              1,
+              8
+            ],
+            "text": "いきづらい部"
+          },
+          {
+            "indices": [
+              51,
+              58
+            ],
+            "text": "イキヅライブ"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtube.com/playlist?list=…",
+            "expanded_url": "https://www.youtube.com/playlist?list=PL-3jtV2TsyS3v9CgbiuZxosBsdKECAXqk",
+            "url": "https://t.co/UGlqokuA0D",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 34,
+      "favorited": false,
+      "full_text": "📹#いきづらい部 リリックビデオ再生リストはこちら\nhttps://t.co/UGlqokuA0D\n\n#イキヅライブ",
+      "in_reply_to_screen_name": "ikizulive_staff",
+      "in_reply_to_status_id_str": "1964310269519417470",
+      "in_reply_to_user_id_str": "1911282293341356032",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1964310408988414413"
+    }
+  },
+  "created_at": "2025-09-06T12:51:11Z"
+}
