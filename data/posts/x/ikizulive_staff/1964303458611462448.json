@@ -1,0 +1,757 @@
+{
+  "id": "1964303458611462448",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1964303458611462448",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false,
+            "can_dm_on_xchat": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64450,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1077,
+            "media_count": 299,
+            "normal_followers_count": 64450,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 393,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1964303458611462448"
+      ],
+      "editable_until_msecs": "1757165014183",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "state": "Enabled"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Sat Sep 06 12:23:34 +0000 2025",
+      "conversation_id_str": "1964303458611462448",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              36,
+              43
+            ],
+            "text": "いきづらい部"
+          },
+          {
+            "indices": [
+              45,
+              50
+            ],
+            "text": "遠藤璃菜"
+          },
+          {
+            "indices": [
+              54,
+              60
+            ],
+            "text": "藤野こころ"
+          },
+          {
+            "indices": [
+              121,
+              125
+            ],
+            "text": "畠中祐"
+          },
+          {
+            "indices": [
+              126,
+              130
+            ],
+            "text": "芹澤優"
+          },
+          {
+            "indices": [
+              131,
+              136
+            ],
+            "text": "文化放送"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "radiko.jp/#QRR",
+            "expanded_url": "http://radiko.jp/#QRR",
+            "url": "https://t.co/nIUaD8N21v",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "2937033560",
+            "name": "文化放送　A&G TRIBAL RADIO エジソン",
+            "screen_name": "_agson_",
+            "indices": [
+              3,
+              11
+            ]
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @_agson_: 💡ゲスト情報💡\n\n◤出演中◢\n✅9時台ゲスト：#いきづらい部\n👉#遠藤璃菜 さん＆#藤野こころ さん🎙\n👉1stソロシングルを特集✨\n\nradikoでも聴けます📲\nhttps://t.co/nIUaD8N21v \n\n#畠中祐 #芹澤優 #文化放送 #a…",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1964303458611462448",
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1964303344648016266",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoyOTM3MDMzNTYw",
+                "rest_id": "2937033560",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/562348163911016449/Jy_wIAqN_normal.jpeg"
+                },
+                "core": {
+                  "created_at": "Sat Dec 20 11:46:06 +0000 2014",
+                  "name": "文化放送　A&G TRIBAL RADIO エジソン",
+                  "screen_name": "_agson_"
+                },
+                "dm_permissions": {
+                  "can_dm": false,
+                  "can_dm_on_xchat": false
+                },
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "legacy": {
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "#文化放送「A&G TRIBAL RADIO エジソン」の公式アカウントです。 \n#畠中祐 #芹澤優 をパーソナリティに、アニメ、ゲーム、声優、アニソンアーティストの今をお伝えしていきます！ (土曜日 21:00～23:00 FM91.6/ AM1134/ #radiko/ #QloveR) #agson",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "joqr.co.jp/qr/program/ags…",
+                          "expanded_url": "https://www.joqr.co.jp/qr/program/agson/",
+                          "url": "https://t.co/ejH1vAoTJd",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 2516,
+                  "followers_count": 63326,
+                  "friends_count": 21,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 721,
+                  "media_count": 2459,
+                  "normal_followers_count": 63326,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2937033560/1522742317",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 10937,
+                  "translator_type": "none",
+                  "url": "https://t.co/ejH1vAoTJd",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": "Tokyo,Japan"
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "parody_commentary_fan_label": "None",
+                "profile_image_shape": "Circle",
+                "privacy": {
+                  "protected": false
+                },
+                "relationship_perspectives": {
+                  "following": false
+                },
+                "tipjar_settings": {},
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1964303344648016266"
+            ],
+            "editable_until_msecs": "1757164987000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+          },
+          "is_translatable": true,
+          "views": {
+            "count": "18968",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "legacy": {
+            "bookmark_count": 14,
+            "bookmarked": false,
+            "created_at": "Sat Sep 06 12:23:07 +0000 2025",
+            "conversation_id_str": "1964303344648016266",
+            "display_text_range": [
+              0,
+              138
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    23,
+                    30
+                  ],
+                  "text": "いきづらい部"
+                },
+                {
+                  "indices": [
+                    32,
+                    37
+                  ],
+                  "text": "遠藤璃菜"
+                },
+                {
+                  "indices": [
+                    41,
+                    47
+                  ],
+                  "text": "藤野こころ"
+                },
+                {
+                  "indices": [
+                    108,
+                    112
+                  ],
+                  "text": "畠中祐"
+                },
+                {
+                  "indices": [
+                    113,
+                    117
+                  ],
+                  "text": "芹澤優"
+                },
+                {
+                  "indices": [
+                    118,
+                    123
+                  ],
+                  "text": "文化放送"
+                },
+                {
+                  "indices": [
+                    124,
+                    130
+                  ],
+                  "text": "agson"
+                },
+                {
+                  "indices": [
+                    131,
+                    138
+                  ],
+                  "text": "イキヅライブ"
+                }
+              ],
+              "media": [
+                {
+                  "display_url": "pic.x.com/6RHkQTPGpH",
+                  "expanded_url": "https://x.com/_agson_/status/1964303344648016266/photo/1",
+                  "id_str": "1964301571375976450",
+                  "indices": [
+                    139,
+                    162
+                  ],
+                  "media_key": "3_1964301571375976450",
+                  "media_url_https": "https://pbs.twimg.com/media/G0KZ3zGbUAI5P1M.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/6RHkQTPGpH",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 474,
+                          "y": 252,
+                          "h": 159,
+                          "w": 159
+                        },
+                        {
+                          "x": 883,
+                          "y": 444,
+                          "h": 130,
+                          "w": 130
+                        },
+                        {
+                          "x": 839,
+                          "y": 202,
+                          "h": 172,
+                          "w": 172
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 402,
+                          "y": 214,
+                          "h": 135,
+                          "w": 135
+                        },
+                        {
+                          "x": 750,
+                          "y": 377,
+                          "h": 110,
+                          "w": 110
+                        },
+                        {
+                          "x": 713,
+                          "y": 171,
+                          "h": 146,
+                          "w": 146
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 228,
+                          "y": 121,
+                          "h": 76,
+                          "w": 76
+                        },
+                        {
+                          "x": 425,
+                          "y": 213,
+                          "h": 62,
+                          "w": 62
+                        },
+                        {
+                          "x": 404,
+                          "y": 97,
+                          "h": 82,
+                          "w": 82
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 474,
+                          "y": 252,
+                          "h": 159,
+                          "w": 159
+                        },
+                        {
+                          "x": 883,
+                          "y": 444,
+                          "h": 130,
+                          "w": 130
+                        },
+                        {
+                          "x": 839,
+                          "y": 202,
+                          "h": 172,
+                          "w": 172
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 957,
+                      "w": 1412,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 813,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 461,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 957,
+                    "width": 1412,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1412,
+                        "h": 791
+                      },
+                      {
+                        "x": 51,
+                        "y": 0,
+                        "w": 957,
+                        "h": 957
+                      },
+                      {
+                        "x": 110,
+                        "y": 0,
+                        "w": 839,
+                        "h": 957
+                      },
+                      {
+                        "x": 290,
+                        "y": 0,
+                        "w": 479,
+                        "h": 957
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1412,
+                        "h": 957
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1964301571375976450"
+                    }
+                  }
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [
+                {
+                  "display_url": "radiko.jp/#QRR",
+                  "expanded_url": "http://radiko.jp/#QRR",
+                  "url": "https://t.co/nIUaD8N21v",
+                  "indices": [
+                    82,
+                    105
+                  ]
+                }
+              ],
+              "user_mentions": []
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "display_url": "pic.x.com/6RHkQTPGpH",
+                  "expanded_url": "https://x.com/_agson_/status/1964303344648016266/photo/1",
+                  "id_str": "1964301571375976450",
+                  "indices": [
+                    139,
+                    162
+                  ],
+                  "media_key": "3_1964301571375976450",
+                  "media_url_https": "https://pbs.twimg.com/media/G0KZ3zGbUAI5P1M.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/6RHkQTPGpH",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 474,
+                          "y": 252,
+                          "h": 159,
+                          "w": 159
+                        },
+                        {
+                          "x": 883,
+                          "y": 444,
+                          "h": 130,
+                          "w": 130
+                        },
+                        {
+                          "x": 839,
+                          "y": 202,
+                          "h": 172,
+                          "w": 172
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 402,
+                          "y": 214,
+                          "h": 135,
+                          "w": 135
+                        },
+                        {
+                          "x": 750,
+                          "y": 377,
+                          "h": 110,
+                          "w": 110
+                        },
+                        {
+                          "x": 713,
+                          "y": 171,
+                          "h": 146,
+                          "w": 146
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 228,
+                          "y": 121,
+                          "h": 76,
+                          "w": 76
+                        },
+                        {
+                          "x": 425,
+                          "y": 213,
+                          "h": 62,
+                          "w": 62
+                        },
+                        {
+                          "x": 404,
+                          "y": 97,
+                          "h": 82,
+                          "w": 82
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 474,
+                          "y": 252,
+                          "h": 159,
+                          "w": 159
+                        },
+                        {
+                          "x": 883,
+                          "y": 444,
+                          "h": 130,
+                          "w": 130
+                        },
+                        {
+                          "x": 839,
+                          "y": 202,
+                          "h": 172,
+                          "w": 172
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 957,
+                      "w": 1412,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 813,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 461,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 957,
+                    "width": 1412,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1412,
+                        "h": 791
+                      },
+                      {
+                        "x": 51,
+                        "y": 0,
+                        "w": 957,
+                        "h": 957
+                      },
+                      {
+                        "x": 110,
+                        "y": 0,
+                        "w": 839,
+                        "h": 957
+                      },
+                      {
+                        "x": 290,
+                        "y": 0,
+                        "w": 479,
+                        "h": 957
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1412,
+                        "h": 957
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1964301571375976450"
+                    }
+                  }
+                }
+              ]
+            },
+            "favorite_count": 228,
+            "favorited": false,
+            "full_text": "💡ゲスト情報💡\n\n◤出演中◢\n✅9時台ゲスト：#いきづらい部\n👉#遠藤璃菜 さん＆#藤野こころ さん🎙\n👉1stソロシングルを特集✨\n\nradikoでも聴けます📲\nhttps://t.co/nIUaD8N21v \n\n#畠中祐 #芹澤優 #文化放送 #agson #イキヅライブ https://t.co/6RHkQTPGpH",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 6,
+            "reply_count": 0,
+            "retweet_count": 100,
+            "retweeted": false,
+            "user_id_str": "2937033560",
+            "id_str": "1964303344648016266"
+          }
+        }
+      }
+    }
+  },
+  "created_at": "2025-09-06T12:23:34Z"
+}
