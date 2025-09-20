@@ -1,0 +1,514 @@
+{
+  "id": "1969325660838752754",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1969325660838752754",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G1Mrg_7bAAAnBj2.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1969325660838752754",
+    "post_image_description": "A colorful banner with the text \"What is L MY\" in blue and white, featuring a logo with a heart and Wi-Fi symbol. Below, text in Japanese reads \"ユーザー参加企画実施中！\" and describes a user participation project. Eight circular character portraits are shown, each with distinct colors and designs, representing members of Ikizulive, including various anime-style characters.",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false,
+            "can_dm_on_xchat": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64478,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1084,
+            "media_count": 330,
+            "normal_followers_count": 64478,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 432,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1969325660838752754"
+      ],
+      "editable_until_msecs": "1758362400000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "5565",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5NjkzMjU2NjA3NTA3MjEwMjQ=",
+          "text": "＼ \\🌟 ユーザー参加企画実施中！🌟 / ／\n\n#イキヅライブ ！では様々なユーザー参加企画を実施しています！\n現在は「メンバーカラー名アイディア募集」を実施中🎨\n\n皆さんが考える #いきづらい部 ！メンバーの特徴やイメージをメンバーカラー名のアイディアとして是非お送りください♪\n\nアンケートフォームはこちら✅\nhttps://t.co/GpBaqRIikx \n\n募集は【9/25(木)23:59】まで！",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  24,
+                  31
+                ],
+                "text": "イキヅライブ"
+              },
+              {
+                "indices": [
+                  91,
+                  98
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "t.co/GpBaqRIikx",
+                "expanded_url": "https://form.enq.kadokawa.co.jp/cre/?enq=2z8ICB%2f2kJo%3d",
+                "url": "https://t.co/GpBaqRIikx",
+                "indices": [
+                  157,
+                  180
+                ]
+              }
+            ],
+            "user_mentions": []
+          }
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 6,
+      "bookmarked": false,
+      "created_at": "Sat Sep 20 09:00:00 +0000 2025",
+      "conversation_id_str": "1969325660838752754",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              24,
+              31
+            ],
+            "text": "イキヅライブ"
+          },
+          {
+            "indices": [
+              91,
+              98
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/0p1SkB5Ldg",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1969325660838752754/photo/1",
+            "id_str": "1968965308007514112",
+            "indices": [
+              141,
+              164
+            ],
+            "media_key": "3_1968965308007514112",
+            "media_url_https": "https://pbs.twimg.com/media/G1Mrg_7bAAAnBj2.jpg",
+            "type": "photo",
+            "url": "https://t.co/0p1SkB5Ldg",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 109,
+                    "y": 853,
+                    "h": 113,
+                    "w": 113
+                  },
+                  {
+                    "x": 1425,
+                    "y": 849,
+                    "h": 136,
+                    "w": 136
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 64,
+                    "y": 500,
+                    "h": 66,
+                    "w": 66
+                  },
+                  {
+                    "x": 835,
+                    "y": 497,
+                    "h": 79,
+                    "w": 79
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 36,
+                    "y": 283,
+                    "h": 37,
+                    "w": 37
+                  },
+                  {
+                    "x": 473,
+                    "y": 282,
+                    "h": 45,
+                    "w": 45
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 206,
+                    "y": 1601,
+                    "h": 213,
+                    "w": 213
+                  },
+                  {
+                    "x": 2673,
+                    "y": 1593,
+                    "h": 255,
+                    "w": 255
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1152,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2160,
+              "width": 3840,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 10,
+                  "w": 3840,
+                  "h": 2150
+                },
+                {
+                  "x": 744,
+                  "y": 0,
+                  "w": 2160,
+                  "h": 2160
+                },
+                {
+                  "x": 877,
+                  "y": 0,
+                  "w": 1895,
+                  "h": 2160
+                },
+                {
+                  "x": 1284,
+                  "y": 0,
+                  "w": 1080,
+                  "h": 2160
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 3840,
+                  "h": 2160
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1968965308007514112"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/0p1SkB5Ldg",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1969325660838752754/photo/1",
+            "id_str": "1968965308007514112",
+            "indices": [
+              141,
+              164
+            ],
+            "media_key": "3_1968965308007514112",
+            "media_url_https": "https://pbs.twimg.com/media/G1Mrg_7bAAAnBj2.jpg",
+            "type": "photo",
+            "url": "https://t.co/0p1SkB5Ldg",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 109,
+                    "y": 853,
+                    "h": 113,
+                    "w": 113
+                  },
+                  {
+                    "x": 1425,
+                    "y": 849,
+                    "h": 136,
+                    "w": 136
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 64,
+                    "y": 500,
+                    "h": 66,
+                    "w": 66
+                  },
+                  {
+                    "x": 835,
+                    "y": 497,
+                    "h": 79,
+                    "w": 79
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 36,
+                    "y": 283,
+                    "h": 37,
+                    "w": 37
+                  },
+                  {
+                    "x": 473,
+                    "y": 282,
+                    "h": 45,
+                    "w": 45
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 206,
+                    "y": 1601,
+                    "h": 213,
+                    "w": 213
+                  },
+                  {
+                    "x": 2673,
+                    "y": 1593,
+                    "h": 255,
+                    "w": 255
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1152,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2160,
+              "width": 3840,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 10,
+                  "w": 3840,
+                  "h": 2150
+                },
+                {
+                  "x": 744,
+                  "y": 0,
+                  "w": 2160,
+                  "h": 2160
+                },
+                {
+                  "x": 877,
+                  "y": 0,
+                  "w": 1895,
+                  "h": 2160
+                },
+                {
+                  "x": 1284,
+                  "y": 0,
+                  "w": 1080,
+                  "h": 2160
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 3840,
+                  "h": 2160
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1968965308007514112"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 180,
+      "favorited": false,
+      "full_text": "＼ \\🌟 ユーザー参加企画実施中！🌟 / ／\n\n#イキヅライブ ！では様々なユーザー参加企画を実施しています！\n現在は「メンバーカラー名アイディア募集」を実施中🎨\n\n皆さんが考える #いきづらい部 ！メンバーの特徴やイメージをメンバーカラー名のアイディアとして是非お送りください♪ https://t.co/0p1SkB5Ldg",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 42,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1969325660838752754"
+    }
+  },
+  "created_at": "2025-09-20T09:00:00Z"
+}
