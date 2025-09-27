@@ -1,0 +1,938 @@
+{
+  "id": "1971822911918100875",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1971822911918100875",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G11ST0Nb0AAAx7b.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1971822911918100875",
+    "post_image_description": "Chika Takami wearing a purple and white dress with a high collar, standing outdoors on a tiled surface. She makes a peace sign with her right hand, wearing white sneakers. Trees and a dark wall with partial text \"ario\" are visible in the background.",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false,
+            "can_dm_on_xchat": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64461,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1089,
+            "media_count": 348,
+            "normal_followers_count": 64461,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 452,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1971822911918100875"
+      ],
+      "editable_until_msecs": "1758957791000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "6635",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5NzE4MjI5MTE3ODM5NDgyODg=",
+          "text": "／\n📢リリイベ情報\n＼\n\n調布のりこ 1st Solo Single「恋のワンタイムパスワード」リリースイベント＠岡山・アリオ倉敷\nご参加いただいた皆様、ありがとうございました！\n\n明日は金澤奇跡 1st Solo Singleリリースイベント＠香川・丸亀町グリーンが開催！\nお楽しみに✨\n\n☞https://t.co/nI5ALqKOsP\n\n#イキヅライブ #いきづらい部",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  172,
+                  179
+                ],
+                "text": "イキヅライブ"
+              },
+              {
+                "indices": [
+                  180,
+                  187
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "lovelive-anime.jp/lovehigh/news/…",
+                "expanded_url": "https://www.lovelive-anime.jp/lovehigh/news/detail.php?p=01_5164",
+                "url": "https://t.co/nI5ALqKOsP",
+                "indices": [
+                  147,
+                  170
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "quoted_status_result": {
+      "result": {
+        "__typename": "Tweet",
+        "rest_id": "1971749069694566814",
+        "post_image_description": "Chika Niji with long purple hair and red eyes, wearing a white shirt and purple outfit, leaning forward with a cheerful expression. Two pink bows are in her hair. Text overlay includes \"Chika Niji\" and Japanese characters.",
+        "core": {
+          "user_results": {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+              "rest_id": "1911282293341356032",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+              },
+              "core": {
+                "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+                "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                "screen_name": "ikizulive_staff"
+              },
+              "dm_permissions": {
+                "can_dm": false,
+                "can_dm_on_xchat": false
+              },
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "youtube.com/@IKIZULIVE",
+                        "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                        "url": "https://t.co/uAo8WcIDpK",
+                        "indices": [
+                          44,
+                          67
+                        ]
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "lovelive-anime.jp/lovehigh/",
+                        "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                        "url": "https://t.co/mfWPigBwKr",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 0,
+                "followers_count": 64461,
+                "friends_count": 12,
+                "has_custom_timelines": false,
+                "is_translator": false,
+                "listed_count": 1089,
+                "media_count": 348,
+                "normal_followers_count": 64461,
+                "pinned_tweet_ids_str": [
+                  "1963212724525293954"
+                ],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+                "profile_interstitial_type": "",
+                "statuses_count": 452,
+                "translator_type": "none",
+                "url": "https://t.co/mfWPigBwKr",
+                "want_retweets": true,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": "インターネット"
+              },
+              "media_permissions": {
+                "can_media_tag": false
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Circle",
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": true
+              },
+              "tipjar_settings": {},
+              "verification": {
+                "verified": false
+              }
+            }
+          }
+        },
+        "unmention_data": {},
+        "edit_control": {
+          "edit_tweet_ids": [
+            "1971749069694566814"
+          ],
+          "editable_until_msecs": "1758940186000",
+          "is_edit_eligible": true,
+          "edits_remaining": "5"
+        },
+        "is_translatable": true,
+        "views": {
+          "count": "31890",
+          "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "note_tweet": {
+          "is_expandable": true,
+          "note_tweet_results": {
+            "result": {
+              "id": "Tm90ZVR3ZWV0OjE5NzE3NDkwNjk1ODE0Mzg5Nzc=",
+              "text": "／\n📢リリイベ情報\n＼\n\n調布のりこ 1st Solo Single「恋のワンタイムパスワード」リリースイベント＠岡山・アリオ倉敷\n本日14:00～開催🍑\n\nいきづらい部！頑張ります！！\n\n注意事項をご確認のうえ、お楽しみいただけますようご協力のほどお願いいたします。\n☞https://t.co/yUw20dREvO\n\n#イキヅライブ #いきづらい部",
+              "entity_set": {
+                "hashtags": [
+                  {
+                    "indices": [
+                      161,
+                      168
+                    ],
+                    "text": "イキヅライブ"
+                  },
+                  {
+                    "indices": [
+                      169,
+                      176
+                    ],
+                    "text": "いきづらい部"
+                  }
+                ],
+                "symbols": [],
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/news/…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/news/detail.php?p=01_5163",
+                    "url": "https://t.co/yUw20dREvO",
+                    "indices": [
+                      136,
+                      159
+                    ]
+                  }
+                ],
+                "user_mentions": []
+              },
+              "richtext": {
+                "richtext_tags": []
+              },
+              "media": {
+                "inline_media": []
+              }
+            }
+          }
+        },
+        "legacy": {
+          "bookmark_count": 17,
+          "bookmarked": false,
+          "created_at": "Sat Sep 27 01:29:46 +0000 2025",
+          "conversation_id_str": "1971749069694566814",
+          "display_text_range": [
+            0,
+            168
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  161,
+                  168
+                ],
+                "text": "イキヅライブ"
+              }
+            ],
+            "media": [
+              {
+                "display_url": "pic.x.com/w8sU9lHzsD",
+                "expanded_url": "https://x.com/ikizulive_staff/status/1971749069694566814/photo/1",
+                "id_str": "1971748934168334341",
+                "indices": [
+                  169,
+                  192
+                ],
+                "media_key": "3_1971748934168334341",
+                "media_url_https": "https://pbs.twimg.com/media/G10PNXdb0AUg6sZ.jpg",
+                "type": "photo",
+                "url": "https://t.co/w8sU9lHzsD",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "x": 37,
+                        "y": 53,
+                        "h": 44,
+                        "w": 44
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "x": 37,
+                        "y": 53,
+                        "h": 44,
+                        "w": 44
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "x": 25,
+                        "y": 36,
+                        "h": 29,
+                        "w": 29
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "x": 37,
+                        "y": 53,
+                        "h": 44,
+                        "w": 44
+                      }
+                    ]
+                  }
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1000,
+                    "w": 1000,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "h": 1000,
+                    "w": 1000,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "h": 680,
+                    "w": 680,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "w": 150,
+                    "resize": "crop"
+                  }
+                },
+                "original_info": {
+                  "height": 1000,
+                  "width": 1000,
+                  "focus_rects": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 1000,
+                      "h": 560
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 1000,
+                      "h": 1000
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 877,
+                      "h": 1000
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 500,
+                      "h": 1000
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 1000,
+                      "h": 1000
+                    }
+                  ]
+                },
+                "allow_download_status": {
+                  "allow_download": true
+                },
+                "media_results": {
+                  "result": {
+                    "media_key": "3_1971748934168334341"
+                  }
+                }
+              }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [
+              {
+                "display_url": "lovelive-anime.jp/lovehigh/news/…",
+                "expanded_url": "https://www.lovelive-anime.jp/lovehigh/news/detail.php?p=01_5163",
+                "url": "https://t.co/CEORCzoNjH",
+                "indices": [
+                  136,
+                  159
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/w8sU9lHzsD",
+                "expanded_url": "https://x.com/ikizulive_staff/status/1971749069694566814/photo/1",
+                "id_str": "1971748934168334341",
+                "indices": [
+                  169,
+                  192
+                ],
+                "media_key": "3_1971748934168334341",
+                "media_url_https": "https://pbs.twimg.com/media/G10PNXdb0AUg6sZ.jpg",
+                "type": "photo",
+                "url": "https://t.co/w8sU9lHzsD",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "x": 37,
+                        "y": 53,
+                        "h": 44,
+                        "w": 44
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "x": 37,
+                        "y": 53,
+                        "h": 44,
+                        "w": 44
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "x": 25,
+                        "y": 36,
+                        "h": 29,
+                        "w": 29
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "x": 37,
+                        "y": 53,
+                        "h": 44,
+                        "w": 44
+                      }
+                    ]
+                  }
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1000,
+                    "w": 1000,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "h": 1000,
+                    "w": 1000,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "h": 680,
+                    "w": 680,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "w": 150,
+                    "resize": "crop"
+                  }
+                },
+                "original_info": {
+                  "height": 1000,
+                  "width": 1000,
+                  "focus_rects": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 1000,
+                      "h": 560
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 1000,
+                      "h": 1000
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 877,
+                      "h": 1000
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 500,
+                      "h": 1000
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 1000,
+                      "h": 1000
+                    }
+                  ]
+                },
+                "allow_download_status": {
+                  "allow_download": true
+                },
+                "media_results": {
+                  "result": {
+                    "media_key": "3_1971748934168334341"
+                  }
+                }
+              }
+            ]
+          },
+          "favorite_count": 693,
+          "favorited": false,
+          "full_text": "／\n📢リリイベ情報\n＼\n\n調布のりこ 1st Solo Single「恋のワンタイムパスワード」リリースイベント＠岡山・アリオ倉敷\n本日14:00～開催🍑\n\nいきづらい部！頑張ります！！\n\n注意事項をご確認のうえ、お楽しみいただけますようご協力のほどお願いいたします。\n☞https://t.co/CEORCzoNjH\n\n#イキヅライブ https://t.co/w8sU9lHzsD",
+          "is_quote_status": false,
+          "lang": "ja",
+          "possibly_sensitive": false,
+          "possibly_sensitive_editable": true,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 242,
+          "retweeted": false,
+          "user_id_str": "1911282293341356032",
+          "id_str": "1971749069694566814"
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 9,
+      "bookmarked": false,
+      "created_at": "Sat Sep 27 06:23:11 +0000 2025",
+      "conversation_id_str": "1971822911918100875",
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/upAnuvnJFd",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1971822911918100875/photo/1",
+            "id_str": "1971822712244129792",
+            "indices": [
+              171,
+              194
+            ],
+            "media_key": "3_1971822712244129792",
+            "media_url_https": "https://pbs.twimg.com/media/G11ST0Nb0AAAx7b.jpg",
+            "type": "photo",
+            "url": "https://t.co/upAnuvnJFd",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 702,
+                    "y": 240,
+                    "h": 82,
+                    "w": 82
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 570,
+                    "y": 194,
+                    "h": 66,
+                    "w": 66
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 323,
+                    "y": 110,
+                    "h": 37,
+                    "w": 37
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 702,
+                    "y": 240,
+                    "h": 82,
+                    "w": 82
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1108,
+                "w": 1477,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1108,
+              "width": 1477,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1477,
+                  "h": 827
+                },
+                {
+                  "x": 221,
+                  "y": 0,
+                  "w": 1108,
+                  "h": 1108
+                },
+                {
+                  "x": 289,
+                  "y": 0,
+                  "w": 972,
+                  "h": 1108
+                },
+                {
+                  "x": 498,
+                  "y": 0,
+                  "w": 554,
+                  "h": 1108
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1477,
+                  "h": 1108
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1971822712244129792"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "lovelive-anime.jp/lovehigh/news/…",
+            "expanded_url": "https://www.lovelive-anime.jp/lovehigh/news/detail.php?p=01_5164",
+            "url": "https://t.co/XqLE2XMtmJ",
+            "indices": [
+              147,
+              170
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/upAnuvnJFd",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1971822911918100875/photo/1",
+            "id_str": "1971822712244129792",
+            "indices": [
+              171,
+              194
+            ],
+            "media_key": "3_1971822712244129792",
+            "media_url_https": "https://pbs.twimg.com/media/G11ST0Nb0AAAx7b.jpg",
+            "type": "photo",
+            "url": "https://t.co/upAnuvnJFd",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 702,
+                    "y": 240,
+                    "h": 82,
+                    "w": 82
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 570,
+                    "y": 194,
+                    "h": 66,
+                    "w": 66
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 323,
+                    "y": 110,
+                    "h": 37,
+                    "w": 37
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 702,
+                    "y": 240,
+                    "h": 82,
+                    "w": 82
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1108,
+                "w": 1477,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 900,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 510,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1108,
+              "width": 1477,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1477,
+                  "h": 827
+                },
+                {
+                  "x": 221,
+                  "y": 0,
+                  "w": 1108,
+                  "h": 1108
+                },
+                {
+                  "x": 289,
+                  "y": 0,
+                  "w": 972,
+                  "h": 1108
+                },
+                {
+                  "x": 498,
+                  "y": 0,
+                  "w": 554,
+                  "h": 1108
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1477,
+                  "h": 1108
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1971822712244129792"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 286,
+      "favorited": false,
+      "full_text": "／\n📢リリイベ情報\n＼\n\n調布のりこ 1st Solo Single「恋のワンタイムパスワード」リリースイベント＠岡山・アリオ倉敷\nご参加いただいた皆様、ありがとうございました！\n\n明日は金澤奇跡 1st Solo Singleリリースイベント＠香川・丸亀町グリーンが開催！\nお楽しみに✨\n\n☞https://t.co/XqLE2XMtmJ https://t.co/upAnuvnJFd",
+      "is_quote_status": true,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 9,
+      "quoted_status_id_str": "1971749069694566814",
+      "quoted_status_permalink": {
+        "url": "https://t.co/lz1ZavGL7c",
+        "expanded": "https://twitter.com/ikizulive_staff/status/1971749069694566814",
+        "display": "x.com/ikizulive_staf…"
+      },
+      "reply_count": 2,
+      "retweet_count": 129,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1971822911918100875"
+    }
+  },
+  "created_at": "2025-09-27T06:23:11Z"
+}
