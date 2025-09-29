@@ -1,0 +1,440 @@
+{
+  "id": "1972496596878377151",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1972496596878377151",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G1-012Ea4AA8Dv3.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1972496596878377151",
+    "post_image_description": "Takahashi Polka and Azabu Mai, two anime characters, depicted in circular frames. Takahashi Polka has orange hair and wears a white outfit with sparkles, smiling brightly. Azabu Mai has dark blue hair and wears a school uniform, looking forward with a calm expression. Yellow chairs and tables are visible in a room with a plant in the background. Text overlays include \"イキヅライブ！ LOVELIVE! BLUEBIRD\" and \"マジカルマイマイ\".",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false,
+            "can_dm_on_xchat": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64444,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1090,
+            "media_count": 352,
+            "normal_followers_count": 64444,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 456,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1972496596878377151"
+      ],
+      "editable_until_msecs": "1759118410000",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "2944",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5NzI0OTY1OTY3NDAwNDI3NTM=",
+          "text": "◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n　#いきづらい部 ！日常動画公開中！\n◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n\nいきづらい部！の日常動画が公開中です！\n普段のメンバー同士の会話を是非ご覧ください♪\n動画はこちら↓\n\n「マジカルマイマイ」\nhttps://t.co/ulkJ4HgZ1A \n\n#高橋ポルカ （CV.綾咲穂音）\n#麻布麻衣 （CV.遠藤璃菜）\n\n#イキヅライブ",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  20,
+                  27
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  147,
+                  153
+                ],
+                "text": "高橋ポルカ"
+              },
+              {
+                "indices": [
+                  164,
+                  169
+                ],
+                "text": "麻布麻衣"
+              },
+              {
+                "indices": [
+                  181,
+                  188
+                ],
+                "text": "イキヅライブ"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "youtu.be/JkXQpWHoOdM",
+                "expanded_url": "http://youtu.be/JkXQpWHoOdM",
+                "url": "https://t.co/ulkJ4HgZ1A",
+                "indices": [
+                  121,
+                  144
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 9,
+      "bookmarked": false,
+      "created_at": "Mon Sep 29 03:00:10 +0000 2025",
+      "conversation_id_str": "1972496596878377151",
+      "display_text_range": [
+        0,
+        153
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              20,
+              27
+            ],
+            "text": "いきづらい部"
+          },
+          {
+            "indices": [
+              147,
+              153
+            ],
+            "text": "高橋ポルカ"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/AztQde5jBd",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1972496596878377151/photo/1",
+            "id_str": "1972493998951686144",
+            "indices": [
+              154,
+              177
+            ],
+            "media_key": "3_1972493998951686144",
+            "media_url_https": "https://pbs.twimg.com/media/G1-012Ea4AA8Dv3.jpg",
+            "type": "photo",
+            "url": "https://t.co/AztQde5jBd",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1920,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1920,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1920,
+                  "h": 1075
+                },
+                {
+                  "x": 840,
+                  "y": 0,
+                  "w": 1080,
+                  "h": 1080
+                },
+                {
+                  "x": 919,
+                  "y": 0,
+                  "w": 947,
+                  "h": 1080
+                },
+                {
+                  "x": 1122,
+                  "y": 0,
+                  "w": 540,
+                  "h": 1080
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1920,
+                  "h": 1080
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1972493998951686144"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/JkXQpWHoOdM",
+            "expanded_url": "http://youtu.be/JkXQpWHoOdM",
+            "url": "https://t.co/PvJHdDgf4K",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/AztQde5jBd",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1972496596878377151/photo/1",
+            "id_str": "1972493998951686144",
+            "indices": [
+              154,
+              177
+            ],
+            "media_key": "3_1972493998951686144",
+            "media_url_https": "https://pbs.twimg.com/media/G1-012Ea4AA8Dv3.jpg",
+            "type": "photo",
+            "url": "https://t.co/AztQde5jBd",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1920,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1920,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1920,
+                  "h": 1075
+                },
+                {
+                  "x": 840,
+                  "y": 0,
+                  "w": 1080,
+                  "h": 1080
+                },
+                {
+                  "x": 919,
+                  "y": 0,
+                  "w": 947,
+                  "h": 1080
+                },
+                {
+                  "x": 1122,
+                  "y": 0,
+                  "w": 540,
+                  "h": 1080
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1920,
+                  "h": 1080
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1972493998951686144"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 125,
+      "favorited": false,
+      "full_text": "◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n　#いきづらい部 ！日常動画公開中！\n◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n\nいきづらい部！の日常動画が公開中です！\n普段のメンバー同士の会話を是非ご覧ください♪\n動画はこちら↓\n\n「マジカルマイマイ」\nhttps://t.co/PvJHdDgf4K \n\n#高橋ポルカ https://t.co/AztQde5jBd",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 2,
+      "reply_count": 1,
+      "retweet_count": 49,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1972496596878377151"
+    }
+  },
+  "created_at": "2025-09-29T03:00:10Z"
+}
