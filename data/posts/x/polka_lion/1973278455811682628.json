@@ -1,0 +1,145 @@
+{
+  "id": "1973278455811682628",
+  "username": "polka_lion",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1973278455811682628",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxODg0MTE2MDM5Nzk1MTk1OTA0",
+          "rest_id": "1884116039795195904",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png"
+          },
+          "core": {
+            "created_at": "Tue Jan 28 05:48:09 +0000 2025",
+            "name": "高橋ポルカ@いきづらい部！",
+            "screen_name": "polka_lion"
+          },
+          "dm_permissions": {
+            "can_dm": false,
+            "can_dm_on_xchat": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=0",
+                    "url": "https://t.co/wP9kBCucrb",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 28407,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1206,
+            "media_count": 0,
+            "normal_followers_count": 28407,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884116039795195904/1747048408",
+            "profile_interstitial_type": "",
+            "statuses_count": 164,
+            "translator_type": "none",
+            "url": "https://t.co/wP9kBCucrb",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": false
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1973278455811682628"
+      ],
+      "editable_until_msecs": "1759304820000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "3760",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 2,
+      "bookmarked": false,
+      "created_at": "Wed Oct 01 06:47:00 +0000 2025",
+      "conversation_id_str": "1973278455811682628",
+      "display_text_range": [
+        0,
+        67
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              60,
+              67
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 164,
+      "favorited": false,
+      "full_text": "ずっと思ってたことなんだけど🌻\n\nなんか月って急に変わるよね…\nいつもビックリするんだけど⛩\n\nこれってポルカだけ？\n\n#いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 4,
+      "reply_count": 1,
+      "retweet_count": 40,
+      "retweeted": false,
+      "user_id_str": "1884116039795195904",
+      "id_str": "1973278455811682628"
+    }
+  },
+  "created_at": "2025-10-01T06:47:00Z"
+}
