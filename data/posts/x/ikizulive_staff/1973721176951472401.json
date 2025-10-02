@@ -1,0 +1,424 @@
+{
+  "id": "1973721176951472401",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1973721176951472401",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G2QQ5h4aEAAyPpZ.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1973721176951472401",
+    "post_image_description": "A colorful poster displaying LoveLive merchandise. Items include black T-shirts, black tote bags, colorful bibs, stickers, badges, clear files, acrylic stands, and plush keychains featuring characters from LoveLive. Prices are listed next to each item, ranging from 500 yen to 7,800 yen.",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false,
+            "can_dm_on_xchat": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64441,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1093,
+            "media_count": 374,
+            "normal_followers_count": 64441,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 484,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1973721176951472401"
+      ],
+      "editable_until_msecs": "1759410373000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "30316",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5NzM3MjExNzY4ODg0NTUxNjg=",
+          "text": "◇━━━━━━━━━━━━◇\n　　　 #イキヅライブ\n　始まりたい？グッズ第2弾\n　　　　  発売中‼\n◇━━━━━━━━━━━━◇\n\n#いきづらい部！第２弾グッズ発売中🎊\nビブスやぬいぐるみストラップなど全9アイテム！\n「始まりたい？グッズ」をお見逃しなく👀💕\n※ぬいぐるみストラップのみ受注販売となります。\n\n詳細はこちら✅\nhttps://t.co/iF9o8fTHPA \n\n#イキヅLIVE配信",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  19,
+                  26
+                ],
+                "text": "イキヅライブ"
+              },
+              {
+                "indices": [
+                  68,
+                  75
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  191,
+                  201
+                ],
+                "text": "イキヅLIVE配信"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "lovelive-anime.jp/news/01_5131.h…",
+                "expanded_url": "https://lovelive-anime.jp/news/01_5131.html",
+                "url": "https://t.co/iF9o8fTHPA",
+                "indices": [
+                  165,
+                  188
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 34,
+      "bookmarked": false,
+      "created_at": "Thu Oct 02 12:06:13 +0000 2025",
+      "conversation_id_str": "1973721176951472401",
+      "display_text_range": [
+        0,
+        131
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              19,
+              26
+            ],
+            "text": "イキヅライブ"
+          },
+          {
+            "indices": [
+              68,
+              75
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/WzFF8Z85Vi",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1973721176951472401/photo/1",
+            "id_str": "1973721117228666880",
+            "indices": [
+              132,
+              155
+            ],
+            "media_key": "3_1973721117228666880",
+            "media_url_https": "https://pbs.twimg.com/media/G2QQ5h4aEAAyPpZ.jpg",
+            "type": "photo",
+            "url": "https://t.co/WzFF8Z85Vi",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1200,
+                "w": 849,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 849,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 481,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1200,
+              "width": 849,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 725,
+                  "w": 849,
+                  "h": 475
+                },
+                {
+                  "x": 0,
+                  "y": 351,
+                  "w": 849,
+                  "h": 849
+                },
+                {
+                  "x": 0,
+                  "y": 232,
+                  "w": 849,
+                  "h": 968
+                },
+                {
+                  "x": 249,
+                  "y": 0,
+                  "w": 600,
+                  "h": 1200
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 849,
+                  "h": 1200
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1973721117228666880"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/WzFF8Z85Vi",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1973721176951472401/photo/1",
+            "id_str": "1973721117228666880",
+            "indices": [
+              132,
+              155
+            ],
+            "media_key": "3_1973721117228666880",
+            "media_url_https": "https://pbs.twimg.com/media/G2QQ5h4aEAAyPpZ.jpg",
+            "type": "photo",
+            "url": "https://t.co/WzFF8Z85Vi",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1200,
+                "w": 849,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 849,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 481,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1200,
+              "width": 849,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 725,
+                  "w": 849,
+                  "h": 475
+                },
+                {
+                  "x": 0,
+                  "y": 351,
+                  "w": 849,
+                  "h": 849
+                },
+                {
+                  "x": 0,
+                  "y": 232,
+                  "w": 849,
+                  "h": 968
+                },
+                {
+                  "x": 249,
+                  "y": 0,
+                  "w": 600,
+                  "h": 1200
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 849,
+                  "h": 1200
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1973721117228666880"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 418,
+      "favorited": false,
+      "full_text": "◇━━━━━━━━━━━━◇\n　　　 #イキヅライブ\n　始まりたい？グッズ第2弾\n　　　　  発売中‼\n◇━━━━━━━━━━━━◇\n\n#いきづらい部！第２弾グッズ発売中🎊\nビブスやぬいぐるみストラップなど全9アイテム！\n「始まりたい？グッズ」をお見逃しなく👀💕 https://t.co/WzFF8Z85Vi",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 3,
+      "reply_count": 0,
+      "retweet_count": 150,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1973721176951472401"
+    }
+  },
+  "created_at": "2025-10-02T12:06:13Z"
+}
