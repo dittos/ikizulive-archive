@@ -1,0 +1,506 @@
+{
+  "id": "1976895963630649633",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1976895963630649633",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G29X1NrbwAM_g_f.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1976895963630649633",
+    "post_image_description": "A large promotional banner displays an anime-style female character with green hair and eyes in a blue-themed background with roses and the text Tower Records in red and Pray Records in white below. In front of the banner stands a real woman with black hair wearing a light-colored blouse and striped skirt holding up a CD case labeled Tower Records Pray for love. The setting appears to be an indoor event space with the banner mounted on a wall.",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false,
+            "can_dm_on_xchat": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64556,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1089,
+            "media_count": 402,
+            "normal_followers_count": 64556,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 515,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1976895963630649633"
+      ],
+      "editable_until_msecs": "1760167301000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "5557",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5NzY4OTU5NjM1NTA5NTc1NzA=",
+          "text": "／\n📢リリイベ情報\n＼\n\n春宮ゆくり 1st Solo Single「Pray for love」\nリリースイベント＠奈良・イオンモール橿原\n\nイベントへのご参加、ご協力いただきありがとうございました！\n是非たくさん聴いてくださいね💿\n\n明日は\n10月12日(日) 此花輝夜 1st Solo Singleリリースイベント＠福岡・ららぽーと福岡\nとなります🎤\n\n詳細はこちら☞https://t.co/miqrSmTlxT\n\n#イキヅライブ #いきづらい部",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  213,
+                  220
+                ],
+                "text": "イキヅライブ"
+              },
+              {
+                "indices": [
+                  221,
+                  228
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "lovelive-anime.jp/lovehigh/news/…",
+                "expanded_url": "https://lovelive-anime.jp/lovehigh/news/?cat=event",
+                "url": "https://t.co/miqrSmTlxT",
+                "indices": [
+                  188,
+                  211
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 15,
+      "bookmarked": false,
+      "created_at": "Sat Oct 11 06:21:41 +0000 2025",
+      "conversation_id_str": "1976895963630649633",
+      "display_text_range": [
+        0,
+        146
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/Ngq3jbUCPV",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1976895963630649633/photo/1",
+            "id_str": "1976895333155454979",
+            "indices": [
+              147,
+              170
+            ],
+            "media_key": "3_1976895333155454979",
+            "media_url_https": "https://pbs.twimg.com/media/G29X1NrbwAM_g_f.jpg",
+            "type": "photo",
+            "url": "https://t.co/Ngq3jbUCPV",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 814,
+                    "y": 235,
+                    "h": 111,
+                    "w": 111
+                  },
+                  {
+                    "x": 382,
+                    "y": 715,
+                    "h": 150,
+                    "w": 150
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 606,
+                    "y": 175,
+                    "h": 82,
+                    "w": 82
+                  },
+                  {
+                    "x": 284,
+                    "y": 532,
+                    "h": 111,
+                    "w": 111
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 343,
+                    "y": 99,
+                    "h": 46,
+                    "w": 46
+                  },
+                  {
+                    "x": 161,
+                    "y": 301,
+                    "h": 63,
+                    "w": 63
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 814,
+                    "y": 235,
+                    "h": 111,
+                    "w": 111
+                  },
+                  {
+                    "x": 382,
+                    "y": 715,
+                    "h": 150,
+                    "w": 150
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1016,
+                "w": 1610,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 757,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 429,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1016,
+              "width": 1610,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1610,
+                  "h": 902
+                },
+                {
+                  "x": 336,
+                  "y": 0,
+                  "w": 1016,
+                  "h": 1016
+                },
+                {
+                  "x": 399,
+                  "y": 0,
+                  "w": 891,
+                  "h": 1016
+                },
+                {
+                  "x": 590,
+                  "y": 0,
+                  "w": 508,
+                  "h": 1016
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1610,
+                  "h": 1016
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1976895333155454979"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/Ngq3jbUCPV",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1976895963630649633/photo/1",
+            "id_str": "1976895333155454979",
+            "indices": [
+              147,
+              170
+            ],
+            "media_key": "3_1976895333155454979",
+            "media_url_https": "https://pbs.twimg.com/media/G29X1NrbwAM_g_f.jpg",
+            "type": "photo",
+            "url": "https://t.co/Ngq3jbUCPV",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 814,
+                    "y": 235,
+                    "h": 111,
+                    "w": 111
+                  },
+                  {
+                    "x": 382,
+                    "y": 715,
+                    "h": 150,
+                    "w": 150
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 606,
+                    "y": 175,
+                    "h": 82,
+                    "w": 82
+                  },
+                  {
+                    "x": 284,
+                    "y": 532,
+                    "h": 111,
+                    "w": 111
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 343,
+                    "y": 99,
+                    "h": 46,
+                    "w": 46
+                  },
+                  {
+                    "x": 161,
+                    "y": 301,
+                    "h": 63,
+                    "w": 63
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 814,
+                    "y": 235,
+                    "h": 111,
+                    "w": 111
+                  },
+                  {
+                    "x": 382,
+                    "y": 715,
+                    "h": 150,
+                    "w": 150
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1016,
+                "w": 1610,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 757,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 429,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1016,
+              "width": 1610,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1610,
+                  "h": 902
+                },
+                {
+                  "x": 336,
+                  "y": 0,
+                  "w": 1016,
+                  "h": 1016
+                },
+                {
+                  "x": 399,
+                  "y": 0,
+                  "w": 891,
+                  "h": 1016
+                },
+                {
+                  "x": 590,
+                  "y": 0,
+                  "w": 508,
+                  "h": 1016
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1610,
+                  "h": 1016
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1976895333155454979"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 395,
+      "favorited": false,
+      "full_text": "／\n📢リリイベ情報\n＼\n\n春宮ゆくり 1st Solo Single「Pray for love」\nリリースイベント＠奈良・イオンモール橿原\n\nイベントへのご参加、ご協力いただきありがとうございました！\n是非たくさん聴いてくださいね💿\n\n明日は\n10月12日(日) 此花輝夜 1st Solo https://t.co/Ngq3jbUCPV",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 7,
+      "reply_count": 0,
+      "retweet_count": 185,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1976895963630649633"
+    }
+  },
+  "created_at": "2025-10-11T06:21:41Z"
+}
