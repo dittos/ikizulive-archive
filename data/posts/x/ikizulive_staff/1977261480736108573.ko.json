@@ -1,0 +1,37 @@
+{
+  "id": "1977261480736108573",
+  "translated_text": "／\n📢릴리즈 이벤트 정보\n＼\n\n코노하나 오로라 1st 솔로 싱글 「너는 밤의 폴라리스」\n릴리즈 이벤트＠라라포트 후쿠오카\n\n이벤트에 참가하고 협력해 주셔서 감사합니다!\n꼭 많이 들어주세요💿\n\n다음은\n10월 25일(토) 사사키 시온 1st 솔로 싱글 릴리즈 이벤트＠홋카이도\n10월 26일(일) https://t.co/pg1DsFUtSp",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n\n사람 이름 읽는 법:\n高橋ポルカ -> 타카하시 폴카\n麻布麻衣 -> 아자부 마이\n五桐 玲 -> 고토 아키라\n駒形花火 -> 코마가타 하나비\n金澤奇跡 -> 카나자와 미라클\n調布のりこ -> 쵸후 노리코\n春宮ゆくり -> 하루미야 유쿠리\n此花輝夜 -> 코노하나 오로라\n山田真緑 -> 야마다 미도리\n佐々木翔音 -> 사사키 시온\n",
+  "raw_data": {
+    "id": "AUzraJ6KI7_XjMcP1MPHgAU",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "／\n📢릴리즈 이벤트 정보\n＼\n\n코노하나 오로라 1st 솔로 싱글 「너는 밤의 폴라리스」\n릴리즈 이벤트＠라라포트 후쿠오카\n\n이벤트에 참가하고 협력해 주셔서 감사합니다!\n꼭 많이 들어주세요💿\n\n다음은\n10월 25일(토) 사사키 시온 1st 솔로 싱글 릴리즈 이벤트＠홋카이도\n10월 26일(일) https://t.co/pg1DsFUtSp",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1760250881,
+    "model": "gemini-2.5-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 123,
+      "prompt_tokens": 362,
+      "total_tokens": 1490,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}
