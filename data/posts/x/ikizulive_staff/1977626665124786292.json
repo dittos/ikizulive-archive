@@ -1,0 +1,477 @@
+{
+  "id": "1977626665124786292",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1977626665124786292",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G3HwAF6akAAdwqI.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1977626665124786292",
+    "post_image_description": "Anime-style illustration divided into sections showing multiple female characters in colorful outfits posing dynamically with smiles and gestures. Upper left features characters in pink and yellow attire against a rainbow background. Upper right shows group in school uniforms with event text overlays. Lower left displays dates February 14 and 15 2026. Lower right includes characters in blue and green uniforms with Japanese text for event details and title What is my L.",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false,
+            "can_dm_on_xchat": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64550,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1089,
+            "media_count": 410,
+            "normal_followers_count": 64550,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 526,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1977626665124786292"
+      ],
+      "editable_until_msecs": "1760341514000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "10639",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5Nzc2MjY2NjQ5ODIyMzMwODg=",
+          "text": "／\n📢ショート動画更新！\n＼\n\nいきづらい部！麻布麻衣 1st Solo Singleリリイベ＠埼玉の映像の一部をショートで公開！\n☞https://t.co/NMUxAcFvwN\n\nいきづらい部！1st LIVE ～ What is my L ? ～\n🎟️最速先行抽選受付は本日23:59まで⏰\n\n📅開催日：2026年2月14日(土),15日(日)\n🎪会場：幕張イベントホール\n🎫詳細：https://t.co/w2bRyu5v2b\n\n#イキヅライブ #いきづらい部",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  219,
+                  226
+                ],
+                "text": "イキヅライブ"
+              },
+              {
+                "indices": [
+                  227,
+                  234
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "youtube.com/shorts/FKQwbZm…",
+                "expanded_url": "https://youtube.com/shorts/FKQwbZmASgQ",
+                "url": "https://t.co/NMUxAcFvwN",
+                "indices": [
+                  67,
+                  90
+                ]
+              },
+              {
+                "display_url": "lovelive-anime.jp/lovehigh/live/…",
+                "expanded_url": "https://www.lovelive-anime.jp/lovehigh/live/live_detail.php?_id=WhatismyL",
+                "url": "https://t.co/w2bRyu5v2b",
+                "indices": [
+                  194,
+                  217
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 16,
+      "bookmarked": false,
+      "created_at": "Mon Oct 13 06:45:14 +0000 2025",
+      "conversation_id_str": "1977626665124786292",
+      "display_text_range": [
+        0,
+        175
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/blu3NiT0mi",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1977626665124786292/photo/1",
+            "id_str": "1977625595770212352",
+            "indices": [
+              176,
+              199
+            ],
+            "media_key": "3_1977625595770212352",
+            "media_url_https": "https://pbs.twimg.com/media/G3HwAF6akAAdwqI.jpg",
+            "type": "photo",
+            "url": "https://t.co/blu3NiT0mi",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 279,
+                    "y": 472,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 279,
+                    "y": 472,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 279,
+                    "y": 472,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 279,
+                    "y": 472,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 680,
+              "width": 680,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 99,
+                  "w": 680,
+                  "h": 381
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 680,
+                  "h": 680
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 596,
+                  "h": 680
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 340,
+                  "h": 680
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 680,
+                  "h": 680
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1977625595770212352"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtube.com/shorts/FKQwbZm…",
+            "expanded_url": "https://youtube.com/shorts/FKQwbZmASgQ",
+            "url": "https://t.co/RDNUDQ3yNr",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/blu3NiT0mi",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1977626665124786292/photo/1",
+            "id_str": "1977625595770212352",
+            "indices": [
+              176,
+              199
+            ],
+            "media_key": "3_1977625595770212352",
+            "media_url_https": "https://pbs.twimg.com/media/G3HwAF6akAAdwqI.jpg",
+            "type": "photo",
+            "url": "https://t.co/blu3NiT0mi",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 279,
+                    "y": 472,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 279,
+                    "y": 472,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 279,
+                    "y": 472,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 279,
+                    "y": 472,
+                    "h": 115,
+                    "w": 115
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 680,
+              "width": 680,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 99,
+                  "w": 680,
+                  "h": 381
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 680,
+                  "h": 680
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 596,
+                  "h": 680
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 340,
+                  "h": 680
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 680,
+                  "h": 680
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1977625595770212352"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 277,
+      "favorited": false,
+      "full_text": "／\n📢ショート動画更新！\n＼\n\nいきづらい部！麻布麻衣 1st Solo Singleリリイベ＠埼玉の映像の一部をショートで公開！\n☞https://t.co/RDNUDQ3yNr\n\nいきづらい部！1st LIVE ～ What is my L ? ～\n🎟️最速先行抽選受付は本日23:59まで⏰\n\n📅開催日：2026年2月14日(土),15日(日) https://t.co/blu3NiT0mi",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 10,
+      "reply_count": 1,
+      "retweet_count": 99,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1977626665124786292"
+    }
+  },
+  "created_at": "2025-10-13T06:45:14Z"
+}
