@@ -1,0 +1,542 @@
+{
+  "id": "1977698382790709456",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1977698382790709456",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G3Ixhr-bwAANpS6.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1977698382790709456",
+    "post_image_description": "A young woman with long dark hair and smiling expression stands holding a white towel with red and gold star designs and Japanese text, and a light-colored cheer stick, dressed in a pink and white striped sailor-style school uniform with a collar and skirt, in front of a beige wall displaying event posters and banners with Japanese writing about FM FUKUOKA and あにぺろフェス.",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false,
+            "can_dm_on_xchat": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64541,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1089,
+            "media_count": 412,
+            "normal_followers_count": 64541,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 529,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1977698382790709456"
+      ],
+      "editable_until_msecs": "1760358612000",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "15153",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5Nzc2OTgzODI2NzMyODEwMjQ=",
+          "text": "◌◍┈┈┈┈┈┈┈\n📻FM FUKUOKA 開局55周年記念\n「#あにぺろフェス」\n　　　ありがとうございました！\n　　　　　　　　　┈┈┈┈┈⿻*.·\n\nオープニングアクトとして、\n#いきづらい部！より此花輝夜役・天沢朱音が出演いたしました🎤\nあたたかいご声援、ありがとうございました💗\n\n♬セットリスト♬\nM1. What is my LIFE? (此花輝夜 Solo Ver.)\nM2. キミは夜のポラリス\n\n#あにぺろ(@FMFUKUOKA1)\n#fmfukuoka\n#イキヅライブ",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  32,
+                  40
+                ],
+                "text": "あにぺろフェス"
+              },
+              {
+                "indices": [
+                  92,
+                  99
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  208,
+                  213
+                ],
+                "text": "あにぺろ"
+              },
+              {
+                "indices": [
+                  227,
+                  237
+                ],
+                "text": "fmfukuoka"
+              },
+              {
+                "indices": [
+                  238,
+                  245
+                ],
+                "text": "イキヅライブ"
+              }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+              {
+                "id_str": "1212039208363102210",
+                "name": "あにぺろ【毎週火曜日20時30分～OA】",
+                "screen_name": "FMFUKUOKA1",
+                "indices": [
+                  214,
+                  225
+                ]
+              }
+            ]
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 18,
+      "bookmarked": false,
+      "created_at": "Mon Oct 13 11:30:12 +0000 2025",
+      "conversation_id_str": "1977698382790709456",
+      "display_text_range": [
+        0,
+        154
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              32,
+              40
+            ],
+            "text": "あにぺろフェス"
+          },
+          {
+            "indices": [
+              92,
+              99
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/gocd0hmYQd",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1977698382790709456/photo/1",
+            "id_str": "1977697641179103232",
+            "indices": [
+              155,
+              178
+            ],
+            "media_key": "3_1977697641179103232",
+            "media_url_https": "https://pbs.twimg.com/media/G3Ixhr-bwAANpS6.jpg",
+            "type": "photo",
+            "url": "https://t.co/gocd0hmYQd",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 524,
+                    "y": 264,
+                    "h": 253,
+                    "w": 253
+                  },
+                  {
+                    "x": 536,
+                    "y": 481,
+                    "h": 246,
+                    "w": 246
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 471,
+                    "y": 237,
+                    "h": 227,
+                    "w": 227
+                  },
+                  {
+                    "x": 482,
+                    "y": 433,
+                    "h": 221,
+                    "w": 221
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 267,
+                    "y": 134,
+                    "h": 129,
+                    "w": 129
+                  },
+                  {
+                    "x": 273,
+                    "y": 245,
+                    "h": 125,
+                    "w": 125
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 524,
+                    "y": 264,
+                    "h": 253,
+                    "w": 253
+                  },
+                  {
+                    "x": 536,
+                    "y": 481,
+                    "h": 246,
+                    "w": 246
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1227,
+                "w": 1333,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1105,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 626,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1227,
+              "width": 1333,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 325,
+                  "w": 1333,
+                  "h": 746
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1227,
+                  "h": 1227
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1076,
+                  "h": 1227
+                },
+                {
+                  "x": 59,
+                  "y": 0,
+                  "w": 614,
+                  "h": 1227
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1333,
+                  "h": 1227
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1977697641179103232"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/gocd0hmYQd",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1977698382790709456/photo/1",
+            "id_str": "1977697641179103232",
+            "indices": [
+              155,
+              178
+            ],
+            "media_key": "3_1977697641179103232",
+            "media_url_https": "https://pbs.twimg.com/media/G3Ixhr-bwAANpS6.jpg",
+            "type": "photo",
+            "url": "https://t.co/gocd0hmYQd",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 524,
+                    "y": 264,
+                    "h": 253,
+                    "w": 253
+                  },
+                  {
+                    "x": 536,
+                    "y": 481,
+                    "h": 246,
+                    "w": 246
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 471,
+                    "y": 237,
+                    "h": 227,
+                    "w": 227
+                  },
+                  {
+                    "x": 482,
+                    "y": 433,
+                    "h": 221,
+                    "w": 221
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 267,
+                    "y": 134,
+                    "h": 129,
+                    "w": 129
+                  },
+                  {
+                    "x": 273,
+                    "y": 245,
+                    "h": 125,
+                    "w": 125
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 524,
+                    "y": 264,
+                    "h": 253,
+                    "w": 253
+                  },
+                  {
+                    "x": 536,
+                    "y": 481,
+                    "h": 246,
+                    "w": 246
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1227,
+                "w": 1333,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1105,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 626,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1227,
+              "width": 1333,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 325,
+                  "w": 1333,
+                  "h": 746
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1227,
+                  "h": 1227
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1076,
+                  "h": 1227
+                },
+                {
+                  "x": 59,
+                  "y": 0,
+                  "w": 614,
+                  "h": 1227
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1333,
+                  "h": 1227
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1977697641179103232"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 501,
+      "favorited": false,
+      "full_text": "◌◍┈┈┈┈┈┈┈\n📻FM FUKUOKA 開局55周年記念\n「#あにぺろフェス」\n　　　ありがとうございました！\n　　　　　　　　　┈┈┈┈┈⿻*.·\n\nオープニングアクトとして、\n#いきづらい部！より此花輝夜役・天沢朱音が出演いたしました🎤\nあたたかいご声援、ありがとうございました💗\n\n♬セットリスト♬ https://t.co/gocd0hmYQd",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 8,
+      "reply_count": 4,
+      "retweet_count": 150,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1977698382790709456"
+    }
+  },
+  "created_at": "2025-10-13T11:30:12Z"
+}
