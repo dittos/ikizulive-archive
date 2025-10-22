@@ -1,0 +1,675 @@
+{
+  "id": "1980952427563254264",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1980952427563254264",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G33BubaW0AACmZh.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1980952427563254264",
+    "post_image_description": "Group of ten anime girls in various school uniforms and colorful outfits including blue, pink, yellow, red, purple, and green dresses with skirts and ribbons, standing and jumping on a stage-like area with musical notes and hearts in the background. Japanese text lists character names such as Akari, Hinata, and others below them. Bottom section shows event title in blue with date 10/22 (Thu) 20:00 and Japanese text indicating live stream.",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64513,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1088,
+            "media_count": 438,
+            "normal_followers_count": 64513,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 556,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/EaDuvh37so",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "image_value": {
+                "height": 144,
+                "width": 144,
+                "url": "https://pbs.twimg.com/card_img/1978500447762624513/JNajI2qb?format=jpg&name=144x144_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "イキヅLIVE配信～みんなで進もう！一歩ずつ！～を配信！バンダイチャンネルで、2025/10/02(木) 20:00～",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "live.b-ch.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "image_value": {
+                "height": 420,
+                "width": 420,
+                "url": "https://pbs.twimg.com/card_img/1978500447762624513/JNajI2qb?format=jpg&name=420x420_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "image_value": {
+                "height": 1080,
+                "width": 1920,
+                "url": "https://pbs.twimg.com/card_img/1978500447762624513/JNajI2qb?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "image_value": {
+                "height": 100,
+                "width": 100,
+                "url": "https://pbs.twimg.com/card_img/1978500447762624513/JNajI2qb?format=jpg&name=100x100_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 1080,
+                "width": 1920,
+                "url": "https://pbs.twimg.com/card_img/1978500447762624513/JNajI2qb?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "live.b-ch.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 236,
+                      "green": 239,
+                      "red": 249
+                    },
+                    "percentage": 40.51
+                  },
+                  {
+                    "rgb": {
+                      "blue": 14,
+                      "green": 232,
+                      "red": 247
+                    },
+                    "percentage": 12.88
+                  },
+                  {
+                    "rgb": {
+                      "blue": 250,
+                      "green": 205,
+                      "red": 66
+                    },
+                    "percentage": 12.36
+                  },
+                  {
+                    "rgb": {
+                      "blue": 182,
+                      "green": 178,
+                      "red": 238
+                    },
+                    "percentage": 4.64
+                  },
+                  {
+                    "rgb": {
+                      "blue": 90,
+                      "green": 232,
+                      "red": 195
+                    },
+                    "percentage": 3.56
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "イキヅLIVE配信～みんなで進もう！一歩ずつ！～ | 無料ライブ配信 バンダイチャンネル",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/EaDuvh37so",
+              "type": "STRING"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary",
+        "url": "https://t.co/EaDuvh37so",
+        "user_refs_results": []
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1980952427563254264"
+      ],
+      "editable_until_msecs": "1761134437000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "7177",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5ODA5NTI0Mjc0NTg0NDEyMTY=",
+          "text": "◤　　　　　　　　　　　　　　　　◥\n　　　　　#イキヅLIVE配信\n　～もっとラブ高、盛り上げたい！～\n　　　　　　　スタート！　\n◣　　　　　　　　　　　　　　　　◢\n\n #いきづらい部 ！第6回の生放送スタートしました！\n #イキヅLIVE配信 をつけたポストとチャット欄でのご参加を是非お願いします💓\n\n✅配信視聴はこちら\nバンダイチャンネル：https://t.co/EaDuvh37so\nYouTube：https://t.co/Rd0YXLdpgD\nBilibili動画：https://t.co/Upq31g3dj8\n\n#イキヅライブ",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  24,
+                  34
+                ],
+                "text": "イキヅLIVE配信"
+              },
+              {
+                "indices": [
+                  88,
+                  95
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  115,
+                  125
+                ],
+                "text": "イキヅLIVE配信"
+              },
+              {
+                "indices": [
+                  268,
+                  275
+                ],
+                "text": "イキヅライブ"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "live.b-ch.com/lovehigh",
+                "expanded_url": "https://live.b-ch.com/lovehigh",
+                "url": "https://t.co/EaDuvh37so",
+                "indices": [
+                  176,
+                  199
+                ]
+              },
+              {
+                "display_url": "youtube.com/live/I9SyG4E-b…",
+                "expanded_url": "https://youtube.com/live/I9SyG4E-bjs",
+                "url": "https://t.co/Rd0YXLdpgD",
+                "indices": [
+                  208,
+                  231
+                ]
+              },
+              {
+                "display_url": "live.bilibili.com/1791265295",
+                "expanded_url": "https://live.bilibili.com/1791265295",
+                "url": "https://t.co/Upq31g3dj8",
+                "indices": [
+                  243,
+                  266
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 1,
+      "bookmarked": false,
+      "created_at": "Wed Oct 22 11:00:37 +0000 2025",
+      "conversation_id_str": "1980952427563254264",
+      "display_text_range": [
+        0,
+        125
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              24,
+              34
+            ],
+            "text": "イキヅLIVE配信"
+          },
+          {
+            "indices": [
+              88,
+              95
+            ],
+            "text": "いきづらい部"
+          },
+          {
+            "indices": [
+              115,
+              125
+            ],
+            "text": "イキヅLIVE配信"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/qaReeGJsE4",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1980952427563254264/photo/1",
+            "id_str": "1980952414489333760",
+            "indices": [
+              126,
+              149
+            ],
+            "media_key": "3_1980952414489333760",
+            "media_url_https": "https://pbs.twimg.com/media/G33BubaW0AACmZh.jpg",
+            "type": "photo",
+            "url": "https://t.co/qaReeGJsE4",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 211,
+                    "y": 682,
+                    "h": 68,
+                    "w": 68
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 211,
+                    "y": 682,
+                    "h": 68,
+                    "w": 68
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 137,
+                    "y": 445,
+                    "h": 44,
+                    "w": 44
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 211,
+                    "y": 682,
+                    "h": 68,
+                    "w": 68
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1040,
+                "w": 1040,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1040,
+                "w": 1040,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1040,
+              "width": 1040,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1040,
+                  "h": 582
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1040,
+                  "h": 1040
+                },
+                {
+                  "x": 128,
+                  "y": 0,
+                  "w": 912,
+                  "h": 1040
+                },
+                {
+                  "x": 494,
+                  "y": 0,
+                  "w": 520,
+                  "h": 1040
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1040,
+                  "h": 1040
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1980952414489333760"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/qaReeGJsE4",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1980952427563254264/photo/1",
+            "id_str": "1980952414489333760",
+            "indices": [
+              126,
+              149
+            ],
+            "media_key": "3_1980952414489333760",
+            "media_url_https": "https://pbs.twimg.com/media/G33BubaW0AACmZh.jpg",
+            "type": "photo",
+            "url": "https://t.co/qaReeGJsE4",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 211,
+                    "y": 682,
+                    "h": 68,
+                    "w": 68
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 211,
+                    "y": 682,
+                    "h": 68,
+                    "w": 68
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 137,
+                    "y": 445,
+                    "h": 44,
+                    "w": 44
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 211,
+                    "y": 682,
+                    "h": 68,
+                    "w": 68
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1040,
+                "w": 1040,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1040,
+                "w": 1040,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1040,
+              "width": 1040,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1040,
+                  "h": 582
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1040,
+                  "h": 1040
+                },
+                {
+                  "x": 128,
+                  "y": 0,
+                  "w": 912,
+                  "h": 1040
+                },
+                {
+                  "x": 494,
+                  "y": 0,
+                  "w": 520,
+                  "h": 1040
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1040,
+                  "h": 1040
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1980952414489333760"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 191,
+      "favorited": false,
+      "full_text": "◤　　　　　　　　　　　　　　　　◥\n　　　　　#イキヅLIVE配信\n　～もっとラブ高、盛り上げたい！～\n　　　　　　　スタート！　\n◣　　　　　　　　　　　　　　　　◢\n\n #いきづらい部 ！第6回の生放送スタートしました！\n #イキヅLIVE配信 https://t.co/qaReeGJsE4",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 7,
+      "reply_count": 0,
+      "retweet_count": 88,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1980952427563254264"
+    }
+  },
+  "created_at": "2025-10-22T11:00:37Z"
+}
