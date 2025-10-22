@@ -1,0 +1,145 @@
+{
+  "id": "1980915528479728027",
+  "username": "My_Mai_Eld",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1980915528479728027",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NjE1OTcyNDAxOTA5NzYw",
+          "rest_id": "1906615972401909760",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 07:54:14 +0000 2025",
+            "name": "麻布麻衣@いきづらい部！",
+            "screen_name": "My_Mai_Eld"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=1",
+                    "url": "https://t.co/qAvuWYUDvf",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 25765,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1194,
+            "media_count": 0,
+            "normal_followers_count": 25765,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906615972401909760/1747048417",
+            "profile_interstitial_type": "",
+            "statuses_count": 145,
+            "translator_type": "none",
+            "url": "https://t.co/qAvuWYUDvf",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": false
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1980915528479728027"
+      ],
+      "editable_until_msecs": "1761125640000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "456",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 1,
+      "bookmarked": false,
+      "created_at": "Wed Oct 22 08:34:00 +0000 2025",
+      "conversation_id_str": "1980915528479728027",
+      "display_text_range": [
+        0,
+        84
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              77,
+              84
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 36,
+      "favorited": false,
+      "full_text": "夜は遅くまでモニターと向き合ってるし、冷たい牛乳は苦手だし、ジャンプなんて…\nそんなの普通高校生になったらする機会激減でしょ💻\nL高は体育の授業がないし\n#いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 11,
+      "retweeted": false,
+      "user_id_str": "1906615972401909760",
+      "id_str": "1980915528479728027"
+    }
+  },
+  "created_at": "2025-10-22T08:34:00Z"
+}
