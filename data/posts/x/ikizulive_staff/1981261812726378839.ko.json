@@ -1,0 +1,37 @@
+{
+  "id": "1981261812726378839",
+  "translated_text": "／\n🎥 #이키즈라이브 배신 아카이브\n＼\n\n어제 생방송\n「이키즈라이브 배신 ~더 러브고를 띄우고 싶어!~」\n의 아카이브가 공개 중입니다!\n\n커버곡 유닛명, 멤버 컬러명의 결선 투표 결과에 더해,\n1st LIVE의 새로 그린 일러스트와 라이브 굿즈를 발표해 드렸습니다!\n\n꼭 확인해 주세요. https://t.co/ulrXWgzP38",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n\n사람 이름 읽는 법:\n高橋ポルカ -> 타카하시 폴카\n麻布麻衣 -> 아자부 마이\n五桐 玲 -> 고토 아키라\n駒形花火 -> 코마가타 하나비\n金澤奇跡 -> 카나자와 미라클\n調布のりこ -> 쵸후 노리코\n春宮ゆくり -> 하루미야 유쿠리\n此花輝夜 -> 코노하나 오로라\n山田真緑 -> 야마다 미도리\n佐々木翔音 -> 사사키 시온\n",
+  "raw_data": {
+    "id": "FOn5aJbNHr-J-sAP-qDngA4",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "／\n🎥 #이키즈라이브 배신 아카이브\n＼\n\n어제 생방송\n「이키즈라이브 배신 ~더 러브고를 띄우고 싶어!~」\n의 아카이브가 공개 중입니다!\n\n커버곡 유닛명, 멤버 컬러명의 결선 투표 결과에 더해,\n1st LIVE의 새로 그린 일러스트와 라이브 굿즈를 발표해 드렸습니다!\n\n꼭 확인해 주세요. https://t.co/ulrXWgzP38",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1761208596,
+    "model": "gemini-2.5-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 118,
+      "prompt_tokens": 348,
+      "total_tokens": 2137,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}
