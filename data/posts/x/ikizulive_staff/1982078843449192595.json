@@ -1,0 +1,713 @@
+{
+  "id": "1982078843449192595",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1982078843449192595",
+    "post_image_description": "First image displays a promotional poster for the Yamada Manori 1st Solo Single Little Green Iinkai event on October 26 2025 at HMV Sendai EBeanS from 14:00 with illustrated female anime characters in green uniforms standing together and a family silhouette. Includes event details in Japanese text about signing and photo session limited to 2F customers first-come basis up to 100 people. Shows store map with JR Sendai station nearby and contact numbers. Second image features yellow-highlighted Japanese text explaining the event process from 10:00 store entry to waiting line formation signing photo session and exit with rules for participants.",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64677,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1091,
+            "media_count": 459,
+            "normal_followers_count": 64677,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 579,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1982078843449192595"
+      ],
+      "editable_until_msecs": "1761402996179",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "state": "Enabled"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Sat Oct 25 13:36:36 +0000 2025",
+      "conversation_id_str": "1982078843449192595",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              17,
+              24
+            ],
+            "text": "いきづらい部"
+          },
+          {
+            "indices": [
+              26,
+              31
+            ],
+            "text": "山田真緑"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "273334856",
+            "name": "HMV仙台EBeanS",
+            "screen_name": "HMV_Sendai",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @HMV_Sendai: 【#いきづらい部！ #山田真緑】\n\n10月26日開催のイベント参加のお客様へ開店前待機列のご案内です。\n\n開店前の販売待機列は2階正面入口を先頭にお並び下さい。イベント会場の10階までは階段での移動となります。\n\n詳細は➡https://t.co…",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1982078843449192595",
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1981564295038239188",
+          "post_image_description": "First image displays a promotional poster for the Yamada Manori 1st Solo Single Little Green Iinkai event on October 26 2025 at HMV Sendai EBeanS from 14:00 with illustrated female anime characters in green uniforms standing together and a family silhouette. Includes event details in Japanese text about signing and photo session limited to 2F customers first-come basis up to 100 people. Shows store map with JR Sendai station nearby and contact numbers. Second image features yellow-highlighted Japanese text explaining the event process from 10:00 store entry to waiting line formation signing photo session and exit with rules for participants.",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoyNzMzMzQ4NTY=",
+                "rest_id": "273334856",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1184374964444516352/HIlqjCgo_normal.png"
+                },
+                "core": {
+                  "created_at": "Mon Mar 28 08:50:25 +0000 2011",
+                  "name": "HMV仙台EBeanS",
+                  "screen_name": "HMV_Sendai"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "has_graduated_access": true,
+                "is_blue_verified": false,
+                "legacy": {
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "HMV仙台EBeanS公式アカウントです。営業時間は10:00～20:00 TEL：ご予約・ご注文→ 0570-055-489 それ以外の問合せ→022-716-6770 \n※なりすましアカウントにご注意ください。IDは@HMV_Sendaiです。",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "hmv.co.jp/store/SLO/",
+                          "expanded_url": "http://www.hmv.co.jp/store/SLO/",
+                          "url": "https://t.co/fIhAxA37qF",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 1881,
+                  "followers_count": 21278,
+                  "friends_count": 3316,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 204,
+                  "media_count": 42352,
+                  "normal_followers_count": 21278,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/273334856/1759997964",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 94010,
+                  "translator_type": "none",
+                  "url": "https://t.co/fIhAxA37qF",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": "仙台駅前EBeanS5階"
+                },
+                "media_permissions": {
+                  "can_media_tag": false
+                },
+                "parody_commentary_fan_label": "None",
+                "profile_image_shape": "Circle",
+                "privacy": {
+                  "protected": false
+                },
+                "relationship_perspectives": {
+                  "following": false
+                },
+                "tipjar_settings": {},
+                "verification": {
+                  "verified": false
+                },
+                "profile_description_language": "ja"
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1981564295038239188"
+            ],
+            "editable_until_msecs": "1761280318000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+          },
+          "is_translatable": true,
+          "views": {
+            "count": "8001",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "grok_analysis_button": true,
+          "legacy": {
+            "bookmark_count": 3,
+            "bookmarked": false,
+            "created_at": "Fri Oct 24 03:31:58 +0000 2025",
+            "conversation_id_str": "1981564295038239188",
+            "display_text_range": [
+              0,
+              134
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    1,
+                    8
+                  ],
+                  "text": "いきづらい部"
+                },
+                {
+                  "indices": [
+                    10,
+                    15
+                  ],
+                  "text": "山田真緑"
+                }
+              ],
+              "media": [
+                {
+                  "display_url": "pic.x.com/lWyF78kduI",
+                  "expanded_url": "https://x.com/HMV_Sendai/status/1981564295038239188/photo/1",
+                  "id_str": "1981564284598353920",
+                  "indices": [
+                    135,
+                    158
+                  ],
+                  "media_key": "3_1981564284598353920",
+                  "media_url_https": "https://pbs.twimg.com/media/G3_uN9MWAAABSV4.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/lWyF78kduI",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1200,
+                      "w": 849,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "w": 849,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 680,
+                      "w": 481,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1200,
+                    "width": 849,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 393,
+                        "w": 849,
+                        "h": 475
+                      },
+                      {
+                        "x": 0,
+                        "y": 206,
+                        "w": 849,
+                        "h": 849
+                      },
+                      {
+                        "x": 0,
+                        "y": 146,
+                        "w": 849,
+                        "h": 968
+                      },
+                      {
+                        "x": 124,
+                        "y": 0,
+                        "w": 600,
+                        "h": 1200
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 849,
+                        "h": 1200
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1981564284598353920"
+                    }
+                  }
+                },
+                {
+                  "display_url": "pic.x.com/lWyF78kduI",
+                  "expanded_url": "https://x.com/HMV_Sendai/status/1981564295038239188/photo/1",
+                  "id_str": "1981564283935739904",
+                  "indices": [
+                    135,
+                    158
+                  ],
+                  "media_key": "3_1981564283935739904",
+                  "media_url_https": "https://pbs.twimg.com/media/G3_uN6uXUAAPmGj.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/lWyF78kduI",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 900,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 900,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 510,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 900,
+                    "width": 1200,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1200,
+                        "h": 672
+                      },
+                      {
+                        "x": 150,
+                        "y": 0,
+                        "w": 900,
+                        "h": 900
+                      },
+                      {
+                        "x": 206,
+                        "y": 0,
+                        "w": 789,
+                        "h": 900
+                      },
+                      {
+                        "x": 375,
+                        "y": 0,
+                        "w": 450,
+                        "h": 900
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1200,
+                        "h": 900
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1981564283935739904"
+                    }
+                  }
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [
+                {
+                  "display_url": "lovelive-anime.jp/news/01_5364.h…",
+                  "expanded_url": "https://www.lovelive-anime.jp/news/01_5364.html",
+                  "url": "https://t.co/Tv3nV5Narf",
+                  "indices": [
+                    111,
+                    134
+                  ]
+                }
+              ],
+              "user_mentions": []
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "display_url": "pic.x.com/lWyF78kduI",
+                  "expanded_url": "https://x.com/HMV_Sendai/status/1981564295038239188/photo/1",
+                  "id_str": "1981564284598353920",
+                  "indices": [
+                    135,
+                    158
+                  ],
+                  "media_key": "3_1981564284598353920",
+                  "media_url_https": "https://pbs.twimg.com/media/G3_uN9MWAAABSV4.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/lWyF78kduI",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1200,
+                      "w": 849,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "w": 849,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 680,
+                      "w": 481,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1200,
+                    "width": 849,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 393,
+                        "w": 849,
+                        "h": 475
+                      },
+                      {
+                        "x": 0,
+                        "y": 206,
+                        "w": 849,
+                        "h": 849
+                      },
+                      {
+                        "x": 0,
+                        "y": 146,
+                        "w": 849,
+                        "h": 968
+                      },
+                      {
+                        "x": 124,
+                        "y": 0,
+                        "w": 600,
+                        "h": 1200
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 849,
+                        "h": 1200
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1981564284598353920"
+                    }
+                  }
+                },
+                {
+                  "display_url": "pic.x.com/lWyF78kduI",
+                  "expanded_url": "https://x.com/HMV_Sendai/status/1981564295038239188/photo/1",
+                  "id_str": "1981564283935739904",
+                  "indices": [
+                    135,
+                    158
+                  ],
+                  "media_key": "3_1981564283935739904",
+                  "media_url_https": "https://pbs.twimg.com/media/G3_uN6uXUAAPmGj.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/lWyF78kduI",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 900,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 900,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 510,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 900,
+                    "width": 1200,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1200,
+                        "h": 672
+                      },
+                      {
+                        "x": 150,
+                        "y": 0,
+                        "w": 900,
+                        "h": 900
+                      },
+                      {
+                        "x": 206,
+                        "y": 0,
+                        "w": 789,
+                        "h": 900
+                      },
+                      {
+                        "x": 375,
+                        "y": 0,
+                        "w": 450,
+                        "h": 900
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1200,
+                        "h": 900
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1981564283935739904"
+                    }
+                  }
+                }
+              ]
+            },
+            "favorite_count": 83,
+            "favorited": false,
+            "full_text": "【#いきづらい部！ #山田真緑】\n\n10月26日開催のイベント参加のお客様へ開店前待機列のご案内です。\n\n開店前の販売待機列は2階正面入口を先頭にお並び下さい。イベント会場の10階までは階段での移動となります。\n\n詳細は➡https://t.co/Tv3nV5Narf https://t.co/lWyF78kduI",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 40,
+            "retweeted": false,
+            "user_id_str": "273334856",
+            "id_str": "1981564295038239188"
+          }
+        }
+      }
+    }
+  },
+  "created_at": "2025-10-25T13:36:36Z"
+}
