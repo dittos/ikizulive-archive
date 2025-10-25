@@ -1,0 +1,402 @@
+{
+  "id": "1981906641886036267",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1981906641886036267",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G4Ei7x7XQAAkKCp.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1981906641886036267",
+    "post_image_description": "Anime illustration of a girl with short pink hair and purple eyes wearing a white short-sleeved school uniform shirt with gray stripes and a black skirt. She lounges on her side with arms extended forward and legs bent slightly. Text overlay reads Sasaki Shoon 1st Solo Single Ikita kunai every day in Japanese and English. Background is light blue.",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64671,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1090,
+            "media_count": 455,
+            "normal_followers_count": 64671,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 574,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1981906641886036267"
+      ],
+      "editable_until_msecs": "1761361940000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "14573",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5ODE5MDY2NDE3NjQ0MzM5MjE=",
+          "text": "／\n📢リリイベ情報\n＼\n\n佐々木翔音 1st Solo Single「イキタクナイevery day」\nリリースイベント＠北海道 サッポロ・カルチャー・ファーム凹場\n\n本日14:00～開催です🎤\nいきづらい部！頑張ります💪\n\n注意事項をご確認のうえ、お楽しみいただけますようご協力のほどお願いいたします。\n☞https://t.co/oaUNhLFDXg\n\nまた、防寒対策のご協力もお願いいたします。キャスト衣装も冬仕様での出演とさせていただきます🧥\n\n#イキヅライブ #いきづらい部",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  227,
+                  234
+                ],
+                "text": "イキヅライブ"
+              },
+              {
+                "indices": [
+                  235,
+                  242
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "lovelive-anime.jp/lovehigh/news/…",
+                "expanded_url": "https://www.lovelive-anime.jp/lovehigh/news/detail.php?p=01_5363",
+                "url": "https://t.co/oaUNhLFDXg",
+                "indices": [
+                  154,
+                  177
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 13,
+      "bookmarked": false,
+      "created_at": "Sat Oct 25 02:12:20 +0000 2025",
+      "conversation_id_str": "1981906641886036267",
+      "display_text_range": [
+        0,
+        152
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/WUIBC4zG6P",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1981906641886036267/photo/1",
+            "id_str": "1981903721429680128",
+            "indices": [
+              153,
+              176
+            ],
+            "media_key": "3_1981903721429680128",
+            "media_url_https": "https://pbs.twimg.com/media/G4Ei7x7XQAAkKCp.jpg",
+            "type": "photo",
+            "url": "https://t.co/WUIBC4zG6P",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "w": 1000,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1000,
+                "w": 1000,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1000,
+              "width": 1000,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 440,
+                  "w": 1000,
+                  "h": 560
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1000,
+                  "h": 1000
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 877,
+                  "h": 1000
+                },
+                {
+                  "x": 75,
+                  "y": 0,
+                  "w": 500,
+                  "h": 1000
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1000,
+                  "h": 1000
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1981903721429680128"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/WUIBC4zG6P",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1981906641886036267/photo/1",
+            "id_str": "1981903721429680128",
+            "indices": [
+              153,
+              176
+            ],
+            "media_key": "3_1981903721429680128",
+            "media_url_https": "https://pbs.twimg.com/media/G4Ei7x7XQAAkKCp.jpg",
+            "type": "photo",
+            "url": "https://t.co/WUIBC4zG6P",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "w": 1000,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1000,
+                "w": 1000,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1000,
+              "width": 1000,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 440,
+                  "w": 1000,
+                  "h": 560
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1000,
+                  "h": 1000
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 877,
+                  "h": 1000
+                },
+                {
+                  "x": 75,
+                  "y": 0,
+                  "w": 500,
+                  "h": 1000
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1000,
+                  "h": 1000
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1981903721429680128"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 448,
+      "favorited": false,
+      "full_text": "／\n📢リリイベ情報\n＼\n\n佐々木翔音 1st Solo Single「イキタクナイevery day」\nリリースイベント＠北海道 サッポロ・カルチャー・ファーム凹場\n\n本日14:00～開催です🎤\nいきづらい部！頑張ります💪\n\n注意事項をご確認のうえ、お楽しみいただけますようご協力のほどお願いいたします。 https://t.co/WUIBC4zG6P",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 17,
+      "reply_count": 1,
+      "retweet_count": 148,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1981906641886036267"
+    }
+  },
+  "created_at": "2025-10-25T02:12:20Z"
+}
