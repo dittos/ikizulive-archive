@@ -1,0 +1,571 @@
+{
+  "id": "1983489860834136439",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1983489860834136439",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64702,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1089,
+            "media_count": 477,
+            "normal_followers_count": 64702,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 599,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/T5CH3C5Nrm",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "player_url",
+            "value": {
+              "string_value": "https://www.youtube.com/embed/fKt_rLQk6k8",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_image_large",
+            "value": {
+              "image_value": {
+                "height": 627,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/1983489663357874176/3xoaKKuu?format=jpg&name=1200x627"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "player_image",
+            "value": {
+              "image_value": {
+                "height": 210,
+                "width": 280,
+                "url": "https://pbs.twimg.com/card_img/1983489663357874176/3xoaKKuu?format=jpg&name=280x280"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "app_star_rating",
+            "value": {
+              "string_value": "4.68017",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "いきづらい部！日常動画「雨宿りヒーロー」春宮ゆくり（はるみや ゆくり）　公式X：https://x.com/Yukuri_talk　CV.奥村優季 （おくむら ゆき）此花輝夜（このはな おーろら）　公式X：https://x.com/Rollie_twinkle　CV.天沢朱音（あまさわ あかね）山田真緑（やまだ...",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_width",
+            "value": {
+              "string_value": "1280",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "www.youtube.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_is_free",
+            "value": {
+              "string_value": "true",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "10228272",
+                "path": []
+              }
+            }
+          },
+          {
+            "key": "player_image_original",
+            "value": {
+              "image_value": {
+                "height": 360,
+                "width": 480,
+                "url": "https://pbs.twimg.com/card_img/1983489663357874176/3xoaKKuu?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "app_num_ratings",
+            "value": {
+              "string_value": "44,296,084",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_amount",
+            "value": {
+              "string_value": "0.0",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_height",
+            "value": {
+              "string_value": "720",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "youtube.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_name",
+            "value": {
+              "string_value": "YouTube",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_image_small",
+            "value": {
+              "image_value": {
+                "height": 108,
+                "width": 144,
+                "url": "https://pbs.twimg.com/card_img/1983489663357874176/3xoaKKuu?format=jpg&name=144x144"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "いきづらい部！日常動画「雨宿りヒーロー」【イキヅライブ！ LOVELIVE! BLUEBIRD】",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_currency",
+            "value": {
+              "string_value": "USD",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/T5CH3C5Nrm",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "percentage": 28.05
+                  },
+                  {
+                    "rgb": {
+                      "blue": 194,
+                      "green": 139,
+                      "red": 1
+                    },
+                    "percentage": 26.51
+                  },
+                  {
+                    "rgb": {
+                      "blue": 180,
+                      "green": 178,
+                      "red": 179
+                    },
+                    "percentage": 21.4
+                  },
+                  {
+                    "rgb": {
+                      "blue": 225,
+                      "green": 211,
+                      "red": 159
+                    },
+                    "percentage": 5.88
+                  },
+                  {
+                    "rgb": {
+                      "blue": 122,
+                      "green": 183,
+                      "red": 75
+                    },
+                    "percentage": 1.5
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "player_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 360,
+                "width": 480,
+                "url": "https://pbs.twimg.com/card_img/1983489663357874176/3xoaKKuu?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "player",
+        "url": "https://t.co/T5CH3C5Nrm",
+        "user_refs_results": [
+          {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxMDIyODI3Mg==",
+              "rest_id": "10228272",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1978098521891815424/rpNPD_Y2_normal.jpg"
+              },
+              "core": {
+                "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+                "name": "YouTube",
+                "screen_name": "YouTube"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "follow_request_sent": false,
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "like & subscribe... if you dare 👻",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "linkin.bio/youtube",
+                        "expanded_url": "http://linkin.bio/youtube",
+                        "url": "https://t.co/zyd5mI67Ld",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 6043,
+                "followers_count": 77492989,
+                "friends_count": 1145,
+                "has_custom_timelines": true,
+                "is_translator": false,
+                "listed_count": 77242,
+                "media_count": 16055,
+                "normal_followers_count": 77492989,
+                "pinned_tweet_ids_str": [],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1760623339",
+                "profile_interstitial_type": "",
+                "statuses_count": 60390,
+                "translator_type": "regular",
+                "url": "https://t.co/zyd5mI67Ld",
+                "want_retweets": false,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": "San Bruno, CA"
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Square",
+              "profile_bio": {
+                "description": "like & subscribe... if you dare 👻"
+              },
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": false
+              },
+              "tipjar_settings": {},
+              "verification": {
+                "verified": false,
+                "verified_type": "Business"
+              },
+              "profile_description_language": "en"
+            }
+          }
+        ]
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1983489860834136439"
+      ],
+      "editable_until_msecs": "1761739408000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "12334",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5ODM0ODk4NjA3MjA4NDg4OTY=",
+          "text": "◤￣￣￣￣￣￣￣￣￣￣\n 　 いきづらい部！\n      　 日常動画\n　　　   公開‼\n＿＿＿＿＿＿＿＿＿＿◢\n\nいきづらい部！日常動画\n「雨宿りヒーロー」☔\n\n👇\nhttps://t.co/siiFLgO3sL\n\n#春宮ゆくり （CV.奥村優希）\n#此花輝夜 （CV.天沢朱音）\n#山田真緑 （CV.小戸森穂花）\n\nぜひご覧ください💞\n\n#イキヅライブ",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  110,
+                  116
+                ],
+                "text": "春宮ゆくり"
+              },
+              {
+                "indices": [
+                  127,
+                  132
+                ],
+                "text": "此花輝夜"
+              },
+              {
+                "indices": [
+                  143,
+                  148
+                ],
+                "text": "山田真緑"
+              },
+              {
+                "indices": [
+                  172,
+                  179
+                ],
+                "text": "イキヅライブ"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "youtu.be/fKt_rLQk6k8",
+                "expanded_url": "https://youtu.be/fKt_rLQk6k8",
+                "url": "https://t.co/siiFLgO3sL",
+                "indices": [
+                  85,
+                  108
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 20,
+      "bookmarked": false,
+      "created_at": "Wed Oct 29 11:03:28 +0000 2025",
+      "conversation_id_str": "1983489860834136439",
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              110,
+              116
+            ],
+            "text": "春宮ゆくり"
+          },
+          {
+            "indices": [
+              127,
+              132
+            ],
+            "text": "此花輝夜"
+          },
+          {
+            "indices": [
+              143,
+              148
+            ],
+            "text": "山田真緑"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/fKt_rLQk6k8",
+            "expanded_url": "https://youtu.be/fKt_rLQk6k8",
+            "url": "https://t.co/T5CH3C5Nrm",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 277,
+      "favorited": false,
+      "full_text": "◤￣￣￣￣￣￣￣￣￣￣\n 　 いきづらい部！\n      　 日常動画\n　　　   公開‼\n＿＿＿＿＿＿＿＿＿＿◢\n\nいきづらい部！日常動画\n「雨宿りヒーロー」☔\n\n👇\nhttps://t.co/T5CH3C5Nrm\n\n#春宮ゆくり （CV.奥村優希）\n#此花輝夜 （CV.天沢朱音）\n#山田真緑 （CV.小戸森穂花）\n\nぜひご覧ください💞",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 8,
+      "reply_count": 0,
+      "retweet_count": 140,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1983489860834136439"
+    }
+  },
+  "created_at": "2025-10-29T11:03:28Z"
+}
