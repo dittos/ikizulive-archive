@@ -1,0 +1,406 @@
+{
+  "id": "1984198675556372574",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1984198675556372574",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G4jsdI1a8AEf_n0.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1984198675556372574",
+    "post_image_description": "Three circular portraits of anime characters against a rainy urban building background: left shows a brown-haired girl smiling with school uniform, middle a blonde girl smiling with ribbon, right a green-haired girl smiling with collar, blue title text Ikizurai Bu! LoveLive! Bluebird and subtitle Nichijou Video Amayadori Hero at bottom.",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64709,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1087,
+            "media_count": 484,
+            "normal_followers_count": 64709,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 606,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1984198675556372574"
+      ],
+      "editable_until_msecs": "1761908403000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "5865",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 4,
+      "bookmarked": false,
+      "created_at": "Fri Oct 31 10:00:03 +0000 2025",
+      "conversation_id_str": "1984198675556372574",
+      "display_text_range": [
+        0,
+        164
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              12,
+              19
+            ],
+            "text": "いきづらい部"
+          },
+          {
+            "indices": [
+              95,
+              101
+            ],
+            "text": "春宮ゆくり"
+          },
+          {
+            "indices": [
+              112,
+              117
+            ],
+            "text": "此花輝夜"
+          },
+          {
+            "indices": [
+              128,
+              133
+            ],
+            "text": "山田真緑"
+          },
+          {
+            "indices": [
+              157,
+              164
+            ],
+            "text": "イキヅライブ"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/PVNnRhEmXu",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1984198675556372574/photo/1",
+            "id_str": "1984095621188612097",
+            "indices": [
+              165,
+              188
+            ],
+            "media_key": "3_1984095621188612097",
+            "media_url_https": "https://pbs.twimg.com/media/G4jsdI1a8AEf_n0.jpg",
+            "type": "photo",
+            "url": "https://t.co/PVNnRhEmXu",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 540,
+                "w": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 540,
+                "w": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 540,
+              "width": 960,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 2,
+                  "w": 960,
+                  "h": 538
+                },
+                {
+                  "x": 282,
+                  "y": 0,
+                  "w": 540,
+                  "h": 540
+                },
+                {
+                  "x": 315,
+                  "y": 0,
+                  "w": 474,
+                  "h": 540
+                },
+                {
+                  "x": 417,
+                  "y": 0,
+                  "w": 270,
+                  "h": 540
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 960,
+                  "h": 540
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1984095621188612097"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/fKt_rLQk6k8",
+            "expanded_url": "https://youtu.be/fKt_rLQk6k8",
+            "url": "https://t.co/T5CH3C5fBO",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/PVNnRhEmXu",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1984198675556372574/photo/1",
+            "id_str": "1984095621188612097",
+            "indices": [
+              165,
+              188
+            ],
+            "media_key": "3_1984095621188612097",
+            "media_url_https": "https://pbs.twimg.com/media/G4jsdI1a8AEf_n0.jpg",
+            "type": "photo",
+            "url": "https://t.co/PVNnRhEmXu",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 540,
+                "w": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 540,
+                "w": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 540,
+              "width": 960,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 2,
+                  "w": 960,
+                  "h": 538
+                },
+                {
+                  "x": 282,
+                  "y": 0,
+                  "w": 540,
+                  "h": 540
+                },
+                {
+                  "x": 315,
+                  "y": 0,
+                  "w": 474,
+                  "h": 540
+                },
+                {
+                  "x": 417,
+                  "y": 0,
+                  "w": 270,
+                  "h": 540
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 960,
+                  "h": 540
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1984095621188612097"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 199,
+      "favorited": false,
+      "full_text": "◤◢◤◢◤◢◤◢◤◢\n　#いきづらい部 ！\n　日常動画公開中‼\n◤◢◤◢◤◢◤◢◤◢\n\nいきづらい部！日常動画\n「雨宿りヒーロー」☔\n\n👇\nhttps://t.co/T5CH3C5fBO\n\n#春宮ゆくり （CV.奥村優季）\n#此花輝夜 （CV.天沢朱音）\n#山田真緑 （CV.小戸森穂花）\n\nぜひご覧ください💞\n\n#イキヅライブ https://t.co/PVNnRhEmXu",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 1,
+      "reply_count": 1,
+      "retweet_count": 53,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1984198675556372574"
+    }
+  },
+  "created_at": "2025-10-31T10:00:03Z"
+}
