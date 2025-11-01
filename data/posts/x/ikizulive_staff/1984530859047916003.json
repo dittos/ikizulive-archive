@@ -1,0 +1,409 @@
+{
+  "id": "1984530859047916003",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1984530859047916003",
+      "type": "video",
+      "url": "https://pbs.twimg.com/amplify_video_thumb/1984179318785024000/img/8XCjzRo_UwdFw6Fr.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1984530859047916003",
+    "post_video_description": "Two young women in school uniforms stand against a plain wall, one with bangs holding a card smiling, the other with long hair gesturing with hands. They exchange profile cards, Yamada Manori and Sasaki Shone, in a casual interaction. The scene shows close-ups of their faces and hands during the swap, with neutral expressions and simple clothing.",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64694,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1088,
+            "media_count": 487,
+            "normal_followers_count": 64694,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 609,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1984530859047916003"
+      ],
+      "editable_until_msecs": "1761987602000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "8635",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5ODQ1MzA4NTg5ODUwNzg3ODg=",
+          "text": "◤　　　　　　　　　　　　　◥\n　　　　#いきづらい部！\n　1st LIVE ～ What is my L ? ～ \n　　 グッズ事前通販受付中！　　\n◣　　　　　　　　　　　　　◢\n\n💕ラブ高プロフィールカードセット💕\n\n#山田真緑 役　小戸森穂花\n#佐々木翔音 役　涼ノ瀬葵音\nの2人で交換してみました✉\n \nラブ高生同士の会話のきっかけに活用してみてね♪\n \n🛒事前通販はこちら\nhttps://t.co/MH83xG2PjO\n \n📅事前通販受付締切\n11/26(水)23:59\n \n#イキヅライブ",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  20,
+                  27
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  112,
+                  117
+                ],
+                "text": "山田真緑"
+              },
+              {
+                "indices": [
+                  126,
+                  132
+                ],
+                "text": "佐々木翔音"
+              },
+              {
+                "indices": [
+                  245,
+                  252
+                ],
+                "text": "イキヅライブ"
+              }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [
+              {
+                "display_url": "lovelive.fannect.jp/collections/ll…",
+                "expanded_url": "https://lovelive.fannect.jp/collections/ll-40-01",
+                "url": "https://t.co/MH83xG2PjO",
+                "indices": [
+                  193,
+                  216
+                ]
+              }
+            ],
+            "user_mentions": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 54,
+      "bookmarked": false,
+      "created_at": "Sat Nov 01 08:00:02 +0000 2025",
+      "conversation_id_str": "1984530859047916003",
+      "display_text_range": [
+        0,
+        154
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              20,
+              27
+            ],
+            "text": "いきづらい部"
+          },
+          {
+            "indices": [
+              112,
+              117
+            ],
+            "text": "山田真緑"
+          },
+          {
+            "indices": [
+              126,
+              132
+            ],
+            "text": "佐々木翔音"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/4JqsmdP7Hn",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1984530859047916003/video/1",
+            "id_str": "1984179318785024000",
+            "indices": [
+              155,
+              178
+            ],
+            "media_key": "13_1984179318785024000",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1984179318785024000/img/8XCjzRo_UwdFw6Fr.jpg",
+            "type": "video",
+            "url": "https://t.co/4JqsmdP7Hn",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 720,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 720,
+              "width": 1280,
+              "focus_rects": []
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 22033,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1984179318785024000/pl/mgE9VtUrWW4PnygN.m3u8?tag=21"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1984179318785024000/vid/avc1/480x270/ec5fD5XKTJhRTSln.mp4?tag=21"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1984179318785024000/vid/avc1/640x360/SLjQpEAQATNnigkg.mp4?tag=21"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1984179318785024000/vid/avc1/1280x720/MRl5VoQSoo-flO1a.mp4?tag=21"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "13_1984179318785024000"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/4JqsmdP7Hn",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1984530859047916003/video/1",
+            "id_str": "1984179318785024000",
+            "indices": [
+              155,
+              178
+            ],
+            "media_key": "13_1984179318785024000",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1984179318785024000/img/8XCjzRo_UwdFw6Fr.jpg",
+            "type": "video",
+            "url": "https://t.co/4JqsmdP7Hn",
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "sizes": {
+              "large": {
+                "h": 720,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 720,
+              "width": 1280,
+              "focus_rects": []
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 22033,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1984179318785024000/pl/mgE9VtUrWW4PnygN.m3u8?tag=21"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1984179318785024000/vid/avc1/480x270/ec5fD5XKTJhRTSln.mp4?tag=21"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1984179318785024000/vid/avc1/640x360/SLjQpEAQATNnigkg.mp4?tag=21"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1984179318785024000/vid/avc1/1280x720/MRl5VoQSoo-flO1a.mp4?tag=21"
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "13_1984179318785024000"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 394,
+      "favorited": false,
+      "full_text": "◤　　　　　　　　　　　　　◥\n　　　　#いきづらい部！\n　1st LIVE ～ What is my L ? ～ \n　　 グッズ事前通販受付中！　　\n◣　　　　　　　　　　　　　◢\n\n💕ラブ高プロフィールカードセット💕\n\n#山田真緑 役　小戸森穂花\n#佐々木翔音 役　涼ノ瀬葵音\nの2人で交換してみました✉ https://t.co/4JqsmdP7Hn",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 15,
+      "reply_count": 1,
+      "retweet_count": 128,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1984530859047916003"
+    }
+  },
+  "created_at": "2025-11-01T08:00:02Z"
+}
