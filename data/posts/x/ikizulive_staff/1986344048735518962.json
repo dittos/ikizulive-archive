@@ -1,0 +1,474 @@
+{
+  "id": "1986344048735518962",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1986344048735518962",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G5DaRRxbIAQi79f.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1986344048735518962",
+    "post_image_description": "Vibrant anime-style illustration featuring ten female characters from Love Live Bluebird in various school uniforms including skirts and blouses in colors like pink, green, blue, and yellow, posing dynamically with outstretched arms and legs in a group formation against a swirling rainbow background with confetti elements and the text What is my L at the bottom.",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64421,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1068,
+            "media_count": 501,
+            "normal_followers_count": 64421,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 623,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1986344048735518962"
+      ],
+      "editable_until_msecs": "1762419900000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": false,
+    "views": {
+      "count": "7138",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5ODYzNDQwNDg2MjY0NTA0MzM=",
+          "text": "◤￣￣￣￣￣￣￣\n　チケット情報\n＿＿＿＿＿＿＿◢\n\n#いきづらい部 ！ 1st LIVE～ What is my L ? ～\n一般発売(1次抽選・2次抽選)実施が決定！\n\n【1次抽選受付】11月8日(土)12:00～11月16日(日)23:59\n【2次抽選受付】11月29日(土)12:00～12月14日(日)23:59\n\n詳細はこちら✅\nhttps://t.co/Pb8ldsjcmQ\n\n#イキヅライブ",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  27,
+                  34
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  196,
+                  203
+                ],
+                "text": "イキヅライブ"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "lovelive-anime.jp/lovehigh/live/…",
+                "expanded_url": "https://www.lovelive-anime.jp/lovehigh/live/live_detail.php?_id=WhatismyL#ticket",
+                "url": "https://t.co/Pb8ldsjcmQ",
+                "indices": [
+                  171,
+                  194
+                ]
+              }
+            ],
+            "user_mentions": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 27,
+      "bookmarked": false,
+      "created_at": "Thu Nov 06 08:05:00 +0000 2025",
+      "conversation_id_str": "1986344048735518962",
+      "display_text_range": [
+        0,
+        194
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              27,
+              34
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/8lm5Nm91CY",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1986344048735518962/photo/1",
+            "id_str": "1986327426033721348",
+            "indices": [
+              195,
+              218
+            ],
+            "media_key": "3_1986327426033721348",
+            "media_url_https": "https://pbs.twimg.com/media/G5DaRRxbIAQi79f.jpg",
+            "type": "photo",
+            "url": "https://t.co/8lm5Nm91CY",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 208,
+                    "y": 1200,
+                    "h": 291,
+                    "w": 291
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 143,
+                    "y": 829,
+                    "h": 201,
+                    "w": 201
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 81,
+                    "y": 470,
+                    "h": 114,
+                    "w": 114
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 208,
+                    "y": 1200,
+                    "h": 291,
+                    "w": 291
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1736,
+                "w": 1227,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 848,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 481,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1736,
+              "width": 1227,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 1049,
+                  "w": 1227,
+                  "h": 687
+                },
+                {
+                  "x": 0,
+                  "y": 509,
+                  "w": 1227,
+                  "h": 1227
+                },
+                {
+                  "x": 0,
+                  "y": 337,
+                  "w": 1227,
+                  "h": 1399
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 868,
+                  "h": 1736
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1227,
+                  "h": 1736
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1986327426033721348"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "lovelive-anime.jp/lovehigh/live/…",
+            "expanded_url": "https://www.lovelive-anime.jp/lovehigh/live/live_detail.php?_id=WhatismyL#ticket",
+            "url": "https://t.co/Erh4RJlZ3Q",
+            "indices": [
+              171,
+              194
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/8lm5Nm91CY",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1986344048735518962/photo/1",
+            "id_str": "1986327426033721348",
+            "indices": [
+              195,
+              218
+            ],
+            "media_key": "3_1986327426033721348",
+            "media_url_https": "https://pbs.twimg.com/media/G5DaRRxbIAQi79f.jpg",
+            "type": "photo",
+            "url": "https://t.co/8lm5Nm91CY",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 208,
+                    "y": 1200,
+                    "h": 291,
+                    "w": 291
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 143,
+                    "y": 829,
+                    "h": 201,
+                    "w": 201
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 81,
+                    "y": 470,
+                    "h": 114,
+                    "w": 114
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 208,
+                    "y": 1200,
+                    "h": 291,
+                    "w": 291
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1736,
+                "w": 1227,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 848,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 481,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1736,
+              "width": 1227,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 1049,
+                  "w": 1227,
+                  "h": 687
+                },
+                {
+                  "x": 0,
+                  "y": 509,
+                  "w": 1227,
+                  "h": 1227
+                },
+                {
+                  "x": 0,
+                  "y": 337,
+                  "w": 1227,
+                  "h": 1399
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 868,
+                  "h": 1736
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1227,
+                  "h": 1736
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1986327426033721348"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 180,
+      "favorited": false,
+      "full_text": "◤￣￣￣￣￣￣￣\n　チケット情報\n＿＿＿＿＿＿＿◢\n\n#いきづらい部 ！ 1st LIVE～ What is my L ? ～\n一般発売(1次抽選・2次抽選)実施が決定！\n\n【1次抽選受付】11月8日(土)12:00～11月16日(日)23:59\n【2次抽選受付】11月29日(土)12:00～12月14日(日)23:59\n\n詳細はこちら✅\nhttps://t.co/Erh4RJlZ3Q https://t.co/8lm5Nm91CY",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 15,
+      "reply_count": 0,
+      "retweet_count": 74,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1986344048735518962"
+    }
+  },
+  "created_at": "2025-11-06T08:05:00Z"
+}
