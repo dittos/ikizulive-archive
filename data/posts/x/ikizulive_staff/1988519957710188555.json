@@ -1,0 +1,753 @@
+{
+  "id": "1988519957710188555",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1988519957710188555",
+    "post_image_description": "A blue background features a map outline of Japan with eight circular icons depicting stylized female anime characters in various outfits and hair colors placed at different prefectures connected by lines. Text overlays include Japanese phrases like 1st Solo Single and event details with character names. A promotional banner at the bottom reads Takarajimashaft collaboration.",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64685,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1091,
+            "media_count": 507,
+            "normal_followers_count": 64685,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 630,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1988519957710188555"
+      ],
+      "editable_until_msecs": "1762938677489",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "state": "Enabled"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Wed Nov 12 08:11:17 +0000 2025",
+      "conversation_id_str": "1988519957710188555",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              16,
+              23
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1881212968043741184",
+            "name": "PYLON PORT ー世界中へ最新音楽情報を出航中！ー",
+            "screen_name": "PYLONPORT",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @PYLONPORT: 📢#いきづらい部 リリイベまとめ\nいきづらい部！1st Solo Single発売記念イベント\n全開催地フォトアーカイブ📷🗾\n\n10人のメンバーが1人ずつ全国各地で開催したフリーライブ＆お渡し会の開催地と出演キャストを一挙振り返り！\n\n▼記事はこち…",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1988519957710188555",
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1988517119533736339",
+          "post_image_description": "A blue background features a map outline of Japan with eight circular icons depicting stylized female anime characters in various outfits and hair colors placed at different prefectures connected by lines. Text overlays include Japanese phrases like 1st Solo Single and event details with character names. A promotional banner at the bottom reads Takarajimashaft collaboration.",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxODgxMjEyOTY4MDQzNzQxMTg0",
+                "rest_id": "1881212968043741184",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1899379282826428416/5BNExjR2_normal.jpg"
+                },
+                "core": {
+                  "created_at": "Mon Jan 20 05:32:35 +0000 2025",
+                  "name": "PYLON PORT ー世界中へ最新音楽情報を出航中！ー",
+                  "screen_name": "PYLONPORT"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "follow_request_sent": false,
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "PYLON PORT（パイロンポート）は、音楽ニュースやライブレポ、インタビューなど多彩な記事を掲載。新たな音楽に出会う案内塔メディアです / PYLON PORT is a media that serves as a guide tower for discovering new music. #PYLONPORT",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "pylonport.bandainamcomusiclive.co.jp",
+                          "expanded_url": "https://pylonport.bandainamcomusiclive.co.jp",
+                          "url": "https://t.co/U4l3dHsc6T",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 1,
+                  "followers_count": 360,
+                  "friends_count": 6,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 3,
+                  "media_count": 75,
+                  "normal_followers_count": 360,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881212968043741184/1741682333",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 464,
+                  "translator_type": "none",
+                  "url": "https://t.co/U4l3dHsc6T",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": ""
+                },
+                "media_permissions": {
+                  "can_media_tag": false
+                },
+                "parody_commentary_fan_label": "None",
+                "profile_image_shape": "Circle",
+                "profile_bio": {
+                  "description": "PYLON PORT（パイロンポート）は、音楽ニュースやライブレポ、インタビューなど多彩な記事を掲載。新たな音楽に出会う案内塔メディアです / PYLON PORT is a media that serves as a guide tower for discovering new music. #PYLONPORT"
+                },
+                "privacy": {
+                  "protected": false
+                },
+                "relationship_perspectives": {
+                  "following": false
+                },
+                "tipjar_settings": {},
+                "verification": {
+                  "verified": false
+                },
+                "profile_description_language": "ja"
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1988517119533736339"
+            ],
+            "editable_until_msecs": "1762938000000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+          },
+          "is_translatable": true,
+          "views": {
+            "count": "4649",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "note_tweet": {
+            "is_expandable": true,
+            "note_tweet_results": {
+              "result": {
+                "id": "Tm90ZVR3ZWV0OjE5ODg1MTcxMTk0MjA0MzY0ODE=",
+                "text": "📢#いきづらい部 リリイベまとめ\nいきづらい部！1st Solo Single発売記念イベント\n全開催地フォトアーカイブ📷🗾\n\n10人のメンバーが1人ずつ全国各地で開催したフリーライブ＆お渡し会の開催地と出演キャストを一挙振り返り！\n\n▼記事はこちら\nhttps://t.co/GRFUVT3CxT\n\n@ikizulive_staff\n#イキヅライブ #PYLONPORT",
+                "entity_set": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        1,
+                        8
+                      ],
+                      "text": "いきづらい部"
+                    },
+                    {
+                      "indices": [
+                        168,
+                        175
+                      ],
+                      "text": "イキヅライブ"
+                    },
+                    {
+                      "indices": [
+                        176,
+                        186
+                      ],
+                      "text": "PYLONPORT"
+                    }
+                  ],
+                  "symbols": [],
+                  "urls": [
+                    {
+                      "display_url": "pylonport.bandainamcomusiclive.co.jp/more/407",
+                      "expanded_url": "https://pylonport.bandainamcomusiclive.co.jp/more/407",
+                      "url": "https://t.co/GRFUVT3CxT",
+                      "indices": [
+                        126,
+                        149
+                      ]
+                    }
+                  ],
+                  "user_mentions": [
+                    {
+                      "id_str": "1911282293341356032",
+                      "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                      "screen_name": "ikizulive_staff",
+                      "indices": [
+                        151,
+                        167
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "grok_analysis_button": true,
+          "legacy": {
+            "bookmark_count": 19,
+            "bookmarked": false,
+            "created_at": "Wed Nov 12 08:00:00 +0000 2025",
+            "conversation_id_str": "1988517119533736339",
+            "display_text_range": [
+              0,
+              175
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    1,
+                    8
+                  ],
+                  "text": "いきづらい部"
+                },
+                {
+                  "indices": [
+                    168,
+                    175
+                  ],
+                  "text": "イキヅライブ"
+                }
+              ],
+              "media": [
+                {
+                  "display_url": "pic.x.com/LnXEWwI0Le",
+                  "expanded_url": "https://x.com/PYLONPORT/status/1988517119533736339/photo/1",
+                  "id_str": "1988507776847605760",
+                  "indices": [
+                    176,
+                    199
+                  ],
+                  "media_key": "3_1988507776847605760",
+                  "media_url_https": "https://pbs.twimg.com/media/G5iZSZgacAA9VxV.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/LnXEWwI0Le",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 743,
+                          "y": 403,
+                          "h": 64,
+                          "w": 64
+                        },
+                        {
+                          "x": 393,
+                          "y": 614,
+                          "h": 70,
+                          "w": 70
+                        },
+                        {
+                          "x": 873,
+                          "y": 195,
+                          "h": 123,
+                          "w": 123
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 557,
+                          "y": 302,
+                          "h": 48,
+                          "w": 48
+                        },
+                        {
+                          "x": 294,
+                          "y": 460,
+                          "h": 52,
+                          "w": 52
+                        },
+                        {
+                          "x": 654,
+                          "y": 146,
+                          "h": 92,
+                          "w": 92
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 315,
+                          "y": 171,
+                          "h": 27,
+                          "w": 27
+                        },
+                        {
+                          "x": 167,
+                          "y": 260,
+                          "h": 29,
+                          "w": 29
+                        },
+                        {
+                          "x": 371,
+                          "y": 82,
+                          "h": 52,
+                          "w": 52
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 743,
+                          "y": 403,
+                          "h": 64,
+                          "w": 64
+                        },
+                        {
+                          "x": 393,
+                          "y": 614,
+                          "h": 70,
+                          "w": 70
+                        },
+                        {
+                          "x": 873,
+                          "y": 195,
+                          "h": 123,
+                          "w": 123
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1000,
+                      "w": 1600,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 750,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 425,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1000,
+                    "width": 1600,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1600,
+                        "h": 896
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1000,
+                        "h": 1000
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 877,
+                        "h": 1000
+                      },
+                      {
+                        "x": 30,
+                        "y": 0,
+                        "w": 500,
+                        "h": 1000
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1600,
+                        "h": 1000
+                      }
+                    ]
+                  },
+                  "allow_download_status": {
+                    "allow_download": true
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1988507776847605760"
+                    }
+                  }
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [
+                {
+                  "display_url": "pylonport.bandainamcomusiclive.co.jp/more/407",
+                  "expanded_url": "https://pylonport.bandainamcomusiclive.co.jp/more/407",
+                  "url": "https://t.co/pD0DYWZwkB",
+                  "indices": [
+                    126,
+                    149
+                  ]
+                }
+              ],
+              "user_mentions": [
+                {
+                  "id_str": "1911282293341356032",
+                  "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                  "screen_name": "ikizulive_staff",
+                  "indices": [
+                    151,
+                    167
+                  ]
+                }
+              ]
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "display_url": "pic.x.com/LnXEWwI0Le",
+                  "expanded_url": "https://x.com/PYLONPORT/status/1988517119533736339/photo/1",
+                  "id_str": "1988507776847605760",
+                  "indices": [
+                    176,
+                    199
+                  ],
+                  "media_key": "3_1988507776847605760",
+                  "media_url_https": "https://pbs.twimg.com/media/G5iZSZgacAA9VxV.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/LnXEWwI0Le",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 743,
+                          "y": 403,
+                          "h": 64,
+                          "w": 64
+                        },
+                        {
+                          "x": 393,
+                          "y": 614,
+                          "h": 70,
+                          "w": 70
+                        },
+                        {
+                          "x": 873,
+                          "y": 195,
+                          "h": 123,
+                          "w": 123
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 557,
+                          "y": 302,
+                          "h": 48,
+                          "w": 48
+                        },
+                        {
+                          "x": 294,
+                          "y": 460,
+                          "h": 52,
+                          "w": 52
+                        },
+                        {
+                          "x": 654,
+                          "y": 146,
+                          "h": 92,
+                          "w": 92
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 315,
+                          "y": 171,
+                          "h": 27,
+                          "w": 27
+                        },
+                        {
+                          "x": 167,
+                          "y": 260,
+                          "h": 29,
+                          "w": 29
+                        },
+                        {
+                          "x": 371,
+                          "y": 82,
+                          "h": 52,
+                          "w": 52
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 743,
+                          "y": 403,
+                          "h": 64,
+                          "w": 64
+                        },
+                        {
+                          "x": 393,
+                          "y": 614,
+                          "h": 70,
+                          "w": 70
+                        },
+                        {
+                          "x": 873,
+                          "y": 195,
+                          "h": 123,
+                          "w": 123
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1000,
+                      "w": 1600,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 750,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 425,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1000,
+                    "width": 1600,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1600,
+                        "h": 896
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1000,
+                        "h": 1000
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 877,
+                        "h": 1000
+                      },
+                      {
+                        "x": 30,
+                        "y": 0,
+                        "w": 500,
+                        "h": 1000
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1600,
+                        "h": 1000
+                      }
+                    ]
+                  },
+                  "allow_download_status": {
+                    "allow_download": true
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1988507776847605760"
+                    }
+                  }
+                }
+              ]
+            },
+            "favorite_count": 116,
+            "favorited": false,
+            "full_text": "📢#いきづらい部 リリイベまとめ\nいきづらい部！1st Solo Single発売記念イベント\n全開催地フォトアーカイブ📷🗾\n\n10人のメンバーが1人ずつ全国各地で開催したフリーライブ＆お渡し会の開催地と出演キャストを一挙振り返り！\n\n▼記事はこちら\nhttps://t.co/pD0DYWZwkB\n\n@ikizulive_staff\n#イキヅライブ https://t.co/LnXEWwI0Le",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 4,
+            "reply_count": 0,
+            "retweet_count": 54,
+            "retweeted": false,
+            "user_id_str": "1881212968043741184",
+            "id_str": "1988517119533736339"
+          }
+        }
+      }
+    }
+  },
+  "created_at": "2025-11-12T08:11:17Z"
+}
