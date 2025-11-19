@@ -2,7 +2,7 @@ import json
 import logging
 import os
 from pathlib import Path
-from openai import OpenAI
+from openai import OpenAI, APIError
 
 languages = {
     "ko": {
@@ -104,4 +104,11 @@ if __name__ == "__main__":
                     # translated file
                     continue
                 for lang in languages:
-                    translate_post(client, posts_dir, post_id, lang)
+                    try:
+                        translate_post(client, posts_dir, post_id, lang)
+                    except APIError as e:
+                        # exit properly to save translated files so far on model overloaded error
+                        if e.status_code in (429, 503):
+                            logging.exception("stop translating due to model overloaded error")
+                            raise SystemExit
+                        raise
