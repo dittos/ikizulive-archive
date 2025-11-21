@@ -1,0 +1,387 @@
+{
+  "id": "1991823919762767872",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1991823919762767872",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64537,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1092,
+            "media_count": 530,
+            "normal_followers_count": 64537,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 656,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/nlvcX3JW2Q",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "image_value": {
+                "height": 144,
+                "width": 144,
+                "url": "https://pbs.twimg.com/card_img/1989690157864554496/ZP1xTRZ0?format=jpg&name=144x144_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "いきづらい部！知らんらんらじお！ の応募フォームです。",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "form.bushiroad.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "image_value": {
+                "height": 420,
+                "width": 420,
+                "url": "https://pbs.twimg.com/card_img/1989690157864554496/ZP1xTRZ0?format=jpg&name=420x420_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/1989690157864554496/ZP1xTRZ0?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "image_value": {
+                "height": 100,
+                "width": 100,
+                "url": "https://pbs.twimg.com/card_img/1989690157864554496/ZP1xTRZ0?format=jpg&name=100x100_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/1989690157864554496/ZP1xTRZ0?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "form.bushiroad.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    },
+                    "percentage": 72.9
+                  },
+                  {
+                    "rgb": {
+                      "blue": 146,
+                      "green": 169,
+                      "red": 224
+                    },
+                    "percentage": 8.56
+                  },
+                  {
+                    "rgb": {
+                      "blue": 107,
+                      "green": 82,
+                      "red": 106
+                    },
+                    "percentage": 4.86
+                  },
+                  {
+                    "rgb": {
+                      "blue": 229,
+                      "green": 207,
+                      "red": 150
+                    },
+                    "percentage": 3.91
+                  },
+                  {
+                    "rgb": {
+                      "blue": 164,
+                      "green": 230,
+                      "red": 175
+                    },
+                    "percentage": 1.54
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "いきづらい部！知らんらんらじお！",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/nlvcX3JW2Q",
+              "type": "STRING"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary",
+        "url": "https://t.co/nlvcX3JW2Q",
+        "user_refs_results": []
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1991823919762767872"
+      ],
+      "editable_until_msecs": "1763726403000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "4478",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5OTE4MjM5MTk1OTkyNDczNjA=",
+          "text": "📻📻━━━━━━\n#知らんらんらじお！\n　お便り募集中📮\n━━━━━━━📻📻\n\n#いきづらい部！ 知らんらんらじお！ではお便り募集中！✉\n\n・楽曲とリリースイベントの感想\n・いきづらい部！キャストへの質問・メッセージ\n・ふつおた\nラジオネームのアイディア、番組ノベルティのアイディアもお待ちしています！\n\n📮メール投稿はこちら✉\nhttps://t.co/nlvcX3JW2Q\n\n📻知らんらんらじお！はこちら🎧\nhttps://t.co/18WsZ00Lts\n\n次回は12月3日（水）配信予定！\nお当番は、歌みたユニット「Plumina（プルミナ）」の\n春宮ゆくり役・奥村優季、\n此花輝夜役・天沢朱音、\n山田真緑役・小戸森穂花です💓\n\n#イキヅライブ！",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  9,
+                  18
+                ],
+                "text": "知らんらんらじお"
+              },
+              {
+                "indices": [
+                  40,
+                  47
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  318,
+                  325
+                ],
+                "text": "イキヅライブ"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "form.bushiroad.com/form/ikizulive…",
+                "expanded_url": "https://form.bushiroad.com/form/ikizulive_radio",
+                "url": "https://t.co/nlvcX3JW2Q",
+                "indices": [
+                  165,
+                  188
+                ]
+              },
+              {
+                "display_url": "youtube.com/playlist?list=…",
+                "expanded_url": "https://www.youtube.com/playlist?list=PL-3jtV2TsyS2gtdveKjU8t3Isyp4aZMqT",
+                "url": "https://t.co/18WsZ00Lts",
+                "indices": [
+                  206,
+                  229
+                ]
+              }
+            ],
+            "user_mentions": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 6,
+      "bookmarked": false,
+      "created_at": "Fri Nov 21 11:00:03 +0000 2025",
+      "conversation_id_str": "1991823919762767872",
+      "display_text_range": [
+        0,
+        114
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              9,
+              18
+            ],
+            "text": "知らんらんらじお"
+          },
+          {
+            "indices": [
+              40,
+              47
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 132,
+      "favorited": false,
+      "full_text": "📻📻━━━━━━\n#知らんらんらじお！\n　お便り募集中📮\n━━━━━━━📻📻\n\n#いきづらい部！ 知らんらんらじお！ではお便り募集中！✉\n\n・楽曲とリリースイベントの感想\n・いきづらい部！キャストへの質問・メッセージ\n・ふつおた",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1991823919762767872"
+    }
+  },
+  "created_at": "2025-11-21T11:00:03Z"
+}
