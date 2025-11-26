@@ -1,0 +1,721 @@
+{
+  "id": "1993658407170216258",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1993658407170216258",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64482,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1094,
+            "media_count": 556,
+            "normal_followers_count": 64482,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 685,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1993658407170216258"
+      ],
+      "editable_until_msecs": "1764163779308",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "state": "Enabled"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Wed Nov 26 12:29:39 +0000 2025",
+      "conversation_id_str": "1993658407170216258",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              20,
+              27
+            ],
+            "text": "ラブカ感謝祭"
+          },
+          {
+            "indices": [
+              32,
+              39
+            ],
+            "text": "イキヅライブ"
+          },
+          {
+            "indices": [
+              67,
+              74
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1844295102233182209",
+            "name": "ラブライブ！シリーズ　オフィシャルカードゲーム公式",
+            "screen_name": "LL_cardgame",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @LL_cardgame: /／\n#ラブカ感謝祭 にて\n💖#イキヅライブ！ステージが開催決定💖\n\\＼\n\n2月22日のステージに\n#いきづらい部！から\n高橋ポルカ役 綾咲穂音・麻布麻衣役 遠藤璃菜・\n五桐 玲役 宮野 芹・駒形花火役 藤野こころ\n\nが登壇決定🙌🎉\n\n続報をお…",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 169,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1993658407170216258",
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1993655888100602025",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxODQ0Mjk1MTAyMjMzMTgyMjA5",
+                "rest_id": "1844295102233182209",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1850482493021184000/hN5OqeYW_normal.png"
+                },
+                "core": {
+                  "created_at": "Thu Oct 10 08:42:29 +0000 2024",
+                  "name": "ラブライブ！シリーズ　オフィシャルカードゲーム公式",
+                  "screen_name": "LL_cardgame"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "follow_request_sent": false,
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "✨みんなでつくるカードゲーム✨『ラブライブ！シリーズ　オフィシャルカードゲーム』の公式アカウント\n商品情報やイベント情報など今後の展開について発信してまいります♪\n ※商品やゲームのお問合せについては、こちらで承っておりません。\n#ラブカ #ラブライブカードゲーム",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "llofficial-cardgame.com",
+                          "expanded_url": "https://llofficial-cardgame.com",
+                          "url": "https://t.co/oB6Ydy059k",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 0,
+                  "followers_count": 45551,
+                  "friends_count": 8,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 303,
+                  "media_count": 1523,
+                  "normal_followers_count": 45551,
+                  "pinned_tweet_ids_str": [
+                    "1992065627616694671"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844295102233182209/1764047571",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 2072,
+                  "translator_type": "none",
+                  "url": "https://t.co/oB6Ydy059k",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": ""
+                },
+                "media_permissions": {
+                  "can_media_tag": false
+                },
+                "parody_commentary_fan_label": "None",
+                "profile_image_shape": "Circle",
+                "profile_bio": {
+                  "description": "✨みんなでつくるカードゲーム✨『ラブライブ！シリーズ　オフィシャルカードゲーム』の公式アカウント\n商品情報やイベント情報など今後の展開について発信してまいります♪\n ※商品やゲームのお問合せについては、こちらで承っておりません。\n#ラブカ #ラブライブカードゲーム"
+                },
+                "privacy": {
+                  "protected": false
+                },
+                "relationship_perspectives": {
+                  "following": false
+                },
+                "tipjar_settings": {},
+                "verification": {
+                  "verified": false
+                },
+                "profile_description_language": "ja"
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1993655888100602025"
+            ],
+            "editable_until_msecs": "1764163178000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+          },
+          "is_translatable": true,
+          "views": {
+            "count": "15474",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "grok_analysis_button": true,
+          "legacy": {
+            "bookmark_count": 16,
+            "bookmarked": false,
+            "created_at": "Wed Nov 26 12:19:38 +0000 2025",
+            "conversation_id_str": "1993655888100602025",
+            "display_text_range": [
+              0,
+              172
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    3,
+                    10
+                  ],
+                  "text": "ラブカ感謝祭"
+                },
+                {
+                  "indices": [
+                    15,
+                    22
+                  ],
+                  "text": "イキヅライブ"
+                },
+                {
+                  "indices": [
+                    50,
+                    57
+                  ],
+                  "text": "いきづらい部"
+                },
+                {
+                  "indices": [
+                    158,
+                    162
+                  ],
+                  "text": "ラブカ"
+                },
+                {
+                  "indices": [
+                    163,
+                    172
+                  ],
+                  "text": "lovelive"
+                }
+              ],
+              "media": [
+                {
+                  "display_url": "pic.x.com/omnV7oSc4S",
+                  "expanded_url": "https://x.com/LL_cardgame/status/1993655888100602025/photo/1",
+                  "id_str": "1993655805124710401",
+                  "indices": [
+                    173,
+                    196
+                  ],
+                  "media_key": "3_1993655805124710401",
+                  "media_url_https": "https://pbs.twimg.com/media/G6rjZFTakAE7D7t.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/omnV7oSc4S",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 270,
+                          "y": 316,
+                          "h": 123,
+                          "w": 123
+                        },
+                        {
+                          "x": 699,
+                          "y": 322,
+                          "h": 135,
+                          "w": 135
+                        },
+                        {
+                          "x": 1490,
+                          "y": 330,
+                          "h": 140,
+                          "w": 140
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 168,
+                          "y": 197,
+                          "h": 76,
+                          "w": 76
+                        },
+                        {
+                          "x": 436,
+                          "y": 201,
+                          "h": 84,
+                          "w": 84
+                        },
+                        {
+                          "x": 931,
+                          "y": 206,
+                          "h": 87,
+                          "w": 87
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 95,
+                          "y": 111,
+                          "h": 43,
+                          "w": 43
+                        },
+                        {
+                          "x": 247,
+                          "y": 114,
+                          "h": 47,
+                          "w": 47
+                        },
+                        {
+                          "x": 527,
+                          "y": 116,
+                          "h": 49,
+                          "w": 49
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 270,
+                          "y": 316,
+                          "h": 123,
+                          "w": 123
+                        },
+                        {
+                          "x": 699,
+                          "y": 322,
+                          "h": 135,
+                          "w": 135
+                        },
+                        {
+                          "x": 1490,
+                          "y": 330,
+                          "h": 140,
+                          "w": 140
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "w": 1920,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 675,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 383,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1080,
+                    "width": 1920,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 5,
+                        "w": 1920,
+                        "h": 1075
+                      },
+                      {
+                        "x": 180,
+                        "y": 0,
+                        "w": 1080,
+                        "h": 1080
+                      },
+                      {
+                        "x": 247,
+                        "y": 0,
+                        "w": 947,
+                        "h": 1080
+                      },
+                      {
+                        "x": 450,
+                        "y": 0,
+                        "w": 540,
+                        "h": 1080
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1920,
+                        "h": 1080
+                      }
+                    ]
+                  },
+                  "allow_download_status": {
+                    "allow_download": true
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1993655805124710401"
+                    }
+                  }
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [
+                {
+                  "display_url": "lloc-fes.llofficial-cardgame.com/anv/news/post-…",
+                  "expanded_url": "https://lloc-fes.llofficial-cardgame.com/anv/news/post-1/",
+                  "url": "https://t.co/jJkDOVa0Cg",
+                  "indices": [
+                    133,
+                    156
+                  ]
+                }
+              ],
+              "user_mentions": []
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "display_url": "pic.x.com/omnV7oSc4S",
+                  "expanded_url": "https://x.com/LL_cardgame/status/1993655888100602025/photo/1",
+                  "id_str": "1993655805124710401",
+                  "indices": [
+                    173,
+                    196
+                  ],
+                  "media_key": "3_1993655805124710401",
+                  "media_url_https": "https://pbs.twimg.com/media/G6rjZFTakAE7D7t.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/omnV7oSc4S",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 270,
+                          "y": 316,
+                          "h": 123,
+                          "w": 123
+                        },
+                        {
+                          "x": 699,
+                          "y": 322,
+                          "h": 135,
+                          "w": 135
+                        },
+                        {
+                          "x": 1490,
+                          "y": 330,
+                          "h": 140,
+                          "w": 140
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 168,
+                          "y": 197,
+                          "h": 76,
+                          "w": 76
+                        },
+                        {
+                          "x": 436,
+                          "y": 201,
+                          "h": 84,
+                          "w": 84
+                        },
+                        {
+                          "x": 931,
+                          "y": 206,
+                          "h": 87,
+                          "w": 87
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 95,
+                          "y": 111,
+                          "h": 43,
+                          "w": 43
+                        },
+                        {
+                          "x": 247,
+                          "y": 114,
+                          "h": 47,
+                          "w": 47
+                        },
+                        {
+                          "x": 527,
+                          "y": 116,
+                          "h": 49,
+                          "w": 49
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 270,
+                          "y": 316,
+                          "h": 123,
+                          "w": 123
+                        },
+                        {
+                          "x": 699,
+                          "y": 322,
+                          "h": 135,
+                          "w": 135
+                        },
+                        {
+                          "x": 1490,
+                          "y": 330,
+                          "h": 140,
+                          "w": 140
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "w": 1920,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 675,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 383,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1080,
+                    "width": 1920,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 5,
+                        "w": 1920,
+                        "h": 1075
+                      },
+                      {
+                        "x": 180,
+                        "y": 0,
+                        "w": 1080,
+                        "h": 1080
+                      },
+                      {
+                        "x": 247,
+                        "y": 0,
+                        "w": 947,
+                        "h": 1080
+                      },
+                      {
+                        "x": 450,
+                        "y": 0,
+                        "w": 540,
+                        "h": 1080
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1920,
+                        "h": 1080
+                      }
+                    ]
+                  },
+                  "allow_download_status": {
+                    "allow_download": true
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_1993655805124710401"
+                    }
+                  }
+                }
+              ]
+            },
+            "favorite_count": 401,
+            "favorited": false,
+            "full_text": "/／\n#ラブカ感謝祭 にて\n💖#イキヅライブ！ステージが開催決定💖\n\\＼\n\n2月22日のステージに\n#いきづらい部！から\n高橋ポルカ役 綾咲穂音・麻布麻衣役 遠藤璃菜・\n五桐 玲役 宮野 芹・駒形花火役 藤野こころ\n\nが登壇決定🙌🎉\n\n続報をお楽しみに✨\n\n詳細✅\nhttps://t.co/jJkDOVa0Cg\n\n#ラブカ\n#lovelive https://t.co/omnV7oSc4S",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 23,
+            "reply_count": 2,
+            "retweet_count": 169,
+            "retweeted": false,
+            "user_id_str": "1844295102233182209",
+            "id_str": "1993655888100602025"
+          }
+        }
+      }
+    }
+  },
+  "created_at": "2025-11-26T12:29:39Z"
+}
