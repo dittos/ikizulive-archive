@@ -1,0 +1,495 @@
+{
+  "id": "1996202767082254430",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1996202767082254430",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G7OZ_IYaIAA7aau.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1996202767082254430",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64430,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1096,
+            "media_count": 568,
+            "normal_followers_count": 64430,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 697,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1996202767082254430"
+      ],
+      "editable_until_msecs": "1764770401000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "1562",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 6,
+      "bookmarked": false,
+      "created_at": "Wed Dec 03 13:00:01 +0000 2025",
+      "conversation_id_str": "1996202767082254430",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              2,
+              11
+            ],
+            "text": "知らんらんらじお"
+          },
+          {
+            "indices": [
+              125,
+              132
+            ],
+            "text": "イキヅライブ"
+          },
+          {
+            "indices": [
+              133,
+              140
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/3EPBwy4weJ",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1996202767082254430/photo/1",
+            "id_str": "1996108369715929088",
+            "indices": [
+              141,
+              164
+            ],
+            "media_key": "3_1996108369715929088",
+            "media_url_https": "https://pbs.twimg.com/media/G7OZ_IYaIAA7aau.jpg",
+            "type": "photo",
+            "url": "https://t.co/3EPBwy4weJ",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 438,
+                    "y": 282,
+                    "h": 181,
+                    "w": 181
+                  },
+                  {
+                    "x": 134,
+                    "y": 560,
+                    "h": 188,
+                    "w": 188
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 438,
+                    "y": 282,
+                    "h": 181,
+                    "w": 181
+                  },
+                  {
+                    "x": 134,
+                    "y": 560,
+                    "h": 188,
+                    "w": 188
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 248,
+                    "y": 159,
+                    "h": 102,
+                    "w": 102
+                  },
+                  {
+                    "x": 75,
+                    "y": 317,
+                    "h": 106,
+                    "w": 106
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 438,
+                    "y": 282,
+                    "h": 181,
+                    "w": 181
+                  },
+                  {
+                    "x": 134,
+                    "y": 560,
+                    "h": 188,
+                    "w": 188
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1200,
+                "w": 989,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 989,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 560,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1200,
+              "width": 989,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 112,
+                  "w": 989,
+                  "h": 554
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 989,
+                  "h": 989
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 989,
+                  "h": 1127
+                },
+                {
+                  "x": 269,
+                  "y": 0,
+                  "w": 600,
+                  "h": 1200
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 989,
+                  "h": 1200
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1996108369715929088"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/E8i3gPz6sWs",
+            "expanded_url": "https://youtu.be/E8i3gPz6sWs",
+            "url": "https://t.co/ic3qYT2V18",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/3EPBwy4weJ",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1996202767082254430/photo/1",
+            "id_str": "1996108369715929088",
+            "indices": [
+              141,
+              164
+            ],
+            "media_key": "3_1996108369715929088",
+            "media_url_https": "https://pbs.twimg.com/media/G7OZ_IYaIAA7aau.jpg",
+            "type": "photo",
+            "url": "https://t.co/3EPBwy4weJ",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 438,
+                    "y": 282,
+                    "h": 181,
+                    "w": 181
+                  },
+                  {
+                    "x": 134,
+                    "y": 560,
+                    "h": 188,
+                    "w": 188
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 438,
+                    "y": 282,
+                    "h": 181,
+                    "w": 181
+                  },
+                  {
+                    "x": 134,
+                    "y": 560,
+                    "h": 188,
+                    "w": 188
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 248,
+                    "y": 159,
+                    "h": 102,
+                    "w": 102
+                  },
+                  {
+                    "x": 75,
+                    "y": 317,
+                    "h": 106,
+                    "w": 106
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 438,
+                    "y": 282,
+                    "h": 181,
+                    "w": 181
+                  },
+                  {
+                    "x": 134,
+                    "y": 560,
+                    "h": 188,
+                    "w": 188
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1200,
+                "w": 989,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 989,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 560,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1200,
+              "width": 989,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 112,
+                  "w": 989,
+                  "h": 554
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 989,
+                  "h": 989
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 989,
+                  "h": 1127
+                },
+                {
+                  "x": 269,
+                  "y": 0,
+                  "w": 600,
+                  "h": 1200
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 989,
+                  "h": 1200
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1996108369715929088"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 148,
+      "favorited": false,
+      "full_text": "／\n#知らんらんらじお！\nプレミア公開中！📻📡\n＼\n\nhttps://t.co/ic3qYT2V18\n\n知らんらんらじお！の番組ロゴを検討中！💡\n春宮ゆくり役・奥村優季のアイディアを紹介🎨\n\nラブ高にちなんだハート型ラジオがキュートなロゴ案です💕\n\n#イキヅライブ #いきづらい部 https://t.co/3EPBwy4weJ",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 8,
+      "reply_count": 0,
+      "retweet_count": 59,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1996202767082254430"
+    }
+  },
+  "created_at": "2025-12-03T13:00:01Z"
+}
