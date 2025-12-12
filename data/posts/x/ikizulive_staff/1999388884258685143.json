@@ -1,0 +1,463 @@
+{
+  "id": "1999388884258685143",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "1999388884258685143",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G747_sEbAAAHmmn.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1999388884258685143",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64251,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1086,
+            "media_count": 576,
+            "normal_followers_count": 64251,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 705,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1999388884258685143"
+      ],
+      "editable_until_msecs": "1765530031000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "11809",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5OTkzODg4ODQxNDEyOTM1NzA=",
+          "text": ".˚⊹⁺‧┈┈┈┈┈┈┈‧⁺ ⊹˚.\n　 #いきづらい部 ！\n　日常動画イラスト\n.˚⊹⁺‧┈┈┈┈┈┈┈‧⁺ ⊹˚.\n\nYouTubeチャンネルにて日常動画が公開中！\n\n今回は「マジカルマイマイ」から\n高橋ポルカと麻布麻衣のイラストをお届け♪\n\n是非気になるメンバーの日常を覗いてみてください💕\n\n📹動画はこちら\nhttps://t.co/ncheXpguHB\n\n#イキヅライブ",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  21,
+                  28
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  183,
+                  190
+                ],
+                "text": "イキヅライブ"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "youtu.be/JkXQpWHoOdM",
+                "expanded_url": "https://youtu.be/JkXQpWHoOdM",
+                "url": "https://t.co/ncheXpguHB",
+                "indices": [
+                  158,
+                  181
+                ]
+              }
+            ],
+            "user_mentions": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 42,
+      "bookmarked": false,
+      "created_at": "Fri Dec 12 08:00:31 +0000 2025",
+      "conversation_id_str": "1999388884258685143",
+      "display_text_range": [
+        0,
+        148
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              21,
+              28
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/gWYGMf0Dmn",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1999388884258685143/photo/1",
+            "id_str": "1999101249946583040",
+            "indices": [
+              149,
+              172
+            ],
+            "media_key": "3_1999101249946583040",
+            "media_url_https": "https://pbs.twimg.com/media/G747_sEbAAAHmmn.jpg",
+            "type": "photo",
+            "url": "https://t.co/gWYGMf0Dmn",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 109,
+                    "y": 157,
+                    "h": 203,
+                    "w": 203
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 64,
+                    "y": 92,
+                    "h": 119,
+                    "w": 119
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 36,
+                    "y": 52,
+                    "h": 67,
+                    "w": 67
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 219,
+                    "y": 315,
+                    "h": 407,
+                    "w": 407
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1448,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 848,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 481,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2894,
+              "width": 4093,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 4093,
+                  "h": 2292
+                },
+                {
+                  "x": 1199,
+                  "y": 0,
+                  "w": 2894,
+                  "h": 2894
+                },
+                {
+                  "x": 1554,
+                  "y": 0,
+                  "w": 2539,
+                  "h": 2894
+                },
+                {
+                  "x": 2646,
+                  "y": 0,
+                  "w": 1447,
+                  "h": 2894
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 4093,
+                  "h": 2894
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1999101249946583040"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/gWYGMf0Dmn",
+            "expanded_url": "https://x.com/ikizulive_staff/status/1999388884258685143/photo/1",
+            "id_str": "1999101249946583040",
+            "indices": [
+              149,
+              172
+            ],
+            "media_key": "3_1999101249946583040",
+            "media_url_https": "https://pbs.twimg.com/media/G747_sEbAAAHmmn.jpg",
+            "type": "photo",
+            "url": "https://t.co/gWYGMf0Dmn",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 109,
+                    "y": 157,
+                    "h": 203,
+                    "w": 203
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 64,
+                    "y": 92,
+                    "h": 119,
+                    "w": 119
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 36,
+                    "y": 52,
+                    "h": 67,
+                    "w": 67
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 219,
+                    "y": 315,
+                    "h": 407,
+                    "w": 407
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1448,
+                "w": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 848,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 481,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2894,
+              "width": 4093,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 4093,
+                  "h": 2292
+                },
+                {
+                  "x": 1199,
+                  "y": 0,
+                  "w": 2894,
+                  "h": 2894
+                },
+                {
+                  "x": 1554,
+                  "y": 0,
+                  "w": 2539,
+                  "h": 2894
+                },
+                {
+                  "x": 2646,
+                  "y": 0,
+                  "w": 1447,
+                  "h": 2894
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 4093,
+                  "h": 2894
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_1999101249946583040"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 756,
+      "favorited": false,
+      "full_text": ".˚⊹⁺‧┈┈┈┈┈┈┈‧⁺ ⊹˚.\n　 #いきづらい部 ！\n　日常動画イラスト\n.˚⊹⁺‧┈┈┈┈┈┈┈‧⁺ ⊹˚.\n\nYouTubeチャンネルにて日常動画が公開中！\n\n今回は「マジカルマイマイ」から\n高橋ポルカと麻布麻衣のイラストをお届け♪\n\n是非気になるメンバーの日常を覗いてみてください💕 https://t.co/gWYGMf0Dmn",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 11,
+      "reply_count": 5,
+      "retweet_count": 268,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1999388884258685143"
+    }
+  },
+  "created_at": "2025-12-12T08:00:31Z"
+}
