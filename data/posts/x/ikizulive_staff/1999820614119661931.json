@@ -1,0 +1,544 @@
+{
+  "id": "1999820614119661931",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "1999820614119661931",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64264,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1086,
+            "media_count": 576,
+            "normal_followers_count": 64264,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 706,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/C0S5GIawez",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "player_url",
+            "value": {
+              "string_value": "https://www.youtube.com/embed/K-_K0vJXLjQ",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_image_large",
+            "value": {
+              "image_value": {
+                "height": 627,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/1999797033260236802/wKCO6Kld?format=jpg&name=1200x627"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "player_image",
+            "value": {
+              "image_value": {
+                "height": 600,
+                "width": 338,
+                "url": "https://pbs.twimg.com/card_img/1999797033260236802/wKCO6Kld?format=jpg&name=600x600"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "app_star_rating",
+            "value": {
+              "string_value": "4.67952",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_width",
+            "value": {
+              "string_value": "405",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "www.youtube.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_is_free",
+            "value": {
+              "string_value": "true",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "10228272",
+                "path": []
+              }
+            }
+          },
+          {
+            "key": "player_image_original",
+            "value": {
+              "image_value": {
+                "height": 720,
+                "width": 405,
+                "url": "https://pbs.twimg.com/card_img/1999797033260236802/wKCO6Kld?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "app_num_ratings",
+            "value": {
+              "string_value": "44,973,340",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_amount",
+            "value": {
+              "string_value": "0.0",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_height",
+            "value": {
+              "string_value": "720",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "youtube.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_name",
+            "value": {
+              "string_value": "YouTube",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_image_small",
+            "value": {
+              "image_value": {
+                "height": 240,
+                "width": 135,
+                "url": "https://pbs.twimg.com/card_img/1999797033260236802/wKCO6Kld?format=jpg&name=240x240"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "いきづらい部！思い出！！佐々木翔音 1st Singleリリイベ＠北海道 #イキヅライブ #いきづらい部 #ラブライブ #lovelive",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_currency",
+            "value": {
+              "string_value": "USD",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/C0S5GIawez",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "player_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 196,
+                      "green": 202,
+                      "red": 205
+                    },
+                    "percentage": 44.05
+                  },
+                  {
+                    "rgb": {
+                      "blue": 99,
+                      "green": 96,
+                      "red": 98
+                    },
+                    "percentage": 30.47
+                  },
+                  {
+                    "rgb": {
+                      "blue": 58,
+                      "green": 49,
+                      "red": 50
+                    },
+                    "percentage": 22.62
+                  },
+                  {
+                    "rgb": {
+                      "blue": 124,
+                      "green": 189,
+                      "red": 207
+                    },
+                    "percentage": 4.36
+                  },
+                  {
+                    "rgb": {
+                      "blue": 97,
+                      "green": 204,
+                      "red": 221
+                    },
+                    "percentage": 1.25
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "player_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 720,
+                "width": 405,
+                "url": "https://pbs.twimg.com/card_img/1999797033260236802/wKCO6Kld?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "player",
+        "url": "https://t.co/C0S5GIawez",
+        "user_refs_results": [
+          {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxMDIyODI3Mg==",
+              "rest_id": "10228272",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg"
+              },
+              "core": {
+                "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+                "name": "YouTube",
+                "screen_name": "YouTube"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "follow_request_sent": false,
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "your 2025 Recap just dropped! link in bio 👇",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "youtube.com/recap",
+                        "expanded_url": "http://youtube.com/recap",
+                        "url": "https://t.co/URnyVVvAVr",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 6038,
+                "followers_count": 68026041,
+                "friends_count": 1144,
+                "has_custom_timelines": true,
+                "is_translator": false,
+                "listed_count": 75799,
+                "media_count": 16067,
+                "normal_followers_count": 68026041,
+                "pinned_tweet_ids_str": [],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1764705659",
+                "profile_interstitial_type": "",
+                "statuses_count": 60565,
+                "translator_type": "regular",
+                "url": "https://t.co/URnyVVvAVr",
+                "want_retweets": false,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": "San Bruno, CA"
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Square",
+              "profile_bio": {
+                "description": "your 2025 Recap just dropped! link in bio 👇"
+              },
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": false
+              },
+              "tipjar_settings": {},
+              "verification": {
+                "verified": false,
+                "verified_type": "Business"
+              },
+              "profile_description_language": "en"
+            }
+          }
+        ]
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1999820614119661931"
+      ],
+      "editable_until_msecs": "1765632963000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "9503",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjE5OTk4MjA2MTM5NzcwNzE2MTY=",
+          "text": "／\n📢ショート動画更新！\n＼\n\nいきづらい部！佐々木翔音 1st Solo Singleリリイベ＠北海道の映像の一部をショートで公開！\n☞https://t.co/cXOQFEzAlP\n\nいきづらい部！1st LIVE ～ What is my L ? ～\n🎟️一般発売(2次)抽選受付は～12/14(日)23:59まで⏰\n\n📅開催日：2026年2月14日(土),15日(日)\n🎪会場：幕張イベントホール\n🎫詳細：https://t.co/ANUq4Ge51q\n\n#イキヅライブ #いきづらい部",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  232,
+                  239
+                ],
+                "text": "イキヅライブ"
+              },
+              {
+                "indices": [
+                  240,
+                  247
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "youtube.com/shorts/K-_K0vJ…",
+                "expanded_url": "https://youtube.com/shorts/K-_K0vJXLjQ",
+                "url": "https://t.co/cXOQFEzAlP",
+                "indices": [
+                  69,
+                  92
+                ]
+              },
+              {
+                "display_url": "lovelive-anime.jp/lovehigh/live/…",
+                "expanded_url": "https://lovelive-anime.jp/lovehigh/live/live_detail.php?_id=WhatismyL",
+                "url": "https://t.co/ANUq4Ge51q",
+                "indices": [
+                  207,
+                  230
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 9,
+      "bookmarked": false,
+      "created_at": "Sat Dec 13 12:36:03 +0000 2025",
+      "conversation_id_str": "1999820614119661931",
+      "display_text_range": [
+        0,
+        188
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtube.com/shorts/K-_K0vJ…",
+            "expanded_url": "https://youtube.com/shorts/K-_K0vJXLjQ",
+            "url": "https://t.co/C0S5GIawez",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 197,
+      "favorited": false,
+      "full_text": "／\n📢ショート動画更新！\n＼\n\nいきづらい部！佐々木翔音 1st Solo Singleリリイベ＠北海道の映像の一部をショートで公開！\n☞https://t.co/C0S5GIawez\n\nいきづらい部！1st LIVE ～ What is my L ? ～\n🎟️一般発売(2次)抽選受付は～12/14(日)23:59まで⏰\n\n📅開催日：2026年2月14日(土),15日(日)",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 7,
+      "reply_count": 2,
+      "retweet_count": 80,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "1999820614119661931"
+    }
+  },
+  "created_at": "2025-12-13T12:36:03Z"
+}
