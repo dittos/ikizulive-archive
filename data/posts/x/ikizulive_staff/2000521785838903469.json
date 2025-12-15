@@ -1,0 +1,413 @@
+{
+  "id": "2000521785838903469",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "2000521785838903469",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G8NHaW1a0AA5sVN.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "2000521785838903469",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64238,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1087,
+            "media_count": 580,
+            "normal_followers_count": 64238,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 711,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2000521785838903469"
+      ],
+      "editable_until_msecs": "1765800136000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "13269",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjIwMDA1MjE3ODU3Njc1OTYwMzI=",
+          "text": "╭━━━━━━━━━━━╮\n「君じゃなきゃダメみたい」（オーイシマサヨシ）\n「歌ってみた」リリックビデオ公開‼\n╰━━━━━∨━━━━━╯\n\n#いきづらい部！のPluminaが\n「君じゃなきゃダメみたい」（オーイシマサヨシ）をカバー！\nリリックビデオを公開⌚\n\n【Plumina from いきづらい部！】\n春宮ゆくり(CV.奥村優季) , 此花輝夜(CV.天沢朱音) ,　山田真緑(CV.小戸森穂花)\n\n🎥ご視聴はこちら\nhttps://t.co/rLZrwcb4Ve\n\n#イキヅライブ",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  71,
+                  78
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  237,
+                  244
+                ],
+                "text": "イキヅライブ"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "youtu.be/2ETR6ohPveg",
+                "expanded_url": "https://youtu.be/2ETR6ohPveg",
+                "url": "https://t.co/rLZrwcb4Ve",
+                "indices": [
+                  212,
+                  235
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 31,
+      "bookmarked": false,
+      "created_at": "Mon Dec 15 11:02:16 +0000 2025",
+      "conversation_id_str": "2000521785838903469",
+      "display_text_range": [
+        0,
+        153
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              71,
+              78
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/jqXK2XEH45",
+            "expanded_url": "https://x.com/ikizulive_staff/status/2000521785838903469/photo/1",
+            "id_str": "2000521177614438400",
+            "indices": [
+              154,
+              177
+            ],
+            "media_key": "3_2000521177614438400",
+            "media_url_https": "https://pbs.twimg.com/media/G8NHaW1a0AA5sVN.jpg",
+            "type": "photo",
+            "url": "https://t.co/jqXK2XEH45",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 720,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 720,
+              "width": 1280,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 717
+                },
+                {
+                  "x": 248,
+                  "y": 0,
+                  "w": 720,
+                  "h": 720
+                },
+                {
+                  "x": 292,
+                  "y": 0,
+                  "w": 632,
+                  "h": 720
+                },
+                {
+                  "x": 428,
+                  "y": 0,
+                  "w": 360,
+                  "h": 720
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 720
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_2000521177614438400"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/jqXK2XEH45",
+            "expanded_url": "https://x.com/ikizulive_staff/status/2000521785838903469/photo/1",
+            "id_str": "2000521177614438400",
+            "indices": [
+              154,
+              177
+            ],
+            "media_key": "3_2000521177614438400",
+            "media_url_https": "https://pbs.twimg.com/media/G8NHaW1a0AA5sVN.jpg",
+            "type": "photo",
+            "url": "https://t.co/jqXK2XEH45",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 720,
+                "w": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 720,
+              "width": 1280,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 717
+                },
+                {
+                  "x": 248,
+                  "y": 0,
+                  "w": 720,
+                  "h": 720
+                },
+                {
+                  "x": 292,
+                  "y": 0,
+                  "w": 632,
+                  "h": 720
+                },
+                {
+                  "x": 428,
+                  "y": 0,
+                  "w": 360,
+                  "h": 720
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1280,
+                  "h": 720
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_2000521177614438400"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 665,
+      "favorited": false,
+      "full_text": "╭━━━━━━━━━━━╮\n「君じゃなきゃダメみたい」（オーイシマサヨシ）\n「歌ってみた」リリックビデオ公開‼\n╰━━━━━∨━━━━━╯\n\n#いきづらい部！のPluminaが\n「君じゃなきゃダメみたい」（オーイシマサヨシ）をカバー！\nリリックビデオを公開⌚\n\n【Plumina from いきづらい部！】 https://t.co/jqXK2XEH45",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 43,
+      "reply_count": 5,
+      "retweet_count": 359,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "2000521785838903469"
+    }
+  },
+  "created_at": "2025-12-15T11:02:16Z"
+}
