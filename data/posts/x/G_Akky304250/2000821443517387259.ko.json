@@ -1,0 +1,37 @@
+{
+  "id": "2000821443517387259",
+  "translated_text": "문화제 이야기가 전혀 진전되지 않는 와중에\n일단 다시 다 같이 밖에서 춤출 수 있는\n문화제 같은 이벤트를 찾았으니까\n일단 응모해 봤다는 이야기였지만...\n#살기힘든부",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n\n사람 이름 읽는 법:\n高橋ポルカ -> 타카하시 폴카\n麻布麻衣 -> 아자부 마이\n五桐 玲 -> 고토 아키라\n駒形花火 -> 코마가타 하나비\n金澤奇跡 -> 카나자와 미라클\n調布のりこ -> 쵸후 노리코\n春宮ゆくり -> 하루미야 유쿠리\n此花輝夜 -> 코노하나 오로라\n山田真緑 -> 야마다 미도리\n佐々木翔音 -> 사사키 시온\n",
+  "raw_data": {
+    "id": "KQtBadHbL4DC-8YP_YGv8Ak",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "문화제 이야기가 전혀 진전되지 않는 와중에\n일단 다시 다 같이 밖에서 춤출 수 있는\n문화제 같은 이벤트를 찾았으니까\n일단 응모해 봤다는 이야기였지만...\n#살기힘든부",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1765870377,
+    "model": "gemini-2.5-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 54,
+      "prompt_tokens": 297,
+      "total_tokens": 1056,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}
