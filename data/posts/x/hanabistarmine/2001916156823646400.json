@@ -1,0 +1,149 @@
+{
+  "id": "2001916156823646400",
+  "username": "hanabistarmine",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "2001916156823646400",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NTc1MTA1NzgzOTQzMTY5",
+          "rest_id": "1906575105783943169",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921886890002685952/WYCChlsQ_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 05:11:49 +0000 2025",
+            "name": "駒形花火@いきづらい部！",
+            "screen_name": "hanabistarmine"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=3",
+                    "url": "https://t.co/R8J40tZxQQ",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 24788,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1185,
+            "media_count": 0,
+            "normal_followers_count": 24788,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906575105783943169/1747048518",
+            "profile_interstitial_type": "",
+            "statuses_count": 169,
+            "translator_type": "none",
+            "url": "https://t.co/R8J40tZxQQ",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": false
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2001916156823646400"
+      ],
+      "editable_until_msecs": "1766132580000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "810",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 1,
+      "bookmarked": false,
+      "created_at": "Fri Dec 19 07:23:00 +0000 2025",
+      "conversation_id_str": "2001916156823646400",
+      "display_text_range": [
+        0,
+        61
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              54,
+              61
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 58,
+      "favorited": false,
+      "full_text": "っていうより、きっとポルカちゃんの最近の1番の当たりくじは麻衣ちゃんでは？と思ったけれど…\nこれも内緒👘✨\n#いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 14,
+      "retweeted": false,
+      "user_id_str": "1906575105783943169",
+      "id_str": "2001916156823646400"
+    }
+  },
+  "created_at": "2025-12-19T07:23:00Z"
+}
