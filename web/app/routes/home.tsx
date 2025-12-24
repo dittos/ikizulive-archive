@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import React, { useEffect, useRef, useState } from "react"
 import { Temporal, Intl } from "@js-temporal/polyfill"
 import { Avatar, AvatarFallback, AvatarImage } from "~/components/ui/avatar"
 import { Checkbox } from "~/components/ui/checkbox"
@@ -6,9 +6,10 @@ import type { Post, TranslatedPost } from "~/data"
 import type { Route } from "./+types/home";
 import { loadAllData, loadTranslatedPosts } from "~/data";
 import { STRINGS } from "~/i18n"
-import { ChevronLeft, ChevronRight, SquareArrowOutUpRightIcon } from "lucide-react"
+import { ChevronLeft, ChevronRight, SquareArrowOutUpRightIcon, ChevronDown, ChevronUp, Calendar } from "lucide-react"
 import { Button } from "~/components/ui/button"
 import { Link, useLoaderData, useParams } from "react-router"
+import { DateCalendar } from "~/components/ui/date-calendar"
 
 export async function loader({ params }: Route.LoaderArgs) {
   const strings = STRINGS[params.lang as keyof typeof STRINGS];
@@ -31,6 +32,13 @@ export async function loader({ params }: Route.LoaderArgs) {
     strings,
     accounts: allData.accounts,
     postsByDate,
+    allDates: allData.postsByDate.map((d) => d.date),
+    dateAccounts: Object.fromEntries(
+      allData.postsByDate.map(({ date, posts }) => [
+        date,
+        Array.from(new Set(posts.map((p) => p.account.id))),
+      ])
+    ),
     pages: {
       direction: direction as "until" | "since",
       oldest,
@@ -126,6 +134,7 @@ export default function Home({
       <Posts
         posts={filteredTweets}
         translatedPosts={translatedPosts}
+        selectedAccounts={selectedAccounts}
       />
 
       {/* Footer */}
@@ -136,15 +145,157 @@ export default function Home({
   )
 }
 
+function DateNav({
+  lang,
+  pages,
+  strings,
+  month,
+  setMonth,
+  datesWithPosts,
+  toPath,
+  placement = "below",
+}: {
+  lang: string
+  pages: {
+    direction: "until" | "since"
+    oldest: string
+    first: string
+    prev: string | null
+    next: string | null
+    current: string
+  }
+  strings: any
+  month: Temporal.PlainDate
+  setMonth: React.Dispatch<React.SetStateAction<Temporal.PlainDate>>
+  datesWithPosts: string[]
+  toPath: (dateStr: string) => string
+  placement?: "above" | "below"
+}) {
+  const [calendarOpen, setCalendarOpen] = useState(false)
+  const popoverContainerRef = useRef<HTMLDivElement>(null)
+
+  useEffect(() => {
+    const onDocClick = (e: MouseEvent) => {
+      if (!calendarOpen) return
+      const el = popoverContainerRef.current
+      if (!el) return
+      const anyEvt = e as any
+      const path: EventTarget[] | undefined = typeof anyEvt.composedPath === "function" ? anyEvt.composedPath() : undefined
+      const isInside = path ? path.includes(el) : (e.target instanceof Node && el.contains(e.target))
+      if (!isInside) {
+        setCalendarOpen(false)
+      } else {
+        e.stopPropagation()
+      }
+    }
+    document.addEventListener("click", onDocClick)
+    return () => document.removeEventListener("click", onDocClick)
+  }, [calendarOpen])
+
+  return (
+    <div className="flex items-center mb-6">
+      <Link to={`/${lang}`}>
+        <Button variant={pages.direction === "until" ? "default" : "outline"} size="sm" className="cursor-pointer">
+          {strings.home.sortByLatest}
+        </Button>
+      </Link>
+      <Link to={`/${lang}/since/${pages.oldest}`} className="ml-2">
+        <Button variant={pages.direction === "since" ? "default" : "outline"} size="sm" className="cursor-pointer">
+          {strings.home.sortByOldest}
+        </Button>
+      </Link>
+
+      <div className="ml-auto" />
+
+      <div className="relative" ref={popoverContainerRef}>
+        <Button
+          variant="outline"
+          size="sm"
+          className="cursor-pointer"
+          onClick={() => setCalendarOpen((v) => !v)}
+          aria-expanded={calendarOpen}
+          aria-haspopup="dialog"
+          title={strings.home.goToDate}
+          aria-label={strings.home.goToDate}
+        >
+          <Calendar className="h-4 w-4" />
+          <span className="hidden sm:inline">{strings.home.goToDate}</span>
+          {calendarOpen ? (
+            <ChevronUp className="h-4 w-4" />
+          ) : (
+            <ChevronDown className="h-4 w-4" />
+          )}
+        </Button>
+
+        <div
+          className={`absolute right-0 z-50 ${
+            placement === "above" ? "bottom-full mb-2" : "top-full mt-2"
+          } ${calendarOpen ? "opacity-100 visible" : "opacity-0 invisible pointer-events-none"}`}
+          aria-hidden={!calendarOpen}
+          onMouseDown={(e) => e.stopPropagation()}
+          onTouchStart={(e) => e.stopPropagation()}
+          onClick={(e) => {
+            e.stopPropagation()
+            ;(e.nativeEvent as any)?.stopImmediatePropagation?.()
+          }}
+        >
+          <DateCalendar
+            month={month}
+            setMonth={setMonth}
+            lang={lang}
+            datesWithPosts={datesWithPosts}
+            currentDateStr={pages.current}
+            toPath={toPath}
+            onNavigate={() => setCalendarOpen(false)}
+          />
+        </div>
+      </div>
+
+      {pages.prev && (
+        <Link to={pages.prev === pages.first ? `/${lang}` : `/${lang}/${pages.direction}/${pages.prev}`} className="ml-2">
+          <Button variant="outline" size="sm" className="cursor-pointer" aria-label={strings.home.prevPage}>
+            <ChevronLeft className="h-4 w-4 mr-1" />
+            <span className="hidden sm:inline">{strings.home.prevPage}</span>
+          </Button>
+        </Link>
+      )}
+      {pages.next && (
+        <Link to={`/${lang}/${pages.direction}/${pages.next}`} className="ml-2">
+          <Button variant="outline" size="sm" className="cursor-pointer" aria-label={strings.home.nextPage}>
+            <span className="hidden sm:inline">{strings.home.nextPage}</span>
+            <ChevronRight className="h-4 w-4 ml-1" />
+          </Button>
+        </Link>
+      )}
+    </div>
+  )
+}
+
 function Posts({
   posts,
   translatedPosts,
+  selectedAccounts,
 }: {
   posts: Post[];
   translatedPosts: { [id: string]: TranslatedPost };
+  selectedAccounts: string[];
 }) {
   const {lang} = useParams()
-  const {accounts, strings, pages} = useLoaderData<typeof loader>()
+  const {accounts, strings, pages, allDates, dateAccounts} = useLoaderData<typeof loader>()
+  const initialMonth = Temporal.PlainDate.from(pages.current).with({ day: 1 })
+  const [month, setMonth] = useState(initialMonth)
+  const datesWithPosts = new Set(
+    allDates.filter((d) => {
+      const accs = (dateAccounts as Record<string, string[]>)?.[d] ?? []
+      return accs.some((id) => selectedAccounts.includes(id))
+    })
+  )
+
+  // Keep calendar month in sync with the currently active date (route/page changes)
+  useEffect(() => {
+    const target = Temporal.PlainDate.from(pages.current).with({ day: 1 })
+    setMonth(target)
+  }, [pages.current])
 
   // Group tweets by date (YYYY-MM-DD)
   const groupedTweets = posts.reduce((groups, post) => {
@@ -175,41 +326,20 @@ function Posts({
     return new Intl.DateTimeFormat(lang, { dateStyle: "full" }).format(Temporal.PlainDate.from(dateStr))
   }
 
-  const dateNav = (
-    <div className="flex items-center mb-6">
-      <Link to={`/${lang}`}>
-        <Button variant={pages.direction === "until" ? "default" : "outline"} size="sm" className="cursor-pointer">
-          {strings.home.sortByLatest}
-        </Button>
-      </Link>
-      <Link to={`/${lang}/since/${pages.oldest}`} className="ml-2">
-        <Button variant={pages.direction === "since" ? "default" : "outline"} size="sm" className="cursor-pointer">
-          {strings.home.sortByOldest}
-        </Button>
-      </Link>
+  const toPath = (dateStr: string) => `/${lang}/${pages.direction}/${dateStr}`
 
-      <div className="ml-auto" />
-
-      {pages.prev && (
-        <Link to={pages.prev === pages.first ? `/${lang}` : `/${lang}/${pages.direction}/${pages.prev}`}>
-          <Button variant="outline" size="sm" className="cursor-pointer">
-            <ChevronLeft className="h-4 w-4 mr-1" /> {strings.home.prevPage}
-          </Button>
-        </Link>
-      )}
-      {pages.next && (
-        <Link to={`/${lang}/${pages.direction}/${pages.next}`} className="ml-2">
-          <Button variant="outline" size="sm" className="cursor-pointer">
-            {strings.home.nextPage} <ChevronRight className="h-4 w-4 ml-1" />
-          </Button>
-        </Link>
-      )}
-    </div>
-  );
 
   return (
     <div className="space-y-8">
-      {dateNav}
+      <DateNav
+        lang={lang!}
+        pages={pages}
+        strings={strings}
+        month={month}
+        setMonth={setMonth}
+        datesWithPosts={Array.from(datesWithPosts)}
+        toPath={toPath}
+      />
 
       {posts.length === 0 && (
         <div className="bg-white rounded-lg shadow overflow-hidden p-4 text-center text-gray-500">
@@ -251,7 +381,16 @@ function Posts({
         </div>
       ))}
       
-      {dateNav}
+      <DateNav
+        lang={lang!}
+        pages={pages}
+        strings={strings}
+        month={month}
+        setMonth={setMonth}
+        datesWithPosts={Array.from(datesWithPosts)}
+        toPath={toPath}
+        placement="above"
+      />
     </div>
   );
 }
