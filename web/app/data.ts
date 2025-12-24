@@ -52,12 +52,23 @@ export type AllData = {
   }[];
 }
 
+let allDataCache: {asc: AllData | undefined, desc: AllData | undefined} = {asc: undefined, desc: undefined};
+
 async function loadAccounts(): Promise<Account[]> {
   const data = await fs.readFile("../data/accounts.json", "utf-8");
   return JSON.parse(data);
 }
 
 export async function loadAllData(direction: "asc" | "desc" = "desc"): Promise<AllData> {
+  if (allDataCache[direction]) {
+    return allDataCache[direction]!;
+  }
+  const data = await loadAllDataUncached(direction);
+  allDataCache[direction] = data;
+  return data;
+}
+
+export async function loadAllDataUncached(direction: "asc" | "desc" = "desc"): Promise<AllData> {
   const accounts = await loadAccounts();
   const allPosts = [];
   for (const account of accounts) {
