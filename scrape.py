@@ -206,7 +206,8 @@ class DownloadTask:
     def handle(self, account: dict, pages: int | None = None):
         new_tweets, old_tweets = self._get_new_tweets(account["x"]["screen_name"], pages)
         new_tweets.reverse()  # to save old likes first
-        self._download_images(new_tweets)
+        if account["x"].get("download_images", True):
+            self._download_images(new_tweets)
 
         for tweet in new_tweets:
             self.tweet_repo.put(tweet)
