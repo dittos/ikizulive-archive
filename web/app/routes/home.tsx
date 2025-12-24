@@ -207,11 +207,28 @@ function DateNav({
 
       <div className="ml-auto" />
 
+      {pages.prev && (
+        <Link to={pages.prev === pages.first ? `/${lang}` : `/${lang}/${pages.direction}/${pages.prev}`}>
+          <Button variant="outline" size="sm" className="cursor-pointer" aria-label={strings.home.prevPage}>
+            <ChevronLeft className="h-4 w-4 mr-1" />
+            <span className="hidden sm:inline">{strings.home.prevPage}</span>
+          </Button>
+        </Link>
+      )}
+      {pages.next && (
+        <Link to={`/${lang}/${pages.direction}/${pages.next}`} className="ml-2">
+          <Button variant="outline" size="sm" className="cursor-pointer" aria-label={strings.home.nextPage}>
+            <span className="hidden sm:inline">{strings.home.nextPage}</span>
+            <ChevronRight className="h-4 w-4 ml-1" />
+          </Button>
+        </Link>
+      )}
+
       <div className="relative" ref={popoverContainerRef}>
         <Button
           variant="outline"
           size="sm"
-          className="cursor-pointer"
+          className="ml-2 cursor-pointer"
           onClick={() => setCalendarOpen((v) => !v)}
           aria-expanded={calendarOpen}
           aria-haspopup="dialog"
@@ -250,23 +267,6 @@ function DateNav({
           />
         </div>
       </div>
-
-      {pages.prev && (
-        <Link to={pages.prev === pages.first ? `/${lang}` : `/${lang}/${pages.direction}/${pages.prev}`} className="ml-2">
-          <Button variant="outline" size="sm" className="cursor-pointer" aria-label={strings.home.prevPage}>
-            <ChevronLeft className="h-4 w-4 mr-1" />
-            <span className="hidden sm:inline">{strings.home.prevPage}</span>
-          </Button>
-        </Link>
-      )}
-      {pages.next && (
-        <Link to={`/${lang}/${pages.direction}/${pages.next}`} className="ml-2">
-          <Button variant="outline" size="sm" className="cursor-pointer" aria-label={strings.home.nextPage}>
-            <span className="hidden sm:inline">{strings.home.nextPage}</span>
-            <ChevronRight className="h-4 w-4 ml-1" />
-          </Button>
-        </Link>
-      )}
     </div>
   )
 }
