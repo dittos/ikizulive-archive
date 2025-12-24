@@ -9,10 +9,38 @@ import time
 from typing import Any
 from urllib.parse import urlencode, urlparse, parse_qs
 from playwright.sync_api import sync_playwright, Response
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict
 import requests
 from cryptography.fernet import Fernet
 import logging
+
+
+class LocalizedName(BaseModel):
+    model_config = ConfigDict(extra='ignore')
+    ko: str
+
+
+class TranslatedName(BaseModel):
+    model_config = ConfigDict(extra='ignore')
+    base: str
+    ko: str
+
+
+class XAccount(BaseModel):
+    model_config = ConfigDict(extra='ignore')
+    screen_name: str
+    name: str
+    translated_name: TranslatedName
+    description: str
+    profile_image_url_https: str
+    download_images: bool = True
+
+
+class Account(BaseModel):
+    model_config = ConfigDict(extra='ignore')
+    id: str
+    name: LocalizedName
+    x: XAccount
 
 
 class Attachment(BaseModel):
@@ -203,10 +231,10 @@ class DownloadTask:
         self.tweet_repo = tweet_repo
         self.twitter_downloader = twitter_downloader
 
-    def handle(self, account: dict, pages: int | None = None):
-        new_tweets, old_tweets = self._get_new_tweets(account["x"]["screen_name"], pages)
+    def handle(self, account: Account, pages: int | None = None):
+        new_tweets, old_tweets = self._get_new_tweets(account.x.screen_name, pages)
         new_tweets.reverse()  # to save old likes first
-        if account["x"].get("download_images", True):
+        if account.x.download_images:
             self._download_images(new_tweets)
 
         for tweet in new_tweets:
@@ -214,9 +242,9 @@ class DownloadTask:
         
         if old_tweets:
             user_result = old_tweets[0].raw_data["core"]["user_results"]["result"]
-            account["x"]["name"] = user_result["core"]["name"]
-            account["x"]["description"] = user_result["legacy"]["description"]
-            account["x"]["profile_image_url_https"] = user_result["avatar"]["image_url"]
+            account.x.name = user_result["core"]["name"]
+            account.x.description = user_result["legacy"]["description"]
+            account.x.profile_image_url_https = user_result["avatar"]["image_url"]
 
     def _get_new_tweets(self, username: str, pages: int | None = None):
         page_count = 0
@@ -280,7 +308,9 @@ if __name__ == "__main__":
     tweet_repo = TweetRepository(data_dir=data_dir)
     task = DownloadTask(data_dir=data_dir, tweet_repo=tweet_repo, twitter_downloader=downloader)
 
-    accounts = json.loads((data_dir / "accounts.json").read_text())
+    accounts_path = data_dir / "accounts.json"
+    accounts_raw = json.loads(accounts_path.read_text())
+    accounts: list[Account] = [Account.model_validate(a) for a in accounts_raw]
 
     with storage_state_encryption(
             storage_state_path=downloader.storage_state_path,
@@ -288,8 +318,8 @@ if __name__ == "__main__":
     ):
         with downloader.open():
             for account in accounts:
-                username = account["x"]["screen_name"]
+                username = account.x.screen_name
                 logging.info(f"downloading {username}")
                 task.handle(account)
 
-    (data_dir / "accounts.json").write_text(json.dumps(accounts, indent=2, ensure_ascii=False))
+    accounts_path.write_text(json.dumps([a.model_dump() for a in accounts], indent=2, ensure_ascii=False))
