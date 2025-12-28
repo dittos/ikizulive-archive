@@ -1,0 +1,553 @@
+{
+  "id": "2005203900836749730",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "2005203900836749730",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64344,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1090,
+            "media_count": 614,
+            "normal_followers_count": 64344,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 755,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/q9N854r3K3",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "photo_image_full_size_large",
+            "value": {
+              "image_value": {
+                "height": 419,
+                "width": 800,
+                "url": "https://pbs.twimg.com/card_img/2005203437278130176/O-mQYi03?format=jpg&name=800x419"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "image_value": {
+                "height": 147,
+                "width": 280,
+                "url": "https://pbs.twimg.com/card_img/2005203437278130176/O-mQYi03?format=jpg&name=280x150"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "ラブライブ！シリーズ公式の動画をチェックしよう。",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "www.tiktok.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "image_value": {
+                "height": 315,
+                "width": 600,
+                "url": "https://pbs.twimg.com/card_img/2005203437278130176/O-mQYi03?format=jpg&name=600x600"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "width": 386,
+                "url": "https://pbs.twimg.com/card_img/2005203437278130176/O-mQYi03?format=jpg&name=386x202"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/2005203437278130176/O-mQYi03?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "width": 386,
+                "url": "https://pbs.twimg.com/card_img/2005203437278130176/O-mQYi03?format=jpg&name=386x202"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_large",
+            "value": {
+              "image_value": {
+                "height": 419,
+                "width": 800,
+                "url": "https://pbs.twimg.com/card_img/2005203437278130176/O-mQYi03?format=jpg&name=800x419"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "image_value": {
+                "height": 76,
+                "width": 144,
+                "url": "https://pbs.twimg.com/card_img/2005203437278130176/O-mQYi03?format=jpg&name=144x144"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/2005203437278130176/O-mQYi03?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_original",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/2005203437278130176/O-mQYi03?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "tiktok.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "photo_image_full_size",
+            "value": {
+              "image_value": {
+                "height": 314,
+                "width": 600,
+                "url": "https://pbs.twimg.com/card_img/2005203437278130176/O-mQYi03?format=jpg&name=600x314"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 73,
+                      "green": 73,
+                      "red": 75
+                    },
+                    "percentage": 49.9
+                  },
+                  {
+                    "rgb": {
+                      "blue": 96,
+                      "green": 100,
+                      "red": 109
+                    },
+                    "percentage": 37.87
+                  },
+                  {
+                    "rgb": {
+                      "blue": 179,
+                      "green": 188,
+                      "red": 196
+                    },
+                    "percentage": 6.63
+                  },
+                  {
+                    "rgb": {
+                      "blue": 59,
+                      "green": 32,
+                      "red": 42
+                    },
+                    "percentage": 4.8
+                  },
+                  {
+                    "rgb": {
+                      "blue": 78,
+                      "green": 16,
+                      "red": 40
+                    },
+                    "percentage": 0.22
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "TikTok · ラブライブ！シリーズ公式",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 73,
+                      "green": 73,
+                      "red": 75
+                    },
+                    "percentage": 49.9
+                  },
+                  {
+                    "rgb": {
+                      "blue": 96,
+                      "green": 100,
+                      "red": 109
+                    },
+                    "percentage": 37.87
+                  },
+                  {
+                    "rgb": {
+                      "blue": 179,
+                      "green": 188,
+                      "red": 196
+                    },
+                    "percentage": 6.63
+                  },
+                  {
+                    "rgb": {
+                      "blue": 59,
+                      "green": 32,
+                      "red": 42
+                    },
+                    "percentage": 4.8
+                  },
+                  {
+                    "rgb": {
+                      "blue": 78,
+                      "green": 16,
+                      "red": 40
+                    },
+                    "percentage": 0.22
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "summary_photo_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/2005203437278130176/O-mQYi03?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image",
+            "value": {
+              "image_value": {
+                "height": 314,
+                "width": 600,
+                "url": "https://pbs.twimg.com/card_img/2005203437278130176/O-mQYi03?format=jpg&name=600x314"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 73,
+                      "green": 73,
+                      "red": 75
+                    },
+                    "percentage": 49.9
+                  },
+                  {
+                    "rgb": {
+                      "blue": 96,
+                      "green": 100,
+                      "red": 109
+                    },
+                    "percentage": 37.87
+                  },
+                  {
+                    "rgb": {
+                      "blue": 179,
+                      "green": 188,
+                      "red": 196
+                    },
+                    "percentage": 6.63
+                  },
+                  {
+                    "rgb": {
+                      "blue": 59,
+                      "green": 32,
+                      "red": 42
+                    },
+                    "percentage": 4.8
+                  },
+                  {
+                    "rgb": {
+                      "blue": 78,
+                      "green": 16,
+                      "red": 40
+                    },
+                    "percentage": 0.22
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "photo_image_full_size_x_large",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/2005203437278130176/O-mQYi03?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/q9N854r3K3",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_original",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/2005203437278130176/O-mQYi03?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/q9N854r3K3",
+        "user_refs_results": []
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2005203900836749730"
+      ],
+      "editable_until_msecs": "1766916439000",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "6768",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 16,
+      "bookmarked": false,
+      "created_at": "Sun Dec 28 09:07:19 +0000 2025",
+      "conversation_id_str": "2005203900836749730",
+      "display_text_range": [
+        0,
+        118
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              103,
+              110
+            ],
+            "text": "イキヅライブ"
+          },
+          {
+            "indices": [
+              111,
+              118
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "vt.tiktok.com/ZS5d784Gj/",
+            "expanded_url": "https://vt.tiktok.com/ZS5d784Gj/",
+            "url": "https://t.co/q9N854r3K3",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 261,
+      "favorited": false,
+      "full_text": "／\n📢TikTok更新！\n＼\n\n「輝夜の城で踊りたい」踊ってみたを公開💃\n\n今日はこの2人が登場！\n瀬古梨愛（調布のりこ役）\n奥村優季（春宮ゆくり役）\n\n🎥https://t.co/q9N854r3K3\n\n#イキヅライブ #いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 5,
+      "reply_count": 2,
+      "retweet_count": 119,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "2005203900836749730"
+    }
+  },
+  "created_at": "2025-12-28T09:07:19Z"
+}
