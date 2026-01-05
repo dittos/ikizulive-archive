@@ -1,0 +1,556 @@
+{
+  "id": "2008119082462454099",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "2008119082462454099",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G95FS_BagAAJavp.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "2008119082462454099",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64359,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1098,
+            "media_count": 631,
+            "normal_followers_count": 64359,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 775,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2008119082462454099"
+      ],
+      "editable_until_msecs": "1767611472000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "74308",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjIwMDgxMTkwODIzMTEzOTczNzY=",
+          "text": ".˚⊹⁺‧┈┈┈┈┈┈┈‧⁺ ⊹˚.\n　   #いきづらい部！\n　 歌みたユニットで\nオリジナル楽曲制作決定！\n.˚⊹⁺‧┈┈┈┈┈┈┈‧⁺ ⊹˚.\n\nhttps://t.co/91HnlZfpwW\n\nサテライトごとの歌みたユニットで“歌ってみた動画”を投稿したいきづらい部！\nしかし、カバーだけで終わるのはもったいない…！\nということで、歌みたユニットでオリジナル楽曲を制作することになりました！🎊✨\n各ユニットどんな楽曲になるか、お楽しみに！\n\n👇各ユニットの歌みた動画はこちら🎤\n🎥CHAKI！ 「恋するフォーチュンクッキー」（AKB48）\nhttps://t.co/zuMKOypjh8\n\n🎥Mi×Nori=Tea「UFO」（ピンク・レディー）\nhttps://t.co/oRo6pPmw9E\n\n🎥Plumina「君じゃなきゃダメみたい」（オーイシマサヨシ）\nhttps://t.co/rLZrwcb4Ve\n\n🎥SH1ON「UNDEAD」（YOASOBI）\nhttps://t.co/cc8VPz8EHz",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  23,
+                  30
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "youtu.be/AIsZRX8lcmk",
+                "expanded_url": "https://youtu.be/AIsZRX8lcmk",
+                "url": "https://t.co/91HnlZfpwW",
+                "indices": [
+                  76,
+                  99
+                ]
+              },
+              {
+                "display_url": "youtu.be/zD1fc0WrhBw",
+                "expanded_url": "https://youtu.be/zD1fc0WrhBw",
+                "url": "https://t.co/zuMKOypjh8",
+                "indices": [
+                  274,
+                  297
+                ]
+              },
+              {
+                "display_url": "youtu.be/j-hFuRRvJ40",
+                "expanded_url": "https://youtu.be/j-hFuRRvJ40",
+                "url": "https://t.co/oRo6pPmw9E",
+                "indices": [
+                  327,
+                  350
+                ]
+              },
+              {
+                "display_url": "youtu.be/2ETR6ohPveg",
+                "expanded_url": "https://youtu.be/2ETR6ohPveg",
+                "url": "https://t.co/rLZrwcb4Ve",
+                "indices": [
+                  384,
+                  407
+                ]
+              },
+              {
+                "display_url": "youtu.be/cxEiDFsYP2o",
+                "expanded_url": "https://youtu.be/cxEiDFsYP2o",
+                "url": "https://t.co/cc8VPz8EHz",
+                "indices": [
+                  433,
+                  456
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 52,
+      "bookmarked": false,
+      "created_at": "Mon Jan 05 10:11:12 +0000 2026",
+      "conversation_id_str": "2008119082462454099",
+      "display_text_range": [
+        0,
+        162
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              23,
+              30
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/qLYXB3Lyk5",
+            "expanded_url": "https://x.com/ikizulive_staff/status/2008119082462454099/photo/1",
+            "id_str": "2008118676311146496",
+            "indices": [
+              163,
+              186
+            ],
+            "media_key": "3_2008118676311146496",
+            "media_url_https": "https://pbs.twimg.com/media/G95FS_BagAAJavp.jpg",
+            "type": "photo",
+            "url": "https://t.co/qLYXB3Lyk5",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1198,
+                    "y": 733,
+                    "h": 174,
+                    "w": 174
+                  },
+                  {
+                    "x": 746,
+                    "y": 691,
+                    "h": 198,
+                    "w": 198
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 748,
+                    "y": 458,
+                    "h": 108,
+                    "w": 108
+                  },
+                  {
+                    "x": 466,
+                    "y": 431,
+                    "h": 123,
+                    "w": 123
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 424,
+                    "y": 259,
+                    "h": 61,
+                    "w": 61
+                  },
+                  {
+                    "x": 264,
+                    "y": 244,
+                    "h": 70,
+                    "w": 70
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1198,
+                    "y": 733,
+                    "h": 174,
+                    "w": 174
+                  },
+                  {
+                    "x": 746,
+                    "y": 691,
+                    "h": 198,
+                    "w": 198
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1920,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1920,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 5,
+                  "w": 1920,
+                  "h": 1075
+                },
+                {
+                  "x": 756,
+                  "y": 0,
+                  "w": 1080,
+                  "h": 1080
+                },
+                {
+                  "x": 823,
+                  "y": 0,
+                  "w": 947,
+                  "h": 1080
+                },
+                {
+                  "x": 1026,
+                  "y": 0,
+                  "w": 540,
+                  "h": 1080
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1920,
+                  "h": 1080
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_2008118676311146496"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/AIsZRX8lcmk",
+            "expanded_url": "https://youtu.be/AIsZRX8lcmk",
+            "url": "https://t.co/f3pncLx0rr",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/qLYXB3Lyk5",
+            "expanded_url": "https://x.com/ikizulive_staff/status/2008119082462454099/photo/1",
+            "id_str": "2008118676311146496",
+            "indices": [
+              163,
+              186
+            ],
+            "media_key": "3_2008118676311146496",
+            "media_url_https": "https://pbs.twimg.com/media/G95FS_BagAAJavp.jpg",
+            "type": "photo",
+            "url": "https://t.co/qLYXB3Lyk5",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 1198,
+                    "y": 733,
+                    "h": 174,
+                    "w": 174
+                  },
+                  {
+                    "x": 746,
+                    "y": 691,
+                    "h": 198,
+                    "w": 198
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 748,
+                    "y": 458,
+                    "h": 108,
+                    "w": 108
+                  },
+                  {
+                    "x": 466,
+                    "y": 431,
+                    "h": 123,
+                    "w": 123
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 424,
+                    "y": 259,
+                    "h": 61,
+                    "w": 61
+                  },
+                  {
+                    "x": 264,
+                    "y": 244,
+                    "h": 70,
+                    "w": 70
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1198,
+                    "y": 733,
+                    "h": 174,
+                    "w": 174
+                  },
+                  {
+                    "x": 746,
+                    "y": 691,
+                    "h": 198,
+                    "w": 198
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "w": 1920,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 675,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 383,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1080,
+              "width": 1920,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 5,
+                  "w": 1920,
+                  "h": 1075
+                },
+                {
+                  "x": 756,
+                  "y": 0,
+                  "w": 1080,
+                  "h": 1080
+                },
+                {
+                  "x": 823,
+                  "y": 0,
+                  "w": 947,
+                  "h": 1080
+                },
+                {
+                  "x": 1026,
+                  "y": 0,
+                  "w": 540,
+                  "h": 1080
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1920,
+                  "h": 1080
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_2008118676311146496"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 1667,
+      "favorited": false,
+      "full_text": ".˚⊹⁺‧┈┈┈┈┈┈┈‧⁺ ⊹˚.\n　   #いきづらい部！\n　 歌みたユニットで\nオリジナル楽曲制作決定！\n.˚⊹⁺‧┈┈┈┈┈┈┈‧⁺ ⊹˚.\n\nhttps://t.co/f3pncLx0rr\n\nサテライトごとの歌みたユニットで“歌ってみた動画”を投稿したいきづらい部！\nしかし、カバーだけで終わるのはもったいない…！ https://t.co/qLYXB3Lyk5",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 84,
+      "reply_count": 12,
+      "retweet_count": 708,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "2008119082462454099"
+    }
+  },
+  "created_at": "2026-01-05T10:11:12Z"
+}
