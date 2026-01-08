@@ -1,0 +1,37 @@
+{
+  "id": "2009205715769151742",
+  "translated_text": "◤￣￣￣￣￣￣￣\n　살기힘든부! 1st LIVE\n🎫티켓 정보\n　　　　＿＿＿＿＿＿＿◢\n\n🎪살기힘든부! 1st LIVE ～ What is my L ? ～\n시야제한석 판매(추첨) 실시가 결정되었습니다!!\n\n【추첨 접수 기간】1월 10일(토) 12:00부터 1월 25일(일) 23:59까지\n\n자세한 내용은 여기✅\nhttps://t.co/RiYHj335Yj\n\n#이키즈라이브 https://t.co/NzcdacHayv",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n\n사람 이름 읽는 법:\n高橋ポルカ -> 타카하시 폴카\n麻布麻衣 -> 아자부 마이\n五桐 玲 -> 고토 아키라\n駒形花火 -> 코마가타 하나비\n金澤奇跡 -> 카나자와 미라클\n調布のりこ -> 쵸후 노리코\n春宮ゆくり -> 하루미야 유쿠리\n此花輝夜 -> 코노하나 오로라\n山田真緑 -> 야마다 미도리\n佐々木翔音 -> 사사키 시온\n",
+  "raw_data": {
+    "id": "QIlfaYGICI2qqtsPtK2o8QY",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "◤￣￣￣￣￣￣￣\n　살기힘든부! 1st LIVE\n🎫티켓 정보\n　　　　＿＿＿＿＿＿＿◢\n\n🎪살기힘든부! 1st LIVE ～ What is my L ? ～\n시야제한석 판매(추첨) 실시가 결정되었습니다!!\n\n【추첨 접수 기간】1월 10일(토) 12:00부터 1월 25일(일) 23:59까지\n\n자세한 내용은 여기✅\nhttps://t.co/RiYHj335Yj\n\n#이키즈라이브 https://t.co/NzcdacHayv",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1767868736,
+    "model": "gemini-2.5-flash",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 161,
+      "prompt_tokens": 398,
+      "total_tokens": 1682,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": null
+    }
+  }
+}
