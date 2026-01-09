@@ -1,0 +1,300 @@
+{
+  "id": "2009545427889398245",
+  "username": "hanabistarmine",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "2009545427889398245",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTA2NTc1MTA1NzgzOTQzMTY5",
+          "rest_id": "1906575105783943169",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921886890002685952/WYCChlsQ_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 05:11:49 +0000 2025",
+            "name": "駒形花火@いきづらい部！",
+            "screen_name": "hanabistarmine"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=3",
+                    "url": "https://t.co/R8J40tZxQQ",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 24805,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1192,
+            "media_count": 1,
+            "normal_followers_count": 24805,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906575105783943169/1747048518",
+            "profile_interstitial_type": "",
+            "statuses_count": 188,
+            "translator_type": "none",
+            "url": "https://t.co/R8J40tZxQQ",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": false
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2009545427889398245"
+      ],
+      "editable_until_msecs": "1767951540000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "1218",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "grok_analysis_button": true,
+    "quoted_status_result": {
+      "result": {
+        "__typename": "Tweet",
+        "rest_id": "1999120737010172055",
+        "core": {
+          "user_results": {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxOTA2NTY2MDA4OTA0NzYxMzQ1",
+              "rest_id": "1906566008904761345",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png"
+              },
+              "core": {
+                "created_at": "Mon Mar 31 04:35:48 +0000 2025",
+                "name": "佐々木翔音@いきづらい部！",
+                "screen_name": "ShaunTheBunny"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "follow_request_sent": false,
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                        "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=9",
+                        "url": "https://t.co/adjvmRdPvS",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 0,
+                "followers_count": 24317,
+                "friends_count": 9,
+                "has_custom_timelines": false,
+                "is_translator": false,
+                "listed_count": 1081,
+                "media_count": 0,
+                "normal_followers_count": 24317,
+                "pinned_tweet_ids_str": [],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906566008904761345/1747048662",
+                "profile_interstitial_type": "",
+                "statuses_count": 229,
+                "translator_type": "none",
+                "url": "https://t.co/adjvmRdPvS",
+                "want_retweets": false,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": ""
+              },
+              "media_permissions": {
+                "can_media_tag": false
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Circle",
+              "profile_bio": {
+                "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント"
+              },
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": false
+              },
+              "tipjar_settings": {},
+              "verification": {
+                "verified": false
+              },
+              "profile_description_language": "ja"
+            }
+          }
+        },
+        "unmention_data": {},
+        "edit_control": {
+          "edit_tweet_ids": [
+            "1999120737010172055"
+          ],
+          "editable_until_msecs": "1765466100000",
+          "is_edit_eligible": true,
+          "edits_remaining": "5"
+        },
+        "is_translatable": true,
+        "views": {
+          "count": "76628",
+          "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "grok_analysis_button": true,
+        "legacy": {
+          "bookmark_count": 31,
+          "bookmarked": false,
+          "created_at": "Thu Dec 11 14:15:00 +0000 2025",
+          "conversation_id_str": "1999120737010172055",
+          "display_text_range": [
+            0,
+            70
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  63,
+                  70
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": []
+          },
+          "favorite_count": 1408,
+          "favorited": false,
+          "full_text": "あ、でも海未ちゃんファンとしてこれだけは言っておく\n今週発売の愛蔵版のための3300円だけは絶対に!!!\n別枠でキーーープ❤\n#いきづらい部",
+          "is_quote_status": false,
+          "lang": "ja",
+          "quote_count": 42,
+          "reply_count": 4,
+          "retweet_count": 352,
+          "retweeted": false,
+          "user_id_str": "1906566008904761345",
+          "id_str": "1999120737010172055"
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 2,
+      "bookmarked": false,
+      "created_at": "Fri Jan 09 08:39:00 +0000 2026",
+      "conversation_id_str": "2009545427889398245",
+      "display_text_range": [
+        0,
+        78
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              71,
+              78
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 58,
+      "favorited": false,
+      "full_text": "感心していたら、翔音ちゃんがスクールアイドルのヒストリーを知るために、とこの本を紹介してくれました👘✨\n今度貸してくれるそうです！\n楽しみ🎆\n#いきづらい部",
+      "is_quote_status": true,
+      "lang": "ja",
+      "quote_count": 2,
+      "quoted_status_id_str": "1999120737010172055",
+      "quoted_status_permalink": {
+        "url": "https://t.co/OeZoZY7JvS",
+        "expanded": "https://twitter.com/ShaunTheBunny/status/1999120737010172055",
+        "display": "x.com/ShaunTheBunny/…"
+      },
+      "reply_count": 0,
+      "retweet_count": 26,
+      "retweeted": false,
+      "user_id_str": "1906575105783943169",
+      "id_str": "2009545427889398245"
+    }
+  },
+  "created_at": "2026-01-09T08:39:00Z"
+}
