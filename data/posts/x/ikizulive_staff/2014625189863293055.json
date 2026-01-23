@@ -1,0 +1,408 @@
+{
+  "id": "2014625189863293055",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "2014625189863293055",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64358,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1096,
+            "media_count": 653,
+            "normal_followers_count": 64358,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 803,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "tipjar_settings": {},
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/crQlGRqUvz",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "description",
+            "value": {
+              "string_value": "スクールアイドルプロジェクト「ラブライブ！」シリーズ公式Webサイト。 彼女たちの活動状況、最新情報はここでチェック！",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "www.lovelive-anime.jp",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "347849994",
+                "path": []
+              }
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "lovelive-anime.jp",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "1月25日(日)刊行「朝日中高生新聞」に「イキヅライブ！」特集が掲載決定！ | ラブライブ！シリーズ Official Web Site",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/crQlGRqUvz",
+              "type": "STRING"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/crQlGRqUvz",
+        "user_refs_results": [
+          {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjozNDc4NDk5OTQ=",
+              "rest_id": "347849994",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1027440922672259072/sHA_z7wD_normal.jpg"
+              },
+              "core": {
+                "created_at": "Wed Aug 03 13:26:11 +0000 2011",
+                "name": "ラブライブ！シリーズ公式",
+                "screen_name": "LoveLive_staff"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "follow_request_sent": false,
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "オールメディア展開するスクールアイドルプロジェクト、ラブライブ！シリーズの公式アカウントです。  ■YouTube https://t.co/B0eGaNZHmf ■TikTok https://t.co/y7F4WUabMb",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "youtube.com/c/lovelive_ser…",
+                        "expanded_url": "https://www.youtube.com/c/lovelive_series",
+                        "url": "https://t.co/B0eGaNZHmf",
+                        "indices": [
+                          58,
+                          81
+                        ]
+                      },
+                      {
+                        "display_url": "onl.sc/C8PtrHv",
+                        "expanded_url": "http://onl.sc/C8PtrHv",
+                        "url": "https://t.co/y7F4WUabMb",
+                        "indices": [
+                          90,
+                          113
+                        ]
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "lovelive-anime.jp",
+                        "expanded_url": "http://www.lovelive-anime.jp/",
+                        "url": "https://t.co/KK4vP13OlW",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 533,
+                "followers_count": 1072116,
+                "friends_count": 18,
+                "has_custom_timelines": true,
+                "is_translator": false,
+                "listed_count": 13803,
+                "media_count": 36065,
+                "normal_followers_count": 1072116,
+                "pinned_tweet_ids_str": [],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/347849994/1727924414",
+                "profile_interstitial_type": "",
+                "statuses_count": 55752,
+                "translator_type": "none",
+                "url": "https://t.co/KK4vP13OlW",
+                "want_retweets": true,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": ""
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Square",
+              "profile_bio": {
+                "description": "オールメディア展開するスクールアイドルプロジェクト、ラブライブ！シリーズの公式アカウントです。  ■YouTube https://t.co/B0eGaNZHmf ■TikTok https://t.co/y7F4WUabMb"
+              },
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": true
+              },
+              "tipjar_settings": {},
+              "verification": {
+                "verified": false,
+                "verified_type": "Business"
+              },
+              "profile_description_language": "ja"
+            }
+          }
+        ]
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2014625189863293055"
+      ],
+      "editable_until_msecs": "1769162649000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "6988",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjIwMTQ2MjUxODk3NDE2NTgxMTY=",
+          "text": "\\\\ 📚記事掲載情報📢 //\n\n1/25(日)に刊行される#朝日中高生新聞 にて、\n「イキヅライブ！」特集が掲載されます！\n\n「いきづらい部！」浅草サテライトの\nメンバーインタビューも掲載されますので、\nぜひチェックしてください👀\n\n📚詳細こちら：https://t.co/iy38RFlL9i\n\n#朝日中高生新聞\n#イキヅライブ #いきづらい部",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  149,
+                  157
+                ],
+                "text": "朝日中高生新聞"
+              },
+              {
+                "indices": [
+                  158,
+                  165
+                ],
+                "text": "イキヅライブ"
+              },
+              {
+                "indices": [
+                  166,
+                  173
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "lovelive-anime.jp/news/01_5774.h…",
+                "expanded_url": "https://www.lovelive-anime.jp/news/01_5774.html",
+                "url": "https://t.co/iy38RFlL9i",
+                "indices": [
+                  124,
+                  147
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 11,
+      "bookmarked": false,
+      "created_at": "Fri Jan 23 09:04:09 +0000 2026",
+      "conversation_id_str": "2014625189863293055",
+      "display_text_range": [
+        0,
+        165
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              149,
+              157
+            ],
+            "text": "朝日中高生新聞"
+          },
+          {
+            "indices": [
+              158,
+              165
+            ],
+            "text": "イキヅライブ"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "lovelive-anime.jp/news/01_5774.h…",
+            "expanded_url": "https://www.lovelive-anime.jp/news/01_5774.html",
+            "url": "https://t.co/crQlGRqUvz",
+            "indices": [
+              124,
+              147
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 224,
+      "favorited": false,
+      "full_text": "\\\\ 📚記事掲載情報📢 //\n\n1/25(日)に刊行される#朝日中高生新聞 にて、\n「イキヅライブ！」特集が掲載されます！\n\n「いきづらい部！」浅草サテライトの\nメンバーインタビューも掲載されますので、\nぜひチェックしてください👀\n\n📚詳細こちら：https://t.co/crQlGRqUvz\n\n#朝日中高生新聞\n#イキヅライブ",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 9,
+      "reply_count": 1,
+      "retweet_count": 89,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "2014625189863293055"
+    }
+  },
+  "created_at": "2026-01-23T09:04:09Z"
+}
