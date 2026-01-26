@@ -1,0 +1,597 @@
+{
+  "id": "2015626472913063966",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "2015626472913063966",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64358,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1097,
+            "media_count": 657,
+            "normal_followers_count": 64358,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 810,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2015626472913063966"
+      ],
+      "editable_until_msecs": "1769401374328",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "state": "Enabled"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Mon Jan 26 03:22:54 +0000 2026",
+      "conversation_id_str": "2015626472913063966",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "347849994",
+            "name": "ラブライブ！シリーズ公式",
+            "screen_name": "LoveLive_staff",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @LoveLive_staff: 【商品情報】【シリーズ】\n「いきづらい部！ 1st LIVE ～ What is my L ? ～」の開催を記念して、浦の星女学院キッチンカー、虹ヶ咲学園キッチンカー、結ヶ丘女子高等学校キッチンカーの3店舗にて応援ドリンクを販売いたします…",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 249,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "2015626472913063966",
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "2015258326683242962",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjozNDc4NDk5OTQ=",
+                "rest_id": "347849994",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1027440922672259072/sHA_z7wD_normal.jpg"
+                },
+                "core": {
+                  "created_at": "Wed Aug 03 13:26:11 +0000 2011",
+                  "name": "ラブライブ！シリーズ公式",
+                  "screen_name": "LoveLive_staff"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "follow_request_sent": false,
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "オールメディア展開するスクールアイドルプロジェクト、ラブライブ！シリーズの公式アカウントです。  ■YouTube https://t.co/B0eGaNZHmf ■TikTok https://t.co/y7F4WUabMb",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "youtube.com/c/lovelive_ser…",
+                          "expanded_url": "https://www.youtube.com/c/lovelive_series",
+                          "url": "https://t.co/B0eGaNZHmf",
+                          "indices": [
+                            58,
+                            81
+                          ]
+                        },
+                        {
+                          "display_url": "onl.sc/C8PtrHv",
+                          "expanded_url": "http://onl.sc/C8PtrHv",
+                          "url": "https://t.co/y7F4WUabMb",
+                          "indices": [
+                            90,
+                            113
+                          ]
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "lovelive-anime.jp",
+                          "expanded_url": "http://www.lovelive-anime.jp/",
+                          "url": "https://t.co/KK4vP13OlW",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 533,
+                  "followers_count": 1072224,
+                  "friends_count": 18,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 13806,
+                  "media_count": 36068,
+                  "normal_followers_count": 1072224,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/347849994/1727924414",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 55764,
+                  "translator_type": "none",
+                  "url": "https://t.co/KK4vP13OlW",
+                  "want_retweets": true,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": ""
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "parody_commentary_fan_label": "None",
+                "profile_image_shape": "Square",
+                "profile_bio": {
+                  "description": "オールメディア展開するスクールアイドルプロジェクト、ラブライブ！シリーズの公式アカウントです。  ■YouTube https://t.co/B0eGaNZHmf ■TikTok https://t.co/y7F4WUabMb"
+                },
+                "privacy": {
+                  "protected": false
+                },
+                "relationship_perspectives": {
+                  "following": true
+                },
+                "verification": {
+                  "verified": false,
+                  "verified_type": "Business"
+                },
+                "profile_description_language": "ja"
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "2015258326683242962"
+            ],
+            "editable_until_msecs": "1769313601000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+          },
+          "is_translatable": true,
+          "views": {
+            "count": "76774",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "note_tweet": {
+            "is_expandable": true,
+            "note_tweet_results": {
+              "result": {
+                "id": "Tm90ZVR3ZWV0OjIwMTUyNTgzMjYyODg5ODYxMTI=",
+                "text": "【商品情報】【シリーズ】\n「いきづらい部！ 1st LIVE ～ What is my L ? ～」の開催を記念して、浦の星女学院キッチンカー、虹ヶ咲学園キッチンカー、結ヶ丘女子高等学校キッチンカーの3店舗にて応援ドリンクを販売いたします🥤🎉\n\n詳細はこちら✅\nhttps://t.co/V2XPQJW8bP\n\n#lovelive #Aqours #虹ヶ咲 #Liella #イキヅライブ",
+                "entity_set": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        156,
+                        165
+                      ],
+                      "text": "lovelive"
+                    },
+                    {
+                      "indices": [
+                        166,
+                        173
+                      ],
+                      "text": "Aqours"
+                    },
+                    {
+                      "indices": [
+                        174,
+                        178
+                      ],
+                      "text": "虹ヶ咲"
+                    },
+                    {
+                      "indices": [
+                        179,
+                        186
+                      ],
+                      "text": "Liella"
+                    },
+                    {
+                      "indices": [
+                        187,
+                        194
+                      ],
+                      "text": "イキヅライブ"
+                    }
+                  ],
+                  "symbols": [],
+                  "urls": [
+                    {
+                      "display_url": "lovelive-anime.jp/news/01_5789.h…",
+                      "expanded_url": "https://www.lovelive-anime.jp/news/01_5789.html",
+                      "url": "https://t.co/V2XPQJW8bP",
+                      "indices": [
+                        131,
+                        154
+                      ]
+                    }
+                  ],
+                  "user_mentions": []
+                }
+              }
+            }
+          },
+          "grok_analysis_button": true,
+          "legacy": {
+            "bookmark_count": 61,
+            "bookmarked": false,
+            "created_at": "Sun Jan 25 03:00:01 +0000 2026",
+            "conversation_id_str": "2015258326683242962",
+            "display_text_range": [
+              0,
+              173
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    156,
+                    165
+                  ],
+                  "text": "lovelive"
+                },
+                {
+                  "indices": [
+                    166,
+                    173
+                  ],
+                  "text": "Aqours"
+                }
+              ],
+              "media": [
+                {
+                  "display_url": "pic.x.com/7ybAoF9AdY",
+                  "expanded_url": "https://x.com/LoveLive_staff/status/2015258326683242962/photo/1",
+                  "id_str": "2014651508378501121",
+                  "indices": [
+                    174,
+                    197
+                  ],
+                  "media_key": "3_2014651508378501121",
+                  "media_url_https": "https://pbs.twimg.com/media/G_V6328bAAEjrlZ.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/7ybAoF9AdY",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1448,
+                      "w": 2048,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 848,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 481,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 2480,
+                    "width": 3508,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 3508,
+                        "h": 1964
+                      },
+                      {
+                        "x": 1028,
+                        "y": 0,
+                        "w": 2480,
+                        "h": 2480
+                      },
+                      {
+                        "x": 1333,
+                        "y": 0,
+                        "w": 2175,
+                        "h": 2480
+                      },
+                      {
+                        "x": 1923,
+                        "y": 0,
+                        "w": 1240,
+                        "h": 2480
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 3508,
+                        "h": 2480
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2014651508378501121"
+                    }
+                  }
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [
+                {
+                  "display_url": "lovelive-anime.jp/news/01_5789.h…",
+                  "expanded_url": "https://www.lovelive-anime.jp/news/01_5789.html",
+                  "url": "https://t.co/LYCQJfJwkR",
+                  "indices": [
+                    131,
+                    154
+                  ]
+                }
+              ],
+              "user_mentions": []
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "display_url": "pic.x.com/7ybAoF9AdY",
+                  "expanded_url": "https://x.com/LoveLive_staff/status/2015258326683242962/photo/1",
+                  "id_str": "2014651508378501121",
+                  "indices": [
+                    174,
+                    197
+                  ],
+                  "media_key": "3_2014651508378501121",
+                  "media_url_https": "https://pbs.twimg.com/media/G_V6328bAAEjrlZ.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/7ybAoF9AdY",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1448,
+                      "w": 2048,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 848,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 481,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 2480,
+                    "width": 3508,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 3508,
+                        "h": 1964
+                      },
+                      {
+                        "x": 1028,
+                        "y": 0,
+                        "w": 2480,
+                        "h": 2480
+                      },
+                      {
+                        "x": 1333,
+                        "y": 0,
+                        "w": 2175,
+                        "h": 2480
+                      },
+                      {
+                        "x": 1923,
+                        "y": 0,
+                        "w": 1240,
+                        "h": 2480
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 3508,
+                        "h": 2480
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2014651508378501121"
+                    }
+                  }
+                }
+              ]
+            },
+            "favorite_count": 991,
+            "favorited": false,
+            "full_text": "【商品情報】【シリーズ】\n「いきづらい部！ 1st LIVE ～ What is my L ? ～」の開催を記念して、浦の星女学院キッチンカー、虹ヶ咲学園キッチンカー、結ヶ丘女子高等学校キッチンカーの3店舗にて応援ドリンクを販売いたします🥤🎉\n\n詳細はこちら✅\nhttps://t.co/LYCQJfJwkR\n\n#lovelive #Aqours https://t.co/7ybAoF9AdY",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 31,
+            "reply_count": 6,
+            "retweet_count": 249,
+            "retweeted": false,
+            "user_id_str": "347849994",
+            "id_str": "2015258326683242962"
+          }
+        }
+      }
+    }
+  },
+  "created_at": "2026-01-26T03:22:54Z"
+}
