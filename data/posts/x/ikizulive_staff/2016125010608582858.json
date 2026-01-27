@@ -1,0 +1,612 @@
+{
+  "id": "2016125010608582858",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "2016125010608582858",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64354,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1098,
+            "media_count": 658,
+            "normal_followers_count": 64354,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 812,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/1WN64thlFZ",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "photo_image_full_size_large",
+            "value": {
+              "image_value": {
+                "height": 392,
+                "width": 748,
+                "url": "https://pbs.twimg.com/card_img/2013775501299453953/NVwgdLxj?format=jpg&name=800x419"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "image_value": {
+                "height": 150,
+                "width": 200,
+                "url": "https://pbs.twimg.com/card_img/2013775501299453953/NVwgdLxj?format=jpg&name=280x150"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "文化放送は、新番組『ラブライブ！シリーズ15周年記念「15ショートラジオ」』（読み：いちごしょーとらじお）を、2026年1月6日（火）よりスタートします（『レコメン！』内 毎週火曜日 午後10時40分頃～）。",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "www.joqr.co.jp",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "image_value": {
+                "height": 300,
+                "width": 400,
+                "url": "https://pbs.twimg.com/card_img/2013775501299453953/NVwgdLxj?format=jpg&name=400x400"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "width": 386,
+                "url": "https://pbs.twimg.com/card_img/2013775501299453953/NVwgdLxj?format=jpg&name=386x202"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "image_value": {
+                "height": 561,
+                "width": 748,
+                "url": "https://pbs.twimg.com/card_img/2013775501299453953/NVwgdLxj?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "width": 386,
+                "url": "https://pbs.twimg.com/card_img/2013775501299453953/NVwgdLxj?format=jpg&name=386x202"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_large",
+            "value": {
+              "image_value": {
+                "height": 392,
+                "width": 748,
+                "url": "https://pbs.twimg.com/card_img/2013775501299453953/NVwgdLxj?format=jpg&name=800x419"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "image_value": {
+                "height": 75,
+                "width": 100,
+                "url": "https://pbs.twimg.com/card_img/2013775501299453953/NVwgdLxj?format=jpg&name=100x100"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 561,
+                "width": 748,
+                "url": "https://pbs.twimg.com/card_img/2013775501299453953/NVwgdLxj?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_original",
+            "value": {
+              "image_value": {
+                "height": 561,
+                "width": 748,
+                "url": "https://pbs.twimg.com/card_img/2013775501299453953/NVwgdLxj?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "joqr.co.jp",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "photo_image_full_size",
+            "value": {
+              "image_value": {
+                "height": 314,
+                "width": 600,
+                "url": "https://pbs.twimg.com/card_img/2013775501299453953/NVwgdLxj?format=jpg&name=600x314"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 22,
+                      "green": 27,
+                      "red": 43
+                    },
+                    "percentage": 26.02
+                  },
+                  {
+                    "rgb": {
+                      "blue": 49,
+                      "green": 105,
+                      "red": 223
+                    },
+                    "percentage": 18.51
+                  },
+                  {
+                    "rgb": {
+                      "blue": 181,
+                      "green": 202,
+                      "red": 230
+                    },
+                    "percentage": 17.33
+                  },
+                  {
+                    "rgb": {
+                      "blue": 93,
+                      "green": 124,
+                      "red": 169
+                    },
+                    "percentage": 12.45
+                  },
+                  {
+                    "rgb": {
+                      "blue": 90,
+                      "green": 72,
+                      "red": 32
+                    },
+                    "percentage": 9.9
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "ラブライブ！シリーズ15周年を記念したラジオ番組が『レコメン！』内でスタート決定！ | 文化放送",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 22,
+                      "green": 27,
+                      "red": 43
+                    },
+                    "percentage": 26.02
+                  },
+                  {
+                    "rgb": {
+                      "blue": 49,
+                      "green": 105,
+                      "red": 223
+                    },
+                    "percentage": 18.51
+                  },
+                  {
+                    "rgb": {
+                      "blue": 181,
+                      "green": 202,
+                      "red": 230
+                    },
+                    "percentage": 17.33
+                  },
+                  {
+                    "rgb": {
+                      "blue": 93,
+                      "green": 124,
+                      "red": 169
+                    },
+                    "percentage": 12.45
+                  },
+                  {
+                    "rgb": {
+                      "blue": 90,
+                      "green": 72,
+                      "red": 32
+                    },
+                    "percentage": 9.9
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "summary_photo_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 561,
+                "width": 748,
+                "url": "https://pbs.twimg.com/card_img/2013775501299453953/NVwgdLxj?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image",
+            "value": {
+              "image_value": {
+                "height": 314,
+                "width": 600,
+                "url": "https://pbs.twimg.com/card_img/2013775501299453953/NVwgdLxj?format=jpg&name=600x314"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 22,
+                      "green": 27,
+                      "red": 43
+                    },
+                    "percentage": 26.02
+                  },
+                  {
+                    "rgb": {
+                      "blue": 49,
+                      "green": 105,
+                      "red": 223
+                    },
+                    "percentage": 18.51
+                  },
+                  {
+                    "rgb": {
+                      "blue": 181,
+                      "green": 202,
+                      "red": 230
+                    },
+                    "percentage": 17.33
+                  },
+                  {
+                    "rgb": {
+                      "blue": 93,
+                      "green": 124,
+                      "red": 169
+                    },
+                    "percentage": 12.45
+                  },
+                  {
+                    "rgb": {
+                      "blue": 90,
+                      "green": 72,
+                      "red": 32
+                    },
+                    "percentage": 9.9
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "photo_image_full_size_x_large",
+            "value": {
+              "image_value": {
+                "height": 561,
+                "width": 748,
+                "url": "https://pbs.twimg.com/card_img/2013775501299453953/NVwgdLxj?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/1WN64thlFZ",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_original",
+            "value": {
+              "image_value": {
+                "height": 561,
+                "width": 748,
+                "url": "https://pbs.twimg.com/card_img/2013775501299453953/NVwgdLxj?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/1WN64thlFZ",
+        "user_refs_results": []
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2016125010608582858"
+      ],
+      "editable_until_msecs": "1769520234000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "6784",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjIwMTYxMjUwMTA1NDE0Nzc4ODg=",
+          "text": "\\\\ 📻RADIO出演情報📢 //\n【このあと出演⏰】\n\n文化放送「レコメン！」のフロート番組📻\n『ラブライブ！シリーズ15周年記念「15ショートラジオ」』に\nいきづらい部！の高橋ポルカ役・綾咲穂音が出演✨\nぜひチェックしてください👂\n\n📅1/27(火)22:40～22:50頃\nhttps://t.co/kvlgjIUljN\n\n#いきづらい部 #イキヅライブ\n#lovelive #ラブライブ15ショートラジオ #文化放送",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  165,
+                  172
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  173,
+                  180
+                ],
+                "text": "イキヅライブ"
+              },
+              {
+                "indices": [
+                  181,
+                  190
+                ],
+                "text": "lovelive"
+              },
+              {
+                "indices": [
+                  191,
+                  206
+                ],
+                "text": "ラブライブ15ショートラジオ"
+              },
+              {
+                "indices": [
+                  207,
+                  212
+                ],
+                "text": "文化放送"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "joqr.co.jp/ic/article/167…",
+                "expanded_url": "https://www.joqr.co.jp/ic/article/167139/",
+                "url": "https://t.co/kvlgjIUljN",
+                "indices": [
+                  140,
+                  163
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 5,
+      "bookmarked": false,
+      "created_at": "Tue Jan 27 12:23:54 +0000 2026",
+      "conversation_id_str": "2016125010608582858",
+      "display_text_range": [
+        0,
+        172
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              165,
+              172
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "joqr.co.jp/ic/article/167…",
+            "expanded_url": "https://www.joqr.co.jp/ic/article/167139/",
+            "url": "https://t.co/1WN64thlFZ",
+            "indices": [
+              140,
+              163
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 229,
+      "favorited": false,
+      "full_text": "\\\\ 📻RADIO出演情報📢 //\n【このあと出演⏰】\n\n文化放送「レコメン！」のフロート番組📻\n『ラブライブ！シリーズ15周年記念「15ショートラジオ」』に\nいきづらい部！の高橋ポルカ役・綾咲穂音が出演✨\nぜひチェックしてください👂\n\n📅1/27(火)22:40～22:50頃\nhttps://t.co/1WN64thlFZ\n\n#いきづらい部",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "2016125010608582858"
+    }
+  },
+  "created_at": "2026-01-27T12:23:54Z"
+}
