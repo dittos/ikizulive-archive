@@ -1,0 +1,670 @@
+{
+  "id": "2016838309889396834",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "2016838309889396834",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64394,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1098,
+            "media_count": 675,
+            "normal_followers_count": 64394,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 831,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2016838309889396834"
+      ],
+      "editable_until_msecs": "1769690298778",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "state": "Enabled"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Thu Jan 29 11:38:18 +0000 2026",
+      "conversation_id_str": "2016838309889396834",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1561887614227337217",
+            "name": "ルミカライト リサイクル",
+            "screen_name": "lumica_JP",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @lumica_JP: 🌱🌱🌱🌱\n　回収告知\n🌱🌱🌱🌱\n\n2/14、15に幕張イベントホールにて開催されます「いきづらい部！ 1st LIVE 〜What is my L ？〜」にて大閃光の回収を実施いたします🪄︎︎✨\n\n地球の緑を守るための小さなアクションです。\n\n山田…",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "2016838309889396834",
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "2016798752586236299",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjoxNTYxODg3NjE0MjI3MzM3MjE3",
+                "rest_id": "1561887614227337217",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1561895794722377729/Fs7iXmG1_normal.jpg"
+                },
+                "core": {
+                  "created_at": "Tue Aug 23 01:27:04 +0000 2022",
+                  "name": "ルミカライト リサイクル",
+                  "screen_name": "lumica_JP"
+                },
+                "dm_permissions": {
+                  "can_dm": true
+                },
+                "follow_request_sent": false,
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "✨明るく輝く未来のために✨ 株式会社ルミカはプラスチックごみ問題の解決に取り組んでいます。使用済のルミカライトを回収しリサイクル（再生産）を始めました。回収を行うイベント情報や回収したルミカライトの本数、リサイクル状況などを発信していきます♺ ♫",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "recycle.lumica.co.jp",
+                          "expanded_url": "https://recycle.lumica.co.jp/",
+                          "url": "https://t.co/ZCUMUeNaQR",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 1121,
+                  "followers_count": 9357,
+                  "friends_count": 26,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 14,
+                  "media_count": 475,
+                  "normal_followers_count": 9357,
+                  "pinned_tweet_ids_str": [
+                    "2000853414495097312"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561887614227337217/1661218436",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 666,
+                  "translator_type": "none",
+                  "url": "https://t.co/ZCUMUeNaQR",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": "日本"
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "parody_commentary_fan_label": "None",
+                "profile_image_shape": "Circle",
+                "professional": {
+                  "rest_id": "1561895938503102464",
+                  "professional_type": "Business",
+                  "category": [
+                    {
+                      "id": 37,
+                      "name": "이벤트장",
+                      "icon_name": "IconBriefcaseStroke"
+                    }
+                  ]
+                },
+                "profile_bio": {
+                  "description": "✨明るく輝く未来のために✨ 株式会社ルミカはプラスチックごみ問題の解決に取り組んでいます。使用済のルミカライトを回収しリサイクル（再生産）を始めました。回収を行うイベント情報や回収したルミカライトの本数、リサイクル状況などを発信していきます♺ ♫"
+                },
+                "privacy": {
+                  "protected": false
+                },
+                "relationship_perspectives": {
+                  "following": false
+                },
+                "verification": {
+                  "verified": false
+                },
+                "profile_description_language": "ja"
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "initial_tweet_id": "2016798481164255504",
+            "edit_control_initial": {
+              "edit_tweet_ids": [
+                "2016798481164255504",
+                "2016798752586236299"
+              ],
+              "editable_until_msecs": "1769680802000",
+              "is_edit_eligible": true,
+              "edits_remaining": "4"
+            }
+          },
+          "previous_counts": {
+            "bookmark_count": 0,
+            "favorite_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+          },
+          "is_translatable": true,
+          "views": {
+            "count": "33074",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "note_tweet": {
+            "is_expandable": true,
+            "note_tweet_results": {
+              "result": {
+                "id": "Tm90ZVR3ZWV0OjIwMTY3OTg3NTI0NTIwMTgxNzY=",
+                "text": "🌱🌱🌱🌱\n　回収告知\n🌱🌱🌱🌱\n\n2/14、15に幕張イベントホールにて開催されます「いきづらい部！ 1st LIVE 〜What is my L ？〜」にて大閃光の回収を実施いたします🪄︎︎✨\n\n地球の緑を守るための小さなアクションです。\n\n山田真緑ちゃんの環境保護活動へご協力をお願いいたします♻️\n\n#イキヅライブ \n#いきづらい部 \n#ルミカライトはリサイクル",
+                "entity_set": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        153,
+                        160
+                      ],
+                      "text": "イキヅライブ"
+                    },
+                    {
+                      "indices": [
+                        162,
+                        169
+                      ],
+                      "text": "いきづらい部"
+                    },
+                    {
+                      "indices": [
+                        171,
+                        184
+                      ],
+                      "text": "ルミカライトはリサイクル"
+                    }
+                  ],
+                  "symbols": [],
+                  "urls": [],
+                  "user_mentions": []
+                },
+                "richtext": {
+                  "richtext_tags": []
+                },
+                "media": {
+                  "inline_media": []
+                }
+              }
+            }
+          },
+          "grok_analysis_button": true,
+          "legacy": {
+            "bookmark_count": 26,
+            "bookmarked": false,
+            "created_at": "Thu Jan 29 09:01:07 +0000 2026",
+            "conversation_id_str": "2016798752586236299",
+            "display_text_range": [
+              0,
+              160
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    153,
+                    160
+                  ],
+                  "text": "イキヅライブ"
+                }
+              ],
+              "media": [
+                {
+                  "display_url": "pic.x.com/hQaNpnXgAU",
+                  "expanded_url": "https://x.com/lumica_JP/status/2016798752586236299/photo/1",
+                  "id_str": "2016797293782188032",
+                  "indices": [
+                    161,
+                    184
+                  ],
+                  "media_key": "3_2016797293782188032",
+                  "media_url_https": "https://pbs.twimg.com/media/G_0adAfbQAAJepp.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/hQaNpnXgAU",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 341,
+                          "y": 543,
+                          "h": 55,
+                          "w": 55
+                        },
+                        {
+                          "x": 1052,
+                          "y": 869,
+                          "h": 73,
+                          "w": 73
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 341,
+                          "y": 543,
+                          "h": 55,
+                          "w": 55
+                        },
+                        {
+                          "x": 1052,
+                          "y": 869,
+                          "h": 73,
+                          "w": 73
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 193,
+                          "y": 307,
+                          "h": 31,
+                          "w": 31
+                        },
+                        {
+                          "x": 596,
+                          "y": 492,
+                          "h": 41,
+                          "w": 41
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 341,
+                          "y": 543,
+                          "h": 55,
+                          "w": 55
+                        },
+                        {
+                          "x": 1052,
+                          "y": 869,
+                          "h": 73,
+                          "w": 73
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1200,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 680,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1200,
+                    "width": 1200,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 174,
+                        "w": 1200,
+                        "h": 672
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1200,
+                        "h": 1200
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1053,
+                        "h": 1200
+                      },
+                      {
+                        "x": 210,
+                        "y": 0,
+                        "w": 600,
+                        "h": 1200
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1200,
+                        "h": 1200
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2016797293782188032"
+                    }
+                  }
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "display_url": "pic.x.com/hQaNpnXgAU",
+                  "expanded_url": "https://x.com/lumica_JP/status/2016798752586236299/photo/1",
+                  "id_str": "2016797293782188032",
+                  "indices": [
+                    161,
+                    184
+                  ],
+                  "media_key": "3_2016797293782188032",
+                  "media_url_https": "https://pbs.twimg.com/media/G_0adAfbQAAJepp.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/hQaNpnXgAU",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 341,
+                          "y": 543,
+                          "h": 55,
+                          "w": 55
+                        },
+                        {
+                          "x": 1052,
+                          "y": 869,
+                          "h": 73,
+                          "w": 73
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 341,
+                          "y": 543,
+                          "h": 55,
+                          "w": 55
+                        },
+                        {
+                          "x": 1052,
+                          "y": 869,
+                          "h": 73,
+                          "w": 73
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 193,
+                          "y": 307,
+                          "h": 31,
+                          "w": 31
+                        },
+                        {
+                          "x": 596,
+                          "y": 492,
+                          "h": 41,
+                          "w": 41
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 341,
+                          "y": 543,
+                          "h": 55,
+                          "w": 55
+                        },
+                        {
+                          "x": 1052,
+                          "y": 869,
+                          "h": 73,
+                          "w": 73
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1200,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "w": 1200,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 680,
+                      "w": 680,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 1200,
+                    "width": 1200,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 174,
+                        "w": 1200,
+                        "h": 672
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1200,
+                        "h": 1200
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1053,
+                        "h": 1200
+                      },
+                      {
+                        "x": 210,
+                        "y": 0,
+                        "w": 600,
+                        "h": 1200
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1200,
+                        "h": 1200
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2016797293782188032"
+                    }
+                  }
+                }
+              ]
+            },
+            "favorite_count": 622,
+            "favorited": false,
+            "full_text": "🌱🌱🌱🌱\n　回収告知\n🌱🌱🌱🌱\n\n2/14、15に幕張イベントホールにて開催されます「いきづらい部！ 1st LIVE 〜What is my L ？〜」にて大閃光の回収を実施いたします🪄︎︎✨\n\n地球の緑を守るための小さなアクションです。\n\n山田真緑ちゃんの環境保護活動へご協力をお願いいたします♻️\n\n#イキヅライブ https://t.co/hQaNpnXgAU",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 50,
+            "reply_count": 0,
+            "retweet_count": 345,
+            "retweeted": false,
+            "user_id_str": "1561887614227337217",
+            "id_str": "2016798752586236299"
+          }
+        }
+      }
+    }
+  },
+  "created_at": "2026-01-29T11:38:18Z"
+}
