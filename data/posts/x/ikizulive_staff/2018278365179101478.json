@@ -1,0 +1,445 @@
+{
+  "id": "2018278365179101478",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "2018278365179101478",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64382,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1098,
+            "media_count": 686,
+            "normal_followers_count": 64382,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 845,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/WEVG1RwAhy",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "app_star_rating",
+            "value": {
+              "string_value": "4.67798",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "image_value": {
+                "height": 144,
+                "width": 144,
+                "url": "https://pbs.twimg.com/card_img/2018275839591522304/yduu1-SJ?format=jpg&name=144x144_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "オールメディアで展開するスクールアイドルプロジェクト『イキヅライブ！ LOVELIVE! BLUEBIRD』の公式アカウントです。",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "www.youtube.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_is_free",
+            "value": {
+              "string_value": "true",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "image_value": {
+                "height": 420,
+                "width": 420,
+                "url": "https://pbs.twimg.com/card_img/2018275839591522304/yduu1-SJ?format=jpg&name=420x420_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "image_value": {
+                "height": 900,
+                "width": 900,
+                "url": "https://pbs.twimg.com/card_img/2018275839591522304/yduu1-SJ?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "10228272",
+                "path": []
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "image_value": {
+                "height": 100,
+                "width": 100,
+                "url": "https://pbs.twimg.com/card_img/2018275839591522304/yduu1-SJ?format=jpg&name=100x100_2"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "app_num_ratings",
+            "value": {
+              "string_value": "45,709,805",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_amount",
+            "value": {
+              "string_value": "0.0",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 900,
+                "width": 900,
+                "url": "https://pbs.twimg.com/card_img/2018275839591522304/yduu1-SJ?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "youtube.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_name",
+            "value": {
+              "string_value": "YouTube",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 193,
+                      "green": 138,
+                      "red": 1
+                    },
+                    "percentage": 88.17
+                  },
+                  {
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    },
+                    "percentage": 11.83
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "(IKIZULIVE!)イキヅライブ! LOVELIVE! BLUEBIRD公式チャンネル",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "app_price_currency",
+            "value": {
+              "string_value": "USD",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/WEVG1RwAhy",
+              "type": "STRING"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary",
+        "url": "https://t.co/WEVG1RwAhy",
+        "user_refs_results": [
+          {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxMDIyODI3Mg==",
+              "rest_id": "10228272",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg"
+              },
+              "core": {
+                "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+                "name": "YouTube",
+                "screen_name": "YouTube"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "follow_request_sent": false,
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "like & subscribe",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "youtube.com/recap",
+                        "expanded_url": "http://youtube.com/recap",
+                        "url": "https://t.co/URnyVVv35T",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 6022,
+                "followers_count": 68056863,
+                "friends_count": 1143,
+                "has_custom_timelines": true,
+                "is_translator": false,
+                "listed_count": 74447,
+                "media_count": 16071,
+                "normal_followers_count": 68056863,
+                "pinned_tweet_ids_str": [],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1764705659",
+                "profile_interstitial_type": "",
+                "statuses_count": 60628,
+                "translator_type": "regular",
+                "url": "https://t.co/URnyVVv35T",
+                "want_retweets": false,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": "San Bruno, CA"
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Square",
+              "profile_bio": {
+                "description": "like & subscribe"
+              },
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": false
+              },
+              "verification": {
+                "verified": false,
+                "verified_type": "Business"
+              },
+              "profile_description_language": "en"
+            }
+          }
+        ]
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2018278365179101478"
+      ],
+      "editable_until_msecs": "1770033634000",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "428",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 3,
+      "bookmarked": false,
+      "created_at": "Mon Feb 02 11:00:34 +0000 2026",
+      "conversation_id_str": "2018277465408549323",
+      "display_text_range": [
+        0,
+        184
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtube.com/@IKIZULIVE",
+            "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+            "url": "https://t.co/WEVG1RwAhy",
+            "indices": [
+              161,
+              184
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 23,
+      "favorited": false,
+      "full_text": "いきづらい部！ 1st LIVE ～ What is my L ? ～\nDay.1　2026年2月14日（土）17:30開演\nDay.2　2026年2月15日（日）17:30開演\n\nDay.1公演全編をYouTubeにて無料生配信決定！\nチャンネル登録してお待ちください！\n\nイキヅライブ！公式YouTubeチャンネル▼\nhttps://t.co/WEVG1RwAhy",
+      "in_reply_to_screen_name": "ikizulive_staff",
+      "in_reply_to_status_id_str": "2018277465408549323",
+      "in_reply_to_user_id_str": "1911282293341356032",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "2018278365179101478"
+    }
+  },
+  "created_at": "2026-02-02T11:00:34Z"
+}
