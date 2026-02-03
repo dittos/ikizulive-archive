@@ -1,0 +1,1000 @@
+{
+  "id": "2018663847482319281",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "2018663847482319281",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64393,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1098,
+            "media_count": 689,
+            "normal_followers_count": 64393,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 849,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/Z9atV5AVZm",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "description",
+            "value": {
+              "string_value": "スクールアイドルプロジェクト「ラブライブ！」シリーズ公式Webサイト。 彼女たちの活動状況、最新情報はここでチェック！",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "www.lovelive-anime.jp",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "347849994",
+                "path": []
+              }
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "lovelive-anime.jp",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "2月3日(火)から文化放送「レコメン！」にて 「イキヅライブ！ LOVELIVE! BLUEBIRD って知ってる？ラジオ」が放送開始！ | ラブライブ！シリーズ Official Web Site",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/Z9atV5AVZm",
+              "type": "STRING"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/Z9atV5AVZm",
+        "user_refs_results": [
+          {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjozNDc4NDk5OTQ=",
+              "rest_id": "347849994",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1027440922672259072/sHA_z7wD_normal.jpg"
+              },
+              "core": {
+                "created_at": "Wed Aug 03 13:26:11 +0000 2011",
+                "name": "ラブライブ！シリーズ公式",
+                "screen_name": "LoveLive_staff"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "follow_request_sent": false,
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "オールメディア展開するスクールアイドルプロジェクト、ラブライブ！シリーズの公式アカウントです。  ■YouTube https://t.co/B0eGaNZHmf ■TikTok https://t.co/y7F4WUabMb",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "youtube.com/c/lovelive_ser…",
+                        "expanded_url": "https://www.youtube.com/c/lovelive_series",
+                        "url": "https://t.co/B0eGaNZHmf",
+                        "indices": [
+                          58,
+                          81
+                        ]
+                      },
+                      {
+                        "display_url": "onl.sc/C8PtrHv",
+                        "expanded_url": "http://onl.sc/C8PtrHv",
+                        "url": "https://t.co/y7F4WUabMb",
+                        "indices": [
+                          90,
+                          113
+                        ]
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "lovelive-anime.jp",
+                        "expanded_url": "http://www.lovelive-anime.jp/",
+                        "url": "https://t.co/KK4vP13OlW",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 533,
+                "followers_count": 1072509,
+                "friends_count": 18,
+                "has_custom_timelines": true,
+                "is_translator": false,
+                "listed_count": 13800,
+                "media_count": 36093,
+                "normal_followers_count": 1072509,
+                "pinned_tweet_ids_str": [],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/347849994/1727924414",
+                "profile_interstitial_type": "",
+                "statuses_count": 55826,
+                "translator_type": "none",
+                "url": "https://t.co/KK4vP13OlW",
+                "want_retweets": true,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": ""
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Square",
+              "profile_bio": {
+                "description": "オールメディア展開するスクールアイドルプロジェクト、ラブライブ！シリーズの公式アカウントです。  ■YouTube https://t.co/B0eGaNZHmf ■TikTok https://t.co/y7F4WUabMb"
+              },
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": true
+              },
+              "verification": {
+                "verified": false,
+                "verified_type": "Business"
+              },
+              "profile_description_language": "ja"
+            }
+          }
+        ]
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2018663847482319281"
+      ],
+      "editable_until_msecs": "1770125540000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "18810",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjIwMTg2NjM4NDc0MDY4MTMxODQ=",
+          "text": "\\\\ 📻RADIO出演情報📢 //\n【このあとスタート⏰】\n\n文化放送「レコメン！」のフロート番組📻\n「イキヅライブ！ LOVELIVE! BLUEBIRD って知ってる？ラジオ」が本日22:40～からオンエア！\n\nぜひチェックしてください👂\n\n【出演キャスト】\n高橋ポルカ役・綾咲穂音／麻布麻衣役・遠藤璃菜\n五桐 玲役・宮野 芹／駒形花火役・藤野こころ\n\n📅毎週火曜日 22:40〜22:50\n💻https://t.co/Z9atV5AVZm\n📱番組ハッシュタグはこちら➡#って知ってるラジオ\n✉お便りはこちら➡lbb@joqr.net\n\n#イキヅライブ #いきづらい部 #文化放送 #レコメン",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  237,
+                  247
+                ],
+                "text": "って知ってるラジオ"
+              },
+              {
+                "indices": [
+                  271,
+                  278
+                ],
+                "text": "イキヅライブ"
+              },
+              {
+                "indices": [
+                  279,
+                  286
+                ],
+                "text": "いきづらい部"
+              },
+              {
+                "indices": [
+                  287,
+                  292
+                ],
+                "text": "文化放送"
+              },
+              {
+                "indices": [
+                  293,
+                  298
+                ],
+                "text": "レコメン"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "lovelive-anime.jp/news/01_5775.h…",
+                "expanded_url": "https://www.lovelive-anime.jp/news/01_5775.html",
+                "url": "https://t.co/Z9atV5AVZm",
+                "indices": [
+                  199,
+                  222
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "richtext": {
+            "richtext_tags": []
+          },
+          "media": {
+            "inline_media": []
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "quoted_status_result": {
+      "result": {
+        "__typename": "Tweet",
+        "rest_id": "2018663258715214294",
+        "core": {
+          "user_results": {
+            "result": {
+              "__typename": "User",
+              "id": "VXNlcjoxNTExNzc2MjYy",
+              "rest_id": "1511776262",
+              "affiliates_highlighted_label": {},
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1565383945008467968/ZEUfvGg-_normal.jpg"
+              },
+              "core": {
+                "created_at": "Wed Jun 12 22:19:29 +0000 2013",
+                "name": "【公式】レコメン！",
+                "screen_name": "reco_oshirase"
+              },
+              "dm_permissions": {
+                "can_dm": false
+              },
+              "follow_request_sent": false,
+              "has_graduated_access": true,
+              "is_blue_verified": true,
+              "legacy": {
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "月～木曜日 22～25時生放送！｜ #駒木根葵汰｜#佐藤勝利 #原嘉孝 (#timelesz) ※週替わり｜#矢吹奈子｜#吉田仁人 (#MILK)｜ #KisMyFt2 #KingandPrince #永瀬廉｜ #田中れいか ｜#AileTheShota  #Girls2",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "joqr.co.jp/qr/program/rec…",
+                        "expanded_url": "http://joqr.co.jp/qr/program/reco/",
+                        "url": "https://t.co/bDM49etctB",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "fast_followers_count": 0,
+                "favourites_count": 157,
+                "followers_count": 218024,
+                "friends_count": 48,
+                "has_custom_timelines": true,
+                "is_translator": false,
+                "listed_count": 981,
+                "media_count": 7233,
+                "normal_followers_count": 218024,
+                "pinned_tweet_ids_str": [],
+                "possibly_sensitive": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511776262/1762138794",
+                "profile_interstitial_type": "",
+                "statuses_count": 36439,
+                "translator_type": "none",
+                "url": "https://t.co/bDM49etctB",
+                "want_retweets": false,
+                "withheld_in_countries": []
+              },
+              "location": {
+                "location": "東京都港区浜松町"
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "parody_commentary_fan_label": "None",
+              "profile_image_shape": "Square",
+              "profile_bio": {
+                "description": "月～木曜日 22～25時生放送！｜ #駒木根葵汰｜#佐藤勝利 #原嘉孝 (#timelesz) ※週替わり｜#矢吹奈子｜#吉田仁人 (#MILK)｜ #KisMyFt2 #KingandPrince #永瀬廉｜ #田中れいか ｜#AileTheShota  #Girls2"
+              },
+              "privacy": {
+                "protected": false
+              },
+              "relationship_perspectives": {
+                "following": false
+              },
+              "verification": {
+                "verified": false,
+                "verified_type": "Business"
+              },
+              "profile_description_language": "ja"
+            }
+          }
+        },
+        "unmention_data": {},
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2018663258715214294"
+          ],
+          "editable_until_msecs": "1770125400000",
+          "is_edit_eligible": true,
+          "edits_remaining": "5"
+        },
+        "is_translatable": true,
+        "views": {
+          "count": "19209",
+          "state": "EnabledWithCount"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "grok_analysis_button": true,
+        "legacy": {
+          "bookmark_count": 14,
+          "bookmarked": false,
+          "created_at": "Tue Feb 03 12:30:00 +0000 2026",
+          "conversation_id_str": "2018663258715214294",
+          "display_text_range": [
+            0,
+            141
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "indices": [
+                  119,
+                  129
+                ],
+                "text": "って知ってるラジオ"
+              },
+              {
+                "indices": [
+                  130,
+                  135
+                ],
+                "text": "文化放送"
+              },
+              {
+                "indices": [
+                  136,
+                  141
+                ],
+                "text": "レコメン"
+              }
+            ],
+            "media": [
+              {
+                "display_url": "pic.x.com/jOQU9S40sA",
+                "expanded_url": "https://x.com/reco_oshirase/status/2018663258715214294/photo/1",
+                "id_str": "2018646627503030272",
+                "indices": [
+                  142,
+                  165
+                ],
+                "media_key": "3_2018646627503030272",
+                "media_url_https": "https://pbs.twimg.com/media/HAOsaZdbwAAPZJB.jpg",
+                "type": "photo",
+                "url": "https://t.co/jOQU9S40sA",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "x": 295,
+                        "y": 300,
+                        "h": 46,
+                        "w": 46
+                      },
+                      {
+                        "x": 372,
+                        "y": 300,
+                        "h": 93,
+                        "w": 93
+                      },
+                      {
+                        "x": 183,
+                        "y": 254,
+                        "h": 102,
+                        "w": 102
+                      },
+                      {
+                        "x": 561,
+                        "y": 234,
+                        "h": 96,
+                        "w": 96
+                      },
+                      {
+                        "x": 816,
+                        "y": 259,
+                        "h": 104,
+                        "w": 104
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "x": 295,
+                        "y": 300,
+                        "h": 46,
+                        "w": 46
+                      },
+                      {
+                        "x": 372,
+                        "y": 300,
+                        "h": 93,
+                        "w": 93
+                      },
+                      {
+                        "x": 183,
+                        "y": 254,
+                        "h": 102,
+                        "w": 102
+                      },
+                      {
+                        "x": 561,
+                        "y": 234,
+                        "h": 96,
+                        "w": 96
+                      },
+                      {
+                        "x": 816,
+                        "y": 259,
+                        "h": 104,
+                        "w": 104
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "x": 187,
+                        "y": 190,
+                        "h": 29,
+                        "w": 29
+                      },
+                      {
+                        "x": 236,
+                        "y": 190,
+                        "h": 59,
+                        "w": 59
+                      },
+                      {
+                        "x": 116,
+                        "y": 161,
+                        "h": 64,
+                        "w": 64
+                      },
+                      {
+                        "x": 356,
+                        "y": 148,
+                        "h": 60,
+                        "w": 60
+                      },
+                      {
+                        "x": 518,
+                        "y": 164,
+                        "h": 66,
+                        "w": 66
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "x": 295,
+                        "y": 300,
+                        "h": 46,
+                        "w": 46
+                      },
+                      {
+                        "x": 372,
+                        "y": 300,
+                        "h": 93,
+                        "w": 93
+                      },
+                      {
+                        "x": 183,
+                        "y": 254,
+                        "h": 102,
+                        "w": 102
+                      },
+                      {
+                        "x": 561,
+                        "y": 234,
+                        "h": 96,
+                        "w": 96
+                      },
+                      {
+                        "x": 816,
+                        "y": 259,
+                        "h": 104,
+                        "w": 104
+                      }
+                    ]
+                  }
+                },
+                "sizes": {
+                  "large": {
+                    "h": 804,
+                    "w": 1071,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "h": 804,
+                    "w": 1071,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "h": 510,
+                    "w": 680,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "w": 150,
+                    "resize": "crop"
+                  }
+                },
+                "original_info": {
+                  "height": 804,
+                  "width": 1071,
+                  "focus_rects": [
+                    {
+                      "x": 0,
+                      "y": 48,
+                      "w": 1071,
+                      "h": 600
+                    },
+                    {
+                      "x": 267,
+                      "y": 0,
+                      "w": 804,
+                      "h": 804
+                    },
+                    {
+                      "x": 366,
+                      "y": 0,
+                      "w": 705,
+                      "h": 804
+                    },
+                    {
+                      "x": 669,
+                      "y": 0,
+                      "w": 402,
+                      "h": 804
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 1071,
+                      "h": 804
+                    }
+                  ]
+                },
+                "media_results": {
+                  "result": {
+                    "media_key": "3_2018646627503030272"
+                  }
+                }
+              }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": []
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "display_url": "pic.x.com/jOQU9S40sA",
+                "expanded_url": "https://x.com/reco_oshirase/status/2018663258715214294/photo/1",
+                "id_str": "2018646627503030272",
+                "indices": [
+                  142,
+                  165
+                ],
+                "media_key": "3_2018646627503030272",
+                "media_url_https": "https://pbs.twimg.com/media/HAOsaZdbwAAPZJB.jpg",
+                "type": "photo",
+                "url": "https://t.co/jOQU9S40sA",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "x": 295,
+                        "y": 300,
+                        "h": 46,
+                        "w": 46
+                      },
+                      {
+                        "x": 372,
+                        "y": 300,
+                        "h": 93,
+                        "w": 93
+                      },
+                      {
+                        "x": 183,
+                        "y": 254,
+                        "h": 102,
+                        "w": 102
+                      },
+                      {
+                        "x": 561,
+                        "y": 234,
+                        "h": 96,
+                        "w": 96
+                      },
+                      {
+                        "x": 816,
+                        "y": 259,
+                        "h": 104,
+                        "w": 104
+                      }
+                    ]
+                  },
+                  "medium": {
+                    "faces": [
+                      {
+                        "x": 295,
+                        "y": 300,
+                        "h": 46,
+                        "w": 46
+                      },
+                      {
+                        "x": 372,
+                        "y": 300,
+                        "h": 93,
+                        "w": 93
+                      },
+                      {
+                        "x": 183,
+                        "y": 254,
+                        "h": 102,
+                        "w": 102
+                      },
+                      {
+                        "x": 561,
+                        "y": 234,
+                        "h": 96,
+                        "w": 96
+                      },
+                      {
+                        "x": 816,
+                        "y": 259,
+                        "h": 104,
+                        "w": 104
+                      }
+                    ]
+                  },
+                  "small": {
+                    "faces": [
+                      {
+                        "x": 187,
+                        "y": 190,
+                        "h": 29,
+                        "w": 29
+                      },
+                      {
+                        "x": 236,
+                        "y": 190,
+                        "h": 59,
+                        "w": 59
+                      },
+                      {
+                        "x": 116,
+                        "y": 161,
+                        "h": 64,
+                        "w": 64
+                      },
+                      {
+                        "x": 356,
+                        "y": 148,
+                        "h": 60,
+                        "w": 60
+                      },
+                      {
+                        "x": 518,
+                        "y": 164,
+                        "h": 66,
+                        "w": 66
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "x": 295,
+                        "y": 300,
+                        "h": 46,
+                        "w": 46
+                      },
+                      {
+                        "x": 372,
+                        "y": 300,
+                        "h": 93,
+                        "w": 93
+                      },
+                      {
+                        "x": 183,
+                        "y": 254,
+                        "h": 102,
+                        "w": 102
+                      },
+                      {
+                        "x": 561,
+                        "y": 234,
+                        "h": 96,
+                        "w": 96
+                      },
+                      {
+                        "x": 816,
+                        "y": 259,
+                        "h": 104,
+                        "w": 104
+                      }
+                    ]
+                  }
+                },
+                "sizes": {
+                  "large": {
+                    "h": 804,
+                    "w": 1071,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "h": 804,
+                    "w": 1071,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "h": 510,
+                    "w": 680,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "h": 150,
+                    "w": 150,
+                    "resize": "crop"
+                  }
+                },
+                "original_info": {
+                  "height": 804,
+                  "width": 1071,
+                  "focus_rects": [
+                    {
+                      "x": 0,
+                      "y": 48,
+                      "w": 1071,
+                      "h": 600
+                    },
+                    {
+                      "x": 267,
+                      "y": 0,
+                      "w": 804,
+                      "h": 804
+                    },
+                    {
+                      "x": 366,
+                      "y": 0,
+                      "w": 705,
+                      "h": 804
+                    },
+                    {
+                      "x": 669,
+                      "y": 0,
+                      "w": 402,
+                      "h": 804
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "w": 1071,
+                      "h": 804
+                    }
+                  ]
+                },
+                "media_results": {
+                  "result": {
+                    "media_key": "3_2018646627503030272"
+                  }
+                }
+              }
+            ]
+          },
+          "favorite_count": 130,
+          "favorited": false,
+          "full_text": "いよいよ今夜スタート！\n「イキヅライブ！ LOVELIVE! BLUEBIRD って知ってる？ラジオ」！22時40分ごろからですよー！\n＜出演＞\n高橋ポルカ役・綾咲穂音\n麻布麻衣役・遠藤璃菜\n五桐 玲役・宮野 芹\n駒形花火役・藤野こころ\n#って知ってるラジオ\n#文化放送\n#レコメン https://t.co/jOQU9S40sA",
+          "is_quote_status": false,
+          "lang": "ja",
+          "possibly_sensitive": false,
+          "possibly_sensitive_editable": true,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 65,
+          "retweeted": false,
+          "user_id_str": "1511776262",
+          "id_str": "2018663258715214294"
+        }
+      }
+    },
+    "legacy": {
+      "bookmark_count": 10,
+      "bookmarked": false,
+      "created_at": "Tue Feb 03 12:32:20 +0000 2026",
+      "conversation_id_str": "2018663847482319281",
+      "display_text_range": [
+        0,
+        163
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 331,
+      "favorited": false,
+      "full_text": "\\\\ 📻RADIO出演情報📢 //\n【このあとスタート⏰】\n\n文化放送「レコメン！」のフロート番組📻\n「イキヅライブ！ LOVELIVE! BLUEBIRD って知ってる？ラジオ」が本日22:40～からオンエア！\n\nぜひチェックしてください👂\n\n【出演キャスト】\n高橋ポルカ役・綾咲穂音／麻布麻衣役・遠藤璃菜\n五桐 玲役・宮野",
+      "is_quote_status": true,
+      "lang": "ja",
+      "quote_count": 3,
+      "quoted_status_id_str": "2018663258715214294",
+      "quoted_status_permalink": {
+        "url": "https://t.co/w3ZXmyKwwl",
+        "expanded": "https://twitter.com/reco_oshirase/status/2018663258715214294",
+        "display": "x.com/reco_oshirase/…"
+      },
+      "reply_count": 0,
+      "retweet_count": 104,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "2018663847482319281"
+    }
+  },
+  "created_at": "2026-02-03T12:32:20Z"
+}
