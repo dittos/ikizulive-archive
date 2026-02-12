@@ -1,0 +1,514 @@
+{
+  "id": "2021962497851318424",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "2021962497851318424",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HA9fjx1bsAQnXVc.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "2021962497851318424",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 64398,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1102,
+            "media_count": 726,
+            "normal_followers_count": 64398,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 887,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2021962497851318424"
+      ],
+      "editable_until_msecs": "1770912000000",
+      "is_edit_eligible": true,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "490",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "id": "Tm90ZVR3ZWV0OjIwMjE5NjI0OTc3MDAzNjQyODg=",
+          "text": "** ┈┈┈┈┈┈┈┈┈**\n　　Happy Birthday\n　　🎂麻布麻衣🎁\n** ┈┈┈┈┈┈┈┈┈**\n\n今日は麻布麻衣の誕生日！\nみんなでお祝いしましょう🎉\n\n麻衣( @My_Mai_Eld )の\n\n自己紹介動画📹\nhttps://t.co/rZB3LnYkOy \n\n語りかけ動画📹\nhttps://t.co/43Budh1Yei \n\n🎶「Public Style」\nhttps://t.co/fMAANGrThB \n\n#イキヅライブ #いきづらい部",
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  215,
+                  222
+                ],
+                "text": "イキヅライブ"
+              },
+              {
+                "indices": [
+                  223,
+                  230
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "youtu.be/rbqF78im90g",
+                "expanded_url": "https://youtu.be/rbqF78im90g",
+                "url": "https://t.co/rZB3LnYkOy",
+                "indices": [
+                  113,
+                  136
+                ]
+              },
+              {
+                "display_url": "youtu.be/naRoVvS0lUg",
+                "expanded_url": "https://youtu.be/naRoVvS0lUg",
+                "url": "https://t.co/43Budh1Yei",
+                "indices": [
+                  147,
+                  170
+                ]
+              },
+              {
+                "display_url": "youtu.be/KLZ1MtYKYgc",
+                "expanded_url": "https://youtu.be/KLZ1MtYKYgc",
+                "url": "https://t.co/fMAANGrThB",
+                "indices": [
+                  189,
+                  212
+                ]
+              }
+            ],
+            "user_mentions": [
+              {
+                "id_str": "1906615972401909760",
+                "name": "麻布麻衣@いきづらい部！",
+                "screen_name": "My_Mai_Eld",
+                "indices": [
+                  89,
+                  100
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 4,
+      "bookmarked": false,
+      "created_at": "Thu Feb 12 15:00:00 +0000 2026",
+      "conversation_id_str": "2021962497851318424",
+      "display_text_range": [
+        0,
+        188
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.x.com/Jwe0GCl5tj",
+            "expanded_url": "https://x.com/ikizulive_staff/status/2021962497851318424/photo/1",
+            "id_str": "2021939825990152196",
+            "indices": [
+              189,
+              212
+            ],
+            "media_key": "3_2021939825990152196",
+            "media_url_https": "https://pbs.twimg.com/media/HA9fjx1bsAQnXVc.jpg",
+            "type": "photo",
+            "url": "https://t.co/Jwe0GCl5tj",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 469,
+                    "y": 595,
+                    "h": 89,
+                    "w": 89
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 469,
+                    "y": 595,
+                    "h": 89,
+                    "w": 89
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 265,
+                    "y": 337,
+                    "h": 50,
+                    "w": 50
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 469,
+                    "y": 595,
+                    "h": 89,
+                    "w": 89
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1200,
+              "width": 1200,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 672
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 1200
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1053,
+                  "h": 1200
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 600,
+                  "h": 1200
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 1200
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_2021939825990152196"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "youtu.be/rbqF78im90g",
+            "expanded_url": "https://youtu.be/rbqF78im90g",
+            "url": "https://t.co/YlSthuzyi6",
+            "indices": [
+              113,
+              136
+            ]
+          },
+          {
+            "display_url": "youtu.be/naRoVvS0lUg",
+            "expanded_url": "https://youtu.be/naRoVvS0lUg",
+            "url": "https://t.co/ul4f3uR8AZ",
+            "indices": [
+              147,
+              170
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1906615972401909760",
+            "name": "麻布麻衣@いきづらい部！",
+            "screen_name": "My_Mai_Eld",
+            "indices": [
+              89,
+              100
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/Jwe0GCl5tj",
+            "expanded_url": "https://x.com/ikizulive_staff/status/2021962497851318424/photo/1",
+            "id_str": "2021939825990152196",
+            "indices": [
+              189,
+              212
+            ],
+            "media_key": "3_2021939825990152196",
+            "media_url_https": "https://pbs.twimg.com/media/HA9fjx1bsAQnXVc.jpg",
+            "type": "photo",
+            "url": "https://t.co/Jwe0GCl5tj",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 469,
+                    "y": 595,
+                    "h": 89,
+                    "w": 89
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 469,
+                    "y": 595,
+                    "h": 89,
+                    "w": 89
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 265,
+                    "y": 337,
+                    "h": 50,
+                    "w": 50
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 469,
+                    "y": 595,
+                    "h": 89,
+                    "w": 89
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 1200,
+              "width": 1200,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 672
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 1200
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1053,
+                  "h": 1200
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 600,
+                  "h": 1200
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1200,
+                  "h": 1200
+                }
+              ]
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_2021939825990152196"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 150,
+      "favorited": false,
+      "full_text": "** ┈┈┈┈┈┈┈┈┈**\n　　Happy Birthday\n　　🎂麻布麻衣🎁\n** ┈┈┈┈┈┈┈┈┈**\n\n今日は麻布麻衣の誕生日！\nみんなでお祝いしましょう🎉\n\n麻衣( @My_Mai_Eld )の\n\n自己紹介動画📹\nhttps://t.co/YlSthuzyi6 \n\n語りかけ動画📹\nhttps://t.co/ul4f3uR8AZ \n\n🎶「Public Style」 https://t.co/Jwe0GCl5tj",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 3,
+      "reply_count": 2,
+      "retweet_count": 101,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "2021962497851318424"
+    },
+    "grok_annotations": {
+      "is_image_editable_by_grok": true
+    }
+  },
+  "created_at": "2026-02-12T15:00:00Z"
+}
