@@ -1,0 +1,550 @@
+{
+  "id": "2023004856894837035",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "2023004856894837035",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 65236,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1113,
+            "media_count": 772,
+            "normal_followers_count": 65236,
+            "pinned_tweet_ids_str": [
+              "1963212724525293954"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 945,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "card": {
+      "rest_id": "https://t.co/5Tb4qfjklR",
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "photo_image_full_size_large",
+            "value": {
+              "image_value": {
+                "height": 220,
+                "width": 420,
+                "url": "https://pbs.twimg.com/card_img/2023004857272250369/cdnyPaB6?format=jpg&name=600x314"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "image_value": {
+                "height": 200,
+                "width": 400,
+                "url": "https://pbs.twimg.com/card_img/2023004857272250369/cdnyPaB6?format=jpg&name=400x400"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "Listen to content by いきづらい部！.",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "lnk.to",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "image_value": {
+                "height": 627,
+                "width": 1200,
+                "url": "https://pbs.twimg.com/card_img/2023004857272250369/cdnyPaB6?format=jpg&name=1200x627"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "width": 386,
+                "url": "https://pbs.twimg.com/card_img/2023004857272250369/cdnyPaB6?format=jpg&name=386x202"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "image_value": {
+                "height": 220,
+                "width": 440,
+                "url": "https://pbs.twimg.com/card_img/2023004857272250369/cdnyPaB6?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "width": 386,
+                "url": "https://pbs.twimg.com/card_img/2023004857272250369/cdnyPaB6?format=jpg&name=386x202"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image_large",
+            "value": {
+              "image_value": {
+                "height": 220,
+                "width": 420,
+                "url": "https://pbs.twimg.com/card_img/2023004857272250369/cdnyPaB6?format=jpg&name=600x314"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "image_value": {
+                "height": 72,
+                "width": 144,
+                "url": "https://pbs.twimg.com/card_img/2023004857272250369/cdnyPaB6?format=jpg&name=144x144"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 220,
+                "width": 440,
+                "url": "https://pbs.twimg.com/card_img/2023004857272250369/cdnyPaB6?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_original",
+            "value": {
+              "image_value": {
+                "height": 220,
+                "width": 440,
+                "url": "https://pbs.twimg.com/card_img/2023004857272250369/cdnyPaB6?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "lnk.to",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "photo_image_full_size",
+            "value": {
+              "image_value": {
+                "height": 220,
+                "width": 420,
+                "url": "https://pbs.twimg.com/card_img/2023004857272250369/cdnyPaB6?format=jpg&name=600x314"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    },
+                    "percentage": 90.55
+                  },
+                  {
+                    "rgb": {
+                      "blue": 9,
+                      "green": 113,
+                      "red": 237
+                    },
+                    "percentage": 6.19
+                  },
+                  {
+                    "rgb": {
+                      "blue": 159,
+                      "green": 200,
+                      "red": 247
+                    },
+                    "percentage": 2.22
+                  },
+                  {
+                    "rgb": {
+                      "blue": 82,
+                      "green": 155,
+                      "red": 242
+                    },
+                    "percentage": 1.04
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "いきづらい部！ 2nd Single「Dou-Da? DOING! / REGAIN AGAIN LLLLOVE」【通常盤】",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    },
+                    "percentage": 90.55
+                  },
+                  {
+                    "rgb": {
+                      "blue": 9,
+                      "green": 113,
+                      "red": 237
+                    },
+                    "percentage": 6.19
+                  },
+                  {
+                    "rgb": {
+                      "blue": 159,
+                      "green": 200,
+                      "red": 247
+                    },
+                    "percentage": 2.22
+                  },
+                  {
+                    "rgb": {
+                      "blue": 82,
+                      "green": 155,
+                      "red": 242
+                    },
+                    "percentage": 1.04
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "summary_photo_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 220,
+                "width": 440,
+                "url": "https://pbs.twimg.com/card_img/2023004857272250369/cdnyPaB6?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "summary_photo_image",
+            "value": {
+              "image_value": {
+                "height": 220,
+                "width": 420,
+                "url": "https://pbs.twimg.com/card_img/2023004857272250369/cdnyPaB6?format=jpg&name=600x314"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "photo_image_full_size_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    },
+                    "percentage": 90.55
+                  },
+                  {
+                    "rgb": {
+                      "blue": 9,
+                      "green": 113,
+                      "red": 237
+                    },
+                    "percentage": 6.19
+                  },
+                  {
+                    "rgb": {
+                      "blue": 159,
+                      "green": 200,
+                      "red": 247
+                    },
+                    "percentage": 2.22
+                  },
+                  {
+                    "rgb": {
+                      "blue": 82,
+                      "green": 155,
+                      "red": 242
+                    },
+                    "percentage": 1.04
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            }
+          },
+          {
+            "key": "photo_image_full_size_x_large",
+            "value": {
+              "image_value": {
+                "height": 220,
+                "width": 440,
+                "url": "https://pbs.twimg.com/card_img/2023004857272250369/cdnyPaB6?format=png&name=2048x2048_2_exp"
+              },
+              "type": "IMAGE"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/5Tb4qfjklR",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "summary_photo_image_original",
+            "value": {
+              "image_value": {
+                "height": 220,
+                "width": 440,
+                "url": "https://pbs.twimg.com/card_img/2023004857272250369/cdnyPaB6?format=jpg&name=orig"
+              },
+              "type": "IMAGE"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/5Tb4qfjklR",
+        "user_refs_results": []
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2023004856894837035"
+      ],
+      "editable_until_msecs": "1771160518000",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": false,
+    "views": {
+      "count": "30273",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 26,
+      "bookmarked": false,
+      "created_at": "Sun Feb 15 12:01:58 +0000 2026",
+      "conversation_id_str": "2023004854340481065",
+      "display_text_range": [
+        0,
+        197
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              182,
+              189
+            ],
+            "text": "イキヅライブ"
+          },
+          {
+            "indices": [
+              190,
+              197
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "lovelive-anime.jp/news/01_5860.h…",
+            "expanded_url": "https://www.lovelive-anime.jp/news/01_5860.html",
+            "url": "https://t.co/sVC8TVtOj2",
+            "indices": [
+              85,
+              108
+            ]
+          },
+          {
+            "display_url": "lnk.to/LACM-34819",
+            "expanded_url": "https://lnk.to/LACM-34819",
+            "url": "https://t.co/zrtGbU72qu",
+            "indices": [
+              129,
+              152
+            ]
+          },
+          {
+            "display_url": "lnk.to/LACM-24819",
+            "expanded_url": "https://lnk.to/LACM-24819",
+            "url": "https://t.co/5Tb4qfjklR",
+            "indices": [
+              157,
+              180
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 505,
+      "favorited": false,
+      "full_text": "《6月10日(水)発売》\nいきづらい部！ 2nd Single\n「Dou-Da? DOING! / REGAIN AGAIN LLLLOVE」\n\n🎁店舗予約特典はこちら\nhttps://t.co/sVC8TVtOj2\n\n🛒CDご予約はこちら\n初回生産限定盤：https://t.co/zrtGbU72qu\n通常盤：https://t.co/5Tb4qfjklR\n\n#イキヅライブ #いきづらい部",
+      "in_reply_to_screen_name": "ikizulive_staff",
+      "in_reply_to_status_id_str": "2023004854340481065",
+      "in_reply_to_user_id_str": "1911282293341356032",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 2,
+      "reply_count": 0,
+      "retweet_count": 170,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "2023004856894837035"
+    },
+    "grok_annotations": {}
+  },
+  "created_at": "2026-02-15T12:01:58Z"
+}
