@@ -49,7 +49,8 @@ Your task is to translate the text provided by the user into {lang_name} while p
 
 {custom_prompt}"""
     resp = client.chat.completions.create(
-        model="gemini-2.5-flash",
+        # model="gemini-2.5-flash",
+        model="gpt-5.2",
         messages=[
             {
                 "role": "system",
@@ -87,7 +88,7 @@ if __name__ == "__main__":
     load_dotenv()
 
     client = OpenAI(
-        base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
+        # base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
     )
 
     data_dir = Path("./data")
