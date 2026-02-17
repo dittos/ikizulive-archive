@@ -1,0 +1,859 @@
+{
+  "id": "2023684031314014558",
+  "username": "ikizulive_staff",
+  "attachments": [
+    {
+      "tweet_id": "2023684031314014558",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HBVTypha0AAz9b0.jpg"
+    }
+  ],
+  "raw_data": {
+    "__typename": "Tweet",
+    "rest_id": "2023684031314014558",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "rest_id": "1911282293341356032",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "url": "https://t.co/uAo8WcIDpK",
+                    "indices": [
+                      44,
+                      67
+                    ]
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "url": "https://t.co/mfWPigBwKr",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "followers_count": 65781,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1125,
+            "media_count": 778,
+            "normal_followers_count": 65781,
+            "pinned_tweet_ids_str": [
+              "2023001447827452286"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 953,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "profile_image_shape": "Circle",
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "privacy": {
+            "protected": false
+          },
+          "relationship_perspectives": {
+            "following": true
+          },
+          "verification": {
+            "verified": false
+          },
+          "profile_description_language": "ja"
+        }
+      }
+    },
+    "unmention_data": {},
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2023684031314014558"
+      ],
+      "editable_until_msecs": "1771322445953",
+      "is_edit_eligible": false,
+      "edits_remaining": "5"
+    },
+    "is_translatable": true,
+    "views": {
+      "count": "1",
+      "state": "EnabledWithCount"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "grok_analysis_button": true,
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "created_at": "Tue Feb 17 09:00:45 +0000 2026",
+      "conversation_id_str": "2023684031314014558",
+      "display_text_range": [
+        0,
+        97
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              54,
+              63
+            ],
+            "text": "lovelive"
+          },
+          {
+            "indices": [
+              64,
+              73
+            ],
+            "text": "AiScReam"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.x.com/r85y6LRrp5",
+            "expanded_url": "https://x.com/LoveLive_staff/status/2023683850631884962/photo/1",
+            "id_str": "2023615737177493504",
+            "indices": [
+              74,
+              97
+            ],
+            "media_key": "3_2023615737177493504",
+            "media_url_https": "https://pbs.twimg.com/media/HBVTypha0AAz9b0.jpg",
+            "source_status_id_str": "2023683850631884962",
+            "source_user_id_str": "347849994",
+            "type": "photo",
+            "url": "https://t.co/r85y6LRrp5",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 132,
+                    "y": 1246,
+                    "h": 332,
+                    "w": 332
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 79,
+                    "y": 747,
+                    "h": 199,
+                    "w": 199
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 44,
+                    "y": 423,
+                    "h": 112,
+                    "w": 112
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 132,
+                    "y": 1246,
+                    "h": 332,
+                    "w": 332
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2000,
+                "w": 1415,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 849,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 481,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2000,
+              "width": 1415,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 1208,
+                  "w": 1415,
+                  "h": 792
+                },
+                {
+                  "x": 0,
+                  "y": 585,
+                  "w": 1415,
+                  "h": 1415
+                },
+                {
+                  "x": 0,
+                  "y": 387,
+                  "w": 1415,
+                  "h": 1613
+                },
+                {
+                  "x": 207,
+                  "y": 0,
+                  "w": 1000,
+                  "h": 2000
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1415,
+                  "h": 2000
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_2023615737177493504"
+              }
+            }
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "347849994",
+            "name": "ラブライブ！シリーズ公式",
+            "screen_name": "LoveLive_staff",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/r85y6LRrp5",
+            "expanded_url": "https://x.com/LoveLive_staff/status/2023683850631884962/photo/1",
+            "id_str": "2023615737177493504",
+            "indices": [
+              74,
+              97
+            ],
+            "media_key": "3_2023615737177493504",
+            "media_url_https": "https://pbs.twimg.com/media/HBVTypha0AAz9b0.jpg",
+            "source_status_id_str": "2023683850631884962",
+            "source_user_id_str": "347849994",
+            "type": "photo",
+            "url": "https://t.co/r85y6LRrp5",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 132,
+                    "y": 1246,
+                    "h": 332,
+                    "w": 332
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 79,
+                    "y": 747,
+                    "h": 199,
+                    "w": 199
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 44,
+                    "y": 423,
+                    "h": 112,
+                    "w": 112
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 132,
+                    "y": 1246,
+                    "h": 332,
+                    "w": 332
+                  }
+                ]
+              }
+            },
+            "sizes": {
+              "large": {
+                "h": 2000,
+                "w": 1415,
+                "resize": "fit"
+              },
+              "medium": {
+                "h": 1200,
+                "w": 849,
+                "resize": "fit"
+              },
+              "small": {
+                "h": 680,
+                "w": 481,
+                "resize": "fit"
+              },
+              "thumb": {
+                "h": 150,
+                "w": 150,
+                "resize": "crop"
+              }
+            },
+            "original_info": {
+              "height": 2000,
+              "width": 1415,
+              "focus_rects": [
+                {
+                  "x": 0,
+                  "y": 1208,
+                  "w": 1415,
+                  "h": 792
+                },
+                {
+                  "x": 0,
+                  "y": 585,
+                  "w": 1415,
+                  "h": 1415
+                },
+                {
+                  "x": 0,
+                  "y": 387,
+                  "w": 1415,
+                  "h": 1613
+                },
+                {
+                  "x": 207,
+                  "y": 0,
+                  "w": 1000,
+                  "h": 2000
+                },
+                {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1415,
+                  "h": 2000
+                }
+              ]
+            },
+            "media_results": {
+              "result": {
+                "media_key": "3_2023615737177493504"
+              }
+            }
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @LoveLive_staff: 【🍨大切なお知らせ🍨】\n\nいつも応援してくださるスプーンの皆様へ\n\n#lovelive #AiScReam https://t.co/r85y6LRrp5",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11919,
+      "retweeted": false,
+      "user_id_str": "1911282293341356032",
+      "id_str": "2023684031314014558",
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "2023683850631884962",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjozNDc4NDk5OTQ=",
+                "rest_id": "347849994",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1027440922672259072/sHA_z7wD_normal.jpg"
+                },
+                "core": {
+                  "created_at": "Wed Aug 03 13:26:11 +0000 2011",
+                  "name": "ラブライブ！シリーズ公式",
+                  "screen_name": "LoveLive_staff"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "follow_request_sent": false,
+                "has_graduated_access": true,
+                "is_blue_verified": true,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "オールメディア展開するスクールアイドルプロジェクト、ラブライブ！シリーズの公式アカウントです。  ■YouTube https://t.co/B0eGaNZHmf ■TikTok https://t.co/y7F4WUabMb",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "youtube.com/c/lovelive_ser…",
+                          "expanded_url": "https://www.youtube.com/c/lovelive_series",
+                          "url": "https://t.co/B0eGaNZHmf",
+                          "indices": [
+                            58,
+                            81
+                          ]
+                        },
+                        {
+                          "display_url": "onl.sc/C8PtrHv",
+                          "expanded_url": "http://onl.sc/C8PtrHv",
+                          "url": "https://t.co/y7F4WUabMb",
+                          "indices": [
+                            90,
+                            113
+                          ]
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "lovelive-anime.jp",
+                          "expanded_url": "http://www.lovelive-anime.jp/",
+                          "url": "https://t.co/KK4vP13OlW",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 533,
+                  "followers_count": 1073431,
+                  "friends_count": 18,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 13778,
+                  "media_count": 36134,
+                  "normal_followers_count": 1073431,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/347849994/1727924414",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 55955,
+                  "translator_type": "none",
+                  "url": "https://t.co/KK4vP13OlW",
+                  "want_retweets": true,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": ""
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "parody_commentary_fan_label": "None",
+                "profile_image_shape": "Square",
+                "profile_bio": {
+                  "description": "オールメディア展開するスクールアイドルプロジェクト、ラブライブ！シリーズの公式アカウントです。  ■YouTube https://t.co/B0eGaNZHmf ■TikTok https://t.co/y7F4WUabMb"
+                },
+                "privacy": {
+                  "protected": false
+                },
+                "relationship_perspectives": {
+                  "following": true
+                },
+                "verification": {
+                  "verified": false,
+                  "verified_type": "Business"
+                },
+                "profile_description_language": "ja"
+              }
+            }
+          },
+          "unmention_data": {},
+          "edit_control": {
+            "edit_tweet_ids": [
+              "2023683850631884962"
+            ],
+            "editable_until_msecs": "1771322402000",
+            "is_edit_eligible": true,
+            "edits_remaining": "5"
+          },
+          "is_translatable": true,
+          "views": {
+            "count": "2170128",
+            "state": "EnabledWithCount"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "grok_analysis_button": true,
+          "legacy": {
+            "bookmark_count": 2339,
+            "bookmarked": false,
+            "created_at": "Tue Feb 17 09:00:02 +0000 2026",
+            "conversation_id_str": "2023683850631884962",
+            "display_text_range": [
+              0,
+              53
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    34,
+                    43
+                  ],
+                  "text": "lovelive"
+                },
+                {
+                  "indices": [
+                    44,
+                    53
+                  ],
+                  "text": "AiScReam"
+                }
+              ],
+              "media": [
+                {
+                  "display_url": "pic.x.com/r85y6LRrp5",
+                  "expanded_url": "https://x.com/LoveLive_staff/status/2023683850631884962/photo/1",
+                  "id_str": "2023615737177493504",
+                  "indices": [
+                    54,
+                    77
+                  ],
+                  "media_key": "3_2023615737177493504",
+                  "media_url_https": "https://pbs.twimg.com/media/HBVTypha0AAz9b0.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/r85y6LRrp5",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 132,
+                          "y": 1246,
+                          "h": 332,
+                          "w": 332
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 79,
+                          "y": 747,
+                          "h": 199,
+                          "w": 199
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 44,
+                          "y": 423,
+                          "h": 112,
+                          "w": 112
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 132,
+                          "y": 1246,
+                          "h": 332,
+                          "w": 332
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 2000,
+                      "w": 1415,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "w": 849,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 680,
+                      "w": 481,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 2000,
+                    "width": 1415,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 1208,
+                        "w": 1415,
+                        "h": 792
+                      },
+                      {
+                        "x": 0,
+                        "y": 585,
+                        "w": 1415,
+                        "h": 1415
+                      },
+                      {
+                        "x": 0,
+                        "y": 387,
+                        "w": 1415,
+                        "h": 1613
+                      },
+                      {
+                        "x": 207,
+                        "y": 0,
+                        "w": 1000,
+                        "h": 2000
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1415,
+                        "h": 2000
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2023615737177493504"
+                    }
+                  }
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "display_url": "pic.x.com/r85y6LRrp5",
+                  "expanded_url": "https://x.com/LoveLive_staff/status/2023683850631884962/photo/1",
+                  "id_str": "2023615737177493504",
+                  "indices": [
+                    54,
+                    77
+                  ],
+                  "media_key": "3_2023615737177493504",
+                  "media_url_https": "https://pbs.twimg.com/media/HBVTypha0AAz9b0.jpg",
+                  "type": "photo",
+                  "url": "https://t.co/r85y6LRrp5",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "x": 132,
+                          "y": 1246,
+                          "h": 332,
+                          "w": 332
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "x": 79,
+                          "y": 747,
+                          "h": 199,
+                          "w": 199
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "x": 44,
+                          "y": 423,
+                          "h": 112,
+                          "w": 112
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "x": 132,
+                          "y": 1246,
+                          "h": 332,
+                          "w": 332
+                        }
+                      ]
+                    }
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 2000,
+                      "w": 1415,
+                      "resize": "fit"
+                    },
+                    "medium": {
+                      "h": 1200,
+                      "w": 849,
+                      "resize": "fit"
+                    },
+                    "small": {
+                      "h": 680,
+                      "w": 481,
+                      "resize": "fit"
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "w": 150,
+                      "resize": "crop"
+                    }
+                  },
+                  "original_info": {
+                    "height": 2000,
+                    "width": 1415,
+                    "focus_rects": [
+                      {
+                        "x": 0,
+                        "y": 1208,
+                        "w": 1415,
+                        "h": 792
+                      },
+                      {
+                        "x": 0,
+                        "y": 585,
+                        "w": 1415,
+                        "h": 1415
+                      },
+                      {
+                        "x": 0,
+                        "y": 387,
+                        "w": 1415,
+                        "h": 1613
+                      },
+                      {
+                        "x": 207,
+                        "y": 0,
+                        "w": 1000,
+                        "h": 2000
+                      },
+                      {
+                        "x": 0,
+                        "y": 0,
+                        "w": 1415,
+                        "h": 2000
+                      }
+                    ]
+                  },
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2023615737177493504"
+                    }
+                  }
+                }
+              ]
+            },
+            "favorite_count": 28941,
+            "favorited": false,
+            "full_text": "【🍨大切なお知らせ🍨】\n\nいつも応援してくださるスプーンの皆様へ\n\n#lovelive #AiScReam https://t.co/r85y6LRrp5",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 4067,
+            "reply_count": 397,
+            "retweet_count": 11919,
+            "retweeted": false,
+            "user_id_str": "347849994",
+            "id_str": "2023683850631884962"
+          }
+        }
+      }
+    },
+    "grok_annotations": {}
+  },
+  "created_at": "2026-02-17T09:00:45Z"
+}
