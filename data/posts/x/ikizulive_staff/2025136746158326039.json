@@ -1,0 +1,562 @@
+{
+  "id": "2025136746158326039",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "indices": [
+                      44,
+                      67
+                    ],
+                    "url": "https://t.co/uAo8WcIDpK"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/mfWPigBwKr"
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 66287,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1135,
+            "media_count": 807,
+            "normal_followers_count": 66287,
+            "notifications": false,
+            "pinned_tweet_ids_str": [
+              "2023001447827452286"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 988,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "privacy": {
+            "protected": false
+          },
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "profile_description_language": "ja",
+          "profile_image_shape": "Circle",
+          "relationship_perspectives": {
+            "blocked_by": false,
+            "blocking": false,
+            "followed_by": false,
+            "following": true,
+            "muting": false
+          },
+          "rest_id": "1911282293341356032",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2025136746158326039"
+      ],
+      "editable_until_msecs": "1771668800162",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "grok_analysis_button": true,
+    "grok_annotations": {},
+    "is_translatable": true,
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "conversation_id_str": "2025136746158326039",
+      "created_at": "Sat Feb 21 09:13:20 +0000 2026",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "347849994",
+            "indices": [
+              3,
+              18
+            ],
+            "name": "ラブライブ！シリーズ公式",
+            "screen_name": "LoveLive_staff"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @LoveLive_staff: 🍓15th Anniversary ラブライブ！フェス🍓\n\n＼開催概要決定／\n\nシリーズ合同の超豪華ライブ✨\n🍓日程：2026年11月14日(土)15日(日)\n🍓会場：バンテリンドーム ナゴヤ\n🍓出演：公式サイトにてご確認下さい\n\nhtt…",
+      "id_str": "2025136746158326039",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8938,
+      "retweeted": false,
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1027440922672259072/sHA_z7wD_normal.jpg"
+                },
+                "core": {
+                  "created_at": "Wed Aug 03 13:26:11 +0000 2011",
+                  "name": "ラブライブ！シリーズ公式",
+                  "screen_name": "LoveLive_staff"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "follow_request_sent": false,
+                "has_graduated_access": true,
+                "id": "VXNlcjozNDc4NDk5OTQ=",
+                "is_blue_verified": true,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "オールメディア展開するスクールアイドルプロジェクト、ラブライブ！シリーズの公式アカウントです。  ■YouTube https://t.co/B0eGaNZHmf ■TikTok https://t.co/y7F4WUabMb",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "youtube.com/c/lovelive_ser…",
+                          "expanded_url": "https://www.youtube.com/c/lovelive_series",
+                          "indices": [
+                            58,
+                            81
+                          ],
+                          "url": "https://t.co/B0eGaNZHmf"
+                        },
+                        {
+                          "display_url": "onl.sc/C8PtrHv",
+                          "expanded_url": "http://onl.sc/C8PtrHv",
+                          "indices": [
+                            90,
+                            113
+                          ],
+                          "url": "https://t.co/y7F4WUabMb"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "lovelive-anime.jp",
+                          "expanded_url": "http://www.lovelive-anime.jp/",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/KK4vP13OlW"
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 533,
+                  "follow_request_sent": false,
+                  "followers_count": 1074006,
+                  "friends_count": 18,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 13789,
+                  "media_count": 36145,
+                  "normal_followers_count": 1074006,
+                  "notifications": false,
+                  "pinned_tweet_ids_str": [
+                    "2025136060045676657"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/347849994/1727924414",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 56018,
+                  "translator_type": "none",
+                  "url": "https://t.co/KK4vP13OlW",
+                  "want_retweets": true,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": ""
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "parody_commentary_fan_label": "None",
+                "privacy": {
+                  "protected": false
+                },
+                "profile_bio": {
+                  "description": "オールメディア展開するスクールアイドルプロジェクト、ラブライブ！シリーズの公式アカウントです。  ■YouTube https://t.co/B0eGaNZHmf ■TikTok https://t.co/y7F4WUabMb"
+                },
+                "profile_description_language": "ja",
+                "profile_image_shape": "Square",
+                "relationship_perspectives": {
+                  "blocked_by": false,
+                  "blocking": false,
+                  "followed_by": false,
+                  "following": true,
+                  "muting": false
+                },
+                "rest_id": "347849994",
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "verification": {
+                  "verified": false,
+                  "verified_type": "Business"
+                }
+              }
+            }
+          },
+          "edit_control": {
+            "edit_tweet_ids": [
+              "2025136060045676657"
+            ],
+            "editable_until_msecs": "1771668636000",
+            "edits_remaining": "5",
+            "is_edit_eligible": false
+          },
+          "grok_analysis_button": true,
+          "is_translatable": true,
+          "legacy": {
+            "bookmark_count": 1492,
+            "bookmarked": false,
+            "conversation_id_str": "2025136060045676657",
+            "created_at": "Sat Feb 21 09:10:36 +0000 2026",
+            "display_text_range": [
+              0,
+              185
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    162,
+                    171
+                  ],
+                  "text": "lovelive"
+                },
+                {
+                  "indices": [
+                    172,
+                    185
+                  ],
+                  "text": "lovelive15th"
+                }
+              ],
+              "media": [
+                {
+                  "additional_media_info": {
+                    "call_to_actions": {
+                      "visit_site": {
+                        "url": "https://www.lovelive-anime.jp/special/live/live_detail.php?p=15th_lovelivefest"
+                      }
+                    },
+                    "description": "2026年11月14日（土）、15日（日）バンテリンドーム ナゴヤにて開催！シリーズ合同の超豪華ライブ！",
+                    "embeddable": true,
+                    "monetizable": false,
+                    "title": "LoveLive! Series 15th Anniversary ラブライブ！フェス開催"
+                  },
+                  "allow_download_status": {
+                    "allow_download": false
+                  },
+                  "display_url": "pic.x.com/rPfPKbxOHB",
+                  "expanded_url": "https://x.com/LoveLive_staff/status/2025136060045676657/video/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "id_str": "2024744953856069632",
+                  "indices": [
+                    186,
+                    209
+                  ],
+                  "media_key": "13_2024744953856069632",
+                  "media_results": {
+                    "result": {
+                      "media_key": "13_2024744953856069632"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HBq6Pbwa0AAyVa2.jpg",
+                  "original_info": {
+                    "focus_rects": [],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/rPfPKbxOHB",
+                  "video_info": {
+                    "aspect_ratio": [
+                      16,
+                      9
+                    ],
+                    "duration_millis": 109476,
+                    "variants": [
+                      {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2024744953856069632/pl/sq6Hch2Dymxplqni.m3u8?tag=21"
+                      },
+                      {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2024744953856069632/vid/avc1/480x270/x9qz3RBQu4z6_Xvc.mp4?tag=21"
+                      },
+                      {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2024744953856069632/vid/avc1/640x360/BRnP8gLjHpFWHzfO.mp4?tag=21"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2024744953856069632/vid/avc1/1280x720/esK7QUgOMDXdwHTj.mp4?tag=21"
+                      },
+                      {
+                        "bitrate": 10368000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2024744953856069632/vid/avc1/1920x1080/xPewfyY3OH9pHULg.mp4?tag=21"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [
+                {
+                  "display_url": "lovelive-anime.jp/special/live/l…",
+                  "expanded_url": "https://www.lovelive-anime.jp/special/live/live_detail.php?p=15th_lovelivefest",
+                  "indices": [
+                    116,
+                    139
+                  ],
+                  "url": "https://t.co/HlUg1lpake"
+                }
+              ],
+              "user_mentions": []
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "additional_media_info": {
+                    "call_to_actions": {
+                      "visit_site": {
+                        "url": "https://www.lovelive-anime.jp/special/live/live_detail.php?p=15th_lovelivefest"
+                      }
+                    },
+                    "description": "2026年11月14日（土）、15日（日）バンテリンドーム ナゴヤにて開催！シリーズ合同の超豪華ライブ！",
+                    "embeddable": true,
+                    "monetizable": false,
+                    "title": "LoveLive! Series 15th Anniversary ラブライブ！フェス開催"
+                  },
+                  "allow_download_status": {
+                    "allow_download": false
+                  },
+                  "display_url": "pic.x.com/rPfPKbxOHB",
+                  "expanded_url": "https://x.com/LoveLive_staff/status/2025136060045676657/video/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "id_str": "2024744953856069632",
+                  "indices": [
+                    186,
+                    209
+                  ],
+                  "media_key": "13_2024744953856069632",
+                  "media_results": {
+                    "result": {
+                      "media_key": "13_2024744953856069632"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HBq6Pbwa0AAyVa2.jpg",
+                  "original_info": {
+                    "focus_rects": [],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "video",
+                  "url": "https://t.co/rPfPKbxOHB",
+                  "video_info": {
+                    "aspect_ratio": [
+                      16,
+                      9
+                    ],
+                    "duration_millis": 109476,
+                    "variants": [
+                      {
+                        "content_type": "application/x-mpegURL",
+                        "url": "https://video.twimg.com/amplify_video/2024744953856069632/pl/sq6Hch2Dymxplqni.m3u8?tag=21"
+                      },
+                      {
+                        "bitrate": 256000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2024744953856069632/vid/avc1/480x270/x9qz3RBQu4z6_Xvc.mp4?tag=21"
+                      },
+                      {
+                        "bitrate": 832000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2024744953856069632/vid/avc1/640x360/BRnP8gLjHpFWHzfO.mp4?tag=21"
+                      },
+                      {
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2024744953856069632/vid/avc1/1280x720/esK7QUgOMDXdwHTj.mp4?tag=21"
+                      },
+                      {
+                        "bitrate": 10368000,
+                        "content_type": "video/mp4",
+                        "url": "https://video.twimg.com/amplify_video/2024744953856069632/vid/avc1/1920x1080/xPewfyY3OH9pHULg.mp4?tag=21"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "favorite_count": 13422,
+            "favorited": false,
+            "full_text": "🍓15th Anniversary ラブライブ！フェス🍓\n\n＼開催概要決定／\n\nシリーズ合同の超豪華ライブ✨\n🍓日程：2026年11月14日(土)15日(日)\n🍓会場：バンテリンドーム ナゴヤ\n🍓出演：公式サイトにてご確認下さい\n\nhttps://t.co/HlUg1lpake\n\nチケット情報などは後日お知らせします🍰\n\n#lovelive #lovelive15th https://t.co/rPfPKbxOHB",
+            "id_str": "2025136060045676657",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 3156,
+            "reply_count": 140,
+            "retweet_count": 8938,
+            "retweeted": false,
+            "user_id_str": "347849994"
+          },
+          "rest_id": "2025136060045676657",
+          "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+          "unmention_data": {},
+          "views": {
+            "count": "729551",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "user_id_str": "1911282293341356032"
+    },
+    "rest_id": "2025136746158326039",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmention_data": {},
+    "views": {
+      "count": "2",
+      "state": "EnabledWithCount"
+    }
+  },
+  "created_at": "2026-02-21T09:13:20Z"
+}
