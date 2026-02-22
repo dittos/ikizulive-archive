@@ -1,0 +1,547 @@
+{
+  "id": "2025436038269993457",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "indices": [
+                      44,
+                      67
+                    ],
+                    "url": "https://t.co/uAo8WcIDpK"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/mfWPigBwKr"
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 66315,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1137,
+            "media_count": 809,
+            "normal_followers_count": 66315,
+            "notifications": false,
+            "pinned_tweet_ids_str": [
+              "2023001447827452286"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 994,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "privacy": {
+            "protected": false
+          },
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "profile_description_language": "ja",
+          "profile_image_shape": "Circle",
+          "relationship_perspectives": {
+            "blocked_by": false,
+            "blocking": false,
+            "followed_by": false,
+            "following": true,
+            "muting": false
+          },
+          "rest_id": "1911282293341356032",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2025436038269993457"
+      ],
+      "editable_until_msecs": "1771740156962",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "grok_analysis_button": true,
+    "grok_annotations": {},
+    "is_translatable": true,
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "conversation_id_str": "2025436038269993457",
+      "created_at": "Sun Feb 22 05:02:36 +0000 2026",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              19,
+              30
+            ],
+            "text": "ラブカ感謝祭Day2"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1844295102233182209",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "【ラブカ公式】ラブライブ！シリーズ　オフィシャルカードゲーム",
+            "screen_name": "LL_cardgame"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @LL_cardgame: 💖💐#ラブカ感謝祭Day2💐💖\n\n「スペシャルステージ 4ターン目\n　いきづらい部！ラブカ、始まりたい？」\n\nスタートしました！\n\n🧡出演💙\nいきづらい部！\n・高橋ポルカ役　綾咲穂音\n・麻布麻衣役　遠藤璃菜\n・五桐 玲役　宮野 芹\n・駒形花火役…",
+      "id_str": "2025436038269993457",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71,
+      "retweeted": false,
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/2007973577954635777/mCMKCGK3_normal.png"
+                },
+                "core": {
+                  "created_at": "Thu Oct 10 08:42:29 +0000 2024",
+                  "name": "【ラブカ公式】ラブライブ！シリーズ　オフィシャルカードゲーム",
+                  "screen_name": "LL_cardgame"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "follow_request_sent": false,
+                "has_graduated_access": true,
+                "id": "VXNlcjoxODQ0Mjk1MTAyMjMzMTgyMjA5",
+                "is_blue_verified": true,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "✨みんなでつくるカードゲーム✨『ラブライブ！シリーズ　オフィシャルカードゲーム』の公式アカウント\n商品情報やイベント情報など今後の展開について発信してまいります♪\n ※商品やゲームのお問合せについては、こちらで承っておりません。\n#ラブカ #ラブライブカードゲーム",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "llofficial-cardgame.com",
+                          "expanded_url": "https://llofficial-cardgame.com",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/oB6Ydy059k"
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 0,
+                  "follow_request_sent": false,
+                  "followers_count": 50283,
+                  "friends_count": 8,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 322,
+                  "media_count": 2158,
+                  "normal_followers_count": 50283,
+                  "notifications": false,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844295102233182209/1771468969",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 2932,
+                  "translator_type": "none",
+                  "url": "https://t.co/oB6Ydy059k",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": ""
+                },
+                "media_permissions": {
+                  "can_media_tag": false
+                },
+                "parody_commentary_fan_label": "None",
+                "privacy": {
+                  "protected": false
+                },
+                "profile_bio": {
+                  "description": "✨みんなでつくるカードゲーム✨『ラブライブ！シリーズ　オフィシャルカードゲーム』の公式アカウント\n商品情報やイベント情報など今後の展開について発信してまいります♪\n ※商品やゲームのお問合せについては、こちらで承っておりません。\n#ラブカ #ラブライブカードゲーム"
+                },
+                "profile_description_language": "ja",
+                "profile_image_shape": "Circle",
+                "relationship_perspectives": {
+                  "blocked_by": false,
+                  "blocking": false,
+                  "followed_by": false,
+                  "following": false,
+                  "muting": false
+                },
+                "rest_id": "1844295102233182209",
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "edit_control": {
+            "edit_tweet_ids": [
+              "2025435882988437557"
+            ],
+            "editable_until_msecs": "1771740119000",
+            "edits_remaining": "5",
+            "is_edit_eligible": false
+          },
+          "grok_analysis_button": true,
+          "is_translatable": true,
+          "legacy": {
+            "bookmark_count": 2,
+            "bookmarked": false,
+            "conversation_id_str": "2025435882988437557",
+            "created_at": "Sun Feb 22 05:01:59 +0000 2026",
+            "display_text_range": [
+              0,
+              144
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    2,
+                    13
+                  ],
+                  "text": "ラブカ感謝祭Day2"
+                },
+                {
+                  "indices": [
+                    130,
+                    139
+                  ],
+                  "text": "lovelive"
+                },
+                {
+                  "indices": [
+                    140,
+                    144
+                  ],
+                  "text": "ラブカ"
+                }
+              ],
+              "media": [
+                {
+                  "allow_download_status": {
+                    "allow_download": true
+                  },
+                  "display_url": "pic.x.com/AxPyK6ZKAA",
+                  "expanded_url": "https://x.com/LL_cardgame/status/2025435882988437557/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "id_str": "2025435862495027200",
+                  "indices": [
+                    145,
+                    168
+                  ],
+                  "media_key": "3_2025435862495027200",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2025435862495027200"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HBvLL4taYAAwHii.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 1075,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 5
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1080,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 947,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 540,
+                        "x": 162,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/AxPyK6ZKAA"
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "allow_download_status": {
+                    "allow_download": true
+                  },
+                  "display_url": "pic.x.com/AxPyK6ZKAA",
+                  "expanded_url": "https://x.com/LL_cardgame/status/2025435882988437557/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "id_str": "2025435862495027200",
+                  "indices": [
+                    145,
+                    168
+                  ],
+                  "media_key": "3_2025435862495027200",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2025435862495027200"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HBvLL4taYAAwHii.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 1075,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 5
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1080,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 947,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 540,
+                        "x": 162,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/AxPyK6ZKAA"
+                }
+              ]
+            },
+            "favorite_count": 161,
+            "favorited": false,
+            "full_text": "💖💐#ラブカ感謝祭Day2💐💖\n\n「スペシャルステージ 4ターン目\n　いきづらい部！ラブカ、始まりたい？」\n\nスタートしました！\n\n🧡出演💙\nいきづらい部！\n・高橋ポルカ役　綾咲穂音\n・麻布麻衣役　遠藤璃菜\n・五桐 玲役　宮野 芹\n・駒形花火役 藤野こころ\n\n#lovelive #ラブカ https://t.co/AxPyK6ZKAA",
+            "id_str": "2025435882988437557",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 2,
+            "reply_count": 5,
+            "retweet_count": 71,
+            "retweeted": false,
+            "user_id_str": "1844295102233182209"
+          },
+          "rest_id": "2025435882988437557",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "unmention_data": {},
+          "views": {
+            "count": "9548",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "user_id_str": "1911282293341356032"
+    },
+    "rest_id": "2025436038269993457",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmention_data": {},
+    "views": {
+      "count": "1",
+      "state": "EnabledWithCount"
+    }
+  },
+  "created_at": "2026-02-22T05:02:36Z"
+}
