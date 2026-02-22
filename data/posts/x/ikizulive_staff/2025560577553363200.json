@@ -1,0 +1,620 @@
+{
+  "id": "2025560577553363200",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "indices": [
+                      44,
+                      67
+                    ],
+                    "url": "https://t.co/uAo8WcIDpK"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/mfWPigBwKr"
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 66392,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1138,
+            "media_count": 818,
+            "normal_followers_count": 66392,
+            "notifications": false,
+            "pinned_tweet_ids_str": [
+              "2023001447827452286"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 1006,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "privacy": {
+            "protected": false
+          },
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "profile_description_language": "ja",
+          "profile_image_shape": "Circle",
+          "relationship_perspectives": {
+            "blocked_by": false,
+            "blocking": false,
+            "followed_by": false,
+            "following": true,
+            "muting": false
+          },
+          "rest_id": "1911282293341356032",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2025560577553363200"
+      ],
+      "editable_until_msecs": "1771769849441",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "grok_analysis_button": true,
+    "grok_annotations": {},
+    "is_translatable": true,
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "conversation_id_str": "2025560577553363200",
+      "created_at": "Sun Feb 22 13:17:29 +0000 2026",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              67,
+              74
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "t.co/t55dKL",
+            "indices": [
+              120,
+              139
+            ],
+            "url": "https://t.co/t55dKL"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1911282293341356032",
+            "indices": [
+              3,
+              19
+            ],
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @ikizulive_staff: 💙🧡💙🧡💙🧡💙\n  アニメーションMV\n「Dou-Da? DOING!」\n💙🧡💙🧡💙🧡💙\n\n#いきづらい部！初となる\nアニメーションMV「Dou-Da? DOING!」公開中✨\nぜひご覧ください♪\nhttps://t.co/t55dKL…",
+      "id_str": "2025560577553363200",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 646,
+      "retweeted": false,
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+                },
+                "core": {
+                  "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+                  "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                  "screen_name": "ikizulive_staff"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "follow_request_sent": false,
+                "has_graduated_access": true,
+                "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+                "is_blue_verified": true,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+                  "entities": {
+                    "description": {
+                      "urls": [
+                        {
+                          "display_url": "youtube.com/@IKIZULIVE",
+                          "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                          "indices": [
+                            44,
+                            67
+                          ],
+                          "url": "https://t.co/uAo8WcIDpK"
+                        }
+                      ]
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "lovelive-anime.jp/lovehigh/",
+                          "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/mfWPigBwKr"
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 0,
+                  "follow_request_sent": false,
+                  "followers_count": 66392,
+                  "friends_count": 12,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 1138,
+                  "media_count": 818,
+                  "normal_followers_count": 66392,
+                  "notifications": false,
+                  "pinned_tweet_ids_str": [
+                    "2023001447827452286"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 1006,
+                  "translator_type": "none",
+                  "url": "https://t.co/mfWPigBwKr",
+                  "want_retweets": true,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": "インターネット"
+                },
+                "media_permissions": {
+                  "can_media_tag": false
+                },
+                "parody_commentary_fan_label": "None",
+                "privacy": {
+                  "protected": false
+                },
+                "profile_bio": {
+                  "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+                },
+                "profile_description_language": "ja",
+                "profile_image_shape": "Circle",
+                "relationship_perspectives": {
+                  "blocked_by": false,
+                  "blocking": false,
+                  "followed_by": false,
+                  "following": true,
+                  "muting": false
+                },
+                "rest_id": "1911282293341356032",
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "edit_control": {
+            "edit_tweet_ids": [
+              "2024104942395707827"
+            ],
+            "editable_until_msecs": "1771422798000",
+            "edits_remaining": "5",
+            "is_edit_eligible": true
+          },
+          "grok_analysis_button": true,
+          "is_translatable": true,
+          "legacy": {
+            "bookmark_count": 76,
+            "bookmarked": false,
+            "conversation_id_str": "2024104942395707827",
+            "created_at": "Wed Feb 18 12:53:18 +0000 2026",
+            "display_text_range": [
+              0,
+              181
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    46,
+                    53
+                  ],
+                  "text": "いきづらい部"
+                }
+              ],
+              "media": [
+                {
+                  "allow_download_status": {
+                    "allow_download": true
+                  },
+                  "display_url": "pic.x.com/uMwXizMxcx",
+                  "expanded_url": "https://x.com/ikizulive_staff/status/2024104942395707827/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "id_str": "2024104858706714624",
+                  "indices": [
+                    182,
+                    205
+                  ],
+                  "media_key": "3_2024104858706714624",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2024104858706714624"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HBcQpRNbIAACo9J.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 1075,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1080,
+                        "x": 468,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 947,
+                        "x": 535,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 540,
+                        "x": 738,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/uMwXizMxcx"
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [
+                {
+                  "display_url": "youtu.be/1rh28c5sVZ4",
+                  "expanded_url": "https://youtu.be/1rh28c5sVZ4",
+                  "indices": [
+                    99,
+                    122
+                  ],
+                  "url": "https://t.co/t55dKL6rEF"
+                }
+              ],
+              "user_mentions": []
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "allow_download_status": {
+                    "allow_download": true
+                  },
+                  "display_url": "pic.x.com/uMwXizMxcx",
+                  "expanded_url": "https://x.com/ikizulive_staff/status/2024104942395707827/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "id_str": "2024104858706714624",
+                  "indices": [
+                    182,
+                    205
+                  ],
+                  "media_key": "3_2024104858706714624",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2024104858706714624"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HBcQpRNbIAACo9J.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 1075,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1080,
+                        "x": 468,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 947,
+                        "x": 535,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 540,
+                        "x": 738,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/uMwXizMxcx"
+                }
+              ]
+            },
+            "favorite_count": 2798,
+            "favorited": false,
+            "full_text": "💙🧡💙🧡💙🧡💙\n  アニメーションMV\n「Dou-Da? DOING!」\n💙🧡💙🧡💙🧡💙\n\n#いきづらい部！初となる\nアニメーションMV「Dou-Da? DOING!」公開中✨\nぜひご覧ください♪\nhttps://t.co/t55dKL6rEF\n\nさらに・・・\n＼2nd LIVE 開催決定！／\n📅日程：9/19(土)・20(日)\n🎪会場：京王アリーナTOKYO https://t.co/uMwXizMxcx",
+            "id_str": "2024104942395707827",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 19,
+            "reply_count": 3,
+            "retweet_count": 646,
+            "retweeted": false,
+            "user_id_str": "1911282293341356032"
+          },
+          "note_tweet": {
+            "is_expandable": true,
+            "note_tweet_results": {
+              "result": {
+                "entity_set": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        46,
+                        53
+                      ],
+                      "text": "いきづらい部"
+                    },
+                    {
+                      "indices": [
+                        272,
+                        282
+                      ],
+                      "text": "イキヅLIVE配信"
+                    }
+                  ],
+                  "symbols": [],
+                  "urls": [
+                    {
+                      "display_url": "youtu.be/1rh28c5sVZ4",
+                      "expanded_url": "https://youtu.be/1rh28c5sVZ4",
+                      "indices": [
+                        99,
+                        122
+                      ],
+                      "url": "https://t.co/1y8uZn0fwM"
+                    },
+                    {
+                      "display_url": "lovelive-anime.jp/lovehigh/live/…",
+                      "expanded_url": "https://www.lovelive-anime.jp/lovehigh/live/live_detail.php?_id=2ndLIVE",
+                      "indices": [
+                        247,
+                        270
+                      ],
+                      "url": "https://t.co/RGwc4f9Cvk"
+                    }
+                  ],
+                  "user_mentions": []
+                },
+                "id": "Tm90ZVR3ZWV0OjIwMjQxMDQ5NDIyNjE0MzIzMjA=",
+                "media": {
+                  "inline_media": []
+                },
+                "richtext": {
+                  "richtext_tags": []
+                },
+                "text": "💙🧡💙🧡💙🧡💙\n  アニメーションMV\n「Dou-Da? DOING!」\n💙🧡💙🧡💙🧡💙\n\n#いきづらい部！初となる\nアニメーションMV「Dou-Da? DOING!」公開中✨\nぜひご覧ください♪\nhttps://t.co/1y8uZn0fwM\n\nさらに・・・\n＼2nd LIVE 開催決定！／\n📅日程：9/19(土)・20(日)\n🎪会場：京王アリーナTOKYO\n\n現在チケット最速先行抽選受付中⏰\nシリアル不要でどなたでもお申込みいただけます！\nご参加お待ちしております💓\n\n🎫詳細はこちら\nhttps://t.co/RGwc4f9Cvk\n\n#イキヅLIVE配信"
+              }
+            }
+          },
+          "rest_id": "2024104942395707827",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "unmention_data": {},
+          "views": {
+            "count": "78344",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "user_id_str": "1911282293341356032"
+    },
+    "rest_id": "2025560577553363200",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmention_data": {},
+    "views": {
+      "state": "Enabled"
+    }
+  },
+  "created_at": "2026-02-22T13:17:29Z"
+}
