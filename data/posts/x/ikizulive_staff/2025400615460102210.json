@@ -1,0 +1,787 @@
+{
+  "id": "2025400615460102210",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "indices": [
+                      44,
+                      67
+                    ],
+                    "url": "https://t.co/uAo8WcIDpK"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/mfWPigBwKr"
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 66311,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1136,
+            "media_count": 809,
+            "normal_followers_count": 66311,
+            "notifications": false,
+            "pinned_tweet_ids_str": [
+              "2023001447827452286"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 992,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "privacy": {
+            "protected": false
+          },
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "profile_description_language": "ja",
+          "profile_image_shape": "Circle",
+          "relationship_perspectives": {
+            "blocked_by": false,
+            "blocking": false,
+            "followed_by": false,
+            "following": true,
+            "muting": false
+          },
+          "rest_id": "1911282293341356032",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2025400615460102210"
+      ],
+      "editable_until_msecs": "1771731711506",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "grok_analysis_button": true,
+    "grok_annotations": {},
+    "is_translatable": true,
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "conversation_id_str": "2025400615460102210",
+      "created_at": "Sun Feb 22 02:41:51 +0000 2026",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              19,
+              30
+            ],
+            "text": "ラブカ感謝祭Day2"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "1844295102233182209",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "【ラブカ公式】ラブライブ！シリーズ　オフィシャルカードゲーム",
+            "screen_name": "LL_cardgame"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @LL_cardgame: ／\n#ラブカ感謝祭Day2 注目トピック1️⃣\n💖ラブカ感謝祭スペシャルステージ💖\n＼\n\n📍アキバ・スクエア\n\n・14:00～　いきづらい部！ラブカ、始まりたい？\n・16:00～　ラブカ世界大会LoveLive! Masters Tournam…",
+      "id_str": "2025400615460102210",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 166,
+      "retweeted": false,
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/2007973577954635777/mCMKCGK3_normal.png"
+                },
+                "core": {
+                  "created_at": "Thu Oct 10 08:42:29 +0000 2024",
+                  "name": "【ラブカ公式】ラブライブ！シリーズ　オフィシャルカードゲーム",
+                  "screen_name": "LL_cardgame"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "follow_request_sent": false,
+                "has_graduated_access": true,
+                "id": "VXNlcjoxODQ0Mjk1MTAyMjMzMTgyMjA5",
+                "is_blue_verified": true,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "✨みんなでつくるカードゲーム✨『ラブライブ！シリーズ　オフィシャルカードゲーム』の公式アカウント\n商品情報やイベント情報など今後の展開について発信してまいります♪\n ※商品やゲームのお問合せについては、こちらで承っておりません。\n#ラブカ #ラブライブカードゲーム",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "llofficial-cardgame.com",
+                          "expanded_url": "https://llofficial-cardgame.com",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/oB6Ydy059k"
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 0,
+                  "follow_request_sent": false,
+                  "followers_count": 50270,
+                  "friends_count": 8,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 321,
+                  "media_count": 2133,
+                  "normal_followers_count": 50270,
+                  "notifications": false,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844295102233182209/1771468969",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 2894,
+                  "translator_type": "none",
+                  "url": "https://t.co/oB6Ydy059k",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": ""
+                },
+                "media_permissions": {
+                  "can_media_tag": false
+                },
+                "parody_commentary_fan_label": "None",
+                "privacy": {
+                  "protected": false
+                },
+                "profile_bio": {
+                  "description": "✨みんなでつくるカードゲーム✨『ラブライブ！シリーズ　オフィシャルカードゲーム』の公式アカウント\n商品情報やイベント情報など今後の展開について発信してまいります♪\n ※商品やゲームのお問合せについては、こちらで承っておりません。\n#ラブカ #ラブライブカードゲーム"
+                },
+                "profile_description_language": "ja",
+                "profile_image_shape": "Circle",
+                "relationship_perspectives": {
+                  "blocked_by": false,
+                  "blocking": false,
+                  "followed_by": false,
+                  "following": false,
+                  "muting": false
+                },
+                "rest_id": "1844295102233182209",
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "edit_control": {
+            "edit_tweet_ids": [
+              "2025159815241097461"
+            ],
+            "editable_until_msecs": "1771674300000",
+            "edits_remaining": "5",
+            "is_edit_eligible": true
+          },
+          "grok_analysis_button": true,
+          "is_translatable": true,
+          "legacy": {
+            "bookmark_count": 30,
+            "bookmarked": false,
+            "conversation_id_str": "2025159815241097461",
+            "created_at": "Sat Feb 21 10:45:00 +0000 2026",
+            "display_text_range": [
+              0,
+              171
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    2,
+                    13
+                  ],
+                  "text": "ラブカ感謝祭Day2"
+                },
+                {
+                  "indices": [
+                    162,
+                    171
+                  ],
+                  "text": "lovelive"
+                }
+              ],
+              "media": [
+                {
+                  "allow_download_status": {
+                    "allow_download": true
+                  },
+                  "display_url": "pic.x.com/UiVkmX0ZrT",
+                  "expanded_url": "https://x.com/LL_cardgame/status/2025159815241097461/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "id_str": "2025141002592550912",
+                  "indices": [
+                    172,
+                    195
+                  ],
+                  "media_key": "3_2025141002592550912",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2025141002592550912"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HBq_Ax-bgAA33Mk.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 1075,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 5
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1080,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 947,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 540,
+                        "x": 162,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/UiVkmX0ZrT"
+                },
+                {
+                  "allow_download_status": {
+                    "allow_download": true
+                  },
+                  "display_url": "pic.x.com/UiVkmX0ZrT",
+                  "expanded_url": "https://x.com/LL_cardgame/status/2025159815241097461/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "h": 114,
+                          "w": 114,
+                          "x": 1546,
+                          "y": 97
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "h": 71,
+                          "w": 71,
+                          "x": 966,
+                          "y": 60
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "h": 114,
+                          "w": 114,
+                          "x": 1546,
+                          "y": 97
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "h": 40,
+                          "w": 40,
+                          "x": 547,
+                          "y": 34
+                        }
+                      ]
+                    }
+                  },
+                  "id_str": "2025141029020827648",
+                  "indices": [
+                    172,
+                    195
+                  ],
+                  "media_key": "3_2025141029020827648",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2025141029020827648"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HBq_CUbbAAAED38.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 1075,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1080,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 947,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 540,
+                        "x": 66,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/UiVkmX0ZrT"
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "allow_download_status": {
+                    "allow_download": true
+                  },
+                  "display_url": "pic.x.com/UiVkmX0ZrT",
+                  "expanded_url": "https://x.com/LL_cardgame/status/2025159815241097461/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "id_str": "2025141002592550912",
+                  "indices": [
+                    172,
+                    195
+                  ],
+                  "media_key": "3_2025141002592550912",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2025141002592550912"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HBq_Ax-bgAA33Mk.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 1075,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 5
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1080,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 947,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 540,
+                        "x": 162,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/UiVkmX0ZrT"
+                },
+                {
+                  "allow_download_status": {
+                    "allow_download": true
+                  },
+                  "display_url": "pic.x.com/UiVkmX0ZrT",
+                  "expanded_url": "https://x.com/LL_cardgame/status/2025159815241097461/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": [
+                        {
+                          "h": 114,
+                          "w": 114,
+                          "x": 1546,
+                          "y": 97
+                        }
+                      ]
+                    },
+                    "medium": {
+                      "faces": [
+                        {
+                          "h": 71,
+                          "w": 71,
+                          "x": 966,
+                          "y": 60
+                        }
+                      ]
+                    },
+                    "orig": {
+                      "faces": [
+                        {
+                          "h": 114,
+                          "w": 114,
+                          "x": 1546,
+                          "y": 97
+                        }
+                      ]
+                    },
+                    "small": {
+                      "faces": [
+                        {
+                          "h": 40,
+                          "w": 40,
+                          "x": 547,
+                          "y": 34
+                        }
+                      ]
+                    }
+                  },
+                  "id_str": "2025141029020827648",
+                  "indices": [
+                    172,
+                    195
+                  ],
+                  "media_key": "3_2025141029020827648",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2025141029020827648"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HBq_CUbbAAAED38.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 1075,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1080,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 947,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 540,
+                        "x": 66,
+                        "y": 0
+                      },
+                      {
+                        "h": 1080,
+                        "w": 1920,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1080,
+                    "width": 1920
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1080,
+                      "resize": "fit",
+                      "w": 1920
+                    },
+                    "medium": {
+                      "h": 675,
+                      "resize": "fit",
+                      "w": 1200
+                    },
+                    "small": {
+                      "h": 383,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/UiVkmX0ZrT"
+                }
+              ]
+            },
+            "favorite_count": 619,
+            "favorited": false,
+            "full_text": "／\n#ラブカ感謝祭Day2 注目トピック1️⃣\n💖ラブカ感謝祭スペシャルステージ💖\n＼\n\n📍アキバ・スクエア\n\n・14:00～　いきづらい部！ラブカ、始まりたい？\n・16:00～　ラブカ世界大会LoveLive! Masters Tournament決勝＆表彰式\n\n各ステージで新情報を解禁✨\n配信でもぜひご覧ください！\n\n#lovelive https://t.co/UiVkmX0ZrT",
+            "id_str": "2025159815241097461",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 3,
+            "reply_count": 2,
+            "retweet_count": 166,
+            "retweeted": false,
+            "user_id_str": "1844295102233182209"
+          },
+          "rest_id": "2025159815241097461",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "unmention_data": {},
+          "views": {
+            "count": "37660",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "user_id_str": "1911282293341356032"
+    },
+    "rest_id": "2025400615460102210",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmention_data": {},
+    "views": {
+      "state": "Enabled"
+    }
+  },
+  "created_at": "2026-02-22T02:41:51Z"
+}
