@@ -1,0 +1,160 @@
+{
+  "id": "2026211998216913221",
+  "username": "hanabistarmine",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921886890002685952/WYCChlsQ_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 05:11:49 +0000 2025",
+            "name": "駒形花火@いきづらい部！",
+            "screen_name": "hanabistarmine"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "id": "VXNlcjoxOTA2NTc1MTA1NzgzOTQzMTY5",
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=3",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/R8J40tZxQQ"
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 25848,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1272,
+            "media_count": 1,
+            "normal_followers_count": 25848,
+            "notifications": false,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906575105783943169/1747048518",
+            "profile_interstitial_type": "",
+            "statuses_count": 239,
+            "translator_type": "none",
+            "url": "https://t.co/R8J40tZxQQ",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "privacy": {
+            "protected": false
+          },
+          "profile_bio": {
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント"
+          },
+          "profile_description_language": "ja",
+          "profile_image_shape": "Circle",
+          "relationship_perspectives": {
+            "blocked_by": false,
+            "blocking": false,
+            "followed_by": false,
+            "following": false,
+            "muting": false
+          },
+          "rest_id": "1906575105783943169",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2026211998216913221"
+      ],
+      "editable_until_msecs": "1771925160000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "grok_analysis_button": true,
+    "grok_annotations": {
+      "is_image_editable_by_grok": false
+    },
+    "is_translatable": true,
+    "legacy": {
+      "bookmark_count": 3,
+      "bookmarked": false,
+      "conversation_id_str": "2026211998216913221",
+      "created_at": "Tue Feb 24 08:26:00 +0000 2026",
+      "display_text_range": [
+        0,
+        109
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              102,
+              109
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 242,
+      "favorited": false,
+      "full_text": "文化祭から1週間👘✨\nもう本当にそんなに時間がたっちゃったの？!　って思うくらいなんだかまだ余韻に浸ってるのと同時に🎆\nなんだかもうすごく遠い日の出来事みたいな気もする…ちょっぴり不思議なふわふわ気分💘\n#いきづらい部",
+      "id_str": "2026211998216913221",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 4,
+      "reply_count": 0,
+      "retweet_count": 57,
+      "retweeted": false,
+      "user_id_str": "1906575105783943169"
+    },
+    "rest_id": "2026211998216913221",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmention_data": {},
+    "views": {
+      "count": "3396",
+      "state": "EnabledWithCount"
+    }
+  },
+  "created_at": "2026-02-24T08:26:00Z"
+}
