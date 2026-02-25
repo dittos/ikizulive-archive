@@ -1,0 +1,160 @@
+{
+  "id": "2026593260387606861",
+  "username": "MiracleGoldSP",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 05:23:27 +0000 2025",
+            "name": "金澤奇跡@いきづらい部！",
+            "screen_name": "MiracleGoldSP"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "id": "VXNlcjoxOTA2NTc4MDI5MzQzOTE2MDMy",
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=4",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/E7067OvLU0"
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 23050,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1258,
+            "media_count": 0,
+            "normal_followers_count": 23050,
+            "notifications": false,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906578029343916032/1747048423",
+            "profile_interstitial_type": "",
+            "statuses_count": 192,
+            "translator_type": "none",
+            "url": "https://t.co/E7067OvLU0",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "privacy": {
+            "protected": false
+          },
+          "profile_bio": {
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント"
+          },
+          "profile_description_language": "ja",
+          "profile_image_shape": "Circle",
+          "relationship_perspectives": {
+            "blocked_by": false,
+            "blocking": false,
+            "followed_by": false,
+            "following": false,
+            "muting": false
+          },
+          "rest_id": "1906578029343916032",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2026593260387606861"
+      ],
+      "editable_until_msecs": "1772016060000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "grok_analysis_button": true,
+    "grok_annotations": {
+      "is_image_editable_by_grok": false
+    },
+    "is_translatable": true,
+    "legacy": {
+      "bookmark_count": 3,
+      "bookmarked": false,
+      "conversation_id_str": "2026593260387606861",
+      "created_at": "Wed Feb 25 09:41:00 +0000 2026",
+      "display_text_range": [
+        0,
+        141
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              134,
+              141
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 192,
+      "favorited": false,
+      "full_text": "作業に夢中になっちゃうと口数減る時だってあるしさー🍰\n作ったスイーツをお互い食べ合って感想とか、絶対本当のこと言っちゃうしさー🍪\n材料費は削りたくないし、作業量だって手抜きはイヤだ！！！\nしかも王道スイーツはそんなに好きじゃない、どころか、実は甘いものはそんなに…🦖\n#いきづらい部",
+      "id_str": "2026593260387606861",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 5,
+      "reply_count": 0,
+      "retweet_count": 58,
+      "retweeted": false,
+      "user_id_str": "1906578029343916032"
+    },
+    "rest_id": "2026593260387606861",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmention_data": {},
+    "views": {
+      "count": "3139",
+      "state": "EnabledWithCount"
+    }
+  },
+  "created_at": "2026-02-25T09:41:00Z"
+}

@@ -1,0 +1,160 @@
+{
+  "id": "2026590995740242360",
+  "username": "MiracleGoldSP",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 05:23:27 +0000 2025",
+            "name": "金澤奇跡@いきづらい部！",
+            "screen_name": "MiracleGoldSP"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "id": "VXNlcjoxOTA2NTc4MDI5MzQzOTE2MDMy",
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=4",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/E7067OvLU0"
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 23050,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1258,
+            "media_count": 0,
+            "normal_followers_count": 23050,
+            "notifications": false,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906578029343916032/1747048423",
+            "profile_interstitial_type": "",
+            "statuses_count": 192,
+            "translator_type": "none",
+            "url": "https://t.co/E7067OvLU0",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "privacy": {
+            "protected": false
+          },
+          "profile_bio": {
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント"
+          },
+          "profile_description_language": "ja",
+          "profile_image_shape": "Circle",
+          "relationship_perspectives": {
+            "blocked_by": false,
+            "blocking": false,
+            "followed_by": false,
+            "following": false,
+            "muting": false
+          },
+          "rest_id": "1906578029343916032",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2026590995740242360"
+      ],
+      "editable_until_msecs": "1772015520000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "grok_analysis_button": true,
+    "grok_annotations": {
+      "is_image_editable_by_grok": false
+    },
+    "is_translatable": true,
+    "legacy": {
+      "bookmark_count": 1,
+      "bookmarked": false,
+      "conversation_id_str": "2026590995740242360",
+      "created_at": "Wed Feb 25 09:32:00 +0000 2026",
+      "display_text_range": [
+        0,
+        127
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              120,
+              127
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 223,
+      "favorited": false,
+      "full_text": "まぁそれは冗談なんだけどさー🍡🍵\n\nもうこうなったら乗り掛かった舟というかなんというか🚢🍰\n\nミィも完全にパティシエアイドルとして頑張っていくか～🍪\nスイーツとアイドルは正直相性良さそうだしね🍭\n\nこりゃあミィの一人勝ちもあるかもよ～🦖🍡\n#いきづらい部",
+      "id_str": "2026590995740242360",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 2,
+      "reply_count": 0,
+      "retweet_count": 47,
+      "retweeted": false,
+      "user_id_str": "1906578029343916032"
+    },
+    "rest_id": "2026590995740242360",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmention_data": {},
+    "views": {
+      "count": "3492",
+      "state": "EnabledWithCount"
+    }
+  },
+  "created_at": "2026-02-25T09:32:00Z"
+}
