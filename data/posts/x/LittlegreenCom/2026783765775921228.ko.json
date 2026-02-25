@@ -1,0 +1,45 @@
+{
+  "id": "2026783765775921228",
+  "translated_text": "여러분도 이제 슬슬 꽤… 해보고 싶어지지 않으셨나요?  \n집게와 쓰레기봉투만 있으면 바로 할 수 있으니 꼭!!  \n에헤헤🐛✨  \n\n드디어 도쿄까지 원정 갔던 문화제도 어느새 2주가 다 되어가요🌵🌳  \n일상이 꽤 돌아온 느낌이네요!!🌎  \n#살기힘든부",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n\n사람 이름 읽는 법:\n高橋ポルカ -> 타카하시 폴카\n麻布麻衣 -> 아자부 마이\n五桐 玲 -> 고토 아키라\n駒形花火 -> 코마가타 하나비\n金澤奇跡 -> 카나자와 미라클\n調布のりこ -> 쵸후 노리코\n春宮ゆくり -> 하루미야 유쿠리\n此花輝夜 -> 코노하나 오로라\n山田真緑 -> 야마다 미도리\n佐々木翔音 -> 사사키 시온\n",
+  "raw_data": {
+    "id": "chatcmpl-DDIlycp3glLEkWUwKJ9dOGh303MaY",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "여러분도 이제 슬슬 꽤… 해보고 싶어지지 않으셨나요?  \n집게와 쓰레기봉투만 있으면 바로 할 수 있으니 꼭!!  \n에헤헤🐛✨  \n\n드디어 도쿄까지 원정 갔던 문화제도 어느새 2주가 다 되어가요🌵🌳  \n일상이 꽤 돌아온 느낌이네요!!🌎  \n#살기힘든부",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": [],
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1772062798,
+    "model": "gpt-5.2-2025-12-11",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 99,
+      "prompt_tokens": 369,
+      "total_tokens": 468,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    }
+  }
+}
