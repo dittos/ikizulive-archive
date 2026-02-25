@@ -1,0 +1,160 @@
+{
+  "id": "2026574134369530081",
+  "username": "Noricco_U",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 05:20:02 +0000 2025",
+            "name": "調布のりこ@いきづらい部！",
+            "screen_name": "Noricco_U"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "id": "VXNlcjoxOTA2NTc3MTc3Mjc1MTU0NDMy",
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=5",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/4OB3Z2Z9EX"
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 25061,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1256,
+            "media_count": 0,
+            "normal_followers_count": 25061,
+            "notifications": false,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906577177275154432/1747048505",
+            "profile_interstitial_type": "",
+            "statuses_count": 229,
+            "translator_type": "none",
+            "url": "https://t.co/4OB3Z2Z9EX",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "privacy": {
+            "protected": false
+          },
+          "profile_bio": {
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント"
+          },
+          "profile_description_language": "ja",
+          "profile_image_shape": "Circle",
+          "relationship_perspectives": {
+            "blocked_by": false,
+            "blocking": false,
+            "followed_by": false,
+            "following": false,
+            "muting": false
+          },
+          "rest_id": "1906577177275154432",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2026574134369530081"
+      ],
+      "editable_until_msecs": "1772011500000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "grok_analysis_button": true,
+    "grok_annotations": {
+      "is_image_editable_by_grok": false
+    },
+    "is_translatable": true,
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "conversation_id_str": "2026574134369530081",
+      "created_at": "Wed Feb 25 08:25:00 +0000 2026",
+      "display_text_range": [
+        0,
+        78
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              71,
+              78
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 230,
+      "favorited": false,
+      "full_text": "こうして本当にいろんな人の力を借りて、ようやくなんとかここまで来れたいきづらい部だから🎤\n次はもっと自分たちの力でがんばらなきゃ！ですね💪✨\n#いきづらい部",
+      "id_str": "2026574134369530081",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49,
+      "retweeted": false,
+      "user_id_str": "1906577177275154432"
+    },
+    "rest_id": "2026574134369530081",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmention_data": {},
+    "views": {
+      "count": "3317",
+      "state": "EnabledWithCount"
+    }
+  },
+  "created_at": "2026-02-25T08:25:00Z"
+}
