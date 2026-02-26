@@ -1,0 +1,251 @@
+{
+  "id": "2026936774019485954",
+  "username": "My_Mai_Eld",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "card": {
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "description",
+            "value": {
+              "string_value": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK 公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "x.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "x.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "イキヅライブ！ LOVELIVE! BLUEBIRD (@ikizulive_staff) on X",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/5Kjaq5W1oh",
+              "type": "STRING"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary",
+        "url": "https://t.co/5Kjaq5W1oh",
+        "user_refs_results": []
+      },
+      "rest_id": "https://t.co/5Kjaq5W1oh"
+    },
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 07:54:14 +0000 2025",
+            "name": "麻布麻衣@いきづらい部！",
+            "screen_name": "My_Mai_Eld"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "id": "VXNlcjoxOTA2NjE1OTcyNDAxOTA5NzYw",
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=1",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/qAvuWYUDvf"
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 26820,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1292,
+            "media_count": 0,
+            "normal_followers_count": 26820,
+            "notifications": false,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906615972401909760/1747048417",
+            "profile_interstitial_type": "",
+            "statuses_count": 251,
+            "translator_type": "none",
+            "url": "https://t.co/qAvuWYUDvf",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "privacy": {
+            "protected": false
+          },
+          "profile_bio": {
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント"
+          },
+          "profile_description_language": "ja",
+          "profile_image_shape": "Circle",
+          "relationship_perspectives": {
+            "blocked_by": false,
+            "blocking": false,
+            "followed_by": false,
+            "following": false,
+            "muting": false
+          },
+          "rest_id": "1906615972401909760",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2026936774019485954"
+      ],
+      "editable_until_msecs": "1772097960000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "grok_analysis_button": true,
+    "grok_annotations": {
+      "is_image_editable_by_grok": false
+    },
+    "is_translatable": true,
+    "legacy": {
+      "bookmark_count": 28,
+      "bookmarked": false,
+      "conversation_id_str": "2026936774019485954",
+      "created_at": "Thu Feb 26 08:26:00 +0000 2026",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              133,
+              140
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 437,
+      "favorited": false,
+      "full_text": "じゃあみんな意見は一致っていうことでOK?\n文化祭もなんとか開催して、プチバズのクリスマスイベントから動画視聴数もじりじりアップ💻\nこの機を逃さないために、来週から私たちいきづらい部メンバーのＸは、より充実した活動のために「いきづらい部」のアカウントに移行します！\n#いきづらい部",
+      "id_str": "2026936774019485954",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 75,
+      "reply_count": 4,
+      "retweet_count": 274,
+      "retweeted": false,
+      "user_id_str": "1906615972401909760"
+    },
+    "note_tweet": {
+      "is_expandable": true,
+      "note_tweet_results": {
+        "result": {
+          "entity_set": {
+            "hashtags": [
+              {
+                "indices": [
+                  133,
+                  140
+                ],
+                "text": "いきづらい部"
+              }
+            ],
+            "symbols": [],
+            "urls": [
+              {
+                "display_url": "x.com/ikizulive_staff",
+                "expanded_url": "https://x.com/ikizulive_staff",
+                "indices": [
+                  142,
+                  165
+                ],
+                "url": "https://t.co/5Kjaq5W1oh"
+              }
+            ],
+            "user_mentions": []
+          },
+          "id": "Tm90ZVR3ZWV0OjIwMjY5MzY3NzM5MDE5NTUwNzM=",
+          "text": "じゃあみんな意見は一致っていうことでOK?\n文化祭もなんとか開催して、プチバズのクリスマスイベントから動画視聴数もじりじりアップ💻\nこの機を逃さないために、来週から私たちいきづらい部メンバーのＸは、より充実した活動のために「いきづらい部」のアカウントに移行します！\n#いきづらい部\n\nhttps://t.co/5Kjaq5W1oh"
+        }
+      }
+    },
+    "rest_id": "2026936774019485954",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "unmention_data": {},
+    "views": {
+      "count": "21828",
+      "state": "EnabledWithCount"
+    }
+  },
+  "created_at": "2026-02-26T08:26:00Z"
+}

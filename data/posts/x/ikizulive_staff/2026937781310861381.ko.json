@@ -1,0 +1,45 @@
+{
+  "id": "2026937781310861381",
+  "translated_text": "＼🔔마감까지 앞으로 1일!🔔／\n\n💕━━━━💗━━━━━💕  \n　　　#살기힘든부!  \n제2회 유닛 편성 기획  \n　　　투표 접수 중!  \n💕━━━━💗━━━━━💕\n\n테마는 ‘LOVE’💓  \n각 멤버에게 고백한다면……  \n①전화 ②SNS ③편지  \n여러분의 투표를 기다리고 있습니다✨ https://t.co/kkSiPID5ru",
+  "lang": "ko",
+  "system_prompt": "You are a helpful assistant that translates text to Korean.\nYour task is to translate the text provided by the user into Korean while preserving the original meaning and context. You should not add any additional information or change the tone of the text. Please ensure that the translation is accurate and natural-sounding in Korean.\n\n'イキヅライブ'(모두 가타가나)는 '이키즈라이브'로 번역\n'いきづらい部'는 '살기힘든부'로 번역\n'LOVELIVE! BLUEBIRD'는 영문 그대로 유지\n\n사람 이름 읽는 법:\n高橋ポルカ -> 타카하시 폴카\n麻布麻衣 -> 아자부 마이\n五桐 玲 -> 고토 아키라\n駒形花火 -> 코마가타 하나비\n金澤奇跡 -> 카나자와 미라클\n調布のりこ -> 쵸후 노리코\n春宮ゆくり -> 하루미야 유쿠리\n此花輝夜 -> 코노하나 오로라\n山田真緑 -> 야마다 미도리\n佐々木翔音 -> 사사키 시온\n",
+  "raw_data": {
+    "id": "chatcmpl-DDRXHE4bl4C3tkU6r3BCQ8LNXwOyN",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "＼🔔마감까지 앞으로 1일!🔔／\n\n💕━━━━💗━━━━━💕  \n　　　#살기힘든부!  \n제2회 유닛 편성 기획  \n　　　투표 접수 중!  \n💕━━━━💗━━━━━💕\n\n테마는 ‘LOVE’💓  \n각 멤버에게 고백한다면……  \n①전화 ②SNS ③편지  \n여러분의 투표를 기다리고 있습니다✨ https://t.co/kkSiPID5ru",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": [],
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null
+        }
+      }
+    ],
+    "created": 1772096483,
+    "model": "gpt-5.2-2025-12-11",
+    "object": "chat.completion",
+    "service_tier": "default",
+    "system_fingerprint": null,
+    "usage": {
+      "completion_tokens": 115,
+      "prompt_tokens": 387,
+      "total_tokens": 502,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    }
+  }
+}
