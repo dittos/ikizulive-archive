@@ -1,0 +1,160 @@
+{
+  "id": "2026995661997236662",
+  "username": "Rollie_twinkle",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921887475561070593/Jf-AlnRm_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 05:45:49 +0000 2025",
+            "name": "此花輝夜@いきづらい部！",
+            "screen_name": "Rollie_twinkle"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "id": "VXNlcjoxOTA2NTgzNjQ3NTU5NTI0MzUz",
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=7",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/oAjV51EVxz"
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 23296,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1258,
+            "media_count": 0,
+            "normal_followers_count": 23296,
+            "notifications": false,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906583647559524353/1747048657",
+            "profile_interstitial_type": "",
+            "statuses_count": 187,
+            "translator_type": "none",
+            "url": "https://t.co/oAjV51EVxz",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "privacy": {
+            "protected": false
+          },
+          "profile_bio": {
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント"
+          },
+          "profile_description_language": "ja",
+          "profile_image_shape": "Circle",
+          "relationship_perspectives": {
+            "blocked_by": false,
+            "blocking": false,
+            "followed_by": false,
+            "following": false,
+            "muting": false
+          },
+          "rest_id": "1906583647559524353",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2026995661997236662"
+      ],
+      "editable_until_msecs": "1772112000000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "grok_analysis_button": true,
+    "grok_annotations": {
+      "is_image_editable_by_grok": false
+    },
+    "is_translatable": true,
+    "legacy": {
+      "bookmark_count": 2,
+      "bookmarked": false,
+      "conversation_id_str": "2026995661997236662",
+      "created_at": "Thu Feb 26 12:20:00 +0000 2026",
+      "display_text_range": [
+        0,
+        133
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              126,
+              133
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 289,
+      "favorited": false,
+      "full_text": "入浴にストレッチ、ヘッドマッサージにとっておきのデパコストリートメント…\nみんなにお勧めしてきた美容情報はいっぱいあるけど⛱🌊\n\nそれはまるで🌈\nどんな美容法も敵わない、スクールアイドルの魔法💖✨\n\nWoo～🎵✨\nすごいもの見つけちゃったかも～🌈🏝✨\n#いきづらい部",
+      "id_str": "2026995661997236662",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 58,
+      "retweeted": false,
+      "user_id_str": "1906583647559524353"
+    },
+    "rest_id": "2026995661997236662",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmention_data": {},
+    "views": {
+      "count": "4572",
+      "state": "EnabledWithCount"
+    }
+  },
+  "created_at": "2026-02-26T12:20:00Z"
+}
