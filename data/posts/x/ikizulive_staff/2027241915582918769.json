@@ -1,0 +1,917 @@
+{
+  "id": "2027241915582918769",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "indices": [
+                      44,
+                      67
+                    ],
+                    "url": "https://t.co/uAo8WcIDpK"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/mfWPigBwKr"
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 66824,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1143,
+            "media_count": 832,
+            "normal_followers_count": 66824,
+            "notifications": false,
+            "pinned_tweet_ids_str": [
+              "2023001447827452286"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 1023,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "privacy": {
+            "protected": false
+          },
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "profile_description_language": "ja",
+          "profile_image_shape": "Circle",
+          "relationship_perspectives": {
+            "blocked_by": false,
+            "blocking": false,
+            "followed_by": false,
+            "following": true,
+            "muting": false
+          },
+          "rest_id": "1911282293341356032",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2027241915582918769"
+      ],
+      "editable_until_msecs": "1772170711665",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "grok_analysis_button": true,
+    "grok_annotations": {},
+    "is_translatable": true,
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "conversation_id_str": "2027241915582918769",
+      "created_at": "Fri Feb 27 04:38:31 +0000 2026",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              30,
+              37
+            ],
+            "text": "イキヅライブ"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "98316376",
+            "indices": [
+              3,
+              17
+            ],
+            "name": "KADOKAWA ラノベ＆コミックグッズストア",
+            "screen_name": "dengeki_goods"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @dengeki_goods: ／\n❣️予約開始❣️\n#イキヅライブ！LOVELIVE! BLUEBIRD\n＼\n\nLoveLive!Days誌面掲載イラストや\nミニキャライラストを使用したグッズなどが登場✨\n\n✅アクリルスタンド\n✅アクリルプレート\n✅トレーディンググッズ…",
+      "id_str": "2027241915582918769",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164,
+      "retweeted": false,
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/2012109239498747905/Vk2i0ItN_normal.png"
+                },
+                "core": {
+                  "created_at": "Mon Dec 21 07:27:57 +0000 2009",
+                  "name": "KADOKAWA ラノベ＆コミックグッズストア",
+                  "screen_name": "dengeki_goods"
+                },
+                "dm_permissions": {
+                  "can_dm": true
+                },
+                "follow_request_sent": false,
+                "has_graduated_access": true,
+                "id": "VXNlcjo5ODMxNjM3Ng==",
+                "is_blue_verified": false,
+                "legacy": {
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "KADOKAWA公式オンラインショップ カドスト内電撃屋改め、KADOKAWA ラノベ＆コミックグッズストアの公式アカウントです。新着グッズの販売や蔵出しの情報はもちろん、イベント出展の際の商品情報などもつぶやきます。※注意 こちらのアカウントでは、ご質問への回答や個別のリプライは行っておりません。",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "store.kadokawa.co.jp/shop/brand/lan…",
+                          "expanded_url": "https://store.kadokawa.co.jp/shop/brand/lanove-comic/",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/JFKzA0u591"
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 0,
+                  "follow_request_sent": false,
+                  "followers_count": 31884,
+                  "friends_count": 729,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 347,
+                  "media_count": 32226,
+                  "normal_followers_count": 31884,
+                  "notifications": false,
+                  "pinned_tweet_ids_str": [
+                    "2021766361341649211"
+                  ],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/98316376/1770031266",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 39839,
+                  "translator_type": "none",
+                  "url": "https://t.co/JFKzA0u591",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": "東京都千代田区"
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "parody_commentary_fan_label": "None",
+                "privacy": {
+                  "protected": false
+                },
+                "profile_bio": {
+                  "description": "KADOKAWA公式オンラインショップ カドスト内電撃屋改め、KADOKAWA ラノベ＆コミックグッズストアの公式アカウントです。新着グッズの販売や蔵出しの情報はもちろん、イベント出展の際の商品情報などもつぶやきます。※注意 こちらのアカウントでは、ご質問への回答や個別のリプライは行っておりません。"
+                },
+                "profile_description_language": "ja",
+                "profile_image_shape": "Circle",
+                "relationship_perspectives": {
+                  "blocked_by": false,
+                  "blocking": false,
+                  "followed_by": false,
+                  "following": false,
+                  "muting": false
+                },
+                "rest_id": "98316376",
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "edit_control": {
+            "edit_tweet_ids": [
+              "2027202499346829805"
+            ],
+            "editable_until_msecs": "1772161314000",
+            "edits_remaining": "5",
+            "is_edit_eligible": true
+          },
+          "grok_analysis_button": true,
+          "is_translatable": true,
+          "legacy": {
+            "bookmark_count": 90,
+            "bookmarked": false,
+            "conversation_id_str": "2027202499346829805",
+            "created_at": "Fri Feb 27 02:01:54 +0000 2026",
+            "display_text_range": [
+              0,
+              167
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    11,
+                    18
+                  ],
+                  "text": "イキヅライブ"
+                },
+                {
+                  "indices": [
+                    160,
+                    167
+                  ],
+                  "text": "いきづらい部"
+                }
+              ],
+              "media": [
+                {
+                  "display_url": "pic.x.com/uJtDmh0Uk3",
+                  "expanded_url": "https://x.com/dengeki_goods/status/2027202499346829805/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "id_str": "2027202490199085056",
+                  "indices": [
+                    168,
+                    191
+                  ],
+                  "media_key": "3_2027202490199085056",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2027202490199085056"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HCIR7JwakAA9DWQ.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 560,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 877,
+                        "x": 87,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 500,
+                        "x": 275,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1000,
+                    "width": 1000
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1000,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "medium": {
+                      "h": 1000,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/uJtDmh0Uk3"
+                },
+                {
+                  "display_url": "pic.x.com/uJtDmh0Uk3",
+                  "expanded_url": "https://x.com/dengeki_goods/status/2027202499346829805/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "id_str": "2027202490069127168",
+                  "indices": [
+                    168,
+                    191
+                  ],
+                  "media_key": "3_2027202490069127168",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2027202490069127168"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HCIR7JRbkAAAEiX.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 560,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 295
+                      },
+                      {
+                        "h": 1000,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 877,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 500,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1000,
+                    "width": 1000
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1000,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "medium": {
+                      "h": 1000,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/uJtDmh0Uk3"
+                },
+                {
+                  "display_url": "pic.x.com/uJtDmh0Uk3",
+                  "expanded_url": "https://x.com/dengeki_goods/status/2027202499346829805/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "id_str": "2027202490450755584",
+                  "indices": [
+                    168,
+                    191
+                  ],
+                  "media_key": "3_2027202490450755584",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2027202490450755584"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HCIR7KsawAAX1QH.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 560,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 145
+                      },
+                      {
+                        "h": 1000,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 877,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 500,
+                        "x": 75,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1000,
+                    "width": 1000
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1000,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "medium": {
+                      "h": 1000,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/uJtDmh0Uk3"
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [
+                {
+                  "display_url": "store.kadokawa.co.jp/shop/e/ern0030…",
+                  "expanded_url": "https://store.kadokawa.co.jp/shop/e/ern00303/?utm_source=twitter&utm_medium=social&utm_campaign=twi_g",
+                  "indices": [
+                    135,
+                    158
+                  ],
+                  "url": "https://t.co/ab6hHqFiDu"
+                }
+              ],
+              "user_mentions": []
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "display_url": "pic.x.com/uJtDmh0Uk3",
+                  "expanded_url": "https://x.com/dengeki_goods/status/2027202499346829805/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "id_str": "2027202490199085056",
+                  "indices": [
+                    168,
+                    191
+                  ],
+                  "media_key": "3_2027202490199085056",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2027202490199085056"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HCIR7JwakAA9DWQ.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 560,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 877,
+                        "x": 87,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 500,
+                        "x": 275,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1000,
+                    "width": 1000
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1000,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "medium": {
+                      "h": 1000,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/uJtDmh0Uk3"
+                },
+                {
+                  "display_url": "pic.x.com/uJtDmh0Uk3",
+                  "expanded_url": "https://x.com/dengeki_goods/status/2027202499346829805/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "id_str": "2027202490069127168",
+                  "indices": [
+                    168,
+                    191
+                  ],
+                  "media_key": "3_2027202490069127168",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2027202490069127168"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HCIR7JRbkAAAEiX.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 560,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 295
+                      },
+                      {
+                        "h": 1000,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 877,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 500,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1000,
+                    "width": 1000
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1000,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "medium": {
+                      "h": 1000,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/uJtDmh0Uk3"
+                },
+                {
+                  "display_url": "pic.x.com/uJtDmh0Uk3",
+                  "expanded_url": "https://x.com/dengeki_goods/status/2027202499346829805/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "id_str": "2027202490450755584",
+                  "indices": [
+                    168,
+                    191
+                  ],
+                  "media_key": "3_2027202490450755584",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2027202490450755584"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HCIR7KsawAAX1QH.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 560,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 145
+                      },
+                      {
+                        "h": 1000,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 877,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 500,
+                        "x": 75,
+                        "y": 0
+                      },
+                      {
+                        "h": 1000,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 1000,
+                    "width": 1000
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 1000,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "medium": {
+                      "h": 1000,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "small": {
+                      "h": 680,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/uJtDmh0Uk3"
+                }
+              ]
+            },
+            "favorite_count": 422,
+            "favorited": false,
+            "full_text": "／\n❣️予約開始❣️\n#イキヅライブ！LOVELIVE! BLUEBIRD\n＼\n\nLoveLive!Days誌面掲載イラストや\nミニキャライラストを使用したグッズなどが登場✨\n\n✅アクリルスタンド\n✅アクリルプレート\n✅トレーディンググッズ\n\n🔻ご予約＆詳細はこちら🔻\nhttps://t.co/ab6hHqFiDu\n\n#いきづらい部 https://t.co/uJtDmh0Uk3",
+            "id_str": "2027202499346829805",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 29,
+            "reply_count": 0,
+            "retweet_count": 164,
+            "retweeted": false,
+            "user_id_str": "98316376"
+          },
+          "rest_id": "2027202499346829805",
+          "source": "<a href=\"https://social.userlocal.jp/\" rel=\"nofollow\">Userlocal SocialInsight</a>",
+          "unmention_data": {},
+          "views": {
+            "count": "21996",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "user_id_str": "1911282293341356032"
+    },
+    "rest_id": "2027241915582918769",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmention_data": {},
+    "views": {
+      "state": "Enabled"
+    }
+  },
+  "created_at": "2026-02-27T04:38:31Z"
+}
