@@ -1,0 +1,641 @@
+{
+  "id": "2027310133106328056",
+  "username": "ikizulive_staff",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1911976807064109056/_-_IbsKQ_normal.jpg"
+          },
+          "core": {
+            "created_at": "Sun Apr 13 04:56:34 +0000 2025",
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "id": "VXNlcjoxOTExMjgyMjkzMzQxMzU2MDMy",
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@IKIZULIVE",
+                    "expanded_url": "https://www.youtube.com/@IKIZULIVE",
+                    "indices": [
+                      44,
+                      67
+                    ],
+                    "url": "https://t.co/uAo8WcIDpK"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/mfWPigBwKr"
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 66962,
+            "friends_count": 12,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1142,
+            "media_count": 838,
+            "normal_followers_count": 66962,
+            "notifications": false,
+            "pinned_tweet_ids_str": [
+              "2023001447827452286"
+            ],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911282293341356032/1744685770",
+            "profile_interstitial_type": "",
+            "statuses_count": 1030,
+            "translator_type": "none",
+            "url": "https://t.co/mfWPigBwKr",
+            "want_retweets": true,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": "インターネット"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "privacy": {
+            "protected": false
+          },
+          "profile_bio": {
+            "description": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK\n公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換"
+          },
+          "profile_description_language": "ja",
+          "profile_image_shape": "Circle",
+          "relationship_perspectives": {
+            "blocked_by": false,
+            "blocking": false,
+            "followed_by": false,
+            "following": true,
+            "muting": false
+          },
+          "rest_id": "1911282293341356032",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2027310133106328056"
+      ],
+      "editable_until_msecs": "1772186975990",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "grok_analysis_button": true,
+    "grok_annotations": {},
+    "is_translatable": true,
+    "legacy": {
+      "bookmark_count": 0,
+      "bookmarked": false,
+      "conversation_id_str": "2027310133106328056",
+      "created_at": "Fri Feb 27 09:09:35 +0000 2026",
+      "display_text_range": [
+        0,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id_str": "523245810",
+            "indices": [
+              3,
+              15
+            ],
+            "name": "リスアニ！NEWS",
+            "screen_name": "LisAni_NEWS"
+          },
+          {
+            "id_str": "1911282293341356032",
+            "indices": [
+              122,
+              138
+            ],
+            "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+            "screen_name": "ikizulive_staff"
+          }
+        ]
+      },
+      "favorite_count": 0,
+      "favorited": false,
+      "full_text": "RT @LisAni_NEWS: 【ライブレポート】いつかきっと、みんなの願いが叶うと信じられるライブ――10人の始まりたい気持ちがひとつになった“いきづらい部！ 1st LIVE ～ What is my L ? ～”DAY2公演レポート\n\n@ikizulive_staff…",
+      "id_str": "2027310133106328056",
+      "is_quote_status": false,
+      "lang": "ja",
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59,
+      "retweeted": false,
+      "retweeted_status_result": {
+        "result": {
+          "__typename": "Tweet",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "affiliates_highlighted_label": {},
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1893933878/389_normal.jpg"
+                },
+                "core": {
+                  "created_at": "Tue Mar 13 13:17:29 +0000 2012",
+                  "name": "リスアニ！NEWS",
+                  "screen_name": "LisAni_NEWS"
+                },
+                "dm_permissions": {
+                  "can_dm": false
+                },
+                "follow_request_sent": false,
+                "has_graduated_access": true,
+                "id": "VXNlcjo1MjMyNDU4MTA=",
+                "is_blue_verified": true,
+                "legacy": {
+                  "default_profile": true,
+                  "default_profile_image": false,
+                  "description": "最新ニュース・インタビュー・ライブレポート・WEB連載・アニメ音楽誌「リスアニ！」などの更新情報をお知らせする、アニメ・アニメ音楽のポータルサイト、「リスアニ！WEB」の公式Xです♪／編集部アカウントはこちら：@Lis_Ani",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "lisani.jp",
+                          "expanded_url": "http://www.lisani.jp",
+                          "indices": [
+                            0,
+                            23
+                          ],
+                          "url": "https://t.co/9Jx1TIP6pd"
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 2,
+                  "follow_request_sent": false,
+                  "followers_count": 34583,
+                  "friends_count": 1484,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 506,
+                  "media_count": 6875,
+                  "normal_followers_count": 34583,
+                  "notifications": false,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/523245810/1634399088",
+                  "profile_interstitial_type": "",
+                  "statuses_count": 35550,
+                  "translator_type": "none",
+                  "url": "https://t.co/9Jx1TIP6pd",
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                },
+                "location": {
+                  "location": ""
+                },
+                "media_permissions": {
+                  "can_media_tag": true
+                },
+                "parody_commentary_fan_label": "None",
+                "privacy": {
+                  "protected": false
+                },
+                "profile_bio": {
+                  "description": "最新ニュース・インタビュー・ライブレポート・WEB連載・アニメ音楽誌「リスアニ！」などの更新情報をお知らせする、アニメ・アニメ音楽のポータルサイト、「リスアニ！WEB」の公式Xです♪／編集部アカウントはこちら：@Lis_Ani"
+                },
+                "profile_description_language": "ja",
+                "profile_image_shape": "Circle",
+                "relationship_perspectives": {
+                  "blocked_by": false,
+                  "blocking": false,
+                  "followed_by": false,
+                  "following": false,
+                  "muting": false
+                },
+                "rest_id": "523245810",
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "verification": {
+                  "verified": false
+                }
+              }
+            }
+          },
+          "edit_control": {
+            "edit_tweet_ids": [
+              "2027307726372769908"
+            ],
+            "editable_until_msecs": "1772186402000",
+            "edits_remaining": "5",
+            "is_edit_eligible": true
+          },
+          "grok_analysis_button": true,
+          "is_translatable": true,
+          "legacy": {
+            "bookmark_count": 22,
+            "bookmarked": false,
+            "conversation_id_str": "2027307726372769908",
+            "created_at": "Fri Feb 27 09:00:02 +0000 2026",
+            "display_text_range": [
+              0,
+              179
+            ],
+            "entities": {
+              "hashtags": [
+                {
+                  "indices": [
+                    138,
+                    145
+                  ],
+                  "text": "いきづらい部"
+                },
+                {
+                  "indices": [
+                    146,
+                    153
+                  ],
+                  "text": "イキヅライブ"
+                },
+                {
+                  "indices": [
+                    154,
+                    163
+                  ],
+                  "text": "lovelive"
+                },
+                {
+                  "indices": [
+                    164,
+                    179
+                  ],
+                  "text": "いきづらい部1st_Day2"
+                }
+              ],
+              "media": [
+                {
+                  "display_url": "pic.x.com/pH94koZv3i",
+                  "expanded_url": "https://x.com/LisAni_NEWS/status/2027307726372769908/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "id_str": "2027278503289528320",
+                  "indices": [
+                    180,
+                    203
+                  ],
+                  "media_key": "3_2027278503289528320",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2027278503289528320"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HCJXDslboAACs6c.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 560,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 666,
+                        "w": 666,
+                        "x": 42,
+                        "y": 0
+                      },
+                      {
+                        "h": 666,
+                        "w": 584,
+                        "x": 83,
+                        "y": 0
+                      },
+                      {
+                        "h": 666,
+                        "w": 333,
+                        "x": 209,
+                        "y": 0
+                      },
+                      {
+                        "h": 666,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 666,
+                    "width": 1000
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 666,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "medium": {
+                      "h": 666,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "small": {
+                      "h": 453,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/pH94koZv3i"
+                }
+              ],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                {
+                  "id_str": "1911282293341356032",
+                  "indices": [
+                    105,
+                    121
+                  ],
+                  "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                  "screen_name": "ikizulive_staff"
+                },
+                {
+                  "id_str": "347849994",
+                  "indices": [
+                    122,
+                    137
+                  ],
+                  "name": "ラブライブ！シリーズ公式",
+                  "screen_name": "LoveLive_staff"
+                }
+              ]
+            },
+            "extended_entities": {
+              "media": [
+                {
+                  "display_url": "pic.x.com/pH94koZv3i",
+                  "expanded_url": "https://x.com/LisAni_NEWS/status/2027307726372769908/photo/1",
+                  "ext_media_availability": {
+                    "status": "Available"
+                  },
+                  "features": {
+                    "large": {
+                      "faces": []
+                    },
+                    "medium": {
+                      "faces": []
+                    },
+                    "orig": {
+                      "faces": []
+                    },
+                    "small": {
+                      "faces": []
+                    }
+                  },
+                  "id_str": "2027278503289528320",
+                  "indices": [
+                    180,
+                    203
+                  ],
+                  "media_key": "3_2027278503289528320",
+                  "media_results": {
+                    "result": {
+                      "media_key": "3_2027278503289528320"
+                    }
+                  },
+                  "media_url_https": "https://pbs.twimg.com/media/HCJXDslboAACs6c.jpg",
+                  "original_info": {
+                    "focus_rects": [
+                      {
+                        "h": 560,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "h": 666,
+                        "w": 666,
+                        "x": 42,
+                        "y": 0
+                      },
+                      {
+                        "h": 666,
+                        "w": 584,
+                        "x": 83,
+                        "y": 0
+                      },
+                      {
+                        "h": 666,
+                        "w": 333,
+                        "x": 209,
+                        "y": 0
+                      },
+                      {
+                        "h": 666,
+                        "w": 1000,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ],
+                    "height": 666,
+                    "width": 1000
+                  },
+                  "sizes": {
+                    "large": {
+                      "h": 666,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "medium": {
+                      "h": 666,
+                      "resize": "fit",
+                      "w": 1000
+                    },
+                    "small": {
+                      "h": 453,
+                      "resize": "fit",
+                      "w": 680
+                    },
+                    "thumb": {
+                      "h": 150,
+                      "resize": "crop",
+                      "w": 150
+                    }
+                  },
+                  "type": "photo",
+                  "url": "https://t.co/pH94koZv3i"
+                }
+              ]
+            },
+            "favorite_count": 156,
+            "favorited": false,
+            "full_text": "【ライブレポート】いつかきっと、みんなの願いが叶うと信じられるライブ――10人の始まりたい気持ちがひとつになった“いきづらい部！ 1st LIVE ～ What is my L ? ～”DAY2公演レポート\n\n@ikizulive_staff @LoveLive_staff\n#いきづらい部 #イキヅライブ #lovelive\n#いきづらい部1st_Day2 https://t.co/pH94koZv3i",
+            "id_str": "2027307726372769908",
+            "is_quote_status": false,
+            "lang": "ja",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 59,
+            "retweeted": false,
+            "user_id_str": "523245810"
+          },
+          "note_tweet": {
+            "is_expandable": true,
+            "note_tweet_results": {
+              "result": {
+                "entity_set": {
+                  "hashtags": [
+                    {
+                      "indices": [
+                        138,
+                        145
+                      ],
+                      "text": "いきづらい部"
+                    },
+                    {
+                      "indices": [
+                        146,
+                        153
+                      ],
+                      "text": "イキヅライブ"
+                    },
+                    {
+                      "indices": [
+                        154,
+                        163
+                      ],
+                      "text": "lovelive"
+                    },
+                    {
+                      "indices": [
+                        164,
+                        179
+                      ],
+                      "text": "いきづらい部1st_Day2"
+                    }
+                  ],
+                  "symbols": [],
+                  "urls": [
+                    {
+                      "display_url": "lisani.jp/0000303198/",
+                      "expanded_url": "https://www.lisani.jp/0000303198/",
+                      "indices": [
+                        190,
+                        213
+                      ],
+                      "url": "https://t.co/YtYYuSnHF1"
+                    }
+                  ],
+                  "user_mentions": [
+                    {
+                      "id_str": "1911282293341356032",
+                      "indices": [
+                        105,
+                        121
+                      ],
+                      "name": "イキヅライブ！ LOVELIVE! BLUEBIRD",
+                      "screen_name": "ikizulive_staff"
+                    },
+                    {
+                      "id_str": "347849994",
+                      "indices": [
+                        122,
+                        137
+                      ],
+                      "name": "ラブライブ！シリーズ公式",
+                      "screen_name": "LoveLive_staff"
+                    }
+                  ]
+                },
+                "id": "Tm90ZVR3ZWV0OjIwMjczMDc3MjYyNDI3MDk1MDQ=",
+                "text": "【ライブレポート】いつかきっと、みんなの願いが叶うと信じられるライブ――10人の始まりたい気持ちがひとつになった“いきづらい部！ 1st LIVE ～ What is my L ? ～”DAY2公演レポート\n\n@ikizulive_staff @LoveLive_staff\n#いきづらい部 #イキヅライブ #lovelive\n#いきづらい部1st_Day2 \n\n▼記事はこちら\nhttps://t.co/YtYYuSnHF1"
+              }
+            }
+          },
+          "rest_id": "2027307726372769908",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "unmention_data": {},
+          "views": {
+            "count": "6831",
+            "state": "EnabledWithCount"
+          }
+        }
+      },
+      "user_id_str": "1911282293341356032"
+    },
+    "rest_id": "2027310133106328056",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmention_data": {},
+    "views": {
+      "count": "1",
+      "state": "EnabledWithCount"
+    }
+  },
+  "created_at": "2026-02-27T09:09:35Z"
+}
