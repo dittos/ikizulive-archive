@@ -1,0 +1,230 @@
+{
+  "id": "2027280539212759233",
+  "username": "ShaunTheBunny",
+  "attachments": [],
+  "raw_data": {
+    "__typename": "Tweet",
+    "card": {
+      "legacy": {
+        "binding_values": [
+          {
+            "key": "description",
+            "value": {
+              "string_value": "「敗けたって次はある。」10 人の凸凹ダイアリー、オールメディアで展開！YouTube：https://t.co/uAo8WcIDpK 公式タグ #いきづらい部 #イキヅライブ ファンアートタグ #いきづら絵部 生配信タグ #イキヅLIVE配信 交流タグ #いきづLOVE交換",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "x.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "x.com",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "イキヅライブ！ LOVELIVE! BLUEBIRD (@ikizulive_staff) on X",
+              "type": "STRING"
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/UWdL2mfYbE",
+              "type": "STRING"
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            }
+          }
+        },
+        "name": "summary",
+        "url": "https://t.co/UWdL2mfYbE",
+        "user_refs_results": []
+      },
+      "rest_id": "https://t.co/UWdL2mfYbE"
+    },
+    "core": {
+      "user_results": {
+        "result": {
+          "__typename": "User",
+          "affiliates_highlighted_label": {},
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png"
+          },
+          "core": {
+            "created_at": "Mon Mar 31 04:35:48 +0000 2025",
+            "name": "佐々木翔音@いきづらい部！",
+            "screen_name": "ShaunTheBunny"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "follow_request_sent": false,
+          "has_graduated_access": true,
+          "id": "VXNlcjoxOTA2NTY2MDA4OTA0NzYxMzQ1",
+          "is_blue_verified": true,
+          "legacy": {
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "lovelive-anime.jp/lovehigh/membe…",
+                    "expanded_url": "https://www.lovelive-anime.jp/lovehigh/member/?m=9",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/adjvmRdPvS"
+                  }
+                ]
+              }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 25788,
+            "friends_count": 9,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 1182,
+            "media_count": 0,
+            "normal_followers_count": 25788,
+            "notifications": false,
+            "pinned_tweet_ids_str": [],
+            "possibly_sensitive": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906566008904761345/1747048662",
+            "profile_interstitial_type": "",
+            "statuses_count": 313,
+            "translator_type": "none",
+            "url": "https://t.co/adjvmRdPvS",
+            "want_retweets": false,
+            "withheld_in_countries": []
+          },
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "parody_commentary_fan_label": "None",
+          "privacy": {
+            "protected": false
+          },
+          "profile_bio": {
+            "description": "「#イキヅライブ！ LOVELIVE! BLUEBIRD」#いきづらい部！メンバー公式アカウント"
+          },
+          "profile_description_language": "ja",
+          "profile_image_shape": "Circle",
+          "relationship_perspectives": {
+            "blocked_by": false,
+            "blocking": false,
+            "followed_by": false,
+            "following": false,
+            "muting": false
+          },
+          "rest_id": "1906566008904761345",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "verification": {
+            "verified": false
+          }
+        }
+      }
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2027280539212759233"
+      ],
+      "editable_until_msecs": "1772179920000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "grok_analysis_button": true,
+    "grok_annotations": {
+      "is_image_editable_by_grok": false
+    },
+    "is_translatable": true,
+    "legacy": {
+      "bookmark_count": 16,
+      "bookmarked": false,
+      "conversation_id_str": "2027280539212759233",
+      "created_at": "Fri Feb 27 07:12:00 +0000 2026",
+      "display_text_range": [
+        0,
+        56
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              24,
+              31
+            ],
+            "text": "いきづらい部"
+          }
+        ],
+        "symbols": [],
+        "timestamps": [],
+        "urls": [
+          {
+            "display_url": "x.com/ikizulive_staff",
+            "expanded_url": "https://x.com/ikizulive_staff",
+            "indices": [
+              33,
+              56
+            ],
+            "url": "https://t.co/UWdL2mfYbE"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 685,
+      "favorited": false,
+      "full_text": "来週からはこっちで会おうね\nみんな大好きだよ❤\n#いきづらい部\n\nhttps://t.co/UWdL2mfYbE",
+      "id_str": "2027280539212759233",
+      "is_quote_status": false,
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "possibly_sensitive_editable": true,
+      "quote_count": 19,
+      "reply_count": 2,
+      "retweet_count": 207,
+      "retweeted": false,
+      "user_id_str": "1906566008904761345"
+    },
+    "rest_id": "2027280539212759233",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "unmention_data": {},
+    "views": {
+      "count": "23057",
+      "state": "EnabledWithCount"
+    }
+  },
+  "created_at": "2026-02-27T07:12:00Z"
+}
